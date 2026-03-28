@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 2,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Hidden Cost of Fast Fashion",
+    "text": "Every year, Australians send more than 800,000 tonnes of clothing and textiles to landfill. That is roughly the weight of 160,000 African elephants. Much of this clothing is not old or worn out — it is simply no longer fashionable. Welcome to the world of fast fashion, where trends change so quickly that today's must-have outfit is tomorrow's unwanted waste.\n\nFast fashion refers to the practice of producing cheap, trendy clothing at enormous speed. Large retailers release new collections every few weeks, encouraging shoppers to buy more and more. A single fast-fashion company may produce over 10,000 new designs each year. The prices are low, the turnaround is rapid, and the environmental consequences are staggering.\n\nThe problems begin at the production stage. Growing cotton requires vast quantities of water — it takes approximately 10,000 litres of water to produce enough cotton for a single pair of jeans. Synthetic fabrics such as polyester are derived from petroleum, a fossil fuel, and their production releases significant greenhouse gas emissions. Dyeing and finishing fabrics uses toxic chemicals that often end up in waterways, contaminating rivers and harming aquatic life in manufacturing regions across Asia.\n\nTransportation adds another layer of environmental cost. A garment may be designed in Australia, manufactured in Bangladesh, shipped to a warehouse in China, and then flown to a store in Sydney. Each stage of this global journey generates carbon emissions.\n\nOnce purchased, fast-fashion garments are often worn only a handful of times before being discarded. Unlike natural fibres such as cotton and wool, synthetic materials can take up to 200 years to decompose in landfill. As they break down, they release microplastics — tiny fragments of plastic that leach into soil and waterways, eventually entering the food chain.\n\nHowever, there are encouraging signs of change. The slow fashion movement advocates buying fewer, higher-quality garments that last longer. Second-hand clothing stores and online swap platforms are growing in popularity, particularly among younger Australians. Some fashion brands are now using recycled materials and publishing transparency reports about their supply chains.\n\nConsumers also have power. By choosing to repair rather than replace, by buying second-hand, and by supporting ethical brands, individuals can reduce the demand for disposable clothing. Education plays a key role: when people understand the true cost of a five-dollar T-shirt — not just the price tag, but the water, chemicals, emissions, and waste involved — they are more likely to make thoughtful choices.\n\nThe fashion industry will not transform overnight, but every garment kept out of landfill is a small step toward a more sustainable future.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y5-reading-t2-q01",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "Australians should stop buying clothes altogether",
+        "Fast fashion has serious environmental consequences, but consumers and the industry can work toward change",
+        "Cotton is the most harmful fabric for the environment",
+        "Second-hand clothing stores are more profitable than fast-fashion retailers"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers the environmental harm of fast fashion (water use, chemicals, emissions, landfill waste) and then presents solutions such as the slow fashion movement, second-hand shopping, and consumer choice. The main message balances problem and solution.\n\nOption A is incorrect because the passage does not suggest people stop buying clothes — it advocates buying more thoughtfully and sustainably.\n\nCommon mistake: Students might choose A as an extreme interpretation, but the passage specifically suggests alternatives like buying fewer, higher-quality items and shopping second-hand."
+    },
+    {
+      "id": "selective-y5-reading-t2-q02",
+      "question": "According to the passage, how much clothing do Australians send to landfill each year?",
+      "options": [
+        "About 80,000 tonnes",
+        "About 160,000 tonnes",
+        "More than 800,000 tonnes",
+        "More than 10 million tonnes"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because the passage states 'Australians send more than 800,000 tonnes of clothing and textiles to landfill.'\n\nOption B is incorrect because 160,000 is the number of elephants used in the comparison, not the tonnage.\n\nCommon mistake: Students may confuse the elephant comparison (160,000 elephants) with the actual weight (800,000 tonnes). The elephants are used to help visualise the scale."
+    },
+    {
+      "id": "selective-y5-reading-t2-q03",
+      "question": "What does the word 'staggering' mean in 'the environmental consequences are staggering'?",
+      "options": [
+        "Slow and steady",
+        "Impossible to measure",
+        "Surprisingly small",
+        "Shockingly large or overwhelming"
+      ],
+      "answer": 3,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is D because 'staggering' means so large or surprising that it is almost hard to believe. The passage uses the word after describing the enormous scale of fast-fashion production (10,000 new designs per year), so 'staggering' emphasises how overwhelming the environmental impact is.\n\nOption C is incorrect because the passage is arguing the consequences are very large, not small.\n\nCommon mistake: Students might confuse 'staggering' with 'staggering' as in walking unsteadily, but in this context it means astonishingly great."
+    },
+    {
+      "id": "selective-y5-reading-t2-q04",
+      "question": "How is the passage structured?",
+      "options": [
+        "It tells a story about a person who works in the fashion industry",
+        "It presents the problems of fast fashion, then discusses solutions",
+        "It compares fast fashion in Australia with fast fashion in other countries",
+        "It lists steps for starting a second-hand clothing business"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage follows a problem-solution structure. The first five paragraphs describe the environmental problems of fast fashion (production, transportation, disposal), and the last three paragraphs present solutions (slow fashion, second-hand shopping, consumer choice, education).\n\nOption C is incorrect because while other countries are mentioned in the production process, the passage does not compare fast-fashion practices between countries.\n\nCommon mistake: Students might choose C because Bangladesh and China are mentioned, but these references illustrate the global supply chain, not a country-by-country comparison."
+    },
+    {
+      "id": "selective-y5-reading-t2-q05",
+      "question": "Why does the author mention that it takes 10,000 litres of water to produce cotton for one pair of jeans?",
+      "options": [
+        "To encourage readers to drink more water",
+        "To illustrate the surprisingly high environmental cost of producing just one garment",
+        "To prove that jeans are the most popular item of clothing",
+        "To explain why cotton is better than polyester"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the statistic is a concrete, vivid example that helps readers understand how resource-intensive clothing production is. Using a familiar item (jeans) and a large, specific number (10,000 litres) makes the environmental cost tangible.\n\nOption D is incorrect because the passage presents both cotton and polyester as having environmental problems — cotton uses water, polyester uses fossil fuels.\n\nCommon mistake: Students might think the author is singling out cotton as worse than synthetic fabrics, but both are presented as problematic in different ways."
+    },
+    {
+      "id": "selective-y5-reading-t2-q06",
+      "question": "What are microplastics, and why are they a problem?",
+      "options": [
+        "They are tiny fragments of plastic from synthetic fabrics that enter soil, waterways, and the food chain",
+        "They are small pieces of cotton that clog washing machines",
+        "They are chemicals used to dye clothing bright colours",
+        "They are packaging materials that retailers use to wrap new clothes"
+      ],
+      "answer": 0,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is A because the passage explains that synthetic materials 'release microplastics — tiny fragments of plastic that leach into soil and waterways, eventually entering the food chain.' This defines what microplastics are and explains the danger they pose.\n\nOption C is incorrect because dyeing chemicals are a separate environmental issue mentioned earlier in the passage.\n\nCommon mistake: Students might confuse microplastics with the toxic chemicals from dyeing, but the passage treats these as distinct problems — chemicals contaminate waterways during production, while microplastics come from decomposing synthetic clothes in landfill."
+    },
+    {
+      "id": "selective-y5-reading-t2-q07",
+      "question": "What does the author mean by 'the true cost of a five-dollar T-shirt'?",
+      "options": [
+        "The T-shirt actually costs more than five dollars after tax",
+        "The full environmental and social impact hidden behind the low price tag",
+        "The shipping fees that make cheap clothing more expensive",
+        "The fact that cheap T-shirts fall apart quickly and need replacing"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage follows this phrase with 'not just the price tag, but the water, chemicals, emissions, and waste involved.' The 'true cost' includes all the environmental damage that is not reflected in the retail price.\n\nOption D is incorrect because while durability is relevant to the slow fashion argument, the 'true cost' phrase specifically refers to environmental impacts like water use, chemical pollution, and carbon emissions.\n\nCommon mistake: Students might choose D because fast fashion garments do wear out quickly, but the 'true cost' concept in this passage is specifically about hidden environmental and social costs."
+    },
+    {
+      "id": "selective-y5-reading-t2-q08",
+      "question": "What can you infer about why fast fashion is popular despite its environmental harm?",
+      "options": [
+        "People do not care about the environment at all",
+        "The clothing is so well-made that people cannot resist buying it",
+        "The low prices and constantly changing trends make it attractive to consumers",
+        "Governments require people to buy new clothes regularly"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage states that fast fashion involves 'cheap, trendy clothing,' 'new collections every few weeks,' and 'low prices.' These factors — affordability and novelty — make fast fashion appealing. The passage also implies many consumers do not understand the environmental cost, which is why education is important.\n\nOption A is incorrect because the passage says people are 'more likely to make thoughtful choices' when they understand the impact, suggesting many simply lack awareness rather than lacking concern.\n\nCommon mistake: Students might choose A, but the passage specifically argues that education changes behaviour, implying the issue is awareness, not apathy."
+    },
+    {
+      "id": "selective-y5-reading-t2-q09",
+      "question": "What is the relationship between the production of synthetic fabrics and climate change?",
+      "options": [
+        "Synthetic fabrics absorb greenhouse gases and help reduce climate change",
+        "Producing synthetic fabrics from petroleum releases greenhouse gas emissions",
+        "Synthetic fabrics are made from recycled materials and have no carbon footprint",
+        "Climate change makes it easier to grow the plants used to make synthetic fabrics"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage states 'Synthetic fabrics such as polyester are derived from petroleum, a fossil fuel, and their production releases significant greenhouse gas emissions.' This directly links synthetic fabric production to climate change through carbon emissions.\n\nOption A is incorrect because the passage says the opposite — synthetic fabrics contribute to emissions, they do not absorb them.\n\nCommon mistake: Students might think that because polyester is a common, everyday material, it must be harmless. The passage makes clear that its fossil-fuel origins create significant emissions."
+    },
+    {
+      "id": "selective-y5-reading-t2-q10",
+      "question": "Why does the author use the comparison of 160,000 African elephants in the opening paragraph?",
+      "options": [
+        "To show that elephants are affected by fast fashion",
+        "To compare the weight of clothing waste to something readers can visualise",
+        "To argue that elephant conservation is more important than fashion reform",
+        "To explain how clothing is transported around the world"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because 800,000 tonnes is an abstract number that is difficult to picture. By comparing it to 160,000 elephants, the author gives readers a concrete, memorable image to help them understand the enormous scale of clothing waste.\n\nOption A is incorrect because the comparison is a literary device — it does not suggest elephants are directly affected by the fashion industry.\n\nCommon mistake: Students might take the comparison literally and think the passage is about elephants, but it is a rhetorical technique to make a large number more relatable."
+    }
+  ]
+}

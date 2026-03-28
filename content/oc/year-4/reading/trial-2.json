@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Secret Life of Soil",
+    "text": "Beneath your feet lies a hidden world that is teeming with life. It may look like plain dirt, but soil is one of the most important and complex ecosystems on the planet. Without healthy soil, there would be no forests, no farms, and no food on our tables.\n\nSoil is made up of several layers. The top layer, called topsoil, is the darkest and richest part. It contains decomposed plant and animal matter known as humus, which gives soil its dark colour and provides nutrients for plants. Below this lies subsoil, which is lighter in colour and contains more clay and minerals. Deeper still is the bedrock — the solid rock foundation that, over millions of years, breaks down to form new soil.\n\nWhat makes soil truly remarkable is the incredible number of organisms that live within it. A single handful of healthy soil can contain more living creatures than there are people on Earth. These include bacteria, fungi, tiny worms called nematodes, and insects such as springtails and beetle larvae. Earthworms are perhaps the most well-known soil dwellers. As they tunnel through the ground, they break down dead leaves and mix organic matter into the soil. Charles Darwin, the famous scientist, spent decades studying earthworms and concluded that they were among the most important creatures in the history of the world.\n\nFungi also play a crucial role. Many plants form partnerships with underground fungi called mycorrhizae. The fungi attach to plant roots and extend thread-like structures called hyphae far through the soil. These hyphae act like tiny straws, drawing in water and nutrients that the plant's roots alone could not reach. In return, the plant shares sugars with the fungi. Scientists have discovered that trees in a forest can even share nutrients with each other through these fungal networks. Some researchers call this the \"wood wide web.\"\n\nUnfortunately, soil is under threat in many parts of the world. Clearing land for farming can strip away the topsoil, a process called erosion. Using too many chemical fertilisers can kill the helpful organisms that keep soil healthy. It takes nature roughly five hundred years to produce just two centimetres of topsoil, so once it is lost, it cannot be quickly replaced.\n\nProtecting soil means protecting everything that depends on it — from the tiniest bacterium to the tallest tree, and from the farmer's crop to the food on your plate. Healthy soil is not just dirt; it is the foundation of life.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y4-reading-t2-q01",
+      "question": "What is this passage mainly about?",
+      "options": [
+        "Why earthworms are the most important animal on Earth",
+        "The layers, living organisms, and importance of soil",
+        "How to grow vegetables in your backyard garden",
+        "The life and work of Charles Darwin"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers soil's structure (layers), the organisms that live in it (bacteria, fungi, earthworms), and why it matters (supporting all life). It provides a comprehensive overview of soil as an ecosystem.\n\nOption A is incorrect because earthworms are discussed in one paragraph as an example, not as the sole focus of the passage.\n\nCommon mistake: Students might choose A because Darwin's quote about earthworms is memorable, but the passage covers many topics beyond earthworms."
+    },
+    {
+      "id": "oc-y4-reading-t2-q02",
+      "question": "What is humus?",
+      "options": [
+        "A type of underground fungus",
+        "The solid rock layer at the bottom of soil",
+        "Decomposed plant and animal matter in topsoil",
+        "A chemical fertiliser used by farmers"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because the passage states humus is 'decomposed plant and animal matter' that 'gives soil its dark colour and provides nutrients for plants.' It is found in the topsoil layer.\n\nOption B is incorrect because the solid rock foundation is called bedrock, not humus.\n\nCommon mistake: Students might confuse humus with other soil components. The passage clearly places humus in the topsoil and defines it as decomposed organic matter."
+    },
+    {
+      "id": "oc-y4-reading-t2-q03",
+      "question": "What does the word 'teeming' mean in 'a hidden world that is teeming with life'?",
+      "options": [
+        "Completely empty",
+        "Full of and overflowing with",
+        "Slowly running out of",
+        "Quietly hiding"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because 'teeming' means swarming or full of something in large numbers. The passage goes on to describe the enormous number of organisms in soil, supporting this meaning.\n\nOption A is incorrect because 'teeming' is the opposite of empty — it means there is an abundance of life.\n\nCommon mistake: Students unfamiliar with the word might guess from context. The passage immediately describes the many organisms in soil, confirming that 'teeming' means full of life."
+    },
+    {
+      "id": "oc-y4-reading-t2-q04",
+      "question": "How do mycorrhizal fungi help plants?",
+      "options": [
+        "They protect plants from insects that eat their leaves",
+        "They draw in water and nutrients that plant roots cannot reach on their own",
+        "They produce oxygen for the plant to breathe",
+        "They block other plants from growing too close"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that fungi 'extend thread-like structures called hyphae far through the soil. These hyphae act like tiny straws, drawing in water and nutrients that the plant's roots alone could not reach.'\n\nOption A is incorrect because the passage does not mention fungi protecting plants from insects.\n\nCommon mistake: Students might choose A because protection is a common benefit in nature, but the passage specifically describes the fungi's role in extending the plant's nutrient-gathering reach."
+    },
+    {
+      "id": "oc-y4-reading-t2-q05",
+      "question": "Why do some scientists call the fungal network the 'wood wide web'?",
+      "options": [
+        "Because it was discovered using the internet",
+        "Because trees use it to connect and share resources, like a network",
+        "Because the fungi look like spider webs under the ground",
+        "Because the network only works in wooden structures"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that 'trees in a forest can even share nutrients with each other through these fungal networks.' The name 'wood wide web' is a play on 'World Wide Web' (the internet) because both are networks that connect and share resources — one connects computers, the other connects trees.\n\nOption C is incorrect because while the hyphae are thread-like, the name refers to the network's function of sharing, not its physical appearance.\n\nCommon mistake: Students might choose C because 'web' makes them think of spider webs and the hyphae are thread-like, but the name is about the network's function of connecting and sharing."
+    },
+    {
+      "id": "oc-y4-reading-t2-q06",
+      "question": "What is the relationship between plants and mycorrhizal fungi?",
+      "options": [
+        "The fungi harm the plants by stealing their nutrients",
+        "The plants and fungi help each other — the fungi provide nutrients and the plants provide sugars",
+        "The plants control the fungi and tell them where to grow",
+        "The fungi only help the plants during winter"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage describes a mutualistic relationship: the fungi 'drawing in water and nutrients' for the plant, and 'In return, the plant shares sugars with the fungi.' Both organisms benefit from the partnership.\n\nOption A is incorrect because the relationship is mutually beneficial — the fungi help the plant, and the plant provides sugars in return.\n\nCommon mistake: Students might think one organism must dominate the other, but the passage clearly describes a two-way exchange where both benefit."
+    },
+    {
+      "id": "oc-y4-reading-t2-q07",
+      "question": "How is the passage organised?",
+      "options": [
+        "It tells a story about a scientist who discovered something about soil",
+        "It describes soil's structure, then its living organisms, then threats to it",
+        "It lists steps for how to create healthy soil at home",
+        "It compares soil in Australia with soil in other countries"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage moves through clear sections: first the layers of soil (topsoil, subsoil, bedrock), then the organisms living in it (bacteria, fungi, earthworms), and finally the threats to soil (erosion, chemicals). This is a logical, topic-by-topic organisation.\n\nOption C is incorrect because the passage does not provide instructions — it explains and informs.\n\nCommon mistake: Students might choose A because Charles Darwin is mentioned, but he appears in one sentence as a supporting detail, not as the subject of a story."
+    },
+    {
+      "id": "oc-y4-reading-t2-q08",
+      "question": "What does the author suggest would happen if topsoil is lost?",
+      "options": [
+        "It can easily be replaced within a few months",
+        "Farmers can use chemicals to create new soil quickly",
+        "It would take hundreds of years to replace naturally",
+        "New topsoil would form from the bedrock within a year"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage states 'It takes nature roughly five hundred years to produce just two centimetres of topsoil, so once it is lost, it cannot be quickly replaced.' This strongly implies that losing topsoil is extremely serious because replacement takes centuries.\n\nOption A is incorrect because the passage says the exact opposite — topsoil takes roughly 500 years to form.\n\nCommon mistake: Students might choose B because chemical fertilisers are mentioned, but the passage presents chemicals as a threat to soil, not a solution for rebuilding it."
+    },
+    {
+      "id": "oc-y4-reading-t2-q09",
+      "question": "Why does the author include the statistic about a handful of soil containing more creatures than people on Earth?",
+      "options": [
+        "To warn readers that soil is dangerous",
+        "To help readers understand just how many organisms live in soil",
+        "To compare soil creatures with human beings",
+        "To prove that soil is the same everywhere in the world"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the author uses this dramatic comparison to help readers grasp the enormous number of living things in soil. By comparing it to something readers can relate to (the world's human population), the author makes the invisible world of soil feel real and impressive.\n\nOption C is incorrect because the comparison is not about likeness between creatures and humans — it is about scale and quantity.\n\nCommon mistake: Students might choose C because humans are mentioned, but the comparison is a technique to illustrate scale, not to draw similarities between organisms and people."
+    },
+    {
+      "id": "oc-y4-reading-t2-q10",
+      "question": "What is the author's main message in the final paragraph?",
+      "options": [
+        "Soil is just dirt and is not very interesting",
+        "Farmers are the only people who need to care about soil",
+        "Healthy soil is essential for all life and must be protected",
+        "The best way to protect soil is to stop farming completely"
+      ],
+      "answer": 2,
+      "topic": "main-idea",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the final paragraph says 'Protecting soil means protecting everything that depends on it' and concludes with 'Healthy soil is not just dirt; it is the foundation of life.' The author emphasises that soil supports all living things and needs protection.\n\nOption B is incorrect because the passage shows that soil supports everything from bacteria to trees to our food — it is not just a farming issue.\n\nCommon mistake: Students might choose D because the passage mentions farming as a threat, but the author does not suggest stopping farming — the message is about protecting soil through better practices."
+    }
+  ]
+}

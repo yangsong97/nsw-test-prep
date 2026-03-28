@@ -1,0 +1,128 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 8
+  },
+  "passage": {
+    "title": "How Honey Bees Make Honey",
+    "text": "Have you ever wondered how honey ends up in the jar on your kitchen table? It all starts with tiny honey bees and the flowers they visit every day.\n\nHoney bees live together in a group called a colony. A colony can have thousands of bees, and they all live inside a hive. Each bee has a special job to do. Some bees guard the hive. Some bees look after the baby bees. But the bees we are going to learn about are called worker bees, and their job is to collect nectar from flowers.\n\nNectar is a sweet liquid found deep inside flowers. When a worker bee lands on a flower, it uses its long tongue to suck up the nectar. The bee stores the nectar in a special part of its body called a honey stomach. This is different from the bee's regular stomach — the honey stomach is like a tiny backpack that holds the nectar until the bee flies home.\n\nA worker bee might visit hundreds of flowers in a single trip. When its honey stomach is full, the bee flies back to the hive. There, it passes the nectar to another bee by mouth. This might sound strange, but it is an important step. As the nectar moves from bee to bee, it starts to change.\n\nThe bees then put the nectar into small wax cups called cells. But the nectar is still too watery to be honey. So the bees fan their wings very fast over the cells. This helps the water dry up. Slowly, the nectar becomes thick and sticky — it becomes honey!\n\nWhen the honey is ready, the bees seal each cell with a thin layer of wax. This keeps the honey fresh and clean. The bees save this honey to eat during winter, when there are fewer flowers.\n\nOne bee makes only about one twelfth of a teaspoon of honey in its whole life. That means it takes many, many bees working together to fill even one jar. Next time you spread honey on your toast, think about all the hard work those little bees did to make it.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y2-reading-t2-q01",
+      "question": "What is this passage mainly about?",
+      "options": [
+        "Why bees sting people",
+        "How honey bees turn nectar into honey",
+        "Where to find bee hives in Australia",
+        "The different types of bees in the world"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage explains the process of how bees collect nectar and turn it into honey, step by step, from visiting flowers to sealing the honey in wax cells.\n\nOption D is incorrect because the passage only talks about honey bees, not different types of bees.\n\nCommon mistake: Students might choose D because the passage mentions worker bees and guard bees, but these are roles within one type of bee, not different species."
+    },
+    {
+      "id": "oc-y2-reading-t2-q02",
+      "question": "What is nectar?",
+      "options": [
+        "A type of wax that bees make",
+        "A sweet liquid found inside flowers",
+        "The name for baby bees",
+        "A part of the bee's body"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'Nectar is a sweet liquid found deep inside flowers.'\n\nOption A is incorrect because wax is what the bees make to build cells and seal honey, not nectar.\n\nCommon mistake: Students may confuse nectar with honey, but the passage explains that nectar must go through several steps before it becomes honey."
+    },
+    {
+      "id": "oc-y2-reading-t2-q03",
+      "question": "What does the word 'colony' mean in this passage?",
+      "options": [
+        "A type of flower that bees like",
+        "A group of bees that live together",
+        "A large jar used to store honey",
+        "A special room inside the hive"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage says 'Honey bees live together in a group called a colony. A colony can have thousands of bees.' The sentence directly defines a colony as a group of bees living together.\n\nOption D is incorrect because a colony refers to the whole group of bees, not a room or space inside the hive.\n\nCommon mistake: Students may think a colony is the hive itself, but the passage makes clear that the colony is the group of bees, while the hive is where they live."
+    },
+    {
+      "id": "oc-y2-reading-t2-q04",
+      "question": "How is this passage organised?",
+      "options": [
+        "It tells a made-up story about a bee",
+        "It lists reasons why honey is healthy",
+        "It describes the steps of how honey is made, in order",
+        "It compares honey bees with other insects"
+      ],
+      "answer": 2,
+      "topic": "text-structure",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage follows the honey-making process step by step: first the bees collect nectar, then they pass it to other bees, then they put it in cells, then they fan it dry, and finally they seal it with wax. This is a sequential (step-by-step) structure.\n\nOption A is incorrect because the passage is non-fiction — it explains a real process rather than telling a made-up story.\n\nCommon mistake: Students might choose A because the passage is interesting to read, but it is informational, not a narrative."
+    },
+    {
+      "id": "oc-y2-reading-t2-q05",
+      "question": "Why do the bees fan their wings over the cells?",
+      "options": [
+        "To cool down the hive",
+        "To scare away other insects",
+        "To help the water in the nectar dry up",
+        "To make the wax cells stronger"
+      ],
+      "answer": 2,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage states 'the bees fan their wings very fast over the cells. This helps the water dry up. Slowly, the nectar becomes thick and sticky — it becomes honey!' So the purpose of fanning is to remove water from the nectar.\n\nOption A is incorrect because the passage does not mention temperature or cooling — the fanning is specifically about drying the nectar.\n\nCommon mistake: Students might guess A because fanning is often associated with cooling, but in this context it serves a different purpose."
+    },
+    {
+      "id": "oc-y2-reading-t2-q06",
+      "question": "Why do bees seal the honey cells with wax?",
+      "options": [
+        "To make the hive look neat",
+        "To stop other bees from eating the honey",
+        "To keep the honey fresh and clean",
+        "To make more space in the hive"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage says 'the bees seal each cell with a thin layer of wax. This keeps the honey fresh and clean.'\n\nOption B is incorrect because the passage does not say the wax is meant to stop other bees — the honey is saved for the whole colony to eat in winter.\n\nCommon mistake: Students might choose B, thinking the wax acts like a lock, but the passage explains the purpose is freshness, not protection from other bees."
+    },
+    {
+      "id": "oc-y2-reading-t2-q07",
+      "question": "What can you work out about how much honey one bee makes?",
+      "options": [
+        "One bee can fill a whole jar by itself",
+        "One bee makes a very tiny amount of honey in its lifetime",
+        "One bee makes enough honey for one piece of toast",
+        "One bee does not make any honey at all"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage states 'One bee makes only about one twelfth of a teaspoon of honey in its whole life' and that 'it takes many, many bees working together to fill even one jar.' This tells us each bee's contribution is extremely small.\n\nOption D is incorrect because the passage clearly says a bee does make honey — just a very small amount.\n\nCommon mistake: Students might choose D because the amount is so tiny, but the passage confirms each bee does contribute some honey — one twelfth of a teaspoon."
+    },
+    {
+      "id": "oc-y2-reading-t2-q08",
+      "question": "Why did the author write this passage?",
+      "options": [
+        "To make readers laugh at funny bee facts",
+        "To teach readers how bees make honey",
+        "To warn readers about bee stings",
+        "To get readers to buy more honey"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage is an informational text that explains the step-by-step process of how honey is made. It opens with a question ('Have you ever wondered how honey ends up in the jar?') and then answers it with facts.\n\nOption D is incorrect because the passage does not try to sell honey — it simply explains how it is made and encourages readers to appreciate the bees' work.\n\nCommon mistake: Students might choose D because the ending mentions spreading honey on toast, but this is meant to help readers appreciate bees, not to persuade them to buy honey."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 1,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Weight of Words",
+    "text": "The envelope arrived on a Tuesday, unremarkable among the bills and catalogues that spilled from the letterbox each afternoon. But this one was different. It was addressed to Priya Sharma, handwritten in blue ink, and it bore a postmark from a town she had never heard of — Millford, population 312.\n\nPriya turned it over. No return address. She slid her thumb under the flap and pulled out a single sheet of paper, folded into thirds. The letter was brief.\n\n\"Dear Priya, You don't know me, but I know your words. I found your poem 'Small Fires' in the school magazine that somehow ended up in our library's donations bin. I read it seven times. I wanted you to know that your poem made me feel less alone. — A reader.\"\n\nPriya read the letter three times, standing in the driveway with her schoolbag still on her shoulders. She had written 'Small Fires' six months ago during a week when everything felt heavy — her parents arguing behind closed doors, her best friend moving interstate, the feeling that she was invisible at school. She had poured all of that into fourteen lines and submitted it to the magazine almost as an afterthought, half-expecting no one would read it.\n\nNow someone in a town she could not find on a map had read it seven times.\n\nShe sat on the front step and thought about what it meant for words to travel. A poem written at her desk in Sydney had somehow crossed mountains and highways to reach a stranger in Millford. It had arrived not as a voice or a face, but as ink on paper — and yet it had been enough. Enough to make someone feel understood.\n\nOver the following weeks, Priya found herself writing differently. Before, she had written to process her own feelings, treating the page as a private conversation with herself. Now she was aware that words could escape, could drift beyond the margins and land in unexpected places. This awareness did not make her cautious — it made her braver. If her words could reach someone she had never met, then honesty mattered more than ever. Vagueness was a kind of hiding. Precision was a kind of generosity.\n\nShe began a new poem that evening. It was about the gap between what people say and what they mean, the silence that fills a room when important things go unsaid. She worked on it for three nights, crossing out lines and rewriting them until each word felt necessary.\n\nWhen she finished, she did not submit it to the school magazine. Instead, she folded it into thirds, slid it into an envelope, and addressed it to: A Reader, Millford Library, Millford. She did not know if it would arrive. She did not know if it would be enough. But she knew that some words need to be sent, not kept.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y6-reading-t1-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "A girl who wins a poetry competition and becomes famous",
+        "A girl who discovers that her writing can connect with strangers and finds the courage to write more honestly",
+        "A girl who moves to a small town and makes new friends through poetry",
+        "A mysterious letter that leads to a dangerous adventure"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story follows Priya's journey from writing privately to understanding that her words can reach and affect strangers. The anonymous letter transforms how she thinks about writing, making her braver and more intentional. She then sends a poem back to the reader.\n\nOption A is incorrect because there is no competition or fame involved — the connection is quiet and personal.\n\nCommon mistake: Students might choose A because a poem is praised, but the story is about personal connection, not public recognition."
+    },
+    {
+      "id": "selective-y6-reading-t1-q02",
+      "question": "Why had Priya written the poem 'Small Fires'?",
+      "options": [
+        "It was a school assignment for her English class",
+        "She wanted to win a prize in a writing competition",
+        "She was processing difficult feelings about her parents, her friend leaving, and feeling invisible",
+        "She wanted to impress the editor of the school magazine"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because the passage states she wrote it 'during a week when everything felt heavy — her parents arguing behind closed doors, her best friend moving interstate, the feeling that she was invisible at school. She had poured all of that into fourteen lines.'\n\nOption A is incorrect because the passage says she submitted it 'almost as an afterthought,' not as a required assignment.\n\nCommon mistake: Students might choose A because school is mentioned, but Priya's motivation was emotional processing, not a class requirement."
+    },
+    {
+      "id": "selective-y6-reading-t1-q03",
+      "question": "What does the phrase 'Vagueness was a kind of hiding. Precision was a kind of generosity.' mean?",
+      "options": [
+        "Vague writing is poorly written, and precise writing is grammatically correct",
+        "Being unclear in writing protects the writer from vulnerability, while being specific and honest is a gift to readers",
+        "Writers should always use long, detailed sentences instead of short ones",
+        "Generous writers give their work away for free"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Priya has just realised that her words can reach strangers. Being vague would shield her from the risk of being truly seen (hiding), while being precise and honest shares her real self with readers, which is generous because it helps them feel understood.\n\nOption A is incorrect because the passage is not about grammar or writing quality — it is about emotional honesty and the courage to be specific.\n\nCommon mistake: Students might interpret 'precision' as technical writing skill, but in this context it refers to emotional truthfulness — the willingness to say exactly what you mean."
+    },
+    {
+      "id": "selective-y6-reading-t1-q04",
+      "question": "How did the anonymous letter change Priya's approach to writing?",
+      "options": [
+        "She stopped writing poetry altogether because she was afraid of being judged",
+        "She started writing only happy poems to make people feel good",
+        "She became braver, writing with more honesty because she knew words could reach and affect others",
+        "She decided to become a professional journalist instead of a poet"
+      ],
+      "answer": 2,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage says the awareness that her words could reach people 'did not make her cautious — it made her braver. If her words could reach someone she had never met, then honesty mattered more than ever.'\n\nOption A is incorrect because the passage says the opposite — she wrote more, not less.\n\nCommon mistake: Students might expect that knowing others read her work would make Priya more careful or self-conscious, but the passage explicitly states she became braver, not more cautious."
+    },
+    {
+      "id": "selective-y6-reading-t1-q05",
+      "question": "What does the anonymous reader mean by 'your poem made me feel less alone'?",
+      "options": [
+        "The poem reminded them of a friend they had lost touch with",
+        "The poem expressed feelings they also experienced, creating a sense of connection and understanding",
+        "The poem was so entertaining that it distracted them from their loneliness",
+        "The poem encouraged them to go out and make more friends"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Priya's poem was about difficult emotions — family conflict, loss of friendship, invisibility. When the reader says it made them 'feel less alone,' they mean they recognised their own feelings in Priya's words, which created a sense of shared experience and understanding.\n\nOption C is incorrect because the poem deals with heavy, emotional content, not entertainment or distraction.\n\nCommon mistake: Students might choose C because making someone feel better could involve distraction, but 'feeling less alone' specifically means recognising shared experience, not being entertained."
+    },
+    {
+      "id": "selective-y6-reading-t1-q06",
+      "question": "Why does Priya send her new poem to the Millford Library instead of the school magazine?",
+      "options": [
+        "The school magazine rejected her first poem and she does not want to submit again",
+        "She wants to connect directly with the person who wrote to her",
+        "She thinks the library will publish her poem in a book",
+        "The school magazine has stopped printing new issues"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the letter created a personal connection between Priya and the anonymous reader. By sending the new poem to the library where the reader found her work, Priya is reaching out directly to that person. The passage emphasises that 'some words need to be sent, not kept.'\n\nOption A is incorrect because the school magazine published her first poem — it was not rejected.\n\nCommon mistake: Students might choose C because libraries contain books, but Priya's action is personal — she is responding to the reader, not seeking publication."
+    },
+    {
+      "id": "selective-y6-reading-t1-q07",
+      "question": "What is the significance of the new poem being about 'the gap between what people say and what they mean'?",
+      "options": [
+        "It shows that Priya is interested in studying linguistics at university",
+        "It reflects her new commitment to honesty and precision — writing about the consequences of not saying what we truly feel",
+        "It proves that Priya has become a better technical writer",
+        "It suggests that Priya does not trust the people around her"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Priya has just declared that 'vagueness was a kind of hiding' and 'precision was a kind of generosity.' Her new poem explores what happens when people are not precise or honest — the silence and misunderstanding that result. The subject directly reflects her transformed philosophy of writing.\n\nOption D is incorrect because the poem is about a universal human experience, not personal distrust.\n\nCommon mistake: Students might choose D because unsaid things could suggest secrecy, but the poem's theme is broader — it is about the universal human tendency to leave important things unsaid."
+    },
+    {
+      "id": "selective-y6-reading-t1-q08",
+      "question": "What is the author's purpose in writing this story?",
+      "options": [
+        "To teach readers how to write better poetry",
+        "To explore how creative expression can forge unexpected human connections across distance",
+        "To warn readers about the dangers of sharing personal writing publicly",
+        "To argue that handwritten letters are better than emails"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story's central event — a poem travelling from Sydney to Millford and creating a connection between strangers — explores the theme of how creative expression bridges distance and isolation. The story shows that honest writing can make both the writer and reader feel less alone.\n\nOption C is incorrect because the story presents sharing writing as transformative and positive, not dangerous.\n\nCommon mistake: Students might choose A because the story is about a poet, but it does not teach writing techniques — it explores the emotional power and reach of honest writing."
+    },
+    {
+      "id": "selective-y6-reading-t1-q09",
+      "question": "How is the passage structured?",
+      "options": [
+        "It compares Priya's life before and after she started writing poetry",
+        "It follows a sequence from receiving a letter, through internal transformation, to an outward action",
+        "It alternates between Priya's perspective and the anonymous reader's perspective",
+        "It presents a problem (loneliness) and then lists multiple solutions"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story follows a clear arc: Priya receives the letter (inciting incident), reflects on what it means (internal change), changes her approach to writing (transformation), and sends a poem to the reader (outward action). This is a sequential structure driven by internal change.\n\nOption C is incorrect because the story is told entirely from Priya's perspective — we never see the reader's point of view.\n\nCommon mistake: Students might choose C because the reader's letter is included, but the letter is presented through Priya's experience — we never shift to the reader's viewpoint."
+    },
+    {
+      "id": "selective-y6-reading-t1-q10",
+      "question": "What does the final sentence — 'some words need to be sent, not kept' — reveal about Priya's character development?",
+      "options": [
+        "She has learned that keeping secrets is always wrong",
+        "She now believes that writing should always be published for profit",
+        "She has moved from writing as private self-expression to recognising writing as an act of connection and courage",
+        "She regrets not sending more poems to the school magazine earlier"
+      ],
+      "answer": 2,
+      "topic": "character-analysis",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because at the start of the story, Priya writes to process her own feelings — 'treating the page as a private conversation with herself.' By the end, she actively sends a poem to a stranger, understanding that writing can connect people. The final sentence captures this shift from private processing to courageous outreach.\n\nOption A is incorrect because the story is not about secrets being wrong — it is about the power of sharing honest expression.\n\nCommon mistake: Students might choose D because the school magazine is mentioned, but Priya's growth is not about regretting past decisions — it is about embracing a new understanding of what writing can do."
+    }
+  ]
+}

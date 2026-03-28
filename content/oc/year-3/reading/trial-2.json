@@ -1,0 +1,142 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 9
+  },
+  "passage": {
+    "title": "The Amazing World of Echidnas",
+    "text": "If you ever go for a bush walk in Australia, you might spot a small, spiky animal shuffling through the leaves. This is the echidna, one of the most unusual creatures on Earth.\n\nEchidnas are covered in sharp spines that look a bit like porcupine quills. These spines are actually thick, tough hairs. They protect the echidna from predators such as dingoes and goannas. When an echidna feels threatened, it curls into a tight ball so that only its spines face outward. It can also dig straight down into the soil, leaving just a dome of prickly spines above the surface.\n\nUnder those spines, echidnas have soft brown or black fur to keep them warm. They have small eyes, a long snout, and no teeth at all. Instead of teeth, they use their tongue to catch food. An echidna's tongue is long and sticky — it can flick in and out of its snout up to one hundred times per minute. This is perfect for catching ants and termites, which make up most of its diet.\n\nEchidnas are one of only two types of mammals in the world that lay eggs. The other is the platypus. This group of egg-laying mammals is called monotremes. After a mother echidna lays a single leathery egg, she keeps it warm in a special pouch on her belly. The baby, called a puggle, hatches after about ten days. It is tiny, hairless, and blind. The puggle stays in its mother's pouch for several weeks, drinking milk that seeps through patches of skin — echidnas do not have nipples like other mammals.\n\nEchidnas live all over Australia, from hot deserts to cool forests and even snowy mountains. They are solitary animals, which means they prefer to live alone rather than in groups. They are also mostly active at dawn and dusk, spending the hottest and coldest parts of the day resting in hollow logs or under bushes.\n\nDespite their prickly appearance, echidnas play an important role in the environment. As they dig for food, they turn over the soil, which helps mix nutrients and allows air and water to reach plant roots. Scientists call this \"ecosystem engineering.\" So the next time you see an echidna waddling along, remember — this spiky little creature is quietly helping the bush stay healthy.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y3-reading-t2-q01",
+      "question": "What is this passage mainly about?",
+      "options": [
+        "Why echidnas are dangerous to humans",
+        "The unique features and habits of echidnas",
+        "How to find echidnas on a bush walk",
+        "A comparison between echidnas and platypuses"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers many aspects of echidnas — their spines, how they eat, how they lay eggs, where they live, and their role in the environment. It provides a broad overview of what makes echidnas unique.\n\nOption D is incorrect because the platypus is only mentioned briefly as the other type of monotreme, not compared in detail with the echidna.\n\nCommon mistake: Students might choose D because the platypus is mentioned, but it appears in just one sentence as a comparison point, not as a main topic."
+    },
+    {
+      "id": "oc-y3-reading-t2-q02",
+      "question": "What are echidna spines made of?",
+      "options": [
+        "Bone",
+        "Thick, tough hairs",
+        "Plastic-like material",
+        "Tiny thorns"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'These spines are actually thick, tough hairs.'\n\nOption A is incorrect because the passage specifically says the spines are hairs, not bone.\n\nCommon mistake: Students might assume spines are made of bone because they look hard and sharp, but the passage clearly tells us they are a type of hair."
+    },
+    {
+      "id": "oc-y3-reading-t2-q03",
+      "question": "What does the word 'solitary' mean in the passage?",
+      "options": [
+        "Very fast and active",
+        "Living alone rather than in groups",
+        "Sleeping during the day",
+        "Eating only one type of food"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage says 'They are solitary animals, which means they prefer to live alone rather than in groups.' The author defines the word directly in the text.\n\nOption C is incorrect because sleeping during the day is a separate behaviour mentioned in the next sentence, not the meaning of 'solitary.'\n\nCommon mistake: Students might confuse 'solitary' with 'nocturnal' (active at night), but the passage keeps these ideas in separate sentences and defines 'solitary' clearly."
+    },
+    {
+      "id": "oc-y3-reading-t2-q04",
+      "question": "How does an echidna protect itself from predators?",
+      "options": [
+        "It runs away very quickly",
+        "It sprays a bad smell",
+        "It curls into a ball or digs into the ground",
+        "It bites with its sharp teeth"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage describes two defence strategies: 'it curls into a tight ball so that only its spines face outward' and 'It can also dig straight down into the soil, leaving just a dome of prickly spines above the surface.'\n\nOption D is incorrect because the passage says echidnas have 'no teeth at all,' so biting is impossible.\n\nCommon mistake: Students might choose D without remembering that echidnas have no teeth — this is stated in the third paragraph."
+    },
+    {
+      "id": "oc-y3-reading-t2-q05",
+      "question": "Why is an echidna's tongue described as 'perfect for catching ants and termites'?",
+      "options": [
+        "Because it is very short and flat",
+        "Because it is long and sticky and can flick quickly",
+        "Because it is covered in tiny teeth",
+        "Because it can taste food from far away"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that 'An echidna's tongue is long and sticky — it can flick in and out of its snout up to one hundred times per minute.' These features — length, stickiness, and speed — make it ideal for catching small insects like ants and termites.\n\nOption A is incorrect because the passage says the tongue is long, not short.\n\nCommon mistake: Students might choose C because teeth are associated with eating, but the passage emphasises that echidnas have no teeth — they rely entirely on their tongue."
+    },
+    {
+      "id": "oc-y3-reading-t2-q06",
+      "question": "What makes echidnas different from most other mammals?",
+      "options": [
+        "They have fur to keep warm",
+        "They feed their babies milk",
+        "They lay eggs instead of giving birth to live young",
+        "They live in Australia"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage says 'Echidnas are one of only two types of mammals in the world that lay eggs.' Since most mammals give birth to live young, laying eggs is what makes echidnas special and different.\n\nOption A is incorrect because having fur is common to most mammals — it is not what makes echidnas unusual.\n\nCommon mistake: Students might choose B because the passage mentions milk being delivered in an unusual way (through skin patches), but the question asks what makes them different from most mammals, and the key difference is egg-laying."
+    },
+    {
+      "id": "oc-y3-reading-t2-q07",
+      "question": "How is this passage organised?",
+      "options": [
+        "It tells a story about an echidna's adventure",
+        "It describes a problem with echidnas and a solution",
+        "It organises information about echidnas by topic",
+        "It compares echidnas to many other animals"
+      ],
+      "answer": 2,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage is organised into sections, each covering a different topic: spines and defence, eating and tongue, reproduction and eggs, habitat and behaviour, and environmental role. This is a topic-by-topic structure.\n\nOption A is incorrect because the passage is non-fiction and does not tell a narrative story.\n\nCommon mistake: Students might choose D because a few animals are mentioned (dingoes, goannas, platypus), but these are brief references, not sustained comparisons."
+    },
+    {
+      "id": "oc-y3-reading-t2-q08",
+      "question": "What does 'ecosystem engineering' mean in this passage?",
+      "options": [
+        "Building homes for other animals",
+        "Planting new trees and flowers",
+        "Changing the environment in ways that help other living things",
+        "Cleaning up rubbish in the bush"
+      ],
+      "answer": 2,
+      "topic": "vocabulary",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage explains that echidnas dig for food and in doing so 'turn over the soil, which helps mix nutrients and allows air and water to reach plant roots.' The term 'ecosystem engineering' is used to describe how echidnas change their environment in ways that benefit other living things.\n\nOption A is incorrect because the echidnas are not building homes — they are digging for food, and the soil improvement is a side effect.\n\nCommon mistake: Students might choose A because 'engineering' sounds like building, but in this context it refers to the broader effect of changing the environment, not constructing anything."
+    },
+    {
+      "id": "oc-y3-reading-t2-q09",
+      "question": "Why did the author write this passage?",
+      "options": [
+        "To persuade people to protect echidnas from extinction",
+        "To inform readers about the features and importance of echidnas",
+        "To entertain readers with a funny story about an echidna",
+        "To explain why echidnas are better than platypuses"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage provides factual information about echidnas' physical features, diet, reproduction, habitat, and environmental role. The final paragraph highlights their importance, showing the author wants readers to understand and appreciate echidnas.\n\nOption A is incorrect because the passage does not mention echidnas being endangered or ask readers to take action to protect them.\n\nCommon mistake: Students might choose A because the passage speaks positively about echidnas, but there is no call to action or mention of threats — the purpose is to inform, not to persuade."
+    }
+  ]
+}

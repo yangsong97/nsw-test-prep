@@ -1,0 +1,142 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 9
+  },
+  "passage": {
+    "title": "Save Our School Playground",
+    "text": "Dear Editor,\n\nI am writing to you because I believe our school playground needs to be improved, and I think the whole community should care about this issue. My name is Anika and I am in Year 3 at Banksia Creek Public School.\n\nOur playground has not been updated in over fifteen years. The old wooden climbing frame has splinters and loose bolts. The slide has a crack running down the middle. The soft-fall surface, which is supposed to cushion falls, is worn so thin that you can see the hard concrete underneath. Last term alone, three students were injured during lunch break because of the poor condition of the equipment.\n\nSome people might say that children should just play on the oval instead. But not every child enjoys running and kicking balls. A good playground gives children choices. It lets them climb, balance, swing, and use their imaginations. Studies have shown that active play on varied equipment helps children develop coordination, strength, and problem-solving skills. Without a proper playground, some students simply sit on the benches with nothing to do.\n\nOthers might argue that fixing the playground costs too much money. However, our school P&C has already raised four thousand dollars through sausage sizzles, cake stalls, and a family fun night. The local council has a community grants program that could provide matching funds. If we all work together, the cost does not have to fall on one group alone.\n\nI am not asking for anything fancy. I am asking for equipment that is safe, fun, and gives every student the chance to be active. A new playground would not only make our school safer — it would make it a place where children actually want to spend their break times.\n\nI urge the community to support our school's application for the council grant. If you agree that children deserve a safe place to play, please write to the council or attend the next community meeting on March fifteenth.\n\nYours sincerely,\nAnika Patel\nYear 3, Banksia Creek Public School",
+    "type": "persuasive"
+  },
+  "questions": [
+    {
+      "id": "oc-y3-reading-t3-q01",
+      "question": "What is Anika mainly trying to do in this letter?",
+      "options": [
+        "Tell a funny story about her school playground",
+        "Persuade people to support improving her school playground",
+        "Describe the games children play at lunchtime",
+        "Compare her school with other schools in the area"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the entire letter is focused on convincing the community to support the improvement of the school playground. Anika explains why it is needed, counters arguments against it, and urges people to take action.\n\nOption A is incorrect because the letter is serious and persuasive, not a funny story.\n\nCommon mistake: Students might choose C because the letter mentions activities like climbing and balancing, but these are examples to support her argument, not the main purpose."
+    },
+    {
+      "id": "oc-y3-reading-t3-q02",
+      "question": "What evidence does Anika give to show the playground is in poor condition?",
+      "options": [
+        "The teachers have complained about the playground",
+        "The climbing frame has splinters, the slide is cracked, and students have been injured",
+        "The playground was built only five years ago",
+        "Other schools have newer playgrounds"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because Anika lists specific problems: 'The old wooden climbing frame has splinters and loose bolts. The slide has a crack running down the middle.' She also mentions that 'three students were injured during lunch break.'\n\nOption C is incorrect because the passage says the playground has not been updated in over fifteen years, not five.\n\nCommon mistake: Students might choose A because it seems logical that teachers would complain, but the passage never mentions teachers — Anika provides her own observations and facts."
+    },
+    {
+      "id": "oc-y3-reading-t3-q03",
+      "question": "What does the word 'urge' mean in the sentence 'I urge the community to support our school's application'?",
+      "options": [
+        "Quietly ask",
+        "Strongly encourage",
+        "Politely thank",
+        "Gently remind"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because 'urge' means to strongly encourage or push someone to do something. Anika is not just asking — she is making a strong appeal for the community to take action.\n\nOption A is incorrect because 'urge' is a stronger word than 'quietly ask.' Anika is being forceful and passionate in her request.\n\nCommon mistake: Students might choose D because 'remind' sounds polite, but 'urge' carries a sense of urgency and strong feeling that goes beyond a gentle reminder."
+    },
+    {
+      "id": "oc-y3-reading-t3-q04",
+      "question": "Anika says 'not every child enjoys running and kicking balls.' Why does she include this point?",
+      "options": [
+        "To explain why some children do not like sport",
+        "To argue that the oval should be removed",
+        "To show that a playground provides options for different types of play",
+        "To complain that the oval is too small"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because Anika is responding to the suggestion that children could just play on the oval. By pointing out that not all children enjoy oval-based activities, she argues that a playground gives children different choices like climbing, balancing, and swinging.\n\nOption B is incorrect because Anika never suggests removing the oval — she wants to add better playground equipment alongside it.\n\nCommon mistake: Students might choose A, but Anika's point is not about disliking sport in general. Her argument is that children need variety and choices, which only a good playground can provide."
+    },
+    {
+      "id": "oc-y3-reading-t3-q05",
+      "question": "How does Anika respond to the argument that fixing the playground costs too much?",
+      "options": [
+        "She says the cost does not matter because children's safety is more important",
+        "She explains that the P&C has raised money and a council grant could help",
+        "She suggests building the playground themselves without spending any money",
+        "She asks parents to donate one hundred dollars each"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Anika explains that 'our school P&C has already raised four thousand dollars' and 'The local council has a community grants program that could provide matching funds.' She shows that the cost can be shared.\n\nOption A is incorrect because while Anika does care about safety, her counter-argument specifically addresses the money issue with practical solutions, not by dismissing the cost.\n\nCommon mistake: Students might choose A because safety is mentioned elsewhere in the letter, but the specific response to the cost argument is about funding sources."
+    },
+    {
+      "id": "oc-y3-reading-t3-q06",
+      "question": "What action does Anika want readers to take?",
+      "options": [
+        "Donate money to the school directly",
+        "Build a new playground themselves",
+        "Write to the council or attend a community meeting",
+        "Start a petition and collect signatures"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because Anika writes 'please write to the council or attend the next community meeting on March fifteenth.'\n\nOption A is incorrect because Anika does not ask for direct donations — she mentions existing fundraising and a council grant.\n\nCommon mistake: Students might choose A because the letter discusses money, but Anika's call to action is specifically about writing to the council and attending the meeting."
+    },
+    {
+      "id": "oc-y3-reading-t3-q07",
+      "question": "How is Anika's letter organised?",
+      "options": [
+        "She tells events in order from first to last",
+        "She states her opinion, gives reasons and evidence, addresses objections, and calls for action",
+        "She compares two different playgrounds",
+        "She asks questions and then answers them one by one"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the letter follows a classic persuasive structure: Anika states her position (the playground needs improvement), provides reasons and evidence (poor condition, injuries, benefits of active play), addresses counter-arguments (play on the oval, cost), and ends with a call to action (write to the council, attend the meeting).\n\nOption A is incorrect because this is a persuasive letter, not a narrative — events are not told in chronological order.\n\nCommon mistake: Students might choose D because Anika does raise opposing views, but she phrases them as statements she then counters, not as questions she answers."
+    },
+    {
+      "id": "oc-y3-reading-t3-q08",
+      "question": "What caused three students to be injured last term?",
+      "options": [
+        "They were playing too roughly on the oval",
+        "The playground equipment was in poor and unsafe condition",
+        "The teachers were not watching during lunch break",
+        "The students did not follow the playground rules"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Anika says 'three students were injured during lunch break because of the poor condition of the equipment.' She directly links the injuries to the broken and worn-out playground.\n\nOption C is incorrect because the passage does not mention teacher supervision — the cause is clearly stated as the condition of the equipment.\n\nCommon mistake: Students might choose D because rule-breaking is a common cause of injuries, but Anika specifically blames the equipment's poor condition, not student behaviour."
+    },
+    {
+      "id": "oc-y3-reading-t3-q09",
+      "question": "Why did the author choose to write this as a letter to the editor?",
+      "options": [
+        "Because she wanted to keep her opinion private",
+        "Because letters to the editor are read by many people in the community",
+        "Because she did not know who to write to at the council",
+        "Because her teacher told her to write a letter for homework"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because a letter to the editor is published in a newspaper or community publication, meaning many people will read it. Anika wants the whole community to support the playground grant, so writing to the editor helps her reach a wide audience.\n\nOption A is incorrect because the opposite is true — writing to the editor makes her opinion public, not private.\n\nCommon mistake: Students might choose C, but Anika clearly knows about the council grant and the community meeting, so she does know who to contact — she chose the newspaper to reach the broader community."
+    }
+  ]
+}

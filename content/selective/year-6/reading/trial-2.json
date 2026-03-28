@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 2,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Science of Forgetting",
+    "text": "We tend to think of memory as a recording device — a camera that faithfully captures every moment and stores it away for later retrieval. But decades of research in cognitive psychology have shown that human memory is far more complex, fallible, and fascinating than any machine.\n\nIn 1885, the German psychologist Hermann Ebbinghaus conducted one of the earliest scientific studies of memory. He memorised lists of nonsense syllables — meaningless combinations like \"DAX\" and \"BUP\" — and then measured how quickly he forgot them. His results, plotted on what became known as the \"forgetting curve,\" showed that memory loss is steepest in the first hour after learning. Within a day, roughly two-thirds of newly learned information is lost. After a week, only about a quarter remains.\n\nThis might sound alarming, but forgetting is not a flaw. Neuroscientists now believe that forgetting serves an essential function. Our brains encounter an overwhelming volume of information every day — the colour of every car on the road, the face of every stranger on the train, the precise wording of every conversation. If we remembered all of it with perfect clarity, our minds would quickly become cluttered and inefficient. Forgetting acts as a filter, allowing the brain to prioritise important information and discard what is no longer useful.\n\nRecent research has revealed that forgetting is an active process, not merely a passive decay. Studies at the University of Toronto have shown that specific neural circuits in the brain are responsible for weakening or erasing memories. These circuits do not malfunction — they are performing a vital task. In animal studies, mice that were genetically modified to be unable to forget showed impaired decision-making and difficulty adapting to new environments. Their overloaded memories actually made them less intelligent in practical terms.\n\nHowever, forgetting also has a darker side. False memories — vivid recollections of events that never actually occurred — demonstrate how unreliable memory can be. The psychologist Elizabeth Loftus has spent decades showing that memories can be distorted, supplemented, or entirely fabricated through leading questions, suggestive information, or the mere passage of time. In one famous experiment, Loftus successfully implanted false memories in participants, convincing them they had been lost in a shopping centre as children — an event that had never happened.\n\nThe implications extend beyond the laboratory. Eyewitness testimony, once considered the gold standard of courtroom evidence, has been shown to be far less reliable than previously assumed. According to the Innocence Project, mistaken eyewitness identification has contributed to more than seventy percent of wrongful convictions later overturned by DNA evidence.\n\nUnderstanding the science of memory and forgetting has practical applications for students as well. Ebbinghaus's research suggests that spaced repetition — reviewing material at gradually increasing intervals — is far more effective than cramming. By revisiting information just as it begins to fade, learners can strengthen the memory trace and slow the forgetting curve.\n\nMemory, then, is not a faithful recording but a dynamic, constructive process — one that edits, prioritises, and occasionally invents. Recognising its limitations does not diminish its value. Rather, it reminds us to approach our own recollections with humility and to verify important memories against external evidence whenever possible.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y6-reading-t2-q01",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "Human memory is like a perfect recording device that stores everything accurately",
+        "Human memory is a complex, imperfect process where forgetting serves important functions but also creates vulnerabilities",
+        "Scientists have found a way to completely prevent forgetting",
+        "Eyewitness testimony is the most reliable form of evidence in court"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers multiple aspects of memory: the forgetting curve, why forgetting is useful, active forgetting processes, false memories, unreliable eyewitness testimony, and practical study tips. Together, these show memory as complex and imperfect but valuable.\n\nOption A is incorrect because the passage opens by rejecting this very idea — 'human memory is far more complex, fallible, and fascinating than any machine.'\n\nCommon mistake: Students might choose A if they only read the opening sentence, but the passage immediately challenges the recording-device metaphor."
+    },
+    {
+      "id": "selective-y6-reading-t2-q02",
+      "question": "According to Ebbinghaus's research, how much newly learned information is typically lost within one day?",
+      "options": [
+        "About one quarter",
+        "About one third",
+        "About two thirds",
+        "Almost all of it"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because the passage states 'Within a day, roughly two-thirds of newly learned information is lost.'\n\nOption A is incorrect because a quarter is how much remains after a week, not how much is lost in a day.\n\nCommon mistake: Students may confuse what is lost with what remains. The passage says two-thirds is lost (leaving one-third), and after a week only about a quarter remains."
+    },
+    {
+      "id": "selective-y6-reading-t2-q03",
+      "question": "What does the word 'fallible' mean in the first paragraph?",
+      "options": [
+        "Perfectly accurate and reliable",
+        "Capable of making mistakes or being wrong",
+        "Extremely fast and efficient",
+        "Impossible to understand or study"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage contrasts the idea of memory as a perfect recording with the reality that it is 'complex, fallible, and fascinating.' The whole passage then demonstrates how memory makes errors — through forgetting, distortion, and false memories. 'Fallible' means capable of making mistakes.\n\nOption A is incorrect because it is the exact opposite — the passage argues memory is not perfectly accurate.\n\nCommon mistake: Students unfamiliar with 'fallible' should use context clues. The passage immediately explains how memory is imperfect, which confirms that 'fallible' means error-prone."
+    },
+    {
+      "id": "selective-y6-reading-t2-q04",
+      "question": "Why do neuroscientists believe forgetting is beneficial?",
+      "options": [
+        "It allows the brain to save energy by shutting down unused areas",
+        "It helps the brain prioritise important information and avoid becoming overloaded",
+        "It prevents people from remembering painful experiences",
+        "It creates space for the brain to grow new cells"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that without forgetting, 'our minds would quickly become cluttered and inefficient. Forgetting acts as a filter, allowing the brain to prioritise important information and discard what is no longer useful.'\n\nOption C is incorrect because the passage does not mention painful memories — the benefit is about filtering the overwhelming volume of daily information.\n\nCommon mistake: Students might choose C because forgetting painful things seems beneficial, but the passage's argument is specifically about information overload and efficiency."
+    },
+    {
+      "id": "selective-y6-reading-t2-q05",
+      "question": "What evidence does the passage provide that forgetting is an active process?",
+      "options": [
+        "Ebbinghaus showed that people forget nonsense syllables faster than real words",
+        "University of Toronto research identified specific neural circuits that deliberately weaken or erase memories",
+        "Elizabeth Loftus proved that people can be convinced to forget real events",
+        "The Innocence Project showed that witnesses deliberately change their testimony"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage states 'Studies at the University of Toronto have shown that specific neural circuits in the brain are responsible for weakening or erasing memories. These circuits do not malfunction — they are performing a vital task.'\n\nOption C is incorrect because Loftus's work is about implanting false memories, not about making people forget real ones.\n\nCommon mistake: Students might confuse Loftus's false memory research with active forgetting, but they are different phenomena — false memories are about adding fabricated recollections, while active forgetting is about the brain's deliberate removal of information."
+    },
+    {
+      "id": "selective-y6-reading-t2-q06",
+      "question": "What happened to the genetically modified mice that could not forget?",
+      "options": [
+        "They became much smarter and solved problems faster",
+        "They showed impaired decision-making and difficulty adapting to new environments",
+        "They developed stronger social bonds with other mice",
+        "They lived significantly longer than normal mice"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage states 'mice that were genetically modified to be unable to forget showed impaired decision-making and difficulty adapting to new environments. Their overloaded memories actually made them less intelligent in practical terms.'\n\nOption A is incorrect because the result was the opposite — the inability to forget made them worse at practical tasks, not better.\n\nCommon mistake: Students might assume that remembering everything would be an advantage, but the passage demonstrates the opposite — too much memory actually impairs function."
+    },
+    {
+      "id": "selective-y6-reading-t2-q07",
+      "question": "How does Elizabeth Loftus's research relate to the passage's argument about memory?",
+      "options": [
+        "It proves that memory is a perfect recording device",
+        "It demonstrates that memories can be distorted or fabricated, showing memory's unreliability",
+        "It shows that forgetting is always harmful to individuals",
+        "It confirms that eyewitness testimony is the most accurate form of evidence"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Loftus's research — particularly the experiment where she implanted false memories of being lost in a shopping centre — demonstrates that memory is not just imperfect but can be actively distorted. This supports the passage's broader argument that memory is 'a dynamic, constructive process — one that edits, prioritises, and occasionally invents.'\n\nOption D is incorrect because the passage uses the Innocence Project data to argue the opposite — that eyewitness testimony is unreliable.\n\nCommon mistake: Students might choose D if they confuse the Loftus research with the eyewitness testimony section, but Loftus's work shows memory can be fabricated, which undermines confidence in eyewitness accounts."
+    },
+    {
+      "id": "selective-y6-reading-t2-q08",
+      "question": "How is this passage structured?",
+      "options": [
+        "It tells the story of a scientist who discovered how memory works",
+        "It presents a common belief about memory, challenges it with evidence, and explores implications",
+        "It compares human memory with computer memory in a point-by-point format",
+        "It argues that forgetting is always negative and should be prevented"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage opens by presenting the common belief (memory as a recording device), then challenges it with research (Ebbinghaus, Toronto studies, Loftus), and finally explores implications (eyewitness unreliability, study strategies, and the need for humility about our recollections).\n\nOption A is incorrect because the passage discusses multiple scientists and studies, not one scientist's narrative.\n\nCommon mistake: Students might choose C because the recording-device metaphor uses technology, but the passage does not sustain a comparison with computers — it uses the metaphor briefly and then moves on to evidence from psychology."
+    },
+    {
+      "id": "selective-y6-reading-t2-q09",
+      "question": "What is the author's purpose in including the statistic about wrongful convictions?",
+      "options": [
+        "To argue that the justice system should be abolished",
+        "To demonstrate the real-world consequences of memory's unreliability",
+        "To praise the work of the Innocence Project",
+        "To show that DNA evidence is always correct"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the statistic — mistaken eyewitness identification contributing to over seventy percent of wrongful convictions — shows that memory's unreliability is not just a laboratory curiosity but has serious real-world consequences. It extends the passage's argument beyond theory into practical impact.\n\nOption A is incorrect because the passage does not argue against the justice system — it highlights a specific vulnerability that should be addressed.\n\nCommon mistake: Students might choose C because the Innocence Project is mentioned positively, but the purpose of including the statistic is to illustrate the consequences of unreliable memory, not to profile the organisation."
+    },
+    {
+      "id": "selective-y6-reading-t2-q10",
+      "question": "What does the final paragraph mean by 'approach our own recollections with humility'?",
+      "options": [
+        "We should feel embarrassed about having a poor memory",
+        "We should accept that our memories may not be perfectly accurate and be willing to verify them",
+        "We should never trust anything we remember",
+        "We should always write everything down instead of relying on memory"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage has demonstrated that memory edits, prioritises, and occasionally invents. 'Humility' in this context means accepting that our memories might be incomplete or inaccurate, and being open to checking them against external evidence. The passage says this 'does not diminish its value' — memory is still important, but should be treated with awareness of its limitations.\n\nOption C is incorrect because the passage does not say we should distrust all memories — it says we should recognise their limitations and verify important ones.\n\nCommon mistake: Students might choose C as an extreme interpretation, but the passage advocates awareness and verification, not total distrust."
+    }
+  ]
+}

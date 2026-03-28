@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 3,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Glassmaker's Fire",
+    "text": "In the furnace-glow of evening light,\nthe glassmaker begins her turn.\nShe gathers silence on a pipe\nand holds it to the place things burn.\n\nThe sand remembers being shore,\nthe soda ash recalls the lake,\nbut fire does not ask permission —\nit takes what's solid, makes it shake.\n\nThe heat is patient, absolute,\nit will not bargain, will not bend.\nIt asks the maker one clear question:\nwhat shape do you intend?\n\nShe breathes into the molten core,\na careful, slow, insistent breath,\nand from the shapeless, glowing mass\na vessel rises, cheating death.\n\nFor what is glass but frozen light,\na liquid caught mid-fall and held?\nA contradiction you can touch:\ntransparent walls that won't be felled.\n\nThe colours bloom inside the heat —\ncobalt drawn from ancient mines,\nruby summoned by the gold\nthat hides between the molten lines.\n\nShe turns the pipe, the bubble swells,\nshe scores the neck with diamond blade,\nthen taps — the smallest, surest sound —\nand art is severed from its trade.\n\nThe vase cools slowly through the night\ninside the kiln's diminished heat.\nBy morning it will hold its shape\nthe way a promise holds its beat.\n\nAnd she will lift it to the light\nand turn it, searching for the flaw —\nbecause the maker's truest gift\nis seeing what no eye yet saw.\n\nShe knows that some will crack in cooling,\nthat perfect edges sometimes chip.\nThe kiln forgives no careless moment,\nno tremor of the hand or lip.\n\nOutside, the world moves fast and loud,\nit wants its objects cheap and done.\nBut here, inside the glassmaker's shed,\neach piece is argued with the sun.\n\nShe does not build what won't be broken.\nShe does not fear the kiln's fierce tongue.\nShe shapes the fragile into beauty\nand sends it out among the strong.",
+    "type": "poetry"
+  },
+  "questions": [
+    {
+      "id": "selective-y6-reading-t3-q01",
+      "question": "What is this poem mainly about?",
+      "options": [
+        "The dangers of working with fire and hot glass",
+        "A glassmaker's craft, dedication, and the meaning she finds in creating fragile beauty",
+        "A factory that mass-produces glass bottles",
+        "The scientific process of turning sand into glass"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem follows the glassmaker through her process — gathering glass on a pipe, blowing, shaping, cooling — while exploring deeper themes of dedication, craftsmanship, and the courage to create fragile things in a world that values speed and cheapness.\n\nOption D is incorrect because while the poem mentions sand and fire, it is not a scientific explanation — it is an artistic meditation on the meaning of the craft.\n\nCommon mistake: Students might choose D because ingredients like sand and soda ash are mentioned, but the poem uses these as poetic elements, not as scientific information."
+    },
+    {
+      "id": "selective-y6-reading-t3-q02",
+      "question": "What does the poet mean by 'She gathers silence on a pipe'?",
+      "options": [
+        "The glassmaker plays a musical pipe that makes no sound",
+        "The glassmaker collects a ball of molten glass on a blowpipe in a quiet, focused moment",
+        "The workshop is so loud that the glassmaker cannot hear anything",
+        "The glassmaker uses a vacuum pipe to remove air from the room"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the 'pipe' refers to a glassblower's blowpipe, and 'gathers silence' is a poetic way of describing the focused, quiet concentration of the moment when the glassmaker collects molten glass. The word 'silence' evokes the intense focus and stillness of the craft.\n\nOption A is incorrect because the pipe is a glassblowing tool, not a musical instrument.\n\nCommon mistake: Students unfamiliar with glassblowing may not know that a 'pipe' is the tool used to gather and blow glass. Context clues — furnace, molten core, breathing into the pipe — all point to glassblowing."
+    },
+    {
+      "id": "selective-y6-reading-t3-q03",
+      "question": "What does the stanza 'The sand remembers being shore, / the soda ash recalls the lake' suggest?",
+      "options": [
+        "The sand and soda ash are unhappy about being turned into glass",
+        "The raw materials of glass have origins in the natural world, and the poet imagines them as having memories of their former states",
+        "The glassmaker collects her materials from the beach and the lake",
+        "The glass will be shaped to look like a beach scene"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the poet uses personification — giving sand and soda ash the ability to 'remember' and 'recall.' This poetic technique highlights that glass is made from natural substances (sand from shores, soda ash from mineral-rich lakes), connecting the finished product back to the natural world.\n\nOption C is incorrect because the poem does not say the glassmaker personally collects materials from nature — the stanza is about the materials' origins, imagined poetically.\n\nCommon mistake: Students might take the personification literally and choose A, thinking the materials have feelings. The poet is using figurative language to create a sense of transformation."
+    },
+    {
+      "id": "selective-y6-reading-t3-q04",
+      "question": "What does the poet mean by calling glass 'frozen light'?",
+      "options": [
+        "Glass is extremely cold to the touch",
+        "Glass is transparent and appears to capture and hold light within it, like light that has been frozen in place",
+        "Glass glows in the dark after being removed from the furnace",
+        "Glass can only be made in winter when temperatures are low"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the metaphor 'frozen light' captures two key properties of glass: its transparency (allowing light to pass through, as if containing light) and its solid form (a liquid that has been cooled and held in shape). The next line reinforces this: 'a liquid caught mid-fall and held.'\n\nOption A is incorrect because 'frozen' here is metaphorical, not a description of temperature.\n\nCommon mistake: Students might take 'frozen' literally. The poem is describing glass's paradoxical nature — it looks like liquid light that has been stopped mid-motion."
+    },
+    {
+      "id": "selective-y6-reading-t3-q05",
+      "question": "What happens when the glassmaker 'scores the neck with diamond blade, then taps'?",
+      "options": [
+        "She breaks the glass accidentally and has to start over",
+        "She separates the finished glass piece from the blowpipe",
+        "She decorates the glass with a diamond pattern",
+        "She tests whether the glass is strong enough"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because scoring (making a shallow cut) and tapping is the glassblowing technique used to separate a finished piece from the pipe. The poem says 'art is severed from its trade' — meaning the artistic creation (the vase) is detached from the tool (the pipe).\n\nOption A is incorrect because the action is described as deliberate and precise — 'the smallest, surest sound' — not accidental.\n\nCommon mistake: Students might not know this glassblowing technique. The key clue is the word 'severed' (cut off), and the description of it as a controlled, sure action."
+    },
+    {
+      "id": "selective-y6-reading-t3-q06",
+      "question": "What does the line 'the way a promise holds its beat' mean in the context of the cooling vase?",
+      "options": [
+        "The kiln makes a rhythmic beating sound as it cools",
+        "Just as a promise is steady and reliable over time, the vase will maintain its form as it cools slowly",
+        "The glassmaker promises to make the vase by morning",
+        "The vase vibrates at a specific musical frequency"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the simile compares the vase holding its shape during cooling to a promise holding its rhythm or commitment. Just as a sincere promise remains steady over time, the vase will maintain its form through the slow cooling process. The comparison links physical craft to human values of reliability and commitment.\n\nOption A is incorrect because 'beat' here is figurative — it refers to the steady, reliable quality of a kept promise, not a literal sound.\n\nCommon mistake: Students may struggle with this abstract simile. The key is understanding that both a promise and a cooling vase must hold steady over time to succeed."
+    },
+    {
+      "id": "selective-y6-reading-t3-q07",
+      "question": "What does the poet mean by 'the maker's truest gift is seeing what no eye yet saw'?",
+      "options": [
+        "The glassmaker has supernatural vision that lets her see through walls",
+        "The glassmaker's greatest skill is the ability to notice imperfections and possibilities that others would miss",
+        "The glassmaker works in the dark so she can see the glass glow",
+        "The glassmaker keeps her best work hidden from the public"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the line follows the glassmaker lifting the vase to the light and 'searching for the flaw.' Her 'truest gift' is her trained eye — the ability to see imperfections, subtleties, and qualities in the glass that an untrained observer would miss. This extends to the broader idea that a true craftsperson perceives what others cannot.\n\nOption A is incorrect because the line is metaphorical, describing perceptiveness and expertise, not literal superhuman sight.\n\nCommon mistake: Students might focus only on finding flaws, but the line is broader — 'what no eye yet saw' suggests the ability to perceive both imperfections and beauty that others would overlook."
+    },
+    {
+      "id": "selective-y6-reading-t3-q08",
+      "question": "What contrast does the eighth stanza ('Outside, the world moves fast and loud...') establish?",
+      "options": [
+        "Between day and night",
+        "Between the fast, cheap-seeking outside world and the slow, careful craft inside the glassmaker's shed",
+        "Between the noise of traffic and the quiet of the countryside",
+        "Between modern glass and ancient glass"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the stanza explicitly contrasts 'the world moves fast and loud, it wants its objects cheap and done' with the glassmaker's shed where 'each piece is argued with the sun.' This juxtaposes mass-production values (speed, cheapness) with craftsmanship values (patience, care, negotiation with materials).\n\nOption C is incorrect because the contrast is not about geography but about values — the commercial world versus the artisan's world.\n\nCommon mistake: Students might choose C because 'outside/inside' suggests a physical contrast, but the deeper contrast is philosophical — between disposable culture and devoted craftsmanship."
+    },
+    {
+      "id": "selective-y6-reading-t3-q09",
+      "question": "What does the final stanza reveal about the glassmaker's character?",
+      "options": [
+        "She is reckless and does not care if her work breaks",
+        "She is courageous, accepting that fragile things are worth creating even though they can be broken",
+        "She is afraid of fire but forces herself to work with it",
+        "She only makes glass that is unbreakable"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the final stanza says 'She does not build what won't be broken. She does not fear the kiln's fierce tongue. She shapes the fragile into beauty and sends it out among the strong.' This reveals courage and acceptance — she knowingly creates delicate, breakable things and releases them into a rough world, understanding that fragility and beauty are connected.\n\nOption A is incorrect because the poem shows the glassmaker's extreme care and precision throughout — she is dedicated, not reckless.\n\nCommon mistake: Students might misread 'She does not build what won't be broken' as carelessness, but it is a philosophical statement — she accepts that beautiful things are by nature vulnerable."
+    },
+    {
+      "id": "selective-y6-reading-t3-q10",
+      "question": "What is the poet's broader message in this poem?",
+      "options": [
+        "Glassmaking is the most important art form in the world",
+        "Handmade objects are always better than machine-made objects",
+        "There is courage and meaning in creating beautiful, fragile things with patience and skill, even in a world that values speed and cheapness",
+        "Artists should not sell their work because the world does not appreciate it"
+      ],
+      "answer": 2,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the poem celebrates the glassmaker's dedication, skill, and bravery in crafting something fragile and beautiful despite a world that 'wants its objects cheap and done.' The poem's message extends beyond glassmaking to any form of patient, careful creation in a fast-paced world. The glassmaker 'shapes the fragile into beauty and sends it out among the strong' — an act of courage and faith.\n\nOption B is incorrect because the poem does not make a general argument about all handmade versus machine-made objects — it uses one specific craft to explore broader themes of patience, courage, and the value of beauty.\n\nCommon mistake: Students might choose B as a simplified version of the message, but the poem goes deeper than a handmade-versus-factory comparison. Its themes include accepting vulnerability, the relationship between maker and material, and the courage to create beauty in an indifferent world."
+    }
+  ]
+}

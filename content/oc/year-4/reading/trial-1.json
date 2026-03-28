@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Keeper of the Tide Pools",
+    "text": "Maya pressed her bare feet into the wet sand and stared at the rocky shelf that jutted out into the sea. The tide was pulling back, and the rocks were beginning to emerge like the spines of some great sleeping creature. She had been coming to this beach every summer since she was small, but today was different. Today, her grandfather was not beside her.\n\nGrandpa had been the one who taught her to read the tides, to know when the pools would appear and when the ocean would swallow them again. He could name every creature hiding in those shallow pools — the purple sea urchins, the darting blennies, the anemones that closed like tiny fists when you touched them.\n\n\"The tide pools are libraries,\" he used to say. \"Every rock shelf is a different chapter.\"\n\nMaya swallowed hard and stepped onto the first rock. The surface was rough under her feet, covered in barnacles and patches of bright green algae. She crouched beside a pool no bigger than a dinner plate and peered in. A hermit crab scuttled sideways, dragging its borrowed shell across the sandy bottom. Two small fish hovered near a clump of seaweed, barely moving.\n\nShe moved from pool to pool, just as Grandpa had shown her. In the deeper pools closer to the waterline, she found a sea star pressed against the rock, its orange arms spread wide. She remembered Grandpa explaining that sea stars could regrow a lost arm — something that had amazed her when she was six and still amazed her now.\n\nAs the afternoon wore on, Maya took out the small notebook she had brought. She sketched the creatures she found and wrote notes beside each drawing. The hermit crab, pool one. Orange sea star, pool four. She wrote carefully, the way Grandpa would have.\n\nThe wind picked up and the first waves began to lap at the lower rocks. The tide was turning. Maya closed her notebook and stood, watching the water slowly reclaim the pools, hiding their treasures beneath the surface once more.\n\nShe tucked the notebook into her backpack and whispered, \"I'll keep reading, Grandpa.\"\n\nAs she walked back across the sand, she realised that this was what Grandpa had really given her — not just knowledge about sea creatures, but the patience to look closely and the curiosity to keep asking questions. The tide pools would be here tomorrow, and so would she.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y4-reading-t1-q01",
+      "question": "What is the story mainly about?",
+      "options": [
+        "A girl who studies marine biology at the beach",
+        "A girl who continues her grandfather's tradition of exploring tide pools",
+        "A grandfather who teaches his granddaughter to swim in the ocean",
+        "A family holiday at a beach that has unusual sea creatures"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story centres on Maya visiting the tide pools that she used to explore with her grandfather. Although he is no longer with her, she continues the tradition — observing, sketching, and taking notes just as he taught her. The story is about carrying on what her grandfather started.\n\nOption A is incorrect because while Maya does study creatures at the beach, she is not a marine biology student — she is a child honouring her grandfather's memory.\n\nCommon mistake: Students might choose A because of the scientific observations, but the emotional core of the story is about Maya's relationship with her grandfather."
+    },
+    {
+      "id": "oc-y4-reading-t1-q02",
+      "question": "Why is today different for Maya?",
+      "options": [
+        "The tide is lower than usual",
+        "Her grandfather is not with her",
+        "She has never seen tide pools before",
+        "The beach is too crowded"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'today was different. Today, her grandfather was not beside her.' This directly tells us why the day feels special and emotional.\n\nOption C is incorrect because the passage says Maya 'had been coming to this beach every summer since she was small,' so she has seen tide pools many times before.\n\nCommon mistake: Students might choose A because the tide is mentioned, but the passage makes it clear that what is different is the absence of her grandfather."
+    },
+    {
+      "id": "oc-y4-reading-t1-q03",
+      "question": "What does the phrase 'the rocks were beginning to emerge like the spines of some great sleeping creature' mean?",
+      "options": [
+        "There was a large animal sleeping under the rocks",
+        "The rocks were sharp and dangerous to walk on",
+        "The rocks appeared gradually above the water, looking like a creature's back",
+        "The creature under the water was waking up"
+      ],
+      "answer": 2,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because this is a simile — the author compares the rocks emerging from the receding tide to the spines on a sleeping creature's back. As the tide pulls out, the rocks gradually become visible, resembling a large animal's ridged back.\n\nOption A is incorrect because there is no actual creature — the comparison is figurative language used to paint a vivid picture.\n\nCommon mistake: Students may take the simile literally and think there is a real creature, but the word 'like' signals a comparison."
+    },
+    {
+      "id": "oc-y4-reading-t1-q04",
+      "question": "What did Grandpa mean when he said 'The tide pools are libraries'?",
+      "options": [
+        "You need to be quiet near the tide pools",
+        "The tide pools contain hidden information and knowledge, like books",
+        "You can borrow things from the tide pools and return them later",
+        "The tide pools are arranged in alphabetical order"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Grandpa is using a metaphor to compare tide pools to libraries. Just as libraries hold knowledge in books, tide pools hold knowledge about sea creatures and nature. He also says 'every rock shelf is a different chapter,' extending the metaphor by comparing each section to a chapter in a book.\n\nOption A is incorrect because while libraries are quiet, the metaphor is about knowledge and discovery, not about noise levels.\n\nCommon mistake: Students might choose C because libraries involve borrowing, but the metaphor is about learning and discovery — each pool has something new to 'read' and understand."
+    },
+    {
+      "id": "oc-y4-reading-t1-q05",
+      "question": "Why does Maya whisper 'I'll keep reading, Grandpa'?",
+      "options": [
+        "She is planning to read a book about tide pools when she gets home",
+        "She is promising to continue exploring and learning from the tide pools, as he taught her",
+        "She is talking to her grandfather on the phone",
+        "She found a message from her grandfather written on a rock"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Maya is connecting to Grandpa's metaphor about tide pools being libraries. By saying 'I'll keep reading,' she means she will continue visiting the tide pools and learning from them, just as Grandpa taught her. It is a quiet promise to carry on his tradition.\n\nOption A is incorrect because 'reading' here refers to the tide pool metaphor, not actual reading of a book.\n\nCommon mistake: Students might take 'reading' literally and choose A, but the word links back to Grandpa's metaphor of tide pools as libraries with chapters to explore."
+    },
+    {
+      "id": "oc-y4-reading-t1-q06",
+      "question": "How does Maya feel during the story?",
+      "options": [
+        "Bored and uninterested in the tide pools",
+        "Sad about her grandfather's absence but determined to carry on his work",
+        "Frightened of the creatures in the rock pools",
+        "Angry that no one came to the beach with her"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Maya shows sadness through details like 'Maya swallowed hard' (a sign of holding back emotion) and the fact that today is 'different' without Grandpa. However, she also shows determination by exploring the pools alone, taking careful notes, and whispering her promise to keep going.\n\nOption A is incorrect because Maya carefully sketches creatures and moves from pool to pool with clear interest and care.\n\nCommon mistake: Students might focus only on the sadness and overlook Maya's determination, or vice versa. Both emotions are present throughout the story."
+    },
+    {
+      "id": "oc-y4-reading-t1-q07",
+      "question": "What causes Maya to start walking back across the sand?",
+      "options": [
+        "She runs out of pages in her notebook",
+        "The wind and rising tide begin to cover the pools",
+        "Her parents call her from the car park",
+        "It starts raining heavily"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'The wind picked up and the first waves began to lap at the lower rocks. The tide was turning.' Maya watches the water 'reclaim the pools' and then walks back. The returning tide signals it is time to leave.\n\nOption A is incorrect because the passage does not mention Maya running out of pages.\n\nCommon mistake: Students might choose C because parents picking children up from the beach is common, but the text only mentions the tide as the reason she leaves."
+    },
+    {
+      "id": "oc-y4-reading-t1-q08",
+      "question": "What did Grandpa really give Maya, according to the last paragraph?",
+      "options": [
+        "A book about sea creatures and tide pools",
+        "The patience to look closely and the curiosity to keep asking questions",
+        "A collection of shells from the beach",
+        "A job at the local aquarium"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage states 'this was what Grandpa had really given her — not just knowledge about sea creatures, but the patience to look closely and the curiosity to keep asking questions.' The most important gift was not facts, but a way of thinking.\n\nOption A is incorrect because no book is mentioned — Grandpa taught Maya through direct experience at the tide pools.\n\nCommon mistake: Students might choose A because of the library metaphor, but Grandpa's real gift was an attitude of curiosity and patience, not a physical object."
+    },
+    {
+      "id": "oc-y4-reading-t1-q09",
+      "question": "How is the passage organised?",
+      "options": [
+        "It compares Maya's approach to tide pools with her grandfather's",
+        "It lists facts about different sea creatures in tide pools",
+        "It follows Maya through a single afternoon at the beach in chronological order",
+        "It alternates between past events and present events randomly"
+      ],
+      "answer": 2,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the story follows a clear time sequence: Maya arrives at the beach, the tide goes out, she explores the pools, takes notes, the tide begins to return, and she walks back. Memories of Grandpa are woven in, but the main structure follows the afternoon chronologically.\n\nOption D is incorrect because although there are flashbacks to Grandpa, they are woven into the chronological flow rather than randomly placed.\n\nCommon mistake: Students might choose D because memories of Grandpa appear throughout, but these memories support the present-time narrative rather than disrupting its order."
+    },
+    {
+      "id": "oc-y4-reading-t1-q10",
+      "question": "Why did the author write this story?",
+      "options": [
+        "To teach readers how to identify sea creatures in tide pools",
+        "To show how knowledge and love can be passed from one generation to the next",
+        "To warn readers about the dangers of exploring rocks near the ocean",
+        "To explain how tides work and why they change throughout the day"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the heart of the story is about Maya carrying on what her grandfather taught her. The tide pools represent knowledge passed between generations, and Maya's notebook and whispered promise show she will continue this tradition. The author's purpose is to explore the theme of intergenerational connection.\n\nOption A is incorrect because while sea creatures are described, the passage is not an informational text — it is a story about a relationship and legacy.\n\nCommon mistake: Students might choose A because specific creatures are named and described, but these details serve the emotional story rather than being the author's primary purpose."
+    }
+  ]
+}

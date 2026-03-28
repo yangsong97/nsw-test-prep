@@ -1,0 +1,128 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 8
+  },
+  "passage": {
+    "title": "My Grandad's Garden",
+    "text": "My grandad has a garden\nwith rows of beans and peas,\nwith strawberries in summer\nand big old lemon trees.\n\nHe wears his floppy sun hat\nand boots with muddy toes,\nhe hums a little tune\nas every seedling grows.\n\nHe shows me how to dig the holes\nand drop the seeds inside,\nhe says to pat the soil down gently\nand give them room to hide.\n\nHe lets me use the watering can\nto give the plants a drink,\nhe says they get as thirsty\nas you might sometimes think.\n\nThe ladybirds come visiting,\nthey crawl along the leaves,\nthe butterflies dance softly\nin the warm December breeze.\n\nA magpie sits upon the fence\nand warbles out a song,\nthe bees buzz round the basil flowers\nand hum the whole day long.\n\nWe pick the ripe tomatoes\nand carrots from the ground,\nwe fill the wooden basket\nwith treasures that we found.\n\nSometimes we find a wiggly worm\nor snails with swirly shells,\nGrandad says they help the garden\nwith their secret little spells.\n\nThe sunflowers stand up tall and proud\nand turn to face the light,\ntheir golden heads are like small suns\nthat glow from morning bright.\n\nWe plant the mint and parsley too,\nthe herbs that smell so sweet,\nand rosemary with purple flowers\nthat grow beside our feet.\n\nThe scarecrow watches from the fence\nwith button eyes and straw,\nhe guards the corn and keeps the birds\naway with just his jaw.\n\nAnd when the work is over\nwe sit beneath the shade,\nwe share a glass of lemon squash\nthat Grandad always made.\n\nHe tells me stories of the days\nwhen he was small like me,\nwhen he helped his dad grow pumpkins\nunderneath a pepper tree.\n\nI love my grandad's garden,\nit's where I want to be,\na place of dirt and sunshine\nthat he shares with only me.",
+    "type": "poetry"
+  },
+  "questions": [
+    {
+      "id": "oc-y2-reading-t3-q01",
+      "question": "What is this poem mainly about?",
+      "options": [
+        "How to grow vegetables in a garden",
+        "A child's special time with their grandad in his garden",
+        "The best way to water plants in summer",
+        "Why ladybirds and butterflies visit gardens"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem describes a child spending time with their grandad in his garden — watering plants, picking vegetables, and sharing lemon squash together. The final stanza confirms this: 'I love my grandad's garden... a place of dirt and sunshine that he shares with only me.'\n\nOption A is incorrect because although garden activities are mentioned, the poem is about the relationship between the child and grandad, not gardening instructions.\n\nCommon mistake: Students may choose A because vegetables and watering are mentioned, but the poem's focus is on the bond between the child and grandad."
+    },
+    {
+      "id": "oc-y2-reading-t3-q02",
+      "question": "What does Grandad wear in the garden?",
+      "options": [
+        "A raincoat and gumboots",
+        "A floppy sun hat and muddy boots",
+        "Shorts and a striped shirt",
+        "Gloves and an apron"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem says 'He wears his floppy sun hat and boots with muddy toes.'\n\nOption A is incorrect because although boots are mentioned, they are described as muddy, not as gumboots, and there is no mention of a raincoat.\n\nCommon mistake: Students may confuse 'boots with muddy toes' with gumboots, but the poem describes them differently."
+    },
+    {
+      "id": "oc-y2-reading-t3-q03",
+      "question": "What does the word 'treasures' mean in this poem?",
+      "options": [
+        "Gold coins buried in the ground",
+        "Special or valuable things they picked from the garden",
+        "Toys hidden in the garden shed",
+        "Pretty flowers for a vase"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem says 'we fill the wooden basket with treasures that we found' right after describing picking tomatoes and carrots. The word 'treasures' is used to show that the vegetables they picked feel special and valuable to them.\n\nOption A is incorrect because there is no mention of gold or buried treasure — the word is used figuratively to describe the garden produce.\n\nCommon mistake: Students may take the word 'treasures' literally, but in this poem it is a figure of speech meaning the vegetables are precious to the child and grandad."
+    },
+    {
+      "id": "oc-y2-reading-t3-q04",
+      "question": "What season is it in the poem? How do you know?",
+      "options": [
+        "Winter, because they drink hot chocolate",
+        "Autumn, because the leaves are falling",
+        "Summer, because it mentions a warm December breeze and sunshine",
+        "Spring, because the flowers are just starting to bloom"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the poem mentions 'the warm December breeze' and 'strawberries in summer.' In Australia, December is a summer month. The poem also mentions sunshine and shade, which fit with warm summer weather.\n\nOption A is incorrect because there is no mention of hot chocolate or cold weather.\n\nCommon mistake: Students from the Northern Hemisphere might think December is winter, but in Australia, December is summer. The poem uses Australian seasons."
+    },
+    {
+      "id": "oc-y2-reading-t3-q05",
+      "question": "How does the child feel about Grandad's garden?",
+      "options": [
+        "It is boring and too much work",
+        "It is scary because of the insects",
+        "It is a special place they love",
+        "It is too hot and uncomfortable"
+      ],
+      "answer": 2,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the last stanza says 'I love my grandad's garden, it's where I want to be, a place of dirt and sunshine that he shares with only me.' The words 'love' and 'want to be' clearly show the child thinks it is a special, beloved place.\n\nOption A is incorrect because the child describes the activities with joy, calling the vegetables 'treasures' and expressing love for the garden.\n\nCommon mistake: Students might think the mention of 'work' in the poem ('when the work is over') suggests the child finds it tiring, but the overall tone is joyful and loving."
+    },
+    {
+      "id": "oc-y2-reading-t3-q06",
+      "question": "What do the child and Grandad do after they finish gardening?",
+      "options": [
+        "They go inside to watch television",
+        "They plant more seeds",
+        "They sit in the shade and drink lemon squash",
+        "They feed the birds"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the poem says 'And when the work is over we sit beneath the shade, we share a glass of lemon squash that Grandad always made.'\n\nOption A is incorrect because the poem does not mention going inside or watching television.\n\nCommon mistake: Students might choose B because gardening is a theme, but the poem clearly states they rest and drink lemon squash after the work is done."
+    },
+    {
+      "id": "oc-y2-reading-t3-q07",
+      "question": "Why does the poet describe the butterflies as 'dancing'?",
+      "options": [
+        "Because the butterflies are doing a real dance",
+        "Because the butterflies are moving in a light, gentle way",
+        "Because the butterflies are following music",
+        "Because the butterflies are playing a game"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because poets often use figurative language. When the poem says 'the butterflies dance softly,' it does not mean the butterflies are literally dancing. It means they are moving gently and gracefully through the air, which looks like dancing.\n\nOption A is incorrect because butterflies cannot actually dance — the word 'dance' is used to describe their soft, floating movement.\n\nCommon mistake: Younger students may take 'dance' literally. In poetry, words are often used to paint a picture. Here, 'dance' describes the gentle, flowing way butterflies fly."
+    },
+    {
+      "id": "oc-y2-reading-t3-q08",
+      "question": "Why did the poet write this poem?",
+      "options": [
+        "To teach people how to grow a garden",
+        "To show how special time with family can be",
+        "To explain what ladybirds and butterflies do",
+        "To warn people about working in the sun"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the poem focuses on the loving relationship between the child and Grandad. Every activity — watering, picking vegetables, sharing lemon squash — is described as a warm, shared experience. The final stanza makes the purpose clear: the garden is special because it is a place Grandad 'shares with only me.'\n\nOption A is incorrect because while gardening activities are mentioned, the poem does not give instructions or teach gardening techniques.\n\nCommon mistake: Students might choose A because the poem mentions beans, peas, tomatoes, and watering, but these details serve to show the time the child and Grandad spend together, not to teach gardening."
+    }
+  ]
+}

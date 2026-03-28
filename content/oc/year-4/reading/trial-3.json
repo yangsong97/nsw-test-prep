@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Old Bridge",
+    "text": "They say the old bridge talks at night,\nwhen moonlight fills the river wide,\nits timbers creak and groan and sigh\nas if it draws the dark inside.\n\nA hundred years of boots and wheels\nhave worn its planks to silver-grey,\nand still it holds, though no one knows\nhow long it means to stay.\n\nIt wears its scars with quiet pride —\nthe gouges where the carts broke through,\nthe nail holes from a sign that read\n\"Cross slowly — one at a time, not two.\"\n\nThe council says it must come down —\ntoo old, too weak, too much to mend.\nThey plan to build a concrete road\nthat stretches straight from end to end.\n\nThey've drawn their maps and made their plans,\nthey've measured cost and weighed the stone.\nBut some things can't be weighed or mapped —\nlike memory and what we've known.\n\nBut Mrs Lee, who lives nearby,\nremembers dancing there at ten,\nher shoes click-clacking on the boards\nwhile fiddle music filled the glen.\n\nAnd Mr Khan still tells the tale\nof when the river rose so high\nthe bridge stood firm through flood and rain\nwhile newer roads washed clean away.\n\nThe children love to lean and watch\nthe water rushing down below,\nto drop in sticks and race them through\nand count the ripples as they go.\n\nThe local painter, old Jim Byrne,\nhas sketched the bridge in every season —\nin winter frost, in autumn gold.\nHe says its beauty needs no reason.\n\nA concrete road won't creak or bend,\nit will not groan beneath the moon,\nbut will it hold a hundred years\nof stories, games, and fiddle tunes?\n\nSo let the engineers decide\nif bolts and beams can be renewed,\nbut do not say it's only wood —\nsome bridges carry more than wood.",
+    "type": "poetry"
+  },
+  "questions": [
+    {
+      "id": "oc-y4-reading-t3-q01",
+      "question": "What is this poem mainly about?",
+      "options": [
+        "A bridge that is haunted by ghosts at night",
+        "The debate about whether to replace an old wooden bridge with a concrete road",
+        "A river that floods every year and destroys roads",
+        "Children who play dangerous games on a bridge"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem presents two sides: the council wants to demolish the old bridge and build a concrete road, while community members value the bridge for its memories and history. The poem argues that the bridge is worth more than its physical structure.\n\nOption A is incorrect because although the poem says the bridge 'talks at night,' this is personification (giving the bridge human qualities), not a ghost story.\n\nCommon mistake: Students might take the opening stanza literally and think the bridge is haunted, but the creaking and groaning are simply the sounds of an old wooden structure."
+    },
+    {
+      "id": "oc-y4-reading-t3-q02",
+      "question": "Why does the council want to remove the bridge?",
+      "options": [
+        "It blocks boats from travelling down the river",
+        "It is too old, too weak, and too costly to repair",
+        "It was damaged in a recent flood",
+        "The community voted to replace it"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the poem says 'The council says it must come down — too old, too weak, too much to mend.' These three reasons are clearly stated.\n\nOption C is incorrect because the poem mentions a past flood in which the bridge survived — 'the bridge stood firm through flood and rain.'\n\nCommon mistake: Students might choose C because flooding is mentioned, but Mr Khan's story actually proves the bridge's strength during a flood."
+    },
+    {
+      "id": "oc-y4-reading-t3-q03",
+      "question": "What does the word 'renewed' mean in the line 'if bolts and beams can be renewed'?",
+      "options": [
+        "Painted a different colour",
+        "Made new or restored to good condition",
+        "Sold to someone else",
+        "Moved to a different location"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because 'renewed' means to make something new again or restore it. The poet is suggesting that engineers should check whether the bridge's structural parts (bolts and beams) can be repaired and restored rather than demolished.\n\nOption A is incorrect because 'renewed' refers to structural repair, not just a cosmetic change like painting.\n\nCommon mistake: Students might think 'renewed' only means surface-level changes, but in this context it means a thorough restoration of the bridge's structure."
+    },
+    {
+      "id": "oc-y4-reading-t3-q04",
+      "question": "Why does the poet include Mrs Lee's memory?",
+      "options": [
+        "To show that Mrs Lee is the oldest person in the town",
+        "To demonstrate that the bridge holds personal and community memories",
+        "To prove that Mrs Lee is a talented dancer",
+        "To explain why the bridge makes creaking sounds"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Mrs Lee's memory of dancing on the bridge as a child shows that the bridge is connected to people's personal histories and community traditions. This supports the poem's argument that the bridge carries emotional value beyond its physical function.\n\nOption A is incorrect because the poem does not compare Mrs Lee's age to anyone else's — her story is included for its emotional significance.\n\nCommon mistake: Students might choose D because Mrs Lee's shoes 'click-clacked on the boards,' but this detail adds to the memory, not to an explanation of the bridge's sounds."
+    },
+    {
+      "id": "oc-y4-reading-t3-q05",
+      "question": "What does Mr Khan's story tell us about the bridge?",
+      "options": [
+        "The bridge was once destroyed by a flood and rebuilt",
+        "The bridge survived a major flood while newer roads were washed away",
+        "Mr Khan helped build the bridge when he was young",
+        "The bridge is the only way to cross the river"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the poem says 'the bridge stood firm through flood and rain while newer roads washed clean away.' This shows the bridge is stronger than people think — it outlasted newer structures during a flood.\n\nOption A is incorrect because the bridge was not destroyed — it survived the flood.\n\nCommon mistake: Students might confuse 'the river rose so high' with the bridge being damaged, but the poem emphasises that the bridge 'stood firm.'"
+    },
+    {
+      "id": "oc-y4-reading-t3-q06",
+      "question": "What does the poet mean by 'some bridges carry more than wood'?",
+      "options": [
+        "The bridge is made of metal as well as wood",
+        "The bridge carries cars and trucks, not just people",
+        "The bridge holds memories, stories, and community connections, not just its physical material",
+        "The bridge is heavier than it looks"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the final line is the poem's central message. Throughout the poem, we hear about Mrs Lee's dancing, Mr Khan's flood story, and children's games. The bridge 'carries' all of these memories and experiences in addition to its physical wooden structure. It is a metaphor for the bridge's emotional and historical value.\n\nOption A is incorrect because the line is figurative — it is not about the physical materials of the bridge.\n\nCommon mistake: Students might take the line literally and think about physical weight or materials, but the poem has been building toward this metaphorical meaning all along."
+    },
+    {
+      "id": "oc-y4-reading-t3-q07",
+      "question": "What is the tone of the seventh stanza ('A concrete road won't creak or bend...')?",
+      "options": [
+        "Excited and hopeful about the new road",
+        "Questioning whether a new road can match the bridge's character",
+        "Angry at the council for making a bad decision",
+        "Sad because the bridge has already been demolished"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the stanza uses a rhetorical question: 'but will it hold a hundred years of stories, games, and fiddle tunes?' The poet is not making a statement — they are inviting the reader to question whether a concrete road can ever replace the experiences the old bridge has gathered. The tone is thoughtful and questioning.\n\nOption C is incorrect because the stanza is reflective, not angry. It raises a question rather than making an accusation.\n\nCommon mistake: Students might choose A because the stanza describes what a concrete road can do, but the rhetorical question at the end reveals doubt, not excitement."
+    },
+    {
+      "id": "oc-y4-reading-t3-q08",
+      "question": "What is the effect of personifying the bridge in the first stanza?",
+      "options": [
+        "It makes the bridge seem dangerous and threatening",
+        "It makes the bridge seem alive, as if it has feelings and character",
+        "It explains why the bridge needs to be replaced",
+        "It proves that the bridge was built by hand"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the bridge is described as talking, creaking, groaning, and sighing — actions normally done by living things. This personification makes the bridge seem alive, with its own personality and presence. It sets up the poem's argument that the bridge is more than just a structure.\n\nOption A is incorrect because the sounds are described poetically, not as threats. The moonlit setting is atmospheric, not frightening.\n\nCommon mistake: Students might choose A because groaning and creaking can sound eerie, but the overall tone is respectful and fond, not fearful."
+    },
+    {
+      "id": "oc-y4-reading-t3-q09",
+      "question": "What do the children do on the bridge?",
+      "options": [
+        "They fish from the side of the bridge",
+        "They lean over to watch the water and race sticks through it",
+        "They paint pictures of the river below",
+        "They climb on the bridge's beams and ropes"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the poem says the children 'lean and watch the water rushing down below, to drop in sticks and race them through and count the ripples as they go.'\n\nOption A is incorrect because fishing is not mentioned — the children drop in sticks, not fishing lines.\n\nCommon mistake: Students might confuse dropping sticks into the water with fishing, but the poem describes a stick-racing game, not fishing."
+    },
+    {
+      "id": "oc-y4-reading-t3-q10",
+      "question": "What is the poet's main purpose in writing this poem?",
+      "options": [
+        "To entertain readers with a scary story about a bridge at night",
+        "To argue that old structures with community value should not be thoughtlessly demolished",
+        "To explain how bridges are built and maintained",
+        "To describe what happens to towns when roads are improved"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the poem presents memories, stories, and emotional connections to the bridge, then asks whether a concrete replacement could hold the same value. The final stanza asks engineers to consider repairs and reminds us that 'some bridges carry more than wood.' The poet is arguing for preservation of community heritage.\n\nOption A is incorrect because the poem is not a ghost story — the atmospheric opening is personification used to give the bridge character.\n\nCommon mistake: Students might choose C because the poem mentions bolts, beams, and engineers, but these are part of the argument for repair, not an explanation of construction."
+    }
+  ]
+}

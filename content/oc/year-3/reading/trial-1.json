@@ -1,0 +1,142 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 9
+  },
+  "passage": {
+    "title": "The Map in the Attic",
+    "text": "Liam had never been allowed in the attic before. It was the one room in Grandpa's old farmhouse that was always locked. But today, Grandpa handed him a rusty key and said, \"I think you're old enough now.\"\n\nThe stairs creaked under Liam's feet as he climbed into the dusty space above. Pale light filtered through a small round window, casting shadows across stacked boxes and forgotten furniture. Everything was covered in a thick layer of dust, as if the room had been sleeping for years.\n\nLiam ran his fingers along the edge of an old wooden trunk. He lifted the heavy lid and found it packed with yellowed newspapers, moth-eaten scarves, and a collection of glass bottles in different colours. But what caught his eye was a rolled-up piece of paper tied with faded red string.\n\nHe untied the string carefully and unrolled the paper on the floor. It was a hand-drawn map. The lines were shaky but clear, showing a creek, a row of hills, and a large gum tree marked with an X. At the bottom, in small, neat handwriting, someone had written: \"Where the kookaburras sing at dawn.\"\n\nLiam's heart beat faster. He recognised those hills — they were the ones behind the farmhouse, the same ones he could see from his bedroom window. The creek must be Willow Creek, where he and Grandpa sometimes went fishing.\n\n\"Grandpa!\" Liam called, scrambling down the stairs with the map clutched in his hands. \"Did you draw this? What's at the X?\"\n\nGrandpa took the map gently and smiled. His eyes seemed to look far away, as though he was remembering something from long ago. \"I drew that when I was about your age,\" he said. \"My brother and I buried a time capsule there — a tin box full of our favourite things.\"\n\n\"Is it still there?\" Liam asked, bouncing on his toes.\n\n\"Only one way to find out,\" said Grandpa, reaching for his walking stick.\n\nThey set off together across the paddock, following the map through the long grass and down toward the creek. The morning sun warmed their shoulders, and somewhere in the trees ahead, a kookaburra began to laugh.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y3-reading-t1-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "A boy who learns how to draw maps",
+        "A boy who discovers an old map in his grandpa's attic and sets out to follow it",
+        "A grandfather who teaches his grandson about farming",
+        "Two brothers who bury treasure on a farm"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story follows Liam as he explores the attic for the first time, discovers a hand-drawn map, and then sets out with Grandpa to find what is marked on it.\n\nOption D is incorrect because although Grandpa mentions burying a time capsule with his brother, that event happened in the past and is not the focus of the story. The story is about Liam's discovery and adventure.\n\nCommon mistake: Students might choose D because the buried time capsule sounds exciting, but the story is told from Liam's perspective and centres on his discovery of the map."
+    },
+    {
+      "id": "oc-y3-reading-t1-q02",
+      "question": "Why had Liam never been in the attic before?",
+      "options": [
+        "He was afraid of the dark",
+        "The room was always locked",
+        "Grandpa did not live at the farmhouse",
+        "The stairs were broken"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'It was the one room in Grandpa's old farmhouse that was always locked.'\n\nOption A is incorrect because the passage does not mention Liam being afraid — he climbs the stairs eagerly once given the key.\n\nCommon mistake: Students might assume Liam was scared because the attic is dusty and shadowy, but the passage gives a clear reason: the door was locked."
+    },
+    {
+      "id": "oc-y3-reading-t1-q03",
+      "question": "What does the word 'filtered' mean in the phrase 'Pale light filtered through a small round window'?",
+      "options": [
+        "Poured in quickly like water",
+        "Passed through slowly and gently",
+        "Flashed on and off brightly",
+        "Was completely blocked out"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because 'filtered' describes light passing through something gradually and softly. The light comes through a 'small round window' and is described as 'pale,' meaning it is gentle and not strong. This tells us the light passed through slowly and gently.\n\nOption D is incorrect because the passage says light did come through — it was not blocked.\n\nCommon mistake: Students might choose A because light can seem like it pours in, but the word 'pale' and the small window suggest a soft, gentle flow rather than a strong one."
+    },
+    {
+      "id": "oc-y3-reading-t1-q04",
+      "question": "How do you know the attic had not been used for a long time?",
+      "options": [
+        "The light switch did not work",
+        "There was a thick layer of dust on everything",
+        "The window was open and leaves had blown in",
+        "Grandpa said he had forgotten about it"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'Everything was covered in a thick layer of dust, as if the room had been sleeping for years.' A thick layer of dust builds up only when a space has not been disturbed for a very long time.\n\nOption A is incorrect because the passage does not mention a light switch — the room is lit by a small round window.\n\nCommon mistake: Students might choose D, but Grandpa never says he forgot about the attic — he deliberately gives Liam the key, suggesting he remembered it well."
+    },
+    {
+      "id": "oc-y3-reading-t1-q05",
+      "question": "What was inside the time capsule?",
+      "options": [
+        "Gold coins and jewellery",
+        "Old photographs and letters",
+        "Grandpa and his brother's favourite things",
+        "A collection of glass bottles"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because Grandpa says 'My brother and I buried a time capsule there — a tin box full of our favourite things.'\n\nOption D is incorrect because the glass bottles were found in the trunk in the attic, not in the time capsule.\n\nCommon mistake: Students might choose D because glass bottles were mentioned in the attic scene, but those were separate items in the trunk, not part of the buried time capsule."
+    },
+    {
+      "id": "oc-y3-reading-t1-q06",
+      "question": "How did Grandpa feel when he saw the map?",
+      "options": [
+        "Angry that Liam had taken it without asking",
+        "Worried that the map might be wrong",
+        "Nostalgic, remembering something from his past",
+        "Confused because he did not recognise it"
+      ],
+      "answer": 2,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage says Grandpa 'smiled' and 'His eyes seemed to look far away, as though he was remembering something from long ago.' Looking far away and remembering the past are signs of nostalgia — a warm, reflective feeling about old memories.\n\nOption A is incorrect because Grandpa smiled when he saw the map and was happy to share its story, not angry.\n\nCommon mistake: Students might not know the word 'nostalgic,' but the clues — smiling, looking far away, remembering — all point to fond memories of the past."
+    },
+    {
+      "id": "oc-y3-reading-t1-q07",
+      "question": "Why did the author include the detail about the kookaburra at the end of the story?",
+      "options": [
+        "To show that the farm has many different birds",
+        "To connect to the words written on the map",
+        "To suggest that the weather was warm",
+        "To show that the walk was taking a long time"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the map had the note 'Where the kookaburras sing at dawn' written at the bottom. When a kookaburra begins to laugh at the end of the story, it connects directly to those words, suggesting Liam and Grandpa are getting close to the spot marked on the map.\n\nOption A is incorrect because the kookaburra's appearance is not about showing biodiversity — it is a deliberate connection to the map's clue.\n\nCommon mistake: Students might choose C because sunshine is mentioned, but the kookaburra detail is specifically linked to the map's inscription, making B the best answer."
+    },
+    {
+      "id": "oc-y3-reading-t1-q08",
+      "question": "What caused Liam's heart to beat faster when he looked at the map?",
+      "options": [
+        "He was scared of the dark attic",
+        "He was cold from the dusty air",
+        "He recognised the hills and creek from the map",
+        "He heard Grandpa calling him from downstairs"
+      ],
+      "answer": 2,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage says 'Liam's heart beat faster. He recognised those hills — they were the ones behind the farmhouse.' Recognising that the map showed a real, nearby location excited him because it meant the map could lead somewhere he could actually go.\n\nOption A is incorrect because by this point Liam was studying the map with curiosity, not fear.\n\nCommon mistake: Students might choose A because attics can be scary in stories, but the passage makes clear that Liam's fast heartbeat was caused by the excitement of recognising the location on the map."
+    },
+    {
+      "id": "oc-y3-reading-t1-q09",
+      "question": "How is this passage organised?",
+      "options": [
+        "It compares life on a farm now with life on a farm in the past",
+        "It describes a problem and then explains how it was solved",
+        "It tells events in the order they happened",
+        "It gives facts about time capsules and how to make them"
+      ],
+      "answer": 2,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the story follows a chronological sequence: first Liam receives the key, then he climbs to the attic, finds the trunk, discovers the map, shows it to Grandpa, and finally they set off to find the time capsule. Each event leads naturally to the next.\n\nOption B is incorrect because while there is a question (what is at the X?), the story does not resolve it — they are still walking toward the location at the end.\n\nCommon mistake: Students might choose B because Liam wants to find the time capsule, but the story does not show a complete problem-solution structure since the ending is open."
+    }
+  ]
+}

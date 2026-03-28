@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 1,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Cartographer's Daughter",
+    "text": "Zara's mother drew maps for a living — not the kind you find on your phone, but the kind you hang on a wall and trace with your fingertip, following rivers through valleys and roads over mountain passes. She worked at the old cartography studio on Elm Street, surrounded by jars of ink, steel-nibbed pens, and rolls of creamy paper that smelled faintly of vanilla.\n\nZara had grown up watching her mother's steady hand glide across blank pages, turning emptiness into landscapes. She knew the difference between a contour line and a boundary marker before she could tie her own shoelaces. Maps were the language her family spoke.\n\nBut when the studio received a contract to digitise its entire archive — scanning thousands of hand-drawn maps into computer files — something shifted. Zara's mother began coming home later, her shoulders tight, her conversation clipped. One evening, she set down her bag and said, \"They want to replace the whole studio with software. One program, three operators. That's all they need.\"\n\nZara felt a cold weight settle in her chest. \"But your maps are beautiful,\" she said. \"A computer can't do what you do.\"\n\nHer mother smiled thinly. \"It can do it faster and cheaper. That's what matters to most people.\"\n\nFor weeks, Zara noticed her mother sketching less at home. The sketchbooks that once lay open on every surface were closed and stacked on shelves. The ink jars gathered dust. It was as though the house itself was forgetting how to breathe.\n\nThen one Saturday, Zara found a large unfinished map on her mother's desk. It showed the coastline near their town — the headlands, the hidden coves, the walking tracks that wound through coastal scrub. But unlike the studio's official maps, this one had personal details: the rock pool where Zara caught her first crab, the bench where they ate fish and chips on Friday evenings, the cliff path where her mother once pointed out a pod of dolphins.\n\nZara stared at the map for a long time. It was not just geography — it was memory, emotion, and connection woven into ink and paper. She understood then that her mother's skill was not simply about drawing lines. It was about seeing the world with attention and care, and translating that vision into something others could hold.\n\nShe picked up one of the steel-nibbed pens and, in the bottom corner of the map, carefully lettered: \"Drawn by hand. Held by heart.\"\n\nWhen her mother found the inscription that evening, she stood very still for a moment. Then she reached for a fresh sheet of paper and began to draw.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y5-reading-t1-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "A family that goes on a coastal holiday together",
+        "A girl who helps her mother rediscover her passion for hand-drawn maps when technology threatens her career",
+        "A cartography studio that switches from paper maps to digital maps",
+        "A girl who learns to draw maps at school"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story follows Zara as she watches her mother lose confidence when technology threatens her work, then reconnects her to the value of hand-drawn maps through a personal inscription. The climax is the mother picking up a fresh sheet of paper and drawing again.\n\nOption C is incorrect because while the digitisation is the catalyst for the conflict, the story is about the personal impact on the family, not the business decision itself.\n\nCommon mistake: Students might choose C because the studio's transition is an important plot point, but the story's heart is the relationship between Zara and her mother."
+    },
+    {
+      "id": "selective-y5-reading-t1-q02",
+      "question": "What does the phrase 'It was as though the house itself was forgetting how to breathe' suggest?",
+      "options": [
+        "The house had poor ventilation and needed new windows",
+        "The creative energy and life had drained from the home",
+        "Zara's mother was unwell and could not breathe properly",
+        "The weather outside was very hot and humid"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because this is a metaphor. The passage has just described the sketchbooks being closed, the ink jars gathering dust, and the mother sketching less. The 'house forgetting how to breathe' represents the loss of creative life and vitality that art once brought to the home.\n\nOption A is incorrect because the sentence is figurative, not about literal air quality or ventilation.\n\nCommon mistake: Students may interpret the metaphor literally. The clues are in the surrounding context — closed sketchbooks, dusty ink jars, and reduced creativity all point to the house losing its creative spirit."
+    },
+    {
+      "id": "selective-y5-reading-t1-q03",
+      "question": "Why did Zara's mother begin coming home later with 'her shoulders tight, her conversation clipped'?",
+      "options": [
+        "She was excited about the new digital technology",
+        "She was stressed and worried about losing her job to software",
+        "She was taking extra classes to learn computer programming",
+        "She was angry at Zara for not helping with chores"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the physical descriptions — tight shoulders and clipped conversation — indicate stress and anxiety. This occurs right after the studio receives the digitisation contract, and the mother soon reveals the studio may be replaced by software with just three operators.\n\nOption A is incorrect because tight shoulders and short conversation are signs of stress, not excitement.\n\nCommon mistake: Students might not connect the physical descriptions with emotions. 'Tight shoulders' signals tension, and 'clipped conversation' means short, terse responses — both signs of worry."
+    },
+    {
+      "id": "selective-y5-reading-t1-q04",
+      "question": "What makes the unfinished coastal map different from the studio's official maps?",
+      "options": [
+        "It uses digital software instead of ink",
+        "It includes personal memories and meaningful places",
+        "It covers a much larger area than official maps",
+        "It has errors and inaccurate measurements"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage states 'unlike the studio's official maps, this one had personal details: the rock pool where Zara caught her first crab, the bench where they ate fish and chips on Friday evenings, the cliff path where her mother once pointed out a pod of dolphins.' These are personal memories, not just geographical features.\n\nOption D is incorrect because there is no mention of errors — the personal details are intentional additions, not mistakes.\n\nCommon mistake: Students might think personal details make a map less accurate, but the passage presents them as something valuable that adds emotional depth."
+    },
+    {
+      "id": "selective-y5-reading-t1-q05",
+      "question": "What does Zara realise when she studies the unfinished map?",
+      "options": [
+        "That her mother's maps are outdated and need updating",
+        "That her mother's skill is about seeing the world with attention and care, not just drawing lines",
+        "That she wants to become a computer programmer instead of a cartographer",
+        "That digital maps are more useful than hand-drawn maps"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says Zara 'understood then that her mother's skill was not simply about drawing lines. It was about seeing the world with attention and care, and translating that vision into something others could hold.' This is Zara's key realisation.\n\nOption D is incorrect because Zara's realisation is the opposite — she sees that hand-drawn maps carry meaning that digital maps cannot replicate.\n\nCommon mistake: Students might choose D because technology is presented as faster and cheaper, but Zara's insight is about the irreplaceable human quality in her mother's work."
+    },
+    {
+      "id": "selective-y5-reading-t1-q06",
+      "question": "Why does Zara write 'Drawn by hand. Held by heart.' on the map?",
+      "options": [
+        "To sign her name as the artist of the map",
+        "To remind her mother that her hand-drawn maps carry emotional value that technology cannot replace",
+        "To practise her handwriting with the steel-nibbed pen",
+        "To make the map look more professional for the studio"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the inscription captures Zara's realisation that her mother's maps are 'not just geography — it was memory, emotion, and connection.' By writing these words, Zara is communicating to her mother that hand-drawn maps have a unique, irreplaceable quality — they are made with personal care and held with emotional attachment.\n\nOption A is incorrect because Zara did not draw the map — she only added the inscription to encourage her mother.\n\nCommon mistake: Students might choose A, but Zara only letters a phrase on her mother's map; the map is her mother's work."
+    },
+    {
+      "id": "selective-y5-reading-t1-q07",
+      "question": "What effect does Zara's inscription have on her mother?",
+      "options": [
+        "It makes her decide to quit the studio immediately",
+        "It upsets her because she did not want anyone to see the unfinished map",
+        "It inspires her to start drawing again",
+        "It convinces her to learn digital mapping software"
+      ],
+      "answer": 2,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because after finding the inscription, the mother 'stood very still for a moment. Then she reached for a fresh sheet of paper and began to draw.' The inscription reignites her motivation and she returns to her craft.\n\nOption B is incorrect because although the mother pauses, she does not react with anger or upset — she is moved by the words and resumes drawing.\n\nCommon mistake: Students might misread the mother standing 'very still' as a negative reaction, but the follow-up action — reaching for paper and drawing — shows she is inspired, not upset."
+    },
+    {
+      "id": "selective-y5-reading-t1-q08",
+      "question": "What is the author's purpose in writing this story?",
+      "options": [
+        "To explain the history of cartography and map-making",
+        "To argue that computers should never replace human workers",
+        "To explore how human creativity and personal connection give value to handmade work",
+        "To teach readers how to draw their own maps"
+      ],
+      "answer": 2,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the story highlights the personal, emotional qualities of hand-drawn maps — memory, attention, care, and connection — that software cannot replicate. Through Zara's eyes, the author explores how human creativity adds irreplaceable value.\n\nOption B is incorrect because the story does not make a blanket argument against technology — it acknowledges that digital is faster and cheaper. Instead, it argues for the unique value of handmade, personal work.\n\nCommon mistake: Students might choose B because the story's conflict involves technology replacing handwork, but the author's message is nuanced — it is about the value of human creativity, not a rejection of all technology."
+    },
+    {
+      "id": "selective-y5-reading-t1-q09",
+      "question": "How is the passage structured?",
+      "options": [
+        "It compares digital maps with hand-drawn maps in a point-by-point format",
+        "It follows a chronological narrative from a conflict through to a resolution",
+        "It presents arguments for and against keeping the cartography studio",
+        "It alternates between the present day and historical flashbacks"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story follows a clear narrative arc: the setup (Zara's mother as a cartographer), the conflict (the studio being replaced by software), the rising tension (the mother stopping drawing), the turning point (Zara finding the personal map), and the resolution (the inscription and the mother drawing again).\n\nOption A is incorrect because the passage is a narrative, not an analytical comparison.\n\nCommon mistake: Students might choose C because the story touches on the tension between digital and handmade, but it is structured as a story with characters and events, not as a persuasive argument."
+    },
+    {
+      "id": "selective-y5-reading-t1-q10",
+      "question": "What does the phrase 'Maps were the language her family spoke' suggest about Zara's family?",
+      "options": [
+        "They could not speak English and communicated only through maps",
+        "Maps were central to their identity, shared experiences, and how they connected with each other",
+        "They owned a shop that sold maps to tourists",
+        "Every member of the family worked at the cartography studio"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the metaphor 'Maps were the language her family spoke' means that maps were deeply embedded in the family's life, identity, and relationships. Just as language is how people communicate and connect, maps were how this family expressed themselves and shared their world.\n\nOption A is incorrect because this is a metaphor, not a literal statement about their ability to speak.\n\nCommon mistake: Students may take the metaphor literally. The surrounding context — Zara growing up watching her mother draw, knowing cartography terms before she could tie her shoes — reinforces that maps are central to the family's bond."
+    }
+  ]
+}

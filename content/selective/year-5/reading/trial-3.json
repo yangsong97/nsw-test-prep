@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 3,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "Screen Time: Friend or Foe?",
+    "text": "There is no doubt that screens have become a central part of modern life. From the moment we wake up to the moment we fall asleep, many of us are surrounded by glowing rectangles — phones, tablets, laptops, and televisions. For children and teenagers, the question of how much screen time is healthy has become one of the most hotly debated topics among parents, educators, and health experts.\n\nThose who believe screen time should be strictly limited point to a growing body of research linking excessive screen use to problems such as poor sleep, reduced physical activity, and increased anxiety. Studies have shown that the blue light emitted by screens can interfere with the production of melatonin, a hormone that helps regulate sleep. Children who spend more than two hours a day on recreational screens are also less likely to meet recommended levels of physical activity. Furthermore, social media platforms can expose young people to cyberbullying, unrealistic body standards, and the pressure to constantly compare themselves to others.\n\nHowever, not all screen time is created equal. Educational apps, coding programs, and virtual museum tours can enrich learning in ways that textbooks alone cannot. Video calls allow children to stay connected with family members who live far away. Creative tools such as digital drawing programs and music production software give young people new ways to express themselves. During the recent pandemic, screens were essential for continuing education when schools were closed.\n\nSome researchers argue that the focus on total hours of screen time is misleading. What matters more, they suggest, is the quality of the content and the context in which it is consumed. A child who spends an hour collaborating on a group project over video chat is having a very different experience from a child who spends an hour passively scrolling through short-form videos. Likewise, a teenager who uses a screen to edit a short film is developing valuable skills, while one who is endlessly refreshing social media may be harming their wellbeing.\n\nThe key, most experts agree, lies in balance. Families should establish clear guidelines that encourage a mix of screen-based and non-screen activities. Regular breaks, outdoor play, face-to-face interaction, and adequate sleep should all remain priorities. Rather than demonising screens or embracing them without question, we should teach young people to use technology mindfully — as a tool that serves them, rather than one that controls them.\n\nThe screen itself is neither friend nor foe. It is what we do with it that matters.",
+    "type": "persuasive"
+  },
+  "questions": [
+    {
+      "id": "selective-y5-reading-t3-q01",
+      "question": "What is the main argument of this passage?",
+      "options": [
+        "All screen time is harmful and should be eliminated for children",
+        "Screen time is neither entirely good nor entirely bad — what matters is how it is used",
+        "Children should be allowed unlimited screen time because technology is the future",
+        "Parents should monitor every minute their children spend on screens"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage presents both sides of the screen time debate and concludes that 'The screen itself is neither friend nor foe. It is what we do with it that matters.' The central argument is about balance and mindful use, not complete restriction or total freedom.\n\nOption A is incorrect because the passage explicitly describes many benefits of screen time, including education, creative tools, and staying connected.\n\nCommon mistake: Students who focus only on the negative evidence in paragraph two might choose A, but the passage deliberately presents positive uses before arriving at its balanced conclusion."
+    },
+    {
+      "id": "selective-y5-reading-t3-q02",
+      "question": "According to the passage, how can blue light from screens affect children?",
+      "options": [
+        "It can damage their eyesight permanently",
+        "It can interfere with the production of melatonin and disrupt sleep",
+        "It can cause headaches and nausea",
+        "It can make them more alert and focused during the day"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'the blue light emitted by screens can interfere with the production of melatonin, a hormone that helps regulate sleep.'\n\nOption A is incorrect because the passage does not mention permanent eyesight damage — it specifically discusses sleep disruption.\n\nCommon mistake: Students might choose A because they associate screens with eye problems, but the passage only mentions melatonin and sleep, not eyesight."
+    },
+    {
+      "id": "selective-y5-reading-t3-q03",
+      "question": "What does the phrase 'not all screen time is created equal' mean?",
+      "options": [
+        "Some screens are more expensive than others",
+        "Different types of screen activities have different effects and value",
+        "Children should only use one type of screen at a time",
+        "Screen time at school is not as important as screen time at home"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the paragraph that follows this phrase provides examples of beneficial screen activities (educational apps, video calls, creative tools) contrasted with harmful ones (passive scrolling, excessive social media). The phrase means that the type of activity matters, not just the total time spent.\n\nOption A is incorrect because the phrase is about the quality and nature of activities, not the cost of devices.\n\nCommon mistake: Students might take 'equal' literally as referring to something measurable like price or size, but in this context it means different screen activities are not all the same in terms of value."
+    },
+    {
+      "id": "selective-y5-reading-t3-q04",
+      "question": "How is this passage organised?",
+      "options": [
+        "It tells a story about a child's experience with screen time",
+        "It presents arguments against screen time, then arguments for it, then reaches a balanced conclusion",
+        "It lists rules that families should follow about screen time",
+        "It compares screen time habits in different countries"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage follows a structured argumentative format: paragraph two presents the case against excessive screen time, paragraph three presents benefits, paragraph four adds nuance about quality versus quantity, and the final paragraphs arrive at a balanced conclusion about mindful use.\n\nOption C is incorrect because while the passage mentions guidelines, it does not list specific rules — it argues for a principle of balance.\n\nCommon mistake: Students might choose C because the passage mentions 'clear guidelines,' but the passage is an argumentative essay, not a list of rules."
+    },
+    {
+      "id": "selective-y5-reading-t3-q05",
+      "question": "What example does the author use to show that the same amount of screen time can have different effects?",
+      "options": [
+        "A child watching a movie versus a child reading a book",
+        "A child on a video chat for a group project versus a child passively scrolling short-form videos",
+        "A child using a phone versus a child using a computer",
+        "A child playing outside versus a child playing a video game"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage directly states 'A child who spends an hour collaborating on a group project over video chat is having a very different experience from a child who spends an hour passively scrolling through short-form videos.' This example illustrates that the quality of activity matters more than the quantity of time.\n\nOption A is incorrect because reading a book is not a screen activity, so it would not be used to compare two types of screen time.\n\nCommon mistake: Students might choose D because it contrasts screen and non-screen activities, but the question asks about the author's example showing different effects of the same amount of screen time."
+    },
+    {
+      "id": "selective-y5-reading-t3-q06",
+      "question": "What does the word 'demonising' mean in the context of this passage?",
+      "options": [
+        "Worshipping or admiring something excessively",
+        "Presenting something as completely evil or harmful",
+        "Studying something carefully and thoroughly",
+        "Ignoring something and pretending it does not exist"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'Rather than demonising screens or embracing them without question,' presenting the two extremes. 'Demonising' is the opposite of 'embracing' — it means treating something as entirely bad or evil. The author rejects both extremes in favour of balance.\n\nOption A is incorrect because that would be closer to 'idolising,' which is the opposite of 'demonising.'\n\nCommon mistake: Students might struggle with this word. The context helps: it is paired with 'embracing them without question' as the opposite extreme, so 'demonising' must mean treating screens as entirely negative."
+    },
+    {
+      "id": "selective-y5-reading-t3-q07",
+      "question": "Why does the author mention the pandemic?",
+      "options": [
+        "To argue that screens caused the pandemic",
+        "To show that screen time research is unreliable during unusual times",
+        "To provide an example of when screens were essential for education",
+        "To explain why children now spend more time outdoors"
+      ],
+      "answer": 2,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is C because the passage states 'During the recent pandemic, screens were essential for continuing education when schools were closed.' This example supports the argument that screen time can be beneficial and even necessary.\n\nOption B is incorrect because the author does not question the reliability of research — the pandemic example strengthens the case for screens having important uses.\n\nCommon mistake: Students might overthink this and choose B, but the pandemic reference is straightforward — it is a clear, real-world example of screens serving an essential educational purpose."
+    },
+    {
+      "id": "selective-y5-reading-t3-q08",
+      "question": "What can you infer about why some researchers think focusing on total hours is misleading?",
+      "options": [
+        "Because children lie about how many hours they spend on screens",
+        "Because the same number of hours can involve very different activities with very different effects",
+        "Because parents cannot accurately track their children's screen time",
+        "Because researchers disagree about how to measure time"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage says 'What matters more, they suggest, is the quality of the content and the context in which it is consumed,' and then gives examples of how one hour of collaborative work differs from one hour of passive scrolling. Total hours fail to capture these crucial differences.\n\nOption A is incorrect because the passage discusses measurement issues related to the type of activity, not the honesty of reporting.\n\nCommon mistake: Students might choose C because tracking is a practical challenge, but the researchers' point is conceptual — that measuring only quantity misses the important differences in quality."
+    },
+    {
+      "id": "selective-y5-reading-t3-q09",
+      "question": "What is the effect of the final sentence: 'It is what we do with it that matters'?",
+      "options": [
+        "It introduces a new argument that the rest of the passage did not cover",
+        "It summarises the passage's main message in a concise and memorable way",
+        "It contradicts the arguments made earlier in the passage",
+        "It shifts the blame for screen time problems from children to parents"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the final sentence distils the entire passage — which explores both benefits and harms of screen time — into one clear, memorable statement. It reinforces the balanced perspective that screens are tools, and their impact depends on how they are used.\n\nOption C is incorrect because the sentence does not contradict the passage — it captures its central argument.\n\nCommon mistake: Students might choose A because it feels like a concluding thought, but it does not introduce new material — it summarises the argument that has been building throughout the passage."
+    },
+    {
+      "id": "selective-y5-reading-t3-q10",
+      "question": "What is the cause-and-effect relationship between social media and young people's wellbeing, according to the passage?",
+      "options": [
+        "Social media makes all young people happier by helping them stay connected",
+        "Social media can expose young people to cyberbullying, unrealistic body standards, and harmful comparisons, which can affect their wellbeing",
+        "Social media has no measurable effect on young people's mental health",
+        "Social media causes young people to spend less time on educational activities"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage states that 'social media platforms can expose young people to cyberbullying, unrealistic body standards, and the pressure to constantly compare themselves to others.' These are causes that can negatively affect young people's mental wellbeing.\n\nOption A is incorrect because the passage presents social media's effects as potentially harmful, not universally positive.\n\nCommon mistake: Students might choose D because reduced educational time seems plausible, but the passage specifically links social media to cyberbullying, body image issues, and social comparison — not to reduced study time."
+    }
+  ]
+}

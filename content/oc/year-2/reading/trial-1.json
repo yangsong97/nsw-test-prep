@@ -1,0 +1,128 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 8
+  },
+  "passage": {
+    "title": "Bella and the Blue Feather",
+    "text": "Bella loved spending Saturday mornings with her grandmother. Every weekend, they would walk through the big park near Grandma's house. The park had tall trees, a pond with ducks, and a wooden bridge that creaked when you walked across it.\n\nOne Saturday, Bella found something special on the path. It was a bright blue feather, longer than her hand. She picked it up carefully and showed it to Grandma.\n\n\"Oh my,\" said Grandma. \"That looks like it came from a rosella. They have the most beautiful feathers of all the birds in this park.\"\n\nBella held the feather up to the sunlight. It shimmered with tiny specks of green and purple that she hadn't noticed before. She wanted to keep it forever.\n\n\"Can I take it home?\" Bella asked.\n\nGrandma smiled. \"Of course you can. But you know, some people believe that when you find a feather, it means someone is thinking of you.\"\n\nBella thought about this as they continued walking. She watched the birds hopping in the branches above. A magpie sang its warbling song. Two lorikeets chattered noisily in a gum tree. Then she spotted it — a rosella sitting on the fence near the pond. Its chest was bright red, and its back was covered in the same brilliant blue as her feather.\n\n\"Look, Grandma! That's the bird!\" Bella whispered.\n\nThe rosella tilted its head and looked straight at Bella. Then it spread its wings and flew over the pond, leaving a flash of colour against the grey morning sky.\n\nBella smiled and tucked the feather into her pocket. She decided she would press it inside her favourite book when she got home, so she could keep it safe and remember this perfect morning.\n\nAs they walked back over the creaky bridge, Bella held Grandma's hand tightly. \"I think you were thinking of me, Grandma,\" she said. \"That's why I found the feather.\"\n\nGrandma laughed softly and squeezed her hand. \"I'm always thinking of you, Bella.\"",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y2-reading-t1-q01",
+      "question": "What is the story mainly about?",
+      "options": [
+        "A girl who learns about different types of birds",
+        "A girl who finds a special feather while walking with her grandmother",
+        "A grandmother who teaches her grandchild to collect feathers",
+        "A rosella that lives near a pond in a park"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the whole story follows Bella finding a blue feather during her walk with Grandma and what it means to her. The passage begins with their Saturday walk and centres on the discovery of the feather and the special moment it creates between Bella and her grandmother.\n\nOption A is incorrect because although birds are mentioned, the story is not mainly about learning bird types — it focuses on the feather and Bella's relationship with Grandma.\n\nCommon mistake: Students might choose A because several birds are named, but the birds are background details, not the main focus."
+    },
+    {
+      "id": "oc-y2-reading-t1-q02",
+      "question": "Where did Bella find the blue feather?",
+      "options": [
+        "On the wooden bridge",
+        "Near the pond",
+        "On the path in the park",
+        "Under a gum tree"
+      ],
+      "answer": 2,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because the passage states 'Bella found something special on the path.' This clearly tells us the feather was found on the path in the park.\n\nOption A is incorrect because the wooden bridge is mentioned as part of the park, but the feather was not found there.\n\nCommon mistake: Students may choose B (near the pond) because the rosella is later seen near the pond, but the feather itself was found on the path."
+    },
+    {
+      "id": "oc-y2-reading-t1-q03",
+      "question": "What does the word 'shimmered' mean in the passage?",
+      "options": [
+        "Broke into pieces",
+        "Felt very soft",
+        "Shone with a gentle, changing light",
+        "Made a quiet sound"
+      ],
+      "answer": 2,
+      "topic": "vocabulary",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is C because in the passage, Bella holds the feather 'up to the sunlight' and 'it shimmered with tiny specks of green and purple.' The context of sunlight and seeing colours tells us that 'shimmered' means it shone with a gentle, changing light.\n\nOption B is incorrect because 'shimmered' describes how something looks, not how it feels.\n\nCommon mistake: Students may confuse 'shimmered' with 'shivered' and think it involves movement or sound."
+    },
+    {
+      "id": "oc-y2-reading-t1-q04",
+      "question": "Why did Bella whisper when she saw the rosella?",
+      "options": [
+        "She had a sore throat",
+        "Grandma told her to be quiet",
+        "She did not want to scare the bird away",
+        "She was too far away to speak loudly"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because Bella whispered 'Look, Grandma! That's the bird!' when she spotted the rosella on the fence. People commonly whisper around wild animals so they do not frighten them. The passage shows Bella was excited to see the bird and would want it to stay.\n\nOption B is incorrect because there is no mention of Grandma telling Bella to be quiet.\n\nCommon mistake: Students might choose D, but the passage says the rosella was on the fence near the pond, which was close enough for Bella to see it clearly, so distance was not the reason."
+    },
+    {
+      "id": "oc-y2-reading-t1-q05",
+      "question": "How did Bella feel when she found the feather?",
+      "options": [
+        "Scared and worried",
+        "Bored and tired",
+        "Excited and happy",
+        "Confused and upset"
+      ],
+      "answer": 2,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the passage describes the feather as 'something special' and says Bella 'wanted to keep it forever.' She also asked if she could take it home. These details show she was excited and happy about her find.\n\nOption A is incorrect because nothing in the passage suggests Bella was scared or worried — she picked it up 'carefully' out of gentleness, not fear.\n\nCommon mistake: Students might misread 'carefully' as a sign of worry, but it shows she valued the feather and wanted to protect it."
+    },
+    {
+      "id": "oc-y2-reading-t1-q06",
+      "question": "What did Grandma say finding a feather means?",
+      "options": [
+        "It will bring you good luck",
+        "Someone is thinking of you",
+        "Rain is coming soon",
+        "You should make a wish"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Grandma says 'some people believe that when you find a feather, it means someone is thinking of you.' This is directly stated in the passage.\n\nOption A is incorrect because good luck is never mentioned in the passage.\n\nCommon mistake: Students may choose D because making wishes is a common idea in stories, but it is not what Grandma said in this passage."
+    },
+    {
+      "id": "oc-y2-reading-t1-q07",
+      "question": "Why did Bella say 'I think you were thinking of me, Grandma'?",
+      "options": [
+        "She remembered what Grandma said about finding feathers",
+        "She wanted Grandma to buy her a present",
+        "She was trying to make Grandma laugh",
+        "She forgot who had given her the feather"
+      ],
+      "answer": 0,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is A because earlier in the story, Grandma told Bella that finding a feather means someone is thinking of you. Bella connected this idea to her grandmother — since Grandma is always with her and loves her, Bella decided Grandma must be the one thinking of her. This shows Bella understood and remembered Grandma's words.\n\nOption C is incorrect because although Grandma does laugh, Bella's words are sincere and loving, not a joke.\n\nCommon mistake: Students might choose C because Grandma laughed after Bella's comment, but the laugh was a warm, affectionate response, not because Bella was being funny."
+    },
+    {
+      "id": "oc-y2-reading-t1-q08",
+      "question": "Why did the author write this story?",
+      "options": [
+        "To teach readers about Australian birds",
+        "To show the special bond between a child and her grandmother",
+        "To explain how to press flowers and feathers in books",
+        "To persuade readers to visit parks more often"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the whole story centres on Bella and Grandma's time together. The feather becomes a symbol of their love — Bella connects it to Grandma thinking of her, and Grandma responds with 'I'm always thinking of you.' The story's warmth comes from their relationship.\n\nOption A is incorrect because while some birds are named, the story does not give detailed information about them — they are part of the setting, not the purpose.\n\nCommon mistake: Students might choose A because rosellas, magpies, and lorikeets are mentioned, but these details serve the story rather than being the author's main purpose."
+    }
+  ]
+}
