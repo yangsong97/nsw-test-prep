@@ -19,7 +19,7 @@ export default function Home() {
         <div className="rounded-2xl border border-gray-200 bg-white p-8 shadow-sm hover:shadow-md transition-shadow">
           <div className="mb-4">
             <span className="inline-block bg-indigo-100 text-indigo-700 text-sm font-semibold px-3 py-1 rounded-full">
-              Years 3 &ndash; 4
+              Years 2 &ndash; 4
             </span>
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">OC Prep</h2>
