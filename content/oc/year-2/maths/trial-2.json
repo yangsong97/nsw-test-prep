@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-maths-t2-q01",
+      "question": "What number comes before 50?",
+      "options": ["40", "48", "49", "51"],
+      "answer": 2,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The number before means 1 less.\nStep 2: 50 − 1 = 49.\nThe number before 50 is 49.\nCommon mistake: Choosing 51 (the number after) or 40 (going back 10 instead of 1)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q02",
+      "question": "What is 8 + 7?",
+      "options": ["13", "14", "15", "16"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 8 + 7.\nStep 2: We can split 7 into 2 and 5: 8 + 2 = 10, then 10 + 5 = 15.\nStep 3: 8 + 7 = 15.\nCommon mistake: Choosing 14 (miscounting by 1) or 16 (adding an extra 1)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q03",
+      "question": "How many corners does a square have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A square has 4 straight sides.\nStep 2: Each place where two sides meet is a corner.\nStep 3: A square has 4 corners.\nCommon mistake: Choosing 3 (confusing with a triangle)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q04",
+      "question": "What is half of 16?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Half means dividing into 2 equal parts.\nStep 2: 16 ÷ 2 = 8.\nHalf of 16 is 8.\nCommon mistake: Choosing 4 (finding a quarter instead of a half)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q05",
+      "question": "There are 2 groups of 5 oranges. How many oranges altogether?",
+      "options": ["3", "7", "10", "25"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2 groups of 5.\nStep 2: 5 + 5 = 10.\nStep 3: Or 2 × 5 = 10.\nThere are 10 oranges altogether.\nCommon mistake: Choosing 7 (adding 2 + 5) or 25 (writing 2 and 5 together)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q06",
+      "question": "How many days are in one week?",
+      "options": ["5", "6", "7", "10"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The days of the week are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.\nStep 2: Count them: that is 7 days.\nCommon mistake: Choosing 5 (counting only school days)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q07",
+      "question": "Lucy had 20 grapes. She ate 9. How many grapes are left?",
+      "options": ["9", "11", "13", "29"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Lucy starts with 20 grapes.\nStep 2: She eats 9: 20 − 9 = 11.\nLucy has 11 grapes left.\nCommon mistake: Choosing 29 (adding instead of subtracting) or 13 (subtracting 7 instead of 9)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q08",
+      "question": "Which is heavier: 2 kg or 500 g?",
+      "options": ["2 kg", "500 g", "They are the same", "Cannot tell"],
+      "answer": 0,
+      "topic": "measurement",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Convert to the same unit. 2 kg = 2000 g.\nStep 2: Compare: 2000 g is more than 500 g.\nStep 3: 2 kg is heavier.\nCommon mistake: Choosing 500 g because 500 looks like a bigger number than 2."
+    },
+    {
+      "id": "oc-y2-maths-t2-q09",
+      "question": "Count by 10s: 10, 20, 30, ___. What comes next?",
+      "options": ["31", "35", "40", "50"],
+      "answer": 2,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We are counting by 10s.\nStep 2: 30 + 10 = 40.\nThe next number is 40.\nCommon mistake: Choosing 31 (counting by 1 instead of 10)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q10",
+      "question": "Which shape has no straight sides?",
+      "options": ["Triangle", "Rectangle", "Circle", "Square"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A triangle has 3 straight sides. A rectangle has 4. A square has 4.\nStep 2: A circle has a curved edge and no straight sides.\nThe circle has no straight sides.\nCommon mistake: Thinking all shapes must have straight sides."
+    },
+    {
+      "id": "oc-y2-maths-t2-q11",
+      "question": "What is 56 − 29?",
+      "options": ["23", "27", "33", "37"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 56 − 29.\nStep 2: We can think: 56 − 30 = 26, then add back 1: 26 + 1 = 27.\nStep 3: Or use column subtraction with borrowing.\n56 − 29 = 27.\nCommon mistake: Choosing 37 (subtracting 19 instead of 29) or 33 (errors in borrowing)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q12",
+      "question": "A packet has 10 biscuits. Mum buys 3 packets. How many biscuits are there?",
+      "options": ["13", "20", "30", "33"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each packet has 10 biscuits. There are 3 packets.\nStep 2: 3 × 10 = 30.\nThere are 30 biscuits.\nCommon mistake: Choosing 13 (adding 10 + 3 instead of multiplying)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q13",
+      "question": "What is a quarter of 20?",
+      "options": ["4", "5", "10", "15"],
+      "answer": 1,
+      "topic": "halves-quarters",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A quarter means dividing into 4 equal parts.\nStep 2: 20 ÷ 4 = 5.\nA quarter of 20 is 5.\nCommon mistake: Choosing 10 (finding half instead of a quarter) or 4 (confusing with the number of parts)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q14",
+      "question": "Tom measures his desk. It is 80 cm wide. How many centimetres short of 1 metre is his desk?",
+      "options": ["10 cm", "20 cm", "30 cm", "80 cm"],
+      "answer": 1,
+      "topic": "measurement",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1 metre = 100 cm.\nStep 2: The desk is 80 cm.\nStep 3: 100 − 80 = 20 cm.\nThe desk is 20 cm short of 1 metre.\nCommon mistake: Choosing 80 cm (not understanding the question) or 10 cm (guessing)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q15",
+      "question": "What is the biggest number you can make with the digits 3, 7 and 1?",
+      "options": ["137", "317", "371", "731"],
+      "answer": 3,
+      "topic": "counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: To make the biggest number, put the largest digit first.\nStep 2: Arrange from largest to smallest: 7, 3, 1.\nStep 3: The biggest number is 731.\nCommon mistake: Choosing 371 (not putting the largest digit first)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q16",
+      "question": "Ella watches a show that starts at 4:30 and finishes at 5:00. How long is the show?",
+      "options": ["15 minutes", "30 minutes", "1 hour", "1 hour 30 minutes"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The show starts at 4:30 and ends at 5:00.\nStep 2: From 4:30 to 5:00 is 30 minutes.\nThe show is 30 minutes long.\nCommon mistake: Choosing 1 hour (thinking any gap to the next hour is 1 hour)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q17",
+      "question": "Which of these is NOT a rectangle?",
+      "options": ["A square", "A door", "A triangle", "A book cover"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A rectangle has 4 sides and 4 right angles.\nStep 2: A square is a special type of rectangle. A door and a book cover are rectangular shapes.\nStep 3: A triangle has 3 sides, so it is NOT a rectangle.\nCommon mistake: Choosing 'a square' (not knowing a square is a special rectangle)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q18",
+      "question": "If you skip count by 2s starting from 3, which number will you say?",
+      "options": ["8", "10", "11", "12"],
+      "answer": 2,
+      "topic": "counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start at 3 and count by 2s: 3, 5, 7, 9, 11, 13, ...\nStep 2: Check which option appears: 11 is in the list.\n11 is a number you will say.\nCommon mistake: Choosing 8 or 10 (counting by 2s from 0 or 2 instead of from 3)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q19",
+      "question": "Ryan has 34 cards. His friend gives him some more, and now he has 51. How many cards did his friend give him?",
+      "options": ["13", "17", "23", "85"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ryan had 34 and now has 51.\nStep 2: The difference tells us how many he got: 51 − 34 = 17.\nHis friend gave him 17 cards.\nCommon mistake: Choosing 85 (adding 51 + 34) or 23 (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q20",
+      "question": "There are 6 plates with 3 sandwiches on each. How many sandwiches are there?",
+      "options": ["9", "12", "15", "18"],
+      "answer": 3,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 6 plates with 3 sandwiches each.\nStep 2: 6 × 3 = 18.\nStep 3: Or add: 3 + 3 + 3 + 3 + 3 + 3 = 18.\nThere are 18 sandwiches.\nCommon mistake: Choosing 9 (adding 6 + 3) or 12 (calculating 4 × 3)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q21",
+      "question": "A shop sells pencils for 45 cents each. How much do 2 pencils cost?",
+      "options": ["47 cents", "70 cents", "80 cents", "90 cents"],
+      "answer": 3,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each pencil costs 45 cents.\nStep 2: 2 pencils cost 45 + 45 = 90 cents.\nTwo pencils cost 90 cents.\nCommon mistake: Choosing 47 (adding 45 + 2) or 80 cents (adding 40 + 40, forgetting the 5s)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q22",
+      "question": "What is the missing number? 15 + ___ = 42",
+      "options": ["23", "27", "33", "57"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: We need to find what number added to 15 gives 42.\nStep 2: 42 − 15 = 27.\nStep 3: Check: 15 + 27 = 42. Correct!\nThe missing number is 27.\nCommon mistake: Choosing 57 (adding 15 + 42) or 33 (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q23",
+      "question": "Jasper has 3 boxes. Each box has 5 toy cars. He gives 4 toy cars to his sister. How many toy cars does Jasper have left?",
+      "options": ["4", "8", "11", "19"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3 boxes × 5 cars = 15 toy cars.\nStep 2: He gives away 4: 15 − 4 = 11.\nJasper has 11 toy cars left.\nCommon mistake: Choosing 4 (only subtracting: 8 − 4) or 8 (calculating 3 + 5 instead of 3 × 5)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q24",
+      "question": "Mia's rope is 95 cm. She cuts off a piece and has 58 cm left. How long is the piece she cut off?",
+      "options": ["33 cm", "37 cm", "43 cm", "47 cm"],
+      "answer": 1,
+      "topic": "measurement",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The rope was 95 cm. After cutting, 58 cm is left.\nStep 2: The piece cut off = 95 − 58 = 37 cm.\nStep 3: Check: 58 + 37 = 95. Correct!\nCommon mistake: Choosing 43 (subtracting incorrectly) or 47 (errors in borrowing)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q25",
+      "question": "How many quarters make a whole?",
+      "options": ["2", "3", "4", "8"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A quarter is one of 4 equal parts.\nStep 2: So 4 quarters make a whole.\nStep 3: 1/4 + 1/4 + 1/4 + 1/4 = 4/4 = 1 whole.\nCommon mistake: Choosing 2 (confusing quarters with halves)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q26",
+      "question": "What is double 35?",
+      "options": ["55", "60", "65", "70"],
+      "answer": 3,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Double means multiply by 2, or add the number to itself.\nStep 2: 35 + 35.\nStep 3: 30 + 30 = 60, and 5 + 5 = 10. Then 60 + 10 = 70.\nDouble 35 is 70.\nCommon mistake: Choosing 65 (adding 30 + 35) or 55 (doubling only part of the number)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q27",
+      "question": "A clock shows 11:45. How many minutes until 12 o'clock?",
+      "options": ["5 minutes", "10 minutes", "15 minutes", "45 minutes"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The time is 11:45.\nStep 2: 12:00 − 11:45 = 15 minutes.\nStep 3: From 45 minutes to 60 minutes (the full hour) is 15 minutes.\nThere are 15 minutes until 12 o'clock.\nCommon mistake: Choosing 45 minutes (reading the current minutes instead of calculating the remaining time)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q28",
+      "question": "A hexagon has 6 sides. If you draw 3 hexagons, how many sides are there altogether?",
+      "options": ["9", "12", "15", "18"],
+      "answer": 3,
+      "topic": "2d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each hexagon has 6 sides.\nStep 2: 3 hexagons: 3 × 6 = 18 sides.\nThere are 18 sides altogether.\nCommon mistake: Choosing 9 (adding 6 + 3) or 12 (calculating 2 × 6)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q29",
+      "question": "Liam has some coins: two 20-cent coins and three 10-cent coins. How much money does he have?",
+      "options": ["50 cents", "60 cents", "70 cents", "80 cents"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Two 20-cent coins: 20 + 20 = 40 cents.\nStep 2: Three 10-cent coins: 10 + 10 + 10 = 30 cents.\nStep 3: Total: 40 + 30 = 70 cents.\nLiam has 70 cents.\nCommon mistake: Choosing 50 cents (only counting one 20c and three 10c) or 60 cents (miscounting)."
+    },
+    {
+      "id": "oc-y2-maths-t2-q30",
+      "question": "There are 48 children in a hall. Half of them are boys. A quarter of the boys are wearing hats. How many boys are wearing hats?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 1,
+      "topic": "halves-quarters",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Half of 48 children are boys: 48 ÷ 2 = 24 boys.\nStep 2: A quarter of the boys wear hats: 24 ÷ 4 = 6.\nStep 3: 6 boys are wearing hats.\nCommon mistake: Choosing 12 (finding a quarter of 48 instead of a quarter of the boys) or 8 (miscalculating)."
+    }
+  ]
+}

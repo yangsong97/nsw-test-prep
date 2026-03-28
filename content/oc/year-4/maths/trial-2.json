@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-maths-t2-q01",
+      "question": "What is 567 + 385?",
+      "options": ["842", "942", "952", "962"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 7 + 5 = 12. Write 2, carry 1.\nStep 2: Tens: 6 + 8 + 1 = 15. Write 5, carry 1.\nStep 3: Hundreds: 5 + 3 + 1 = 9.\nStep 4: 567 + 385 = 952.\nCommon mistake: Choosing 942 (not carrying from ones) or 842 (not carrying from tens)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q02",
+      "question": "Which fraction is equivalent to 3/6?",
+      "options": ["1/3", "1/2", "2/3", "3/4"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Simplify 3/6 by dividing both by 3.\nStep 2: 3 ÷ 3 = 1, 6 ÷ 3 = 2.\nStep 3: 3/6 = 1/2.\nCommon mistake: Choosing 1/3 (dividing 3 by 1 and 6 by 2 incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q03",
+      "question": "What is 0.25 as a fraction in simplest form?",
+      "options": ["1/4", "1/5", "2/5", "25/10"],
+      "answer": 0,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.25 = 25/100.\nStep 2: Simplify: 25 ÷ 25 = 1, 100 ÷ 25 = 4.\nStep 3: 0.25 = 1/4.\nCommon mistake: Choosing 1/5 (confusing 0.25 with 0.2) or 25/10 (wrong place value)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q04",
+      "question": "A square has sides of 7 cm. What is its area?",
+      "options": ["14 cm²", "28 cm²", "49 cm²", "56 cm²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area of a square = side × side.\nStep 2: 7 × 7 = 49 cm².\nCommon mistake: Choosing 28 cm² (finding perimeter: 4 × 7) or 14 cm² (adding 7 + 7)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q05",
+      "question": "What comes next? 100, 91, 82, 73, ___",
+      "options": ["63", "64", "65", "66"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the pattern: 100 − 91 = 9, 91 − 82 = 9, 82 − 73 = 9.\nStep 2: Each number decreases by 9.\nStep 3: 73 − 9 = 64.\nCommon mistake: Choosing 63 (subtracting 10) or 65 (subtracting 8)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q06",
+      "question": "Which of these angles is acute?",
+      "options": ["35°", "90°", "145°", "180°"],
+      "answer": 0,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Acute angles are less than 90°.\nStep 2: 35° is less than 90°, so it is acute.\nStep 3: 90° is a right angle. 145° is obtuse. 180° is a straight angle.\nCommon mistake: Choosing 90° (which is a right angle, not acute)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q07",
+      "question": "What is 4 206 − 1 879?",
+      "options": ["2 327", "2 337", "2 427", "3 327"],
+      "answer": 0,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 4206 − 1879.\nStep 2: Ones: 6 − 9 requires borrowing. 16 − 9 = 7.\nStep 3: Tens: 9 − 7 = 2 (after borrowing: 10 − 1 = 9).\nStep 4: Hundreds: 1 − 8 requires borrowing. 11 − 8 = 3.\nStep 5: Thousands: 3 − 1 = 2.\nStep 6: Answer = 2327.\nCommon mistake: Choosing 2337 (borrowing error in tens) or 2427 (not borrowing correctly)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q08",
+      "question": "In a column graph, the columns for Term 1, 2, 3 and 4 show 85, 92, 78 and 95 books read. In which term were the most books read?",
+      "options": ["Term 1", "Term 2", "Term 3", "Term 4"],
+      "answer": 3,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Compare: 85, 92, 78, 95.\nStep 2: The highest value is 95 in Term 4.\nCommon mistake: Choosing Term 2 (92 is high but not the highest)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q09",
+      "question": "Which is larger: 0.7 or 0.65?",
+      "options": ["0.7", "0.65", "They are equal", "Cannot tell"],
+      "answer": 0,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Convert to same decimal places: 0.7 = 0.70 and 0.65.\nStep 2: 70 hundredths > 65 hundredths.\nStep 3: 0.7 is larger.\nCommon mistake: Choosing 0.65 because 65 > 7, not realising 0.7 = 0.70."
+    },
+    {
+      "id": "oc-y4-maths-t2-q10",
+      "question": "A rectangle has a length of 12 cm and a width of 5 cm. What is its area?",
+      "options": ["17 cm²", "34 cm²", "60 cm²", "120 cm²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: 12 × 5 = 60 cm².\nCommon mistake: Choosing 34 cm² (finding the perimeter: 2 × (12 + 5)) or 17 cm² (adding 12 + 5)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q11",
+      "question": "A baker makes 36 muffins each hour. How many muffins does she make in 15 hours?",
+      "options": ["360", "450", "504", "540"],
+      "answer": 3,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 36 × 15.\nStep 2: 36 × 10 = 360 and 36 × 5 = 180.\nStep 3: 360 + 180 = 540.\nCommon mistake: Choosing 504 (36 × 14) or 450 (miscalculating)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q12",
+      "question": "Order these fractions from smallest to largest: 3/4, 1/2, 5/8",
+      "options": ["1/2, 3/4, 5/8", "1/2, 5/8, 3/4", "5/8, 1/2, 3/4", "3/4, 5/8, 1/2"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert to the same denominator (8): 3/4 = 6/8, 1/2 = 4/8, 5/8 = 5/8.\nStep 2: Order: 4/8, 5/8, 6/8.\nStep 3: So: 1/2, 5/8, 3/4.\nCommon mistake: Choosing 1/2, 3/4, 5/8 (not converting before comparing)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q13",
+      "question": "What is 8.3 − 5.7?",
+      "options": ["2.4", "2.6", "3.4", "3.6"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 8.3 − 5.7.\nStep 2: Tenths: 3 − 7 requires borrowing. 13 − 7 = 6 tenths.\nStep 3: Ones: 7 − 5 = 2.\nStep 4: 8.3 − 5.7 = 2.6.\nCommon mistake: Choosing 3.4 (subtracting 7 − 3 = 4 for tenths) or 2.4 (miscalculating tenths)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q14",
+      "question": "A right angle is 90°. If you have two right angles together, what angle do they make?",
+      "options": ["90°", "120°", "180°", "270°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: One right angle = 90°.\nStep 2: Two right angles = 90° + 90° = 180°.\nStep 3: 180° is a straight angle.\nCommon mistake: Choosing 270° (three right angles) or 120° (adding 30° to 90°)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q15",
+      "question": "The perimeter of a rectangle is 42 cm. Its length is 13 cm. What is its width?",
+      "options": ["6 cm", "8 cm", "10 cm", "16 cm"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: 42 = 2 × (13 + width).\nStep 3: 13 + width = 21.\nStep 4: width = 21 − 13 = 8 cm.\nCommon mistake: Choosing 16 cm (42 − 13 − 13 = 16, forgetting to account for two widths) — wait, 16 ÷ 2 = 8. Actually, choosing 16 (not dividing by 2)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q16",
+      "question": "The mean (average) of 4, 8, 6 and 10 is:",
+      "options": ["6", "7", "8", "9"],
+      "answer": 1,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Add the values: 4 + 8 + 6 + 10 = 28.\nStep 2: Divide by the number of values: 28 ÷ 4 = 7.\nStep 3: The mean is 7.\nCommon mistake: Choosing 8 (finding the median instead) or 6 (dividing incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q17",
+      "question": "What is the missing number? ___ × 7 = 343",
+      "options": ["47", "48", "49", "51"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 343 ÷ 7.\nStep 2: 7 × 49 = 343.\nStep 3: The missing number is 49.\nCommon mistake: Choosing 47 (7 × 47 = 329) or 48 (7 × 48 = 336)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q18",
+      "question": "What is the 10th term of this pattern: 5, 8, 11, 14, ...?",
+      "options": ["29", "30", "32", "35"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The pattern starts at 5 and adds 3 each time.\nStep 2: Term n = 5 + 3 × (n − 1).\nStep 3: Term 10 = 5 + 3 × 9 = 5 + 27 = 32.\nCommon mistake: Choosing 35 (5 + 3 × 10 = 35, forgetting to subtract 1)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q19",
+      "question": "Which decimal is halfway between 0.3 and 0.5?",
+      "options": ["0.35", "0.4", "0.45", "0.8"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Halfway means the average of 0.3 and 0.5.\nStep 2: (0.3 + 0.5) ÷ 2 = 0.8 ÷ 2 = 0.4.\nCommon mistake: Choosing 0.35 (halfway between 3 and 5 in the digit, not the value) or 0.8 (adding without dividing)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q20",
+      "question": "How many lines of symmetry does a square have?",
+      "options": ["1", "2", "4", "8"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A square can be folded in half along: vertical, horizontal, and both diagonals.\nStep 2: That gives 4 lines of symmetry.\nCommon mistake: Choosing 2 (only counting vertical and horizontal) or 8 (double-counting)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q21",
+      "question": "A car travels 85 km each hour. How far does it travel in 12 hours?",
+      "options": ["920 km", "960 km", "1 020 km", "1 050 km"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 85 × 12.\nStep 2: 85 × 10 = 850 and 85 × 2 = 170.\nStep 3: 850 + 170 = 1020 km.\nCommon mistake: Choosing 1050 (85 × 12 + 30) or 960 (80 × 12)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q22",
+      "question": "3/5 of a class of 35 students are girls. How many boys are in the class?",
+      "options": ["7", "12", "14", "21"],
+      "answer": 2,
+      "topic": "equivalent-fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Girls = 3/5 of 35 = (35 ÷ 5) × 3 = 7 × 3 = 21.\nStep 2: Boys = 35 − 21 = 14.\nCommon mistake: Choosing 21 (the number of girls, not boys) or 7 (1/5 of the class)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q23",
+      "question": "A triangle has angles of 50° and 65°. What is the third angle?",
+      "options": ["55°", "65°", "75°", "115°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Angles in a triangle add up to 180°.\nStep 2: 50 + 65 = 115°.\nStep 3: Third angle = 180 − 115 = 65°.\nCommon mistake: Choosing 75° (subtracting from 190°) or 115° (the sum of the given angles)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q24",
+      "question": "A swimming pool is 25 m long and 12 m wide. What is the area of the pool?",
+      "options": ["74 m²", "200 m²", "250 m²", "300 m²"],
+      "answer": 3,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: 25 × 12 = 300 m².\nCommon mistake: Choosing 74 m² (perimeter: 2 × (25 + 12)) or 250 m² (25 × 10)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q25",
+      "question": "Six students scored 80, 72, 65, 90, 88, and 75 on a test. How many students scored above the mean?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 1,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Mean = (80 + 72 + 65 + 90 + 88 + 75) ÷ 6 = 470 ÷ 6 = 78.3...\nStep 2: Scores above 78.3: 80, 90, 88.\nStep 3: 3 students scored above the mean.\nCommon mistake: Choosing 4 (including a score equal to the mean)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q26",
+      "question": "What is 7.08 + 4.95?",
+      "options": ["11.03", "11.93", "12.03", "12.13"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Hundredths: 8 + 5 = 13. Write 3, carry 1.\nStep 2: Tenths: 0 + 9 + 1 = 10. Write 0, carry 1.\nStep 3: Ones: 7 + 4 + 1 = 12.\nStep 4: 7.08 + 4.95 = 12.03.\nCommon mistake: Choosing 11.03 (not carrying from tenths) or 12.13 (adding tenths wrong)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q27",
+      "question": "Find the missing numbers in this pattern: 2, 5, 11, 23, ___",
+      "options": ["35", "41", "46", "47"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Look at the pattern: 5 = 2×2+1, 11 = 5×2+1, 23 = 11×2+1.\nStep 2: The rule is: multiply by 2, then add 1.\nStep 3: 23 × 2 + 1 = 47.\nCommon mistake: Choosing 46 (doubling without adding 1) or 35 (adding 12)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q28",
+      "question": "A piece of land is 120 m long and 85 m wide. A fence goes around the outside. How long is the fence?",
+      "options": ["205 m", "310 m", "410 m", "10 200 m"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: = 2 × (120 + 85) = 2 × 205 = 410 m.\nCommon mistake: Choosing 205 m (not doubling) or 10 200 m (finding the area)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q29",
+      "question": "What is 2 304 ÷ 8?",
+      "options": ["278", "280", "288", "298"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 8 × 200 = 1600. 2304 − 1600 = 704.\nStep 2: 8 × 80 = 640. 704 − 640 = 64.\nStep 3: 8 × 8 = 64. 64 − 64 = 0.\nStep 4: 2304 ÷ 8 = 288.\nCommon mistake: Choosing 280 (miscalculating the last step) or 278 (errors in division)."
+    },
+    {
+      "id": "oc-y4-maths-t2-q30",
+      "question": "A parallelogram has two angles of 60°. What are the other two angles?",
+      "options": ["60° and 60°", "90° and 90°", "120° and 120°", "120° and 60°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: In a parallelogram, opposite angles are equal and consecutive angles add to 180°.\nStep 2: If two opposite angles are 60°, the other two must be 180° − 60° = 120° each.\nStep 3: The other two angles are 120° and 120°.\nCommon mistake: Choosing 60° and 60° (thinking all angles are equal)."
+    }
+  ]
+}

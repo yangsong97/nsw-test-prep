@@ -4,26 +4,278 @@
     "grade": "year-4",
     "track": "oc",
     "trial": 1,
-    "questionCount": 2
+    "questionCount": 30
   },
   "questions": [
     {
-      "id": "oc-y4-maths-t1-q1",
-      "question": "What is 7 × 8?",
-      "options": ["54", "56", "63", "64"],
-      "answer": 1,
-      "topic": "multiplication",
+      "id": "oc-y4-maths-t1-q01",
+      "question": "What is 345 + 278?",
+      "options": ["513", "613", "623", "633"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
       "difficulty": "easy",
-      "workedSolution": "7 × 8 = 56. You can think of it as 7 × 8 = (7 × 4) × 2 = 28 × 2 = 56."
+      "workedSolution": "Step 1: Ones: 5 + 8 = 13. Write 3, carry 1.\nStep 2: Tens: 4 + 7 + 1 = 12. Write 2, carry 1.\nStep 3: Hundreds: 3 + 2 + 1 = 6.\nStep 4: 345 + 278 = 623.\nCommon mistake: Choosing 613 (not carrying from ones) or 633 (carrying error)."
     },
     {
-      "id": "oc-y4-maths-t1-q2",
-      "question": "What is 144 ÷ 12?",
-      "options": ["11", "12", "13", "14"],
+      "id": "oc-y4-maths-t1-q02",
+      "question": "Which fraction is equivalent to 2/4?",
+      "options": ["1/3", "1/2", "2/3", "3/4"],
       "answer": 1,
-      "topic": "division",
+      "topic": "equivalent-fractions",
       "difficulty": "easy",
-      "workedSolution": "144 ÷ 12 = 12. Since 12 × 12 = 144, the answer is 12."
+      "workedSolution": "Step 1: Simplify 2/4 by dividing numerator and denominator by 2.\nStep 2: 2 ÷ 2 = 1, 4 ÷ 2 = 2.\nStep 3: 2/4 = 1/2.\nCommon mistake: Choosing 1/3 (subtracting instead of dividing) or 2/3 (incorrect simplification)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q03",
+      "question": "What is 0.5 as a fraction?",
+      "options": ["1/5", "1/4", "1/2", "5/10"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.5 means 5 tenths = 5/10.\nStep 2: Simplify 5/10 = 1/2.\nStep 3: Both 1/2 and 5/10 are correct, but 1/2 is simplest form.\nCommon mistake: Choosing 1/5 (confusing the digit 5 with the denominator)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q04",
+      "question": "A rectangle is 8 cm long and 5 cm wide. What is its perimeter?",
+      "options": ["13 cm", "26 cm", "40 cm", "48 cm"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: = 2 × (8 + 5) = 2 × 13 = 26 cm.\nCommon mistake: Choosing 13 cm (only adding once) or 40 cm (finding the area)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q05",
+      "question": "What is the next number in this pattern? 4, 9, 14, 19, ___",
+      "options": ["22", "23", "24", "25"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the pattern: 9 − 4 = 5, 14 − 9 = 5, 19 − 14 = 5.\nStep 2: The pattern adds 5 each time.\nStep 3: 19 + 5 = 24.\nCommon mistake: Choosing 23 (adding 4) or 25 (adding 6)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q06",
+      "question": "An angle that measures exactly 90° is called a:",
+      "options": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Acute angles are less than 90°.\nStep 2: Right angles are exactly 90°.\nStep 3: Obtuse angles are between 90° and 180°.\nStep 4: A 90° angle is a right angle.\nCommon mistake: Confusing right angles with acute or obtuse angles."
+    },
+    {
+      "id": "oc-y4-maths-t1-q07",
+      "question": "What is 800 − 356?",
+      "options": ["444", "454", "544", "556"],
+      "answer": 0,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 800 − 356.\nStep 2: 800 − 400 = 400, then add back 44: 400 + 44 = 444.\nStep 3: Or use column subtraction with borrowing.\nCommon mistake: Choosing 544 (subtracting 256 instead) or 454 (borrowing error)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q08",
+      "question": "A bar graph shows the number of pets owned by students: dogs 15, cats 12, fish 8, rabbits 5. How many pets are there in total?",
+      "options": ["35", "38", "40", "42"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total = 15 + 12 + 8 + 5.\nStep 2: 15 + 12 = 27. Then 27 + 8 = 35. Then 35 + 5 = 40.\nCommon mistake: Choosing 35 (forgetting to add rabbits) or 38 (miscounting)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q09",
+      "question": "Which decimal is the same as 3/10?",
+      "options": ["0.03", "0.3", "3.0", "3.10"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3/10 means 3 out of 10.\nStep 2: In decimal, tenths go in the first place after the decimal point.\nStep 3: 3/10 = 0.3.\nCommon mistake: Choosing 0.03 (putting 3 in the hundredths place) or 3.10 (reading 3 and 10 separately)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q10",
+      "question": "What is the next number in this pattern? 2, 6, 18, 54, ___",
+      "options": ["72", "108", "162", "216"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the pattern: 6 ÷ 2 = 3, 18 ÷ 6 = 3, 54 ÷ 18 = 3.\nStep 2: Each number is multiplied by 3.\nStep 3: 54 × 3 = 162.\nCommon mistake: Choosing 108 (adding 54) or 72 (adding 18)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q11",
+      "question": "A school bought 24 boxes of pencils. Each box has 12 pencils. How many pencils did the school buy?",
+      "options": ["248", "268", "288", "312"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 24 × 12.\nStep 2: 24 × 10 = 240 and 24 × 2 = 48.\nStep 3: 240 + 48 = 288.\nCommon mistake: Choosing 248 (24 × 10 + 8) or 268 (adding incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q12",
+      "question": "Which of these fractions is NOT equivalent to 1/2?",
+      "options": ["3/6", "4/8", "5/10", "4/6"],
+      "answer": 3,
+      "topic": "equivalent-fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check each: 3/6 = 1/2 (÷3). 4/8 = 1/2 (÷4). 5/10 = 1/2 (÷5).\nStep 2: 4/6 = 2/3 (÷2). This is NOT equal to 1/2.\nCommon mistake: Choosing 3/6 (not recognising it simplifies to 1/2)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q13",
+      "question": "What is 4.7 + 3.8?",
+      "options": ["7.5", "8.1", "8.5", "8.15"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Add tenths: 7 + 8 = 15 tenths = 1 whole and 5 tenths.\nStep 2: Add ones: 4 + 3 + 1 (carried) = 8.\nStep 3: 4.7 + 3.8 = 8.5.\nCommon mistake: Choosing 8.15 (writing 15 tenths as .15 instead of carrying) or 7.5 (not carrying)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q14",
+      "question": "A square has a perimeter of 36 cm. What is the length of one side?",
+      "options": ["6 cm", "8 cm", "9 cm", "12 cm"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A square has 4 equal sides.\nStep 2: Perimeter = 4 × side.\nStep 3: 36 = 4 × side, so side = 36 ÷ 4 = 9 cm.\nCommon mistake: Choosing 6 cm (dividing by 6) or 12 cm (dividing by 3)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q15",
+      "question": "Which angle is obtuse?",
+      "options": ["45°", "90°", "120°", "180°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Acute angles are less than 90°.\nStep 2: A right angle is exactly 90°.\nStep 3: Obtuse angles are between 90° and 180°.\nStep 4: 120° is between 90° and 180°, so it is obtuse.\nCommon mistake: Choosing 180° (which is a straight angle, not obtuse)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q16",
+      "question": "A class of 32 students took a test. The scores were grouped: 0-49 (5 students), 50-74 (12 students), 75-100 (15 students). How many students scored 50 or above?",
+      "options": ["12", "15", "20", "27"],
+      "answer": 3,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Students scoring 50 or above = 50-74 group + 75-100 group.\nStep 2: 12 + 15 = 27.\nCommon mistake: Choosing 15 (only counting the highest group) or 12 (only counting the middle group)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q17",
+      "question": "What is 1 003 − 567?",
+      "options": ["436", "446", "536", "546"],
+      "answer": 0,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1003 − 567.\nStep 2: Borrow across the zeros: 1003 becomes 0 thousands, 9 hundreds, 9 tens, 13 ones.\nStep 3: 13 − 7 = 6, 9 − 6 = 3, 9 − 5 = 4.\nStep 4: 1003 − 567 = 436.\nCommon mistake: Choosing 536 (errors in borrowing across zeros) or 446 (adding 10 extra)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q18",
+      "question": "What is the rule for this pattern? 3, 7, 11, 15, 19",
+      "options": ["Add 3", "Add 4", "Add 5", "Multiply by 2"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 7 − 3 = 4, 11 − 7 = 4, 15 − 11 = 4, 19 − 15 = 4.\nStep 2: Each number increases by 4.\nStep 3: The rule is 'add 4'.\nCommon mistake: Choosing 'add 3' (incorrect difference) or 'multiply by 2' (3 × 2 = 6 ≠ 7)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q19",
+      "question": "Put these decimals in order from smallest to largest: 0.45, 0.5, 0.09, 0.4",
+      "options": ["0.09, 0.4, 0.45, 0.5", "0.09, 0.45, 0.4, 0.5", "0.4, 0.45, 0.5, 0.09", "0.5, 0.45, 0.4, 0.09"],
+      "answer": 0,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert all to hundredths: 0.45, 0.50, 0.09, 0.40.\nStep 2: Order: 0.09, 0.40, 0.45, 0.50.\nStep 3: Written as: 0.09, 0.4, 0.45, 0.5.\nCommon mistake: Putting 0.5 before 0.45 because 5 < 45, forgetting that 0.5 = 0.50."
+    },
+    {
+      "id": "oc-y4-maths-t1-q20",
+      "question": "A rectangle has an area of 48 cm² and a width of 6 cm. What is its length?",
+      "options": ["6 cm", "7 cm", "8 cm", "9 cm"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: 48 = length × 6.\nStep 3: length = 48 ÷ 6 = 8 cm.\nCommon mistake: Choosing 7 cm (guessing) or 6 cm (confusing with width)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q21",
+      "question": "A factory makes 1 250 toys per day. How many toys does it make in 7 days?",
+      "options": ["7 500", "8 250", "8 750", "9 250"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1250 × 7.\nStep 2: 1000 × 7 = 7000. 200 × 7 = 1400. 50 × 7 = 350.\nStep 3: 7000 + 1400 + 350 = 8750.\nCommon mistake: Choosing 8250 (forgetting 50 × 7) or 7500 (calculating 1250 × 6)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q22",
+      "question": "Which pair of fractions are equivalent?",
+      "options": ["2/3 and 6/8", "3/4 and 9/12", "1/3 and 3/6", "2/5 and 4/15"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Check 3/4: multiply by 3/3 gives 9/12. Yes, 3/4 = 9/12.\nStep 2: Check others: 2/3 × 3/3 = 6/9 (not 6/8). 1/3 × 2/2 = 2/6 (not 3/6). 2/5 × 2/2 = 4/10 (not 4/15).\nCommon mistake: Choosing 2/3 and 6/8 (thinking multiply numerator by 3 and denominator by 4 gives equivalent fraction)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q23",
+      "question": "What is 12.6 − 8.9?",
+      "options": ["3.3", "3.7", "4.3", "4.7"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 12.6 − 8.9.\nStep 2: Tenths: 6 − 9 requires borrowing. Borrow 1 from ones: 16 − 9 = 7 tenths.\nStep 3: Ones: 12 − 1 (borrowed) = 11. Then 11 − 8 = 3.\nStep 4: 12.6 − 8.9 = 3.7.\nCommon mistake: Choosing 4.3 (subtracting 9 − 6 = 3 for tenths, reversing the subtraction)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q24",
+      "question": "The angles in a triangle always add up to:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The angle sum property of a triangle states that all three interior angles add up to 180°.\nStep 2: This is true for all triangles — equilateral, isosceles, scalene, right-angled.\nCommon mistake: Choosing 360° (which is the sum of angles in a quadrilateral) or 90° (only one right angle)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q25",
+      "question": "A garden has an L-shape. The main section is 10 m × 6 m, and the extension is 4 m × 3 m. What is the total area?",
+      "options": ["60 m²", "66 m²", "72 m²", "78 m²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area of main section = 10 × 6 = 60 m².\nStep 2: Area of extension = 4 × 3 = 12 m².\nStep 3: Total area = 60 + 12 = 72 m².\nCommon mistake: Choosing 60 m² (forgetting the extension) or 78 m² (miscalculating the extension)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q26",
+      "question": "The following scores were obtained in a test: 72, 85, 68, 91, 74. What is the range of the scores?",
+      "options": ["17", "19", "21", "23"],
+      "answer": 3,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Range = highest score − lowest score.\nStep 2: Highest = 91, Lowest = 68.\nStep 3: Range = 91 − 68 = 23.\nCommon mistake: Choosing 19 (91 − 72) or 17 (85 − 68)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q27",
+      "question": "What is 5 678 ÷ 6?",
+      "options": ["946", "946 remainder 2", "947 remainder 2", "948"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 6 × 900 = 5400. 5678 − 5400 = 278.\nStep 2: 6 × 40 = 240. 278 − 240 = 38.\nStep 3: 6 × 6 = 36. 38 − 36 = 2.\nStep 4: 5678 ÷ 6 = 946 remainder 2.\nCommon mistake: Choosing 946 (forgetting the remainder) or 948 (rounding up incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q28",
+      "question": "Fill in the missing number: 3, 5, 9, 15, 23, ___",
+      "options": ["29", "31", "33", "35"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 5−3=2, 9−5=4, 15−9=6, 23−15=8.\nStep 2: The differences increase by 2 each time: 2, 4, 6, 8, so next difference is 10.\nStep 3: 23 + 10 = 33.\nCommon mistake: Choosing 31 (adding 8 again) or 29 (adding 6)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q29",
+      "question": "A quadrilateral has angles of 80°, 110° and 95°. What is the fourth angle?",
+      "options": ["65°", "75°", "85°", "95°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Angles in a quadrilateral add up to 360°.\nStep 2: Sum of known angles = 80 + 110 + 95 = 285°.\nStep 3: Fourth angle = 360 − 285 = 75°.\nCommon mistake: Choosing 85° (subtracting from 370°) or 65° (subtracting from 350°)."
+    },
+    {
+      "id": "oc-y4-maths-t1-q30",
+      "question": "A shop sells 3 apples for $2.40. How much would 8 apples cost at the same rate?",
+      "options": ["$5.60", "$6.00", "$6.40", "$7.20"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Cost per apple = $2.40 ÷ 3 = $0.80.\nStep 2: Cost of 8 apples = 8 × $0.80 = $6.40.\nCommon mistake: Choosing $6.00 (estimating) or $7.20 (9 × $0.80)."
     }
   ]
 }

@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-maths-t3-q01",
+      "question": "What is 9 × 4?",
+      "options": ["32", "34", "36", "38"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 9 × 4 = 36.\nStep 2: You can think of it as (10 × 4) − (1 × 4) = 40 − 4 = 36.\nCommon mistake: Choosing 32 (confusing with 8 × 4) or 34 (miscalculating)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q02",
+      "question": "Which fraction shows three quarters?",
+      "options": ["1/3", "3/4", "4/3", "3/3"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Three quarters means 3 out of 4 equal parts.\nStep 2: This is written as 3/4.\nCommon mistake: Choosing 4/3 (flipping numerator and denominator)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q03",
+      "question": "How many 50-cent coins make $3.00?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 3,
+      "topic": "money",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: $3.00 = 300 cents.\nStep 2: 300 ÷ 50 = 6.\nStep 3: 6 fifty-cent coins make $3.00.\nCommon mistake: Choosing 3 (thinking $1 = 1 coin) or 5 (miscounting)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q04",
+      "question": "What is 45 ÷ 5?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 45 ÷ 5.\nStep 2: 5 × 9 = 45.\nStep 3: So 45 ÷ 5 = 9.\nCommon mistake: Choosing 8 (confusing with 40 ÷ 5)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q05",
+      "question": "Which shape has 6 flat faces that are all squares?",
+      "options": ["Rectangular prism", "Cube", "Cylinder", "Triangular prism"],
+      "answer": 1,
+      "topic": "2d-3d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cube has 6 faces, all of which are identical squares.\nStep 2: A rectangular prism has 6 faces, but they are rectangles (not all squares unless it is a cube).\nCommon mistake: Choosing rectangular prism (which has rectangular, not necessarily square, faces)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q06",
+      "question": "How many months have exactly 30 days?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Months with 30 days: April, June, September, November.\nStep 2: That is 4 months.\nCommon mistake: Choosing 5 (including a month that has 31 days) or 3 (forgetting one)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q07",
+      "question": "In a tally chart, how many does IIII represent?",
+      "options": ["4", "5", "6", "9"],
+      "answer": 0,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Each line in a tally represents 1.\nStep 2: IIII has 4 lines (no cross-through line).\nStep 3: IIII = 4. Note: a group of 5 is written with a line crossing through 4.\nCommon mistake: Choosing 5 (confusing with a tally of 5 which has a cross-through)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q08",
+      "question": "A rectangle is 5 cm long and 2 cm wide. How many 1 cm squares fit inside it?",
+      "options": ["7", "10", "12", "14"],
+      "answer": 1,
+      "topic": "area",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area = length × width = 5 × 2 = 10 cm².\nStep 2: 10 one-centimetre squares fit inside.\nCommon mistake: Choosing 7 (adding 5 + 2) or 14 (adding 5 + 2 + 5 + 2, the perimeter)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q09",
+      "question": "What is 6 × 8?",
+      "options": ["42", "46", "48", "54"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 6 × 8 = 48.\nStep 2: Think of it as 6 × 8 = (6 × 10) − (6 × 2) = 60 − 12 = 48.\nCommon mistake: Choosing 42 (confusing with 6 × 7) or 54 (confusing with 6 × 9)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q10",
+      "question": "A banana costs 80 cents. If you pay with a $2 coin, how much change do you get?",
+      "options": ["$0.80", "$1.00", "$1.20", "$1.40"],
+      "answer": 2,
+      "topic": "money",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Change = $2.00 − $0.80.\nStep 2: $2.00 − $0.80 = $1.20.\nCommon mistake: Choosing $1.00 (subtracting $1.00 from $2.00) or $0.80 (the cost, not the change)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q11",
+      "question": "A school has 6 classes with 25 students each. 18 students are away sick. How many students are at school?",
+      "options": ["120", "125", "132", "168"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total students = 6 × 25 = 150.\nStep 2: Students at school = 150 − 18 = 132.\nCommon mistake: Choosing 120 (not subtracting 18 correctly) or 168 (adding 150 + 18)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q12",
+      "question": "Ella ate 2/5 of a cake. What fraction is left?",
+      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "answer": 2,
+      "topic": "fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The whole cake = 5/5.\nStep 2: Ella ate 2/5.\nStep 3: Remaining = 5/5 − 2/5 = 3/5.\nCommon mistake: Choosing 2/5 (the part eaten) or 1/5 (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q13",
+      "question": "What is the perimeter of a rectangle that is 8 cm long and 3 cm wide?",
+      "options": ["11 cm", "22 cm", "24 cm", "32 cm"],
+      "answer": 1,
+      "topic": "area",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: = 2 × (8 + 3) = 2 × 11 = 22 cm.\nCommon mistake: Choosing 11 cm (adding only one length and one width) or 24 cm (finding area)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q14",
+      "question": "A book fair raised $45 on Monday, $62 on Tuesday and $38 on Wednesday. How much was raised altogether?",
+      "options": ["$135", "$145", "$155", "$165"],
+      "answer": 1,
+      "topic": "money",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: $45 + $62 = $107.\nStep 2: $107 + $38 = $145.\nCommon mistake: Choosing $135 (adding incorrectly) or $155 (carrying errors)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q15",
+      "question": "A class recorded how they travel to school: walk 8, car 12, bus 6, bike 4. What fraction walk to school?",
+      "options": ["8/26", "8/30", "4/15", "1/4"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total students = 8 + 12 + 6 + 4 = 30.\nStep 2: Fraction who walk = 8/30.\nStep 3: Simplify: 8/30 = 4/15.\nCommon mistake: Choosing 8/26 (not including those who walk in the total) or 1/4 (oversimplifying)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q16",
+      "question": "A clock shows 10:50 am. What time will it be in 35 minutes?",
+      "options": ["11:15 am", "11:20 am", "11:25 am", "11:35 am"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 10:50 + 10 minutes = 11:00.\nStep 2: 11:00 + 25 minutes = 11:25 am.\nStep 3: Total added: 10 + 25 = 35 minutes.\nCommon mistake: Choosing 11:35 am (adding 35 to the minutes directly without rolling over the hour)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q17",
+      "question": "96 ÷ 8 = ?",
+      "options": ["11", "12", "13", "14"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 96 ÷ 8.\nStep 2: 8 × 12 = 96.\nStep 3: So 96 ÷ 8 = 12.\nCommon mistake: Choosing 11 (confusing with 88 ÷ 8) or 13 (confusing with 104 ÷ 8)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q18",
+      "question": "Which of these shows 2/3 and 4/6 are equivalent fractions?",
+      "options": ["2 × 2 = 4 and 3 × 2 = 6", "2 + 2 = 4 and 3 + 3 = 6", "2 × 3 = 6 and 3 × 4 = 12", "2 − 1 = 1 and 6 − 3 = 3"],
+      "answer": 0,
+      "topic": "fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: To make equivalent fractions, multiply both the numerator and denominator by the same number.\nStep 2: 2/3: multiply both by 2: (2×2)/(3×2) = 4/6.\nStep 3: This shows 2/3 = 4/6.\nCommon mistake: Choosing 'addition' (adding is not how we make equivalent fractions)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q19",
+      "question": "A triangular prism has how many faces?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A triangular prism has 2 triangular faces (front and back).\nStep 2: It also has 3 rectangular faces (sides).\nStep 3: Total = 2 + 3 = 5 faces.\nCommon mistake: Choosing 3 (only counting the rectangular faces) or 6 (confusing with a cube)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q20",
+      "question": "The area of a square playground is 49 m². What is the length of one side?",
+      "options": ["6 m", "7 m", "8 m", "12 m"],
+      "answer": 1,
+      "topic": "area",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: For a square, area = side × side.\nStep 2: side × side = 49.\nStep 3: 7 × 7 = 49, so each side is 7 m.\nCommon mistake: Choosing 12 m (dividing 49 by 4) or 8 m (guessing)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q21",
+      "question": "A school collected 1 256 books in the first week and 874 books in the second week. How many books were collected in total?",
+      "options": ["2 030", "2 120", "2 130", "2 230"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1256 + 874.\nStep 2: Ones: 6 + 4 = 10. Write 0, carry 1.\nStep 3: Tens: 5 + 7 + 1 = 13. Write 3, carry 1.\nStep 4: Hundreds: 2 + 8 + 1 = 11. Write 1, carry 1.\nStep 5: Thousands: 1 + 0 + 1 = 2.\nStep 6: Total = 2130.\nCommon mistake: Choosing 2030 (forgetting to carry from tens) or 2120 (carrying errors)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q22",
+      "question": "Sam pours 750 mL from a 2 L bottle. How much is left in the bottle?",
+      "options": ["1050 mL", "1150 mL", "1250 mL", "1350 mL"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 2 L = 2000 mL.\nStep 2: 2000 − 750 = 1250 mL.\nCommon mistake: Choosing 1350 mL (subtracting 650 instead) or 1050 mL (subtracting 950)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q23",
+      "question": "A box holds 12 muffins. A baker needs to pack 250 muffins. How many full boxes can he fill, and how many muffins are left over?",
+      "options": ["20 boxes, 10 left over", "20 boxes, 5 left over", "21 boxes, 2 left over", "21 boxes, 0 left over"],
+      "answer": 0,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 250 ÷ 12.\nStep 2: 12 × 20 = 240.\nStep 3: 250 − 240 = 10 left over.\nStep 4: 20 full boxes with 10 muffins remaining.\nCommon mistake: Choosing 21 boxes, 2 left over (12 × 21 = 252, which is more than 250)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q24",
+      "question": "Place these fractions in order from smallest to largest: 1/2, 1/5, 1/3. What is the correct order?",
+      "options": ["1/2, 1/3, 1/5", "1/5, 1/3, 1/2", "1/3, 1/5, 1/2", "1/5, 1/2, 1/3"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: For unit fractions, the bigger the denominator, the smaller the fraction.\nStep 2: 5 > 3 > 2, so 1/5 < 1/3 < 1/2.\nStep 3: Order from smallest to largest: 1/5, 1/3, 1/2.\nCommon mistake: Choosing 1/2, 1/3, 1/5 (ordering from largest to smallest)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q25",
+      "question": "The local pool is open from 6:00 am to 7:30 pm. How many hours and minutes is the pool open?",
+      "options": ["12 hours 30 minutes", "13 hours", "13 hours 30 minutes", "14 hours"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: From 6:00 am to 6:00 pm = 12 hours.\nStep 2: From 6:00 pm to 7:30 pm = 1 hour 30 minutes.\nStep 3: Total = 12 + 1 hour 30 minutes = 13 hours 30 minutes.\nCommon mistake: Choosing 13 hours (forgetting the 30 minutes) or 12 hours 30 minutes (only counting to 6:30 pm)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q26",
+      "question": "A data table shows: Monday 15, Tuesday 22, Wednesday 18, Thursday 25, Friday 20. What is the total for the week?",
+      "options": ["90", "95", "100", "105"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Add all values: 15 + 22 + 18 + 25 + 20.\nStep 2: 15 + 22 = 37. Then 37 + 18 = 55. Then 55 + 25 = 80. Then 80 + 20 = 100.\nThe total is 100.\nCommon mistake: Choosing 95 (missing one day) or 105 (adding an extra 5)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q27",
+      "question": "An L-shaped room is made from two rectangles: one is 5 m × 3 m and the other is 4 m × 2 m. What is the total area?",
+      "options": ["14 m²", "19 m²", "23 m²", "28 m²"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area of first rectangle = 5 × 3 = 15 m².\nStep 2: Area of second rectangle = 4 × 2 = 8 m².\nStep 3: Total area = 15 + 8 = 23 m².\nCommon mistake: Choosing 28 m² (adding all dimensions: 5 + 3 + 4 + 2 = 14, then doubling)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q28",
+      "question": "5/8 of the 40 lollies in a bag are red. How many lollies are NOT red?",
+      "options": ["8", "15", "20", "25"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Red lollies = 5/8 of 40 = (40 ÷ 8) × 5 = 5 × 5 = 25.\nStep 2: Not red = 40 − 25 = 15.\nCommon mistake: Choosing 25 (the number of red ones, not the non-red ones) or 8 (only finding 1/8)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q29",
+      "question": "Four children each have $7.50. They pool their money to buy a present. How much can they spend?",
+      "options": ["$22.50", "$27.50", "$28.00", "$30.00"],
+      "answer": 3,
+      "topic": "money",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4 children × $7.50 each.\nStep 2: 4 × $7 = $28 and 4 × $0.50 = $2.\nStep 3: $28 + $2 = $30.00.\nThey can spend $30.00.\nCommon mistake: Choosing $28.00 (multiplying 4 × $7 but forgetting the cents)."
+    },
+    {
+      "id": "oc-y3-maths-t3-q30",
+      "question": "A net for a rectangular prism shows 6 rectangles. Two are 4 cm × 3 cm, two are 4 cm × 2 cm, and two are 3 cm × 2 cm. What is the total surface area?",
+      "options": ["44 cm²", "48 cm²", "52 cm²", "56 cm²"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Two faces of 4 × 3 = 2 × 12 = 24 cm².\nStep 2: Two faces of 4 × 2 = 2 × 8 = 16 cm².\nStep 3: Two faces of 3 × 2 = 2 × 6 = 12 cm².\nStep 4: Total = 24 + 16 + 12 = 52 cm².\nCommon mistake: Choosing 48 cm² (only counting one of each pair) or 44 cm² (calculation errors)."
+    }
+  ]
+}

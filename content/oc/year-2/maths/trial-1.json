@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-maths-t1-q01",
+      "question": "What number comes after 29?",
+      "options": ["28", "30", "31", "39"],
+      "answer": 1,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: When we count forward, we add 1 to the number.\nStep 2: 29 + 1 = 30.\nThe number that comes after 29 is 30.\nCommon mistake: Choosing 31 (skipping a number) or 39 (changing the wrong digit)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q02",
+      "question": "Sam has 12 stickers. He gets 5 more. How many stickers does Sam have now?",
+      "options": ["7", "15", "17", "18"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sam starts with 12 stickers.\nStep 2: He gets 5 more, so we add: 12 + 5.\nStep 3: 12 + 5 = 17.\nSam has 17 stickers.\nCommon mistake: Choosing 7 (subtracting instead of adding) or 15 (adding only 3)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q03",
+      "question": "Which shape has 3 sides?",
+      "options": ["Square", "Triangle", "Circle", "Rectangle"],
+      "answer": 1,
+      "topic": "2d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Count the sides of each shape.\nStep 2: A square has 4 sides, a triangle has 3 sides, a circle has 0 straight sides, and a rectangle has 4 sides.\nStep 3: The shape with 3 sides is a triangle.\nCommon mistake: Confusing a triangle with other shapes, or thinking a circle has sides."
+    },
+    {
+      "id": "oc-y2-maths-t1-q04",
+      "question": "What is half of 10?",
+      "options": ["2", "4", "5", "10"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Half means dividing into 2 equal parts.\nStep 2: 10 divided into 2 equal parts: 10 ÷ 2 = 5.\nHalf of 10 is 5.\nCommon mistake: Choosing 2 (thinking half means divide by 5) or 4 (guessing)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q05",
+      "question": "There are 3 bags with 2 apples in each bag. How many apples are there altogether?",
+      "options": ["5", "6", "8", "9"],
+      "answer": 1,
+      "topic": "basic-multiplication",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: There are 3 bags, and each bag has 2 apples.\nStep 2: We can count in groups: 2 + 2 + 2 = 6.\nStep 3: Or multiply: 3 × 2 = 6.\nThere are 6 apples altogether.\nCommon mistake: Choosing 5 (adding 3 + 2 instead of multiplying)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q06",
+      "question": "What time does a clock show when the big hand is on 12 and the little hand is on 3?",
+      "options": ["12 o'clock", "3 o'clock", "6 o'clock", "9 o'clock"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The big hand (minute hand) on 12 means it is exactly on the hour.\nStep 2: The little hand (hour hand) on 3 tells us which hour it is.\nStep 3: So the time is 3 o'clock.\nCommon mistake: Choosing 12 o'clock (reading the big hand as the hour)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q07",
+      "question": "Mia has 18 crayons. She gives away 6. How many crayons does she have left?",
+      "options": ["10", "11", "12", "24"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Mia starts with 18 crayons.\nStep 2: She gives away 6, so we subtract: 18 − 6.\nStep 3: 18 − 6 = 12.\nMia has 12 crayons left.\nCommon mistake: Choosing 24 (adding instead of subtracting) or 11 (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q08",
+      "question": "Which of these is the longest?",
+      "options": ["A pencil (15 cm)", "A book (25 cm)", "A rubber (4 cm)", "A paper clip (3 cm)"],
+      "answer": 1,
+      "topic": "measurement",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Compare the lengths: 15 cm, 25 cm, 4 cm, 3 cm.\nStep 2: The biggest number is 25.\nStep 3: The book at 25 cm is the longest.\nCommon mistake: Picking the pencil (15 cm) because pencils seem long, without comparing the numbers."
+    },
+    {
+      "id": "oc-y2-maths-t1-q09",
+      "question": "Count by 5s: 5, 10, 15, 20, ___. What comes next?",
+      "options": ["21", "22", "24", "25"],
+      "answer": 3,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We are counting by 5s. Each number is 5 more than the last.\nStep 2: 20 + 5 = 25.\nThe next number is 25.\nCommon mistake: Choosing 21 (counting by 1s instead of 5s)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q10",
+      "question": "What is a quarter of 8?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "topic": "halves-quarters",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A quarter means dividing into 4 equal parts.\nStep 2: 8 ÷ 4 = 2.\nA quarter of 8 is 2.\nCommon mistake: Choosing 4 (finding half instead of a quarter)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q11",
+      "question": "Tom had 35 marbles. He lost 18. How many marbles does Tom have now?",
+      "options": ["13", "17", "23", "53"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Tom starts with 35 marbles and loses 18.\nStep 2: We subtract: 35 − 18.\nStep 3: 35 − 18: Start with 35 − 10 = 25, then 25 − 8 = 17.\nTom has 17 marbles.\nCommon mistake: Choosing 23 (subtracting only 12) or 53 (adding instead of subtracting)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q12",
+      "question": "There are 5 rows of chairs with 4 chairs in each row. How many chairs are there altogether?",
+      "options": ["9", "15", "20", "24"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: There are 5 rows with 4 chairs in each row.\nStep 2: We can add: 4 + 4 + 4 + 4 + 4 = 20.\nStep 3: Or multiply: 5 × 4 = 20.\nThere are 20 chairs altogether.\nCommon mistake: Choosing 9 (adding 5 + 4) or 24 (multiplying 6 × 4 by mistake)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q13",
+      "question": "Lily went to bed at 8 o'clock. She slept for 10 hours. What time did she wake up?",
+      "options": ["4 o'clock", "6 o'clock", "10 o'clock", "18 o'clock"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Lily goes to bed at 8 o'clock at night.\nStep 2: She sleeps for 10 hours.\nStep 3: 8 + 10 = 18, but clocks only go to 12, so 18 − 12 = 6.\nStep 4: She wakes up at 6 o'clock in the morning.\nCommon mistake: Choosing 18 o'clock (not converting to 12-hour time) or 10 o'clock (adding only 2 hours)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q14",
+      "question": "A ribbon is 48 cm long. Another ribbon is 35 cm long. How much longer is the first ribbon?",
+      "options": ["13 cm", "17 cm", "23 cm", "83 cm"],
+      "answer": 0,
+      "topic": "measurement",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: To find the difference, we subtract: 48 − 35.\nStep 2: 48 − 35 = 13.\nThe first ribbon is 13 cm longer.\nCommon mistake: Choosing 83 cm (adding instead of subtracting) or 23 cm (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q15",
+      "question": "Which number is shown by 4 tens and 7 ones?",
+      "options": ["11", "47", "74", "407"],
+      "answer": 1,
+      "topic": "counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 4 tens = 40.\nStep 2: 7 ones = 7.\nStep 3: 40 + 7 = 47.\nThe number is 47.\nCommon mistake: Choosing 74 (swapping the tens and ones) or 407 (writing 4 then 07)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q16",
+      "question": "A rectangle has a length of 5 cm and a width of 3 cm. How many centimetres is it around the outside (perimeter)?",
+      "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A rectangle has 2 long sides and 2 short sides.\nStep 2: Perimeter = 5 + 3 + 5 + 3 = 16 cm.\nThe distance around the rectangle is 16 cm.\nCommon mistake: Choosing 8 (adding only 5 + 3 once) or 15 (adding 5 + 5 + 3 + 2)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q17",
+      "question": "What is 27 + 45?",
+      "options": ["62", "63", "72", "73"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Add the ones: 7 + 5 = 12. Write 2 and carry 1.\nStep 2: Add the tens: 2 + 4 + 1 (carried) = 7.\nStep 3: The answer is 72.\nCommon mistake: Choosing 62 (forgetting to carry) or 63 (carrying incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q18",
+      "question": "Jake shares 20 lollies equally among 4 friends. How many lollies does each friend get?",
+      "options": ["4", "5", "6", "16"],
+      "answer": 1,
+      "topic": "halves-quarters",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 20 lollies shared equally among 4 friends.\nStep 2: 20 ÷ 4 = 5.\nEach friend gets 5 lollies.\nCommon mistake: Choosing 16 (subtracting 20 − 4) or 4 (confusing divisor with answer)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q19",
+      "question": "A school bell rings at half past 9. What does the clock look like?",
+      "options": ["Big hand on 12, little hand on 9", "Big hand on 6, little hand between 9 and 10", "Big hand on 3, little hand on 9", "Big hand on 9, little hand on 6"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Half past means 30 minutes past the hour.\nStep 2: At 30 minutes, the big hand (minute hand) is on 6.\nStep 3: The little hand (hour hand) has moved past 9 but not yet to 10, so it is between 9 and 10.\nCommon mistake: Choosing the first option (thinking the big hand stays on 12 for half past)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q20",
+      "question": "How many 2s make 16?",
+      "options": ["4", "6", "8", "14"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: We need to find how many times 2 goes into 16.\nStep 2: Count by 2s: 2, 4, 6, 8, 10, 12, 14, 16. That is 8 counts.\nStep 3: 16 ÷ 2 = 8.\nThere are 8 twos in 16.\nCommon mistake: Choosing 14 (subtracting 16 − 2) or 6 (miscounting)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q21",
+      "question": "A toy car costs $3.50. Ben pays with a $5 note. How much change does he get?",
+      "options": ["$1.00", "$1.50", "$2.00", "$2.50"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ben pays $5.00 for a toy that costs $3.50.\nStep 2: Change = $5.00 − $3.50.\nStep 3: From $3.50 to $4.00 is 50 cents. From $4.00 to $5.00 is $1.00.\nStep 4: 50c + $1.00 = $1.50.\nBen gets $1.50 change.\nCommon mistake: Choosing $2.50 (subtracting only the dollars: $5 − $3 = $2, then adding 50c) or $2.00 (ignoring the cents)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q22",
+      "question": "What number is 10 less than 82?",
+      "options": ["62", "72", "73", "92"],
+      "answer": 1,
+      "topic": "counting",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: '10 less than' means subtract 10.\nStep 2: 82 − 10 = 72.\nThe answer is 72.\nCommon mistake: Choosing 92 (adding 10 instead of subtracting) or 73 (subtracting 9)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q23",
+      "question": "Emma picked 24 flowers on Monday and 38 flowers on Tuesday. How many flowers did she pick in total?",
+      "options": ["52", "62", "14", "512"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Add the ones: 4 + 8 = 12. Write 2, carry 1.\nStep 2: Add the tens: 2 + 3 + 1 (carried) = 6.\nStep 3: 24 + 38 = 62.\nEmma picked 62 flowers in total.\nCommon mistake: Choosing 52 (forgetting to carry the 1) or 512 (writing 5 and 12 side by side)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q24",
+      "question": "A farmer has 4 paddocks. Each paddock has 10 sheep. He buys 7 more sheep. How many sheep does he have now?",
+      "options": ["21", "37", "47", "57"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4 paddocks × 10 sheep = 40 sheep.\nStep 2: He buys 7 more: 40 + 7 = 47.\nThe farmer has 47 sheep.\nCommon mistake: Choosing 21 (adding 4 + 10 + 7) or 57 (calculating 5 × 10 + 7)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q25",
+      "question": "A piece of string is 1 metre long. Zoe cuts off 35 cm. How many centimetres of string are left?",
+      "options": ["35 cm", "55 cm", "65 cm", "75 cm"],
+      "answer": 2,
+      "topic": "measurement",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1 metre = 100 cm.\nStep 2: Zoe cuts off 35 cm: 100 − 35 = 65 cm.\nThere are 65 cm of string left.\nCommon mistake: Choosing 75 cm (subtracting only 25) or 55 cm (subtracting 45 by mistake)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q26",
+      "question": "Amy has half a pizza. She cuts her half into 2 equal pieces. What fraction of the whole pizza is each piece?",
+      "options": ["One half", "One third", "One quarter", "One eighth"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Amy has half (1/2) of the pizza.\nStep 2: She cuts that half into 2 equal pieces.\nStep 3: Each piece is half of a half.\nStep 4: Half of a half = 1/4 (one quarter).\nEach piece is one quarter of the whole pizza.\nCommon mistake: Choosing one half (thinking each piece is still a half) or one third (guessing)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q27",
+      "question": "Count back by 3s: 30, 27, 24, 21, ___. What is the next number?",
+      "options": ["15", "17", "18", "19"],
+      "answer": 2,
+      "topic": "counting",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern is counting back by 3.\nStep 2: 21 − 3 = 18.\nThe next number is 18.\nCommon mistake: Choosing 19 (subtracting 2) or 15 (subtracting 6)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q28",
+      "question": "A square and a triangle are drawn side by side. How many sides do they have altogether?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A square has 4 sides.\nStep 2: A triangle has 3 sides.\nStep 3: 4 + 3 = 7 sides altogether.\nCommon mistake: Choosing 6 (thinking a square has 3 sides too) or 5 (subtracting instead of adding)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q29",
+      "question": "Kai leaves home at quarter past 7 in the morning. He walks for 30 minutes to school. What time does he arrive?",
+      "options": ["7:30", "7:45", "8:00", "8:15"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Quarter past 7 is 7:15.\nStep 2: He walks for 30 minutes.\nStep 3: 7:15 + 30 minutes = 7:45.\nKai arrives at 7:45.\nCommon mistake: Choosing 8:15 (adding 1 hour instead of 30 minutes) or 8:00 (rounding up)."
+    },
+    {
+      "id": "oc-y2-maths-t1-q30",
+      "question": "There are 63 children on a bus. At the first stop, 28 children get off. At the second stop, 15 more get on. How many children are on the bus now?",
+      "options": ["20", "35", "50", "76"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with 63 children.\nStep 2: 28 get off: 63 − 28 = 35.\nStep 3: 15 get on: 35 + 15 = 50.\nThere are 50 children on the bus.\nCommon mistake: Choosing 20 (subtracting both: 63 − 28 − 15) or 76 (adding both: 63 + 28 − 15)."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y6-maths-t1-q01",
+      "question": "If n + 7 = 15, what is the value of n?",
+      "options": ["7", "8", "9", "22"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: n + 7 = 15.\nStep 2: Subtract 7 from both sides: n = 15 − 7 = 8.\nCommon mistake: Choosing 22 (adding 15 + 7 instead of subtracting)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q02",
+      "question": "What is the ratio of 15 to 25 in simplest form?",
+      "options": ["3:5", "5:3", "1:2", "15:25"],
+      "answer": 0,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the highest common factor of 15 and 25, which is 5.\nStep 2: 15 ÷ 5 = 3, 25 ÷ 5 = 5.\nStep 3: The ratio is 3:5.\nCommon mistake: Choosing 5:3 (writing the ratio in reverse order)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q03",
+      "question": "Convert 3/8 to a decimal.",
+      "options": ["0.35", "0.375", "0.38", "0.83"],
+      "answer": 1,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3 ÷ 8 = 0.375.\nStep 2: Check: 0.375 × 8 = 3. Correct!\nCommon mistake: Choosing 0.38 (rounding incorrectly) or 0.83 (dividing 8 by 3 instead)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q04",
+      "question": "A triangle is translated 4 units to the right. What happens to its shape?",
+      "options": ["It gets bigger", "It gets smaller", "It flips over", "It stays the same size and shape"],
+      "answer": 3,
+      "topic": "geometry-transformations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A translation (slide) moves every point of the shape the same distance in the same direction.\nStep 2: The size and shape do not change — only the position changes.\nCommon mistake: Choosing 'it gets bigger' or 'it flips over' (confusing with enlargement or reflection)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q05",
+      "question": "The mean of 5 numbers is 12. What is the total of the 5 numbers?",
+      "options": ["17", "48", "60", "72"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Mean = total ÷ number of values.\nStep 2: 12 = total ÷ 5.\nStep 3: Total = 12 × 5 = 60.\nCommon mistake: Choosing 17 (adding 12 + 5)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q06",
+      "question": "A point is at (3, -2). In which quadrant is it?",
+      "options": ["Quadrant I", "Quadrant II", "Quadrant III", "Quadrant IV"],
+      "answer": 3,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: x = 3 (positive), y = -2 (negative).\nStep 2: Positive x and negative y is Quadrant IV (bottom right).\nCommon mistake: Choosing Quadrant I (ignoring the negative y)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q07",
+      "question": "What is 0.6 as a percentage?",
+      "options": ["0.6%", "6%", "60%", "600%"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: To convert a decimal to a percentage, multiply by 100.\nStep 2: 0.6 × 100 = 60%.\nCommon mistake: Choosing 6% (moving the decimal one place instead of two)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q08",
+      "question": "If 3n = 21, what is n?",
+      "options": ["3", "7", "18", "24"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3n = 21.\nStep 2: Divide both sides by 3: n = 21 ÷ 3 = 7.\nCommon mistake: Choosing 18 (subtracting 3 from 21) or 24 (adding 3 to 21)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q09",
+      "question": "In a class of 30, the ratio of boys to girls is 2:3. How many boys are there?",
+      "options": ["10", "12", "15", "18"],
+      "answer": 1,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total parts = 2 + 3 = 5.\nStep 2: Each part = 30 ÷ 5 = 6.\nStep 3: Boys = 2 × 6 = 12.\nCommon mistake: Choosing 15 (half the class) or 10 (2 × 5)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q10",
+      "question": "The mode of the data set {3, 5, 7, 5, 2, 5, 8} is:",
+      "options": ["2", "5", "7", "8"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The mode is the most frequently occurring value.\nStep 2: 5 appears 3 times (more than any other value).\nStep 3: The mode is 5.\nCommon mistake: Choosing 7 (the middle value when not sorted)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q11",
+      "question": "Solve: 2n + 5 = 19",
+      "options": ["5", "7", "8", "12"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 2n + 5 = 19.\nStep 2: Subtract 5: 2n = 14.\nStep 3: Divide by 2: n = 7.\nCommon mistake: Choosing 12 (subtracting 5 then not dividing: 19 − 5 = 14, but forgetting ÷ 2)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q12",
+      "question": "A recipe uses flour and sugar in the ratio 5:2. If 300 g of flour is used, how much sugar is needed?",
+      "options": ["60 g", "100 g", "120 g", "150 g"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Flour:Sugar = 5:2.\nStep 2: Each part = 300 ÷ 5 = 60 g.\nStep 3: Sugar = 2 × 60 = 120 g.\nCommon mistake: Choosing 100 g (dividing 300 by 3) or 150 g (dividing 300 by 2)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q13",
+      "question": "Convert 7/20 to a percentage.",
+      "options": ["3.5%", "14%", "35%", "70%"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 7/20 = 7 ÷ 20 = 0.35.\nStep 2: 0.35 × 100 = 35%.\nOr: 7/20 × 5/5 = 35/100 = 35%.\nCommon mistake: Choosing 3.5% (dividing 7 by 200) or 70% (multiplying 7 by 10)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q14",
+      "question": "A shape has rotational symmetry of order 4. Through how many degrees must it be rotated before it looks the same?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "answer": 2,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Order 4 means the shape looks the same 4 times in a full rotation.\nStep 2: 360° ÷ 4 = 90°.\nStep 3: It looks the same after rotating 90°.\nCommon mistake: Choosing 45° (360° ÷ 8) or 180° (360° ÷ 2)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q15",
+      "question": "The median of {12, 18, 7, 25, 3} is:",
+      "options": ["7", "12", "13", "18"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Arrange in order: 3, 7, 12, 18, 25.\nStep 2: The median is the middle value.\nStep 3: There are 5 values, so the median is the 3rd value = 12.\nCommon mistake: Choosing 18 (not sorting first) or 13 (finding the mean of 7 and 18)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q16",
+      "question": "A straight line passes through (0, 3) and (2, 7). What is the gradient (slope)?",
+      "options": ["1", "2", "3", "5"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Gradient = (change in y) ÷ (change in x).\nStep 2: Change in y = 7 − 3 = 4. Change in x = 2 − 0 = 2.\nStep 3: Gradient = 4 ÷ 2 = 2.\nCommon mistake: Choosing 3 (the y-intercept) or 5 (adding 3 + 2)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q17",
+      "question": "Which expression represents 'five less than three times a number n'?",
+      "options": ["5 − 3n", "3n − 5", "5n − 3", "3(n − 5)"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 'Three times a number n' = 3n.\nStep 2: 'Five less than' means subtract 5.\nStep 3: Expression = 3n − 5.\nCommon mistake: Choosing 5 − 3n ('five less' read as '5 minus') or 3(n − 5) (distributing the subtraction incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q18",
+      "question": "Orange juice and water are mixed in the ratio 1:4. How much water is needed if you have 500 mL of orange juice?",
+      "options": ["125 mL", "500 mL", "1 000 mL", "2 000 mL"],
+      "answer": 3,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ratio OJ:Water = 1:4.\nStep 2: If OJ = 500 mL (1 part), then each part = 500 mL.\nStep 3: Water = 4 × 500 = 2000 mL.\nCommon mistake: Choosing 125 mL (500 ÷ 4, dividing instead of multiplying)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q19",
+      "question": "A shape is reflected in the line y = 0 (x-axis). If a vertex was at (4, 3), where is its image?",
+      "options": ["(-4, 3)", "(4, -3)", "(-4, -3)", "(3, 4)"],
+      "answer": 1,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Reflecting in the x-axis (y = 0) keeps x the same and negates y.\nStep 2: (4, 3) → (4, -3).\nCommon mistake: Choosing (-4, 3) (reflecting in the y-axis instead)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q20",
+      "question": "Which fraction is equivalent to 45%?",
+      "options": ["4/5", "9/20", "9/10", "45/10"],
+      "answer": 1,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 45% = 45/100.\nStep 2: Simplify: 45 ÷ 5 = 9, 100 ÷ 5 = 20.\nStep 3: 45% = 9/20.\nCommon mistake: Choosing 4/5 (80%, not 45%) or 9/10 (90%)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q21",
+      "question": "Solve: 4(n − 3) = 20",
+      "options": ["2", "5", "8", "23"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4(n − 3) = 20.\nStep 2: Divide both sides by 4: n − 3 = 5.\nStep 3: Add 3: n = 8.\nCommon mistake: Choosing 5 (forgetting to add 3) or 23 (20 + 3)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q22",
+      "question": "A map has a scale of 1:50 000. Two towns are 8 cm apart on the map. What is the real distance?",
+      "options": ["400 m", "4 km", "40 km", "400 km"],
+      "answer": 1,
+      "topic": "ratios",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 8 cm × 50 000 = 400 000 cm.\nStep 2: Convert: 400 000 cm = 4 000 m = 4 km.\nCommon mistake: Choosing 400 m (forgetting one conversion) or 40 km (multiplying by an extra 10)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q23",
+      "question": "Put these in order from smallest to largest: 0.65, 3/5, 62%, 7/10",
+      "options": ["3/5, 62%, 0.65, 7/10", "62%, 0.65, 3/5, 7/10", "3/5, 0.65, 62%, 7/10", "7/10, 0.65, 62%, 3/5"],
+      "answer": 0,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert all to decimals: 0.65, 3/5=0.6, 62%=0.62, 7/10=0.7.\nStep 2: Order: 0.6, 0.62, 0.65, 0.7.\nStep 3: So: 3/5, 62%, 0.65, 7/10.\nCommon mistake: Choosing 62%, 0.65, 3/5, 7/10 (thinking 3/5 = 0.35)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q24",
+      "question": "A shape is rotated 180° about the origin. If a vertex is at (2, -5), where is its image?",
+      "options": ["(-2, 5)", "(2, 5)", "(-2, -5)", "(5, -2)"],
+      "answer": 0,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A 180° rotation about the origin negates both coordinates.\nStep 2: (2, -5) → (-2, 5).\nCommon mistake: Choosing (-2, -5) (only negating x) or (2, 5) (only negating y)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q25",
+      "question": "The data set is: 4, 6, 8, 8, 10, 12, 14. What is the interquartile range (IQR)?",
+      "options": ["4", "6", "8", "10"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Data in order: 4, 6, 8, 8, 10, 12, 14.\nStep 2: Median = 8 (4th value).\nStep 3: Lower quartile (Q1) = median of {4, 6, 8} = 6.\nStep 4: Upper quartile (Q3) = median of {10, 12, 14} = 12.\nStep 5: IQR = Q3 − Q1 = 12 − 6 = 6.\nCommon mistake: Choosing 10 (range: 14 − 4) or 8 (the median)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q26",
+      "question": "A line passes through (1, 2) and (4, 11). What is the equation of the line in the form y = mx + b?",
+      "options": ["y = 2x + 1", "y = 3x − 1", "y = 3x + 1", "y = 4x − 2"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Gradient m = (11 − 2)/(4 − 1) = 9/3 = 3.\nStep 2: Using point (1, 2): 2 = 3(1) + b, so b = 2 − 3 = −1.\nStep 3: Equation: y = 3x − 1.\nCommon mistake: Choosing y = 3x + 1 (miscalculating b)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q27",
+      "question": "If 5n − 8 = 3n + 6, what is n?",
+      "options": ["1", "5", "7", "14"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 5n − 8 = 3n + 6.\nStep 2: Subtract 3n: 2n − 8 = 6.\nStep 3: Add 8: 2n = 14.\nStep 4: Divide by 2: n = 7.\nCommon mistake: Choosing 14 (not dividing by 2 at the end)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q28",
+      "question": "A paint mix uses red, yellow and blue in the ratio 3:5:2. If 6 litres of red paint are used, how much paint is used in total?",
+      "options": ["10 L", "16 L", "18 L", "20 L"],
+      "answer": 3,
+      "topic": "ratios",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Red = 3 parts = 6 L, so 1 part = 2 L.\nStep 2: Total parts = 3 + 5 + 2 = 10.\nStep 3: Total paint = 10 × 2 = 20 L.\nCommon mistake: Choosing 16 L (forgetting one colour) or 10 L (using parts as litres)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q29",
+      "question": "A shape is enlarged by a scale factor of 3. If the original area was 8 cm², what is the new area?",
+      "options": ["11 cm²", "24 cm²", "64 cm²", "72 cm²"],
+      "answer": 3,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: When a shape is enlarged by scale factor k, the area is multiplied by k².\nStep 2: k = 3, so k² = 9.\nStep 3: New area = 8 × 9 = 72 cm².\nCommon mistake: Choosing 24 cm² (multiplying area by 3, not 3²)."
+    },
+    {
+      "id": "selective-y6-maths-t1-q30",
+      "question": "The marks of 8 students are: 45, 52, 58, 63, 67, 72, 78, 85. What is the mean mark?",
+      "options": ["62", "63", "65", "66"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum = 45 + 52 + 58 + 63 + 67 + 72 + 78 + 85 = 520.\nStep 2: Mean = 520 ÷ 8 = 65.\nCommon mistake: Choosing 63 (the median, not the mean) or 66 (rounding error)."
+    }
+  ]
+}

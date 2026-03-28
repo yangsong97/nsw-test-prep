@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-maths-t3-q01",
+      "question": "What is 15 − 3 × 4?",
+      "options": ["3", "48", "12", "27"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Multiplication first: 3 × 4 = 12.\nStep 2: 15 − 12 = 3.\nCommon mistake: Choosing 48 (doing 15 − 3 = 12, then 12 × 4) or 27 (adding instead)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q02",
+      "question": "What is 20% of 150?",
+      "options": ["15", "20", "30", "75"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 20% = 20/100 = 1/5.\nStep 2: 150 ÷ 5 = 30.\nCommon mistake: Choosing 15 (10% of 150) or 75 (50% of 150)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q03",
+      "question": "What is 1/2 + 1/3?",
+      "options": ["2/5", "2/6", "5/6", "1/5"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Common denominator of 2 and 3 is 6.\nStep 2: 1/2 = 3/6, 1/3 = 2/6.\nStep 3: 3/6 + 2/6 = 5/6.\nCommon mistake: Choosing 2/5 (adding numerators and denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q04",
+      "question": "A cube has edges of 3 cm. What is its volume?",
+      "options": ["9 cm³", "18 cm³", "27 cm³", "36 cm³"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Volume of a cube = edge × edge × edge.\nStep 2: V = 3 × 3 × 3 = 27 cm³.\nCommon mistake: Choosing 9 cm³ (3 × 3, only squaring)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q05",
+      "question": "Supplementary angles add up to:",
+      "options": ["45°", "90°", "180°", "360°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Complementary angles add to 90°.\nStep 2: Supplementary angles add to 180°.\nCommon mistake: Choosing 90° (confusing supplementary with complementary)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q06",
+      "question": "A standard die is rolled. What is the probability of rolling a number greater than 4?",
+      "options": ["1/6", "1/3", "1/2", "2/3"],
+      "answer": 1,
+      "topic": "probability",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Numbers greater than 4 on a die: 5 and 6. That is 2 outcomes.\nStep 2: Total outcomes = 6.\nStep 3: Probability = 2/6 = 1/3.\nCommon mistake: Choosing 1/2 (thinking 4, 5, 6 are all greater than 4)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q07",
+      "question": "What are the coordinates of the origin?",
+      "options": ["(1, 1)", "(0, 1)", "(1, 0)", "(0, 0)"],
+      "answer": 3,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The origin is the point where the x-axis and y-axis meet.\nStep 2: It has coordinates (0, 0).\nCommon mistake: Choosing (1, 1) (confusing with the first counting number)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q08",
+      "question": "What is (20 + 4) ÷ 6?",
+      "options": ["2", "3", "4", "6"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Brackets first: 20 + 4 = 24.\nStep 2: 24 ÷ 6 = 4.\nCommon mistake: Choosing 6 (20 ÷ 6 + 4, ignoring brackets)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q09",
+      "question": "Convert 0.4 to a percentage.",
+      "options": ["0.4%", "4%", "40%", "400%"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: To convert a decimal to a percentage, multiply by 100.\nStep 2: 0.4 × 100 = 40%.\nCommon mistake: Choosing 4% (moving the decimal point one place instead of two)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q10",
+      "question": "What is 5/6 − 1/6?",
+      "options": ["2/3", "4/6", "4/12", "1/3"],
+      "answer": 0,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Same denominator: 5 − 1 = 4.\nStep 2: 5/6 − 1/6 = 4/6 = 2/3.\nCommon mistake: Choosing 4/12 (subtracting 5−1=4 and then using 6+6=12 as denominator)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q11",
+      "question": "Evaluate: 2 × (3² + 1) − 5",
+      "options": ["13", "15", "17", "25"],
+      "answer": 1,
+      "topic": "order-of-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Inside brackets: 3² = 9, then 9 + 1 = 10.\nStep 2: Multiplication: 2 × 10 = 20.\nStep 3: Subtraction: 20 − 5 = 15.\nCommon mistake: Choosing 13 (doing 2 × 3² = 18, then 18 + 1 − 5 = 14, no) or 25 (2 × 3 = 6, 6² + 1 = 37, no)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q12",
+      "question": "A $120 pair of shoes has a 15% discount. What is the discount amount?",
+      "options": ["$12", "$15", "$18", "$20"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 15% of $120.\nStep 2: 10% of $120 = $12. 5% of $120 = $6.\nStep 3: 15% = $12 + $6 = $18.\nCommon mistake: Choosing $15 (confusing 15% with $15)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q13",
+      "question": "What is 3/5 × 5/9?",
+      "options": ["1/3", "8/14", "15/45", "8/45"],
+      "answer": 0,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 3/5 × 5/9 = (3 × 5)/(5 × 9) = 15/45.\nStep 2: Simplify: 15/45 = 1/3.\nStep 3: Or cancel first: 3/5 × 5/9 — the 5s cancel, leaving 3/9 = 1/3.\nCommon mistake: Choosing 8/14 (adding numerators and denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q14",
+      "question": "A fish tank is 50 cm long, 25 cm wide and 30 cm high. Water is filled to a depth of 20 cm. What is the volume of water?",
+      "options": ["15 000 cm³", "25 000 cm³", "37 500 cm³", "50 000 cm³"],
+      "answer": 1,
+      "topic": "volume-capacity",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Volume of water = length × width × water depth.\nStep 2: V = 50 × 25 × 20 = 25 000 cm³.\nCommon mistake: Choosing 37 500 cm³ (using full height of 30 instead of water depth of 20)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q15",
+      "question": "A regular hexagon has interior angles. What does each interior angle measure?",
+      "options": ["90°", "108°", "120°", "135°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Sum of interior angles = (n − 2) × 180° where n = 6.\nStep 2: Sum = 4 × 180° = 720°.\nStep 3: Each angle = 720° ÷ 6 = 120°.\nCommon mistake: Choosing 108° (interior angle of a regular pentagon)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q16",
+      "question": "A box contains 5 red pens, 3 blue pens and 2 black pens. What is the probability of picking a pen that is NOT black?",
+      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "answer": 3,
+      "topic": "probability",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total pens = 5 + 3 + 2 = 10.\nStep 2: Not black = 5 + 3 = 8.\nStep 3: P(not black) = 8/10 = 4/5.\nCommon mistake: Choosing 2/5 (probability of black, not 'not black')."
+    },
+    {
+      "id": "selective-y5-maths-t3-q17",
+      "question": "Point A is at (2, 5) and point B is at (7, 5). What is the length of AB?",
+      "options": ["2 units", "5 units", "7 units", "9 units"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Both points have y = 5, so they are on the same horizontal line.\nStep 2: Distance = |7 − 2| = 5 units.\nCommon mistake: Choosing 9 units (adding 2 + 7) or 7 units (using just the x-coordinate of B)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q18",
+      "question": "5/8 of a number is 40. What is the number?",
+      "options": ["25", "48", "56", "64"],
+      "answer": 3,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5/8 of the number = 40.\nStep 2: 1/8 of the number = 40 ÷ 5 = 8.\nStep 3: The number = 8 × 8 = 64.\nStep 4: Check: 5/8 × 64 = 40. Correct!\nCommon mistake: Choosing 48 (40 + 8) or 56 (40 + 16)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q19",
+      "question": "A jacket was $80. Its price increased by 10% then decreased by 10%. What is the final price?",
+      "options": ["$78.20", "$79.20", "$80.00", "$80.80"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 10% increase: $80 × 1.1 = $88.\nStep 2: 10% decrease: $88 × 0.9 = $79.20.\nCommon mistake: Choosing $80.00 (thinking increases and decreases of the same percentage cancel out)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q20",
+      "question": "How many mL are in 3.5 L?",
+      "options": ["35 mL", "350 mL", "3 500 mL", "35 000 mL"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1 L = 1000 mL.\nStep 2: 3.5 L = 3.5 × 1000 = 3500 mL.\nCommon mistake: Choosing 350 mL (multiplying by 100 instead of 1000)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q21",
+      "question": "What is the value of 2³ + 4 × (15 − 3 × 3)?",
+      "options": ["8", "24", "32", "56"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Inside brackets: 3 × 3 = 9, then 15 − 9 = 6.\nStep 2: Orders: 2³ = 8.\nStep 3: Multiplication: 4 × 6 = 24.\nStep 4: Addition: 8 + 24 = 32.\nCommon mistake: Choosing 56 (doing 15 − 3 = 12 first, then 4 × 12 = 48 + 8 = 56)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q22",
+      "question": "In a sale, a TV is reduced from $800 to $600. What is the percentage discount?",
+      "options": ["20%", "25%", "30%", "33%"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Discount = $800 − $600 = $200.\nStep 2: Percentage discount = (200/800) × 100 = 25%.\nCommon mistake: Choosing 33% (200/600 × 100, using the sale price as the base)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q23",
+      "question": "What is 3 1/4 − 1 2/3?",
+      "options": ["1 5/12", "1 7/12", "2 1/12", "2 7/12"],
+      "answer": 1,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert: 3 1/4 = 13/4, 1 2/3 = 5/3.\nStep 2: Common denominator is 12: 13/4 = 39/12, 5/3 = 20/12.\nStep 3: 39/12 − 20/12 = 19/12 = 1 7/12.\nCommon mistake: Choosing 2 1/12 (subtracting whole numbers: 3−1=2, and fractions: 1/4−2/3 incorrectly)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q24",
+      "question": "A container is a rectangular prism with a base area of 200 cm² and height of 30 cm. How many litres does it hold? (1 L = 1000 cm³)",
+      "options": ["0.6 L", "6 L", "60 L", "600 L"],
+      "answer": 1,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Volume = base area × height = 200 × 30 = 6000 cm³.\nStep 2: 6000 ÷ 1000 = 6 L.\nCommon mistake: Choosing 60 L (dividing by 100 instead of 1000)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q25",
+      "question": "In a triangle, one angle is 40° and another is 75°. What type of triangle is it?",
+      "options": ["Right-angled", "Acute", "Obtuse", "Equilateral"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Third angle = 180 − 40 − 75 = 65°.\nStep 2: All three angles (40°, 75°, 65°) are less than 90°.\nStep 3: A triangle with all acute angles is an acute triangle.\nCommon mistake: Choosing obtuse (none of the angles exceed 90°)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q26",
+      "question": "Two dice are rolled. How many possible outcomes have a sum less than 5?",
+      "options": ["4", "5", "6", "10"],
+      "answer": 2,
+      "topic": "probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: List outcomes with sum < 5 (sums of 2, 3, or 4).\nStep 2: Sum 2: (1,1). Sum 3: (1,2), (2,1). Sum 4: (1,3), (2,2), (3,1).\nStep 3: Total = 1 + 2 + 3 = 6 outcomes.\nCommon mistake: Choosing 4 (only counting sums up to 3) or 10 (including sum = 5)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q27",
+      "question": "A shape is reflected over the y-axis. If a vertex was at (3, 4), where is its reflection?",
+      "options": ["(-3, 4)", "(3, -4)", "(-3, -4)", "(4, 3)"],
+      "answer": 0,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Reflecting over the y-axis changes the sign of the x-coordinate.\nStep 2: (3, 4) becomes (-3, 4).\nCommon mistake: Choosing (3, -4) (reflecting over the x-axis instead)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q28",
+      "question": "A shop buys an item for $60 and sells it for $90. What is the profit as a percentage of the cost price?",
+      "options": ["30%", "33%", "50%", "150%"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Profit = $90 − $60 = $30.\nStep 2: Percentage profit = (30/60) × 100 = 50%.\nCommon mistake: Choosing 33% (30/90 × 100, using selling price instead of cost price)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q29",
+      "question": "What is 2/3 ÷ 3/4?",
+      "options": ["1/2", "6/12", "8/9", "9/8"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: To divide fractions, multiply by the reciprocal.\nStep 2: 2/3 ÷ 3/4 = 2/3 × 4/3 = 8/9.\nCommon mistake: Choosing 6/12 (multiplying straight: 2×3/3×4) or 1/2 (simplifying incorrectly)."
+    },
+    {
+      "id": "selective-y5-maths-t3-q30",
+      "question": "A composite solid is made of a rectangular block (8 cm × 5 cm × 3 cm) with a cube (2 cm edge) on top. What is the total volume?",
+      "options": ["120 cm³", "128 cm³", "130 cm³", "136 cm³"],
+      "answer": 1,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Volume of rectangular block = 8 × 5 × 3 = 120 cm³.\nStep 2: Volume of cube = 2 × 2 × 2 = 8 cm³.\nStep 3: Total volume = 120 + 8 = 128 cm³.\nCommon mistake: Choosing 130 cm³ (adding 10 instead of 8) or 120 cm³ (forgetting the cube)."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y6-maths-t2-q01",
+      "question": "If n − 4 = 11, what is n?",
+      "options": ["7", "11", "15", "44"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: n − 4 = 11.\nStep 2: Add 4 to both sides: n = 11 + 4 = 15.\nCommon mistake: Choosing 7 (subtracting 4 from 11)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q02",
+      "question": "Simplify the ratio 24:36.",
+      "options": ["2:3", "3:4", "4:6", "6:9"],
+      "answer": 0,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: HCF of 24 and 36 is 12.\nStep 2: 24 ÷ 12 = 2, 36 ÷ 12 = 3.\nStep 3: Simplest form: 2:3.\nCommon mistake: Choosing 4:6 (dividing by 6 instead of 12, not fully simplified)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q03",
+      "question": "What is 7/8 as a decimal?",
+      "options": ["0.78", "0.85", "0.875", "0.9"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 7 ÷ 8 = 0.875.\nStep 2: Check: 0.875 × 8 = 7. Correct!\nCommon mistake: Choosing 0.78 (writing digits side by side) or 0.85 (rounding)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q04",
+      "question": "A square is reflected over a vertical line. What does it look like?",
+      "options": ["It is upside down", "It looks exactly the same", "It is twice as big", "It has fewer sides"],
+      "answer": 1,
+      "topic": "geometry-transformations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A square has 4 lines of symmetry, including a vertical one.\nStep 2: Reflecting a square over a vertical line produces an identical-looking square.\nCommon mistake: Choosing 'it is upside down' (confusing reflection with rotation)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q05",
+      "question": "What is the range of this data set? {14, 22, 8, 31, 17}",
+      "options": ["14", "17", "22", "23"],
+      "answer": 3,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Range = maximum − minimum.\nStep 2: Maximum = 31, Minimum = 8.\nStep 3: Range = 31 − 8 = 23.\nCommon mistake: Choosing 17 (the median, not the range)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q06",
+      "question": "Which point lies on the x-axis?",
+      "options": ["(0, 5)", "(3, 3)", "(4, 0)", "(0, 0)"],
+      "answer": 2,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Points on the x-axis have y = 0.\nStep 2: (4, 0) has y = 0, so it lies on the x-axis.\nStep 3: (0, 0) is the origin and lies on both axes, but (4, 0) is specifically on the x-axis.\nCommon mistake: Choosing (0, 5) (confusing x-axis with y-axis)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q07",
+      "question": "What percentage is 12 out of 48?",
+      "options": ["12%", "20%", "24%", "25%"],
+      "answer": 3,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 12/48 = 1/4 (divide by 12).\nStep 2: 1/4 = 25%.\nCommon mistake: Choosing 24% (confusing 12/48 with 12/50)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q08",
+      "question": "If 2n + 1 = 9, what is n?",
+      "options": ["3", "4", "5", "10"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2n + 1 = 9.\nStep 2: Subtract 1: 2n = 8.\nStep 3: Divide by 2: n = 4.\nCommon mistake: Choosing 5 (9 ÷ 2 + 1, not following order)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q09",
+      "question": "Red and blue beads are in the ratio 3:7. If there are 21 red beads, how many blue beads are there?",
+      "options": ["9", "35", "49", "63"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Red:Blue = 3:7.\nStep 2: 3 parts = 21, so 1 part = 7.\nStep 3: Blue = 7 × 7 = 49.\nCommon mistake: Choosing 35 (7 × 5) or 63 (21 × 3)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q10",
+      "question": "The median of {2, 5, 9, 11} is:",
+      "options": ["5", "6.75", "7", "9"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Data already in order: 2, 5, 9, 11.\nStep 2: Even number of values: median = average of 2nd and 3rd values.\nStep 3: Median = (5 + 9) ÷ 2 = 14 ÷ 2 = 7.\nCommon mistake: Choosing 5 (just picking the 2nd value) or 9 (just picking the 3rd)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q11",
+      "question": "Solve: 3n + 7 = 2n + 15",
+      "options": ["4", "6", "8", "22"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 3n + 7 = 2n + 15.\nStep 2: Subtract 2n: n + 7 = 15.\nStep 3: Subtract 7: n = 8.\nCommon mistake: Choosing 22 (adding 7 + 15) or 4 (subtracting 3n − 2n then 15 − 7 and dividing)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q12",
+      "question": "A scale model of a building is built at a ratio of 1:200. The model is 15 cm tall. How tall is the real building?",
+      "options": ["30 m", "300 m", "3 000 m", "3 m"],
+      "answer": 0,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Real height = 15 cm × 200 = 3000 cm.\nStep 2: 3000 cm = 30 m.\nCommon mistake: Choosing 300 m (3000 ÷ 10, wrong conversion) or 3 m (dividing by 500)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q13",
+      "question": "Which is the largest: 5/8, 0.6, 65%?",
+      "options": ["5/8", "0.6", "65%", "They are all equal"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert all to decimals: 5/8 = 0.625, 0.6 = 0.6, 65% = 0.65.\nStep 2: Compare: 0.65 > 0.625 > 0.6.\nStep 3: 65% is the largest.\nCommon mistake: Choosing 5/8 (thinking 5/8 is larger than 0.65)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q14",
+      "question": "A triangle with vertices at (0, 0), (4, 0) and (4, 3) is rotated 90° clockwise about the origin. What are the new coordinates of the vertex that was at (4, 3)?",
+      "options": ["(3, -4)", "(-3, 4)", "(-4, 3)", "(3, 4)"],
+      "answer": 0,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A 90° clockwise rotation about the origin maps (x, y) to (y, -x).\nStep 2: (4, 3) → (3, -4).\nCommon mistake: Choosing (-3, 4) (rotating anticlockwise instead of clockwise)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q15",
+      "question": "The mean of 6 values is 15. Five of the values are 12, 18, 10, 20, and 14. What is the sixth value?",
+      "options": ["12", "14", "16", "18"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total of all 6 values = mean × 6 = 15 × 6 = 90.\nStep 2: Sum of 5 known values = 12 + 18 + 10 + 20 + 14 = 74.\nStep 3: Sixth value = 90 − 74 = 16.\nCommon mistake: Choosing 14 (guessing the middle) or 12 (subtracting incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q16",
+      "question": "A line has the equation y = 2x + 3. What is the y-intercept?",
+      "options": ["2", "3", "5", "6"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: In y = mx + b, the y-intercept is b.\nStep 2: y = 2x + 3, so b = 3.\nStep 3: The y-intercept is 3 (the line crosses the y-axis at (0, 3)).\nCommon mistake: Choosing 2 (the gradient, not the y-intercept)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q17",
+      "question": "Write an expression for 'the sum of twice n and three times m'.",
+      "options": ["2n + 3m", "2(n + 3m)", "5nm", "2n × 3m"],
+      "answer": 0,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 'Twice n' = 2n.\nStep 2: 'Three times m' = 3m.\nStep 3: 'The sum of' = add them: 2n + 3m.\nCommon mistake: Choosing 5nm (adding coefficients and multiplying variables)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q18",
+      "question": "A necklace has gold and silver beads in the ratio 2:5. If there are 35 beads in total, how many are gold?",
+      "options": ["5", "7", "10", "14"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total parts = 2 + 5 = 7.\nStep 2: Each part = 35 ÷ 7 = 5 beads.\nStep 3: Gold = 2 × 5 = 10 beads.\nCommon mistake: Choosing 7 (the number of parts) or 5 (one part)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q19",
+      "question": "An isosceles triangle has a line of symmetry along its height. If the base is along the x-axis from (-3, 0) to (3, 0), and the apex is at (0, 4), what is the line of symmetry?",
+      "options": ["x = 0", "y = 0", "y = 4", "x = 3"],
+      "answer": 0,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The triangle is symmetric about the vertical line through the apex (0, 4) and the midpoint of the base (0, 0).\nStep 2: This vertical line is x = 0 (the y-axis).\nCommon mistake: Choosing y = 0 (the x-axis, which contains the base, not the line of symmetry)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q20",
+      "question": "Express 0.375 as a fraction in simplest form.",
+      "options": ["3/8", "37/100", "375/100", "3/75"],
+      "answer": 0,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 0.375 = 375/1000.\nStep 2: Simplify: 375 ÷ 125 = 3, 1000 ÷ 125 = 8.\nStep 3: 0.375 = 3/8.\nCommon mistake: Choosing 37/100 (truncating the decimal)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q21",
+      "question": "Solve: 3(2n − 1) = 4n + 9",
+      "options": ["3", "4", "5", "6"],
+      "answer": 3,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Expand: 6n − 3 = 4n + 9.\nStep 2: Subtract 4n: 2n − 3 = 9.\nStep 3: Add 3: 2n = 12.\nStep 4: Divide by 2: n = 6.\nCommon mistake: Choosing 3 (not expanding correctly: 3 × 2n = 6n but forgetting 3 × −1)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q22",
+      "question": "A fruit punch uses apple juice, orange juice and water in the ratio 2:3:5. If 750 mL of orange juice is used, what is the total volume of the punch?",
+      "options": ["1 500 mL", "2 000 mL", "2 500 mL", "3 750 mL"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Orange juice = 3 parts = 750 mL.\nStep 2: 1 part = 750 ÷ 3 = 250 mL.\nStep 3: Total parts = 2 + 3 + 5 = 10.\nStep 4: Total = 10 × 250 = 2500 mL.\nCommon mistake: Choosing 3750 mL (15 × 250, using wrong total parts)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q23",
+      "question": "A sale sign says 'Buy at 70% of the original price'. The original price was $90. What is the sale price?",
+      "options": ["$27", "$30", "$63", "$70"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 70% of $90 = 0.7 × 90 = $63.\nStep 2: The sale price is $63.\nCommon mistake: Choosing $27 (calculating the 30% discount amount instead of the 70% price)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q24",
+      "question": "A shape with vertices at (1, 1), (3, 1), (3, 4) is enlarged by scale factor 2 from the origin. What are the new coordinates of the vertex that was at (3, 4)?",
+      "options": ["(5, 6)", "(6, 8)", "(6, 6)", "(9, 12)"],
+      "answer": 1,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Enlargement by scale factor 2 from the origin multiplies all coordinates by 2.\nStep 2: (3, 4) → (3×2, 4×2) = (6, 8).\nCommon mistake: Choosing (5, 6) (adding 2 instead of multiplying by 2)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q25",
+      "question": "The test scores of 10 students are: 55, 62, 68, 72, 75, 78, 82, 85, 90, 93. What is the median?",
+      "options": ["75", "76.5", "78", "76"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 10 values — median is the average of the 5th and 6th values.\nStep 2: 5th value = 75, 6th value = 78.\nStep 3: Median = (75 + 78) ÷ 2 = 153 ÷ 2 = 76.5.\nCommon mistake: Choosing 75 (just the 5th value) or 78 (just the 6th)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q26",
+      "question": "The lines y = 2x + 1 and y = 2x − 3 are:",
+      "options": ["Parallel", "Perpendicular", "The same line", "Intersecting at one point"],
+      "answer": 0,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Both lines have the same gradient (m = 2).\nStep 2: But different y-intercepts (1 and −3).\nStep 3: Lines with the same gradient are parallel.\nCommon mistake: Choosing perpendicular (perpendicular lines have gradients that are negative reciprocals)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q27",
+      "question": "The perimeter of a rectangle is given by P = 2(l + w). If P = 56 cm and l = 18 cm, what is w?",
+      "options": ["8 cm", "10 cm", "14 cm", "20 cm"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 56 = 2(18 + w).\nStep 2: 28 = 18 + w.\nStep 3: w = 28 − 18 = 10 cm.\nCommon mistake: Choosing 20 cm (56 − 18 − 18 = 20, forgetting the final step) or 14 cm (56 ÷ 2 − 14)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q28",
+      "question": "Tom scored 72 out of 80 on a test. What was his percentage score?",
+      "options": ["72%", "80%", "88%", "90%"],
+      "answer": 3,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Percentage = (72/80) × 100.\nStep 2: 72/80 = 9/10 = 0.9.\nStep 3: 0.9 × 100 = 90%.\nCommon mistake: Choosing 72% (using the raw score as percentage) or 88% (adding 72 + 8 + 8)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q29",
+      "question": "A box plot shows Q1 = 20, median = 35, Q3 = 50, min = 5, max = 70. What is the interquartile range?",
+      "options": ["15", "25", "30", "65"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: IQR = Q3 − Q1.\nStep 2: IQR = 50 − 20 = 30.\nCommon mistake: Choosing 65 (range: max − min = 70 − 5) or 15 (median − Q1)."
+    },
+    {
+      "id": "selective-y6-maths-t2-q30",
+      "question": "A triangle is reflected over the line x = 2. A vertex at (5, 3) is reflected to which point?",
+      "options": ["(-1, 3)", "(5, -3)", "(-5, 3)", "(1, 3)"],
+      "answer": 0,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The mirror line is x = 2.\nStep 2: The vertex (5, 3) is 3 units to the right of x = 2.\nStep 3: Its reflection is 3 units to the left of x = 2: x = 2 − 3 = −1.\nStep 4: y stays the same: (−1, 3).\nCommon mistake: Choosing (-5, 3) (negating x instead of reflecting across x = 2)."
+    }
+  ]
+}

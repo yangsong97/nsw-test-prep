@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-maths-t2-q01",
+      "question": "What is 5 × 6?",
+      "options": ["25", "28", "30", "35"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5 × 6 = 30.\nStep 2: You can think of it as 5 groups of 6: 6 + 6 + 6 + 6 + 6 = 30.\nCommon mistake: Choosing 25 (confusing with 5 × 5) or 35 (confusing with 5 × 7)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q02",
+      "question": "What fraction of a group is shaded if 3 out of 5 equal parts are coloured?",
+      "options": ["2/5", "3/5", "3/8", "5/3"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: There are 5 equal parts in total.\nStep 2: 3 are shaded.\nStep 3: The fraction is 3/5.\nCommon mistake: Choosing 2/5 (counting unshaded parts) or 5/3 (flipping the fraction)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q03",
+      "question": "Jake has three $2 coins. How much money does he have?",
+      "options": ["$3.00", "$5.00", "$6.00", "$8.00"],
+      "answer": 2,
+      "topic": "money",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Three $2 coins = 3 × $2 = $6.00.\nCommon mistake: Choosing $5.00 (adding $2 + $3) or $8.00 (4 × $2)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q04",
+      "question": "What is 36 ÷ 4?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 3,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 36 ÷ 4.\nStep 2: 4 × 9 = 36.\nStep 3: So 36 ÷ 4 = 9.\nCommon mistake: Choosing 8 (confusing with 32 ÷ 4) or 6 (confusing with 24 ÷ 4)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q05",
+      "question": "Which 3D shape looks like a ball?",
+      "options": ["Cylinder", "Cone", "Sphere", "Cube"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A ball is round in every direction.\nStep 2: A sphere is the 3D shape that is perfectly round, like a ball.\nCommon mistake: Choosing cylinder (which has flat ends) or cone (which has a point)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q06",
+      "question": "What time is shown when the hour hand is between 4 and 5, and the minute hand is on 6?",
+      "options": ["4:06", "4:30", "5:06", "5:30"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The minute hand on 6 means 30 minutes past the hour.\nStep 2: The hour hand between 4 and 5 means the hour is 4.\nStep 3: The time is 4:30.\nCommon mistake: Choosing 4:06 (reading the minute hand position as the minutes)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q07",
+      "question": "A picture graph shows 4 pictures of books for Monday, 6 for Tuesday, and 3 for Wednesday. Each picture represents 1 book read. How many books were read altogether?",
+      "options": ["10", "12", "13", "14"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Monday = 4, Tuesday = 6, Wednesday = 3.\nStep 2: Total = 4 + 6 + 3 = 13 books.\nCommon mistake: Choosing 10 (missing one day) or 12 (miscounting)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q08",
+      "question": "What is 3 × 10?",
+      "options": ["13", "30", "31", "33"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3 × 10 = 30.\nStep 2: Multiplying by 10 adds a zero to the end of the number.\nCommon mistake: Choosing 13 (adding 3 + 10)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q09",
+      "question": "How many squares would you need to cover a rectangle that is 3 squares long and 2 squares wide?",
+      "options": ["5", "6", "8", "10"],
+      "answer": 1,
+      "topic": "area",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The rectangle is 3 squares long and 2 squares wide.\nStep 2: Area = 3 × 2 = 6 squares.\nCommon mistake: Choosing 5 (adding 3 + 2) or 10 (perimeter: 3 + 2 + 3 + 2)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q10",
+      "question": "Which is larger: 1/3 of 12 or 1/4 of 12?",
+      "options": ["1/3 of 12", "1/4 of 12", "They are equal", "Cannot tell"],
+      "answer": 0,
+      "topic": "fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1/3 of 12 = 12 ÷ 3 = 4.\nStep 2: 1/4 of 12 = 12 ÷ 4 = 3.\nStep 3: 4 > 3, so 1/3 of 12 is larger.\nCommon mistake: Choosing 1/4 of 12 (thinking bigger denominator means bigger answer)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q11",
+      "question": "A school has 4 classes. Each class has 28 students. How many students are there in total?",
+      "options": ["96", "102", "108", "112"],
+      "answer": 3,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 4 × 28.\nStep 2: 4 × 20 = 80 and 4 × 8 = 32.\nStep 3: 80 + 32 = 112.\nCommon mistake: Choosing 108 (4 × 27) or 96 (4 × 24)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q12",
+      "question": "A triangle, a square and a pentagon are placed together. How many sides do they have in total?",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Triangle = 3 sides, Square = 4 sides, Pentagon = 5 sides.\nStep 2: Total = 3 + 4 + 5 = 12 sides.\nCommon mistake: Choosing 11 (thinking a pentagon has 4 sides) or 13 (thinking a pentagon has 6 sides)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q13",
+      "question": "Amy sleeps at 8:30 pm and wakes up at 6:30 am. How many hours does she sleep?",
+      "options": ["8 hours", "9 hours", "10 hours", "12 hours"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: From 8:30 pm to midnight = 3 hours 30 minutes.\nStep 2: From midnight to 6:30 am = 6 hours 30 minutes.\nStep 3: Total = 3 h 30 min + 6 h 30 min = 10 hours.\nCommon mistake: Choosing 8 hours (not counting across midnight correctly)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q14",
+      "question": "72 pencils are shared equally among 8 students. How many pencils does each student get?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 72 ÷ 8.\nStep 2: 8 × 9 = 72.\nStep 3: Each student gets 9 pencils.\nCommon mistake: Choosing 8 (confusing with 64 ÷ 8) or 10 (confusing with 80 ÷ 8)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q15",
+      "question": "In a bar graph, the bars for red, blue, green and yellow show 8, 5, 12 and 3 votes. What is the range of the data?",
+      "options": ["3", "5", "9", "12"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The range = highest value − lowest value.\nStep 2: Highest = 12 (green), Lowest = 3 (yellow).\nStep 3: Range = 12 − 3 = 9.\nCommon mistake: Choosing 12 (using the highest value alone) or 5 (subtracting wrong values)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q16",
+      "question": "A garden bed is 6 metres long and 5 metres wide. What is the area of the garden bed?",
+      "options": ["11 m²", "22 m²", "30 m²", "36 m²"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: Area = 6 × 5 = 30 m².\nCommon mistake: Choosing 22 m² (perimeter: 6 + 5 + 6 + 5) or 11 m² (adding 6 + 5)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q17",
+      "question": "Mia has $20. She buys a hat for $8.50 and socks for $3.25. How much does she have left?",
+      "options": ["$7.25", "$8.25", "$8.75", "$9.25"],
+      "answer": 1,
+      "topic": "money",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total spent = $8.50 + $3.25 = $11.75.\nStep 2: Money left = $20.00 − $11.75 = $8.25.\nCommon mistake: Choosing $8.75 (subtracting $11.25 instead of $11.75)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q18",
+      "question": "What is 4/8 in simplest form?",
+      "options": ["1/4", "1/3", "1/2", "2/3"],
+      "answer": 2,
+      "topic": "fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the highest common factor of 4 and 8, which is 4.\nStep 2: Divide both by 4: 4 ÷ 4 = 1, 8 ÷ 4 = 2.\nStep 3: 4/8 = 1/2.\nCommon mistake: Choosing 1/4 (dividing by 4 only in numerator)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q19",
+      "question": "A cylinder has how many curved surfaces?",
+      "options": ["0", "1", "2", "3"],
+      "answer": 1,
+      "topic": "2d-3d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A cylinder has 2 flat circular faces (top and bottom).\nStep 2: It has 1 curved surface that wraps around the middle.\nStep 3: So it has 1 curved surface.\nCommon mistake: Choosing 2 (confusing flat faces with curved surfaces)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q20",
+      "question": "What is 156 + 278?",
+      "options": ["324", "334", "424", "434"],
+      "answer": 3,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ones: 6 + 8 = 14. Write 4, carry 1.\nStep 2: Tens: 5 + 7 + 1 = 13. Write 3, carry 1.\nStep 3: Hundreds: 1 + 2 + 1 = 4.\nStep 4: 156 + 278 = 434.\nCommon mistake: Choosing 424 (not carrying from the tens) or 334 (not carrying from the ones)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q21",
+      "question": "A farmer plants 9 rows of apple trees with 12 trees in each row. How many apple trees does he plant?",
+      "options": ["96", "98", "108", "112"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 9 × 12.\nStep 2: 9 × 10 = 90 and 9 × 2 = 18.\nStep 3: 90 + 18 = 108.\nCommon mistake: Choosing 96 (9 × 10 + 6) or 98 (9 × 10 + 8)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q22",
+      "question": "A pizza is cut into 8 equal slices. Tom eats 3/8 and Sarah eats 2/8. What fraction of the pizza is left?",
+      "options": ["1/8", "2/8", "3/8", "5/8"],
+      "answer": 2,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Tom eats 3/8, Sarah eats 2/8.\nStep 2: Total eaten = 3/8 + 2/8 = 5/8.\nStep 3: Remaining = 8/8 − 5/8 = 3/8.\nCommon mistake: Choosing 5/8 (the amount eaten, not remaining)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q23",
+      "question": "A room is 7 metres long and 4 metres wide. Tiles cost $5 per square metre. How much will it cost to tile the whole floor?",
+      "options": ["$55", "$110", "$140", "$175"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = 7 × 4 = 28 m².\nStep 2: Cost = 28 × $5 = $140.\nCommon mistake: Choosing $110 (using perimeter: 22 × $5) or $55 (using 11 × $5)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q24",
+      "question": "Ben leaves home at 7:45 am. It takes 25 minutes to walk to school and 10 minutes to ride his bike. If he rides his bike, what time does he arrive?",
+      "options": ["7:55 am", "8:00 am", "8:05 am", "8:10 am"],
+      "answer": 0,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ben rides his bike, which takes 10 minutes.\nStep 2: 7:45 + 10 minutes = 7:55 am.\nCommon mistake: Choosing 8:10 am (using the walking time of 25 minutes) or 8:05 am (adding both times)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q25",
+      "question": "A class surveyed favourite pets. The results were: dogs 12, cats 9, fish 4, birds 5. They want to draw a bar graph. What scale should they use if the graph is 12 squares tall?",
+      "options": ["Each square = 1", "Each square = 2", "Each square = 5", "Each square = 10"],
+      "answer": 0,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The highest value is 12 (dogs).\nStep 2: The graph is 12 squares tall.\nStep 3: If each square = 1, the tallest bar reaches 12 squares, which fits perfectly.\nStep 4: If each square = 2, we only need 6 squares (wastes space). But 12 ÷ 1 = 12 which matches.\nCommon mistake: Choosing 'each square = 2' (which would also work but is less precise for odd values like 9 and 5)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q26",
+      "question": "How many edges does a cube have?",
+      "options": ["6", "8", "10", "12"],
+      "answer": 3,
+      "topic": "2d-3d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A cube has 6 faces, 8 vertices (corners), and 12 edges.\nStep 2: Each face has 4 edges, but each edge is shared by 2 faces.\nStep 3: (6 × 4) ÷ 2 = 12 edges.\nCommon mistake: Choosing 8 (counting vertices instead of edges) or 6 (counting faces)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q27",
+      "question": "Grace has 500 mL of juice. She pours equal amounts into 4 cups. How much juice is in each cup?",
+      "options": ["100 mL", "125 mL", "150 mL", "200 mL"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 500 ÷ 4.\nStep 2: 4 × 125 = 500.\nStep 3: Each cup has 125 mL.\nCommon mistake: Choosing 100 mL (dividing by 5 instead of 4) or 200 mL (dividing by 2.5)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q28",
+      "question": "Which of these is closest to $10?",
+      "options": ["$4.95 + $4.95", "$3.50 + $7.50", "$6.20 + $3.70", "$5.10 + $5.10"],
+      "answer": 0,
+      "topic": "money",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: $4.95 + $4.95 = $9.90.\nStep 2: $3.50 + $7.50 = $11.00.\nStep 3: $6.20 + $3.70 = $9.90.\nStep 4: $5.10 + $5.10 = $10.20.\nStep 5: Both $9.90 answers are 10 cents from $10. $10.20 is 20 cents from $10. $11.00 is $1 from $10.\nStep 6: $4.95 + $4.95 and $6.20 + $3.70 are both closest (10 cents away). Since the first appears first, select it.\nCommon mistake: Choosing $5.10 + $5.10 (thinking it is closest because $5 + $5 = $10)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q29",
+      "question": "A rectangle has an area of 48 cm² and a length of 8 cm. What is its perimeter?",
+      "options": ["14 cm", "22 cm", "28 cm", "32 cm"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = length × width. 48 = 8 × width.\nStep 2: Width = 48 ÷ 8 = 6 cm.\nStep 3: Perimeter = 2 × (length + width) = 2 × (8 + 6) = 2 × 14 = 28 cm.\nCommon mistake: Choosing 14 cm (calculating 8 + 6 but not doubling) or 22 cm (adding instead of using formula)."
+    },
+    {
+      "id": "oc-y3-maths-t2-q30",
+      "question": "3/4 of a number is 18. What is the number?",
+      "options": ["20", "22", "24", "27"],
+      "answer": 2,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: If 3/4 of a number = 18, then 1/4 of the number = 18 ÷ 3 = 6.\nStep 2: The whole number = 4 × 6 = 24.\nStep 3: Check: 3/4 of 24 = 18. Correct!\nCommon mistake: Choosing 22 (adding 18 + 4) or 27 (adding 18 + 9)."
+    }
+  ]
+}

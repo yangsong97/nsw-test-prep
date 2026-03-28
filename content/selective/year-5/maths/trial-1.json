@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-maths-t1-q01",
+      "question": "What is the value of 3 + 4 × 5?",
+      "options": ["23", "35", "60", "75"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Use order of operations (BODMAS). Multiplication before addition.\nStep 2: 4 × 5 = 20.\nStep 3: 3 + 20 = 23.\nCommon mistake: Choosing 35 (doing 3 + 4 = 7 first, then 7 × 5)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q02",
+      "question": "What is 25% of 80?",
+      "options": ["15", "20", "25", "40"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 25% means 25 out of 100, or 1/4.\nStep 2: 1/4 of 80 = 80 ÷ 4 = 20.\nCommon mistake: Choosing 25 (confusing the percentage with the answer) or 40 (finding 50%)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q03",
+      "question": "What is 2/5 + 1/5?",
+      "options": ["3/10", "3/5", "1/2", "3/25"],
+      "answer": 1,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Same denominator, so add numerators: 2 + 1 = 3.\nStep 2: 2/5 + 1/5 = 3/5.\nCommon mistake: Choosing 3/10 (adding both numerators and denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q04",
+      "question": "A rectangular box is 4 cm long, 3 cm wide and 2 cm high. What is its volume?",
+      "options": ["9 cm³", "18 cm³", "24 cm³", "26 cm³"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Volume = length × width × height.\nStep 2: V = 4 × 3 × 2 = 24 cm³.\nCommon mistake: Choosing 18 cm³ (multiplying only two dimensions: 3 × 6) or 26 cm³ (surface area error)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q05",
+      "question": "An angle of 135° is classified as:",
+      "options": ["Acute", "Right", "Obtuse", "Reflex"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Acute: 0°–90°. Right: 90°. Obtuse: 90°–180°. Reflex: 180°–360°.\nStep 2: 135° is between 90° and 180°, so it is obtuse.\nCommon mistake: Choosing reflex (which is greater than 180°)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q06",
+      "question": "A bag has 3 red, 5 blue and 2 green marbles. What is the probability of picking a blue marble?",
+      "options": ["1/5", "3/10", "1/2", "5/8"],
+      "answer": 2,
+      "topic": "probability",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total marbles = 3 + 5 + 2 = 10.\nStep 2: Probability of blue = 5/10 = 1/2.\nCommon mistake: Choosing 5/8 (not counting all the marbles in the denominator)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q07",
+      "question": "What are the coordinates of a point that is 3 units right and 5 units up from the origin?",
+      "options": ["(5, 3)", "(3, 5)", "(3, -5)", "(-3, 5)"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Right means positive x-direction: x = 3.\nStep 2: Up means positive y-direction: y = 5.\nStep 3: The coordinates are (3, 5).\nCommon mistake: Choosing (5, 3) (swapping x and y)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q08",
+      "question": "What is 10% of 350?",
+      "options": ["3.5", "35", "70", "350"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 10% means divide by 10.\nStep 2: 350 ÷ 10 = 35.\nCommon mistake: Choosing 3.5 (dividing by 100 instead of 10)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q09",
+      "question": "What is 8 × 3 − 4 ÷ 2?",
+      "options": ["10", "20", "22", "24"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Multiplication and division first (left to right).\nStep 2: 8 × 3 = 24 and 4 ÷ 2 = 2.\nStep 3: 24 − 2 = 22.\nCommon mistake: Choosing 10 ((8 × 3 − 4) ÷ 2 = 20 ÷ 2) or 24 (ignoring the division)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q10",
+      "question": "What is 3/4 − 1/2?",
+      "options": ["1/4", "1/2", "2/2", "2/4"],
+      "answer": 0,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Convert to common denominator: 1/2 = 2/4.\nStep 2: 3/4 − 2/4 = 1/4.\nCommon mistake: Choosing 2/2 (subtracting numerators and denominators separately)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q11",
+      "question": "What is the value of 5² + 3 × (12 − 4)?",
+      "options": ["41", "49", "64", "88"],
+      "answer": 1,
+      "topic": "order-of-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Brackets first: 12 − 4 = 8.\nStep 2: Orders (indices): 5² = 25.\nStep 3: Multiplication: 3 × 8 = 24.\nStep 4: Addition: 25 + 24 = 49.\nCommon mistake: Choosing 64 (doing 5 + 3 = 8, then 8² = 64) or 88 (28 × ..., errors)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q12",
+      "question": "A shop offers 20% off a jacket that costs $85. What is the sale price?",
+      "options": ["$17", "$65", "$68", "$80"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 20% of $85 = 0.2 × 85 = $17.\nStep 2: Sale price = $85 − $17 = $68.\nCommon mistake: Choosing $17 (the discount amount, not the sale price) or $65 (subtracting $20)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q13",
+      "question": "What is 2/3 × 3/4?",
+      "options": ["5/7", "6/12", "1/2", "5/12"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Multiply numerators: 2 × 3 = 6.\nStep 2: Multiply denominators: 3 × 4 = 12.\nStep 3: 6/12 = 1/2.\nCommon mistake: Choosing 5/7 (adding numerators and denominators) or 5/12 (adding numerators, multiplying denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q14",
+      "question": "A fish tank is 60 cm long, 30 cm wide and 40 cm high. What is its volume in litres? (1 litre = 1000 cm³)",
+      "options": ["7.2 L", "36 L", "72 L", "720 L"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Volume = 60 × 30 × 40 = 72 000 cm³.\nStep 2: Convert: 72 000 ÷ 1000 = 72 L.\nCommon mistake: Choosing 7.2 L (dividing by 10 000) or 720 L (dividing by 100)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q15",
+      "question": "Two angles on a straight line add up to 180°. If one angle is 72°, what is the other?",
+      "options": ["18°", "88°", "108°", "288°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Angles on a straight line = 180°.\nStep 2: Other angle = 180 − 72 = 108°.\nCommon mistake: Choosing 88° (subtracting from 160°) or 288° (subtracting from 360°)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q16",
+      "question": "A spinner has 8 equal sections numbered 1 to 8. What is the probability of spinning an even number?",
+      "options": ["1/8", "3/8", "1/2", "5/8"],
+      "answer": 2,
+      "topic": "probability",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Even numbers from 1 to 8: 2, 4, 6, 8. That is 4 even numbers.\nStep 2: Probability = 4/8 = 1/2.\nCommon mistake: Choosing 3/8 (missing one even number)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q17",
+      "question": "A point starts at (2, 3) and moves 4 units right and 2 units down. What are its new coordinates?",
+      "options": ["(6, 1)", "(6, 5)", "(-2, 5)", "(4, 1)"],
+      "answer": 0,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Moving right adds to x: 2 + 4 = 6.\nStep 2: Moving down subtracts from y: 3 − 2 = 1.\nStep 3: New coordinates: (6, 1).\nCommon mistake: Choosing (6, 5) (adding 2 to y instead of subtracting)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q18",
+      "question": "What is 5/6 − 1/3?",
+      "options": ["1/3", "1/2", "4/3", "2/3"],
+      "answer": 1,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert 1/3 to sixths: 1/3 = 2/6.\nStep 2: 5/6 − 2/6 = 3/6 = 1/2.\nCommon mistake: Choosing 4/3 (subtracting 5−1=4 and 6−3=3)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q19",
+      "question": "A water tank holds 250 L when full. It is 60% full. How many litres of water are in the tank?",
+      "options": ["100 L", "125 L", "150 L", "190 L"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 60% of 250 L.\nStep 2: 60/100 × 250 = 0.6 × 250 = 150 L.\nCommon mistake: Choosing 125 L (50% of 250) or 100 L (40% of 250)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q20",
+      "question": "A cube has edges of 5 cm. What is its volume?",
+      "options": ["25 cm³", "75 cm³", "100 cm³", "125 cm³"],
+      "answer": 3,
+      "topic": "volume-capacity",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Volume of a cube = edge³.\nStep 2: V = 5 × 5 × 5 = 125 cm³.\nCommon mistake: Choosing 25 cm³ (5 × 5, only squaring) or 75 cm³ (5 × 5 × 3)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q21",
+      "question": "What is the value of (48 ÷ 6) + 5 × (9 − 3²)?",
+      "options": ["8", "8.5", "9", "12"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Inside the brackets: 3² = 9, so 9 − 9 = 0.\nStep 2: 48 ÷ 6 = 8.\nStep 3: 5 × 0 = 0.\nStep 4: 8 + 0 = 8.\nCommon mistake: Choosing 12 (computing 9 − 3 = 6 instead of 9 − 9 = 0)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q22",
+      "question": "A shirt was $60. It is marked up by 15%, then discounted by 10%. What is the final price?",
+      "options": ["$60.00", "$61.20", "$62.10", "$63.00"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Mark up: 15% of $60 = $9. New price = $60 + $9 = $69.\nStep 2: Discount: 10% of $69 = $6.90. Final price = $69 − $6.90 = $62.10.\nCommon mistake: Choosing $63 (applying 15% − 10% = 5% markup) or $60 (thinking they cancel)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q23",
+      "question": "What is 3/4 ÷ 1/2?",
+      "options": ["3/8", "3/4", "1 1/2", "2"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Dividing by a fraction: multiply by its reciprocal.\nStep 2: 3/4 ÷ 1/2 = 3/4 × 2/1 = 6/4 = 3/2 = 1 1/2.\nCommon mistake: Choosing 3/8 (multiplying by 1/2 instead of dividing)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q24",
+      "question": "A prism has a triangular cross-section. The triangle has a base of 6 cm and height of 4 cm. The prism is 10 cm long. What is the volume?",
+      "options": ["60 cm³", "120 cm³", "200 cm³", "240 cm³"],
+      "answer": 1,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area of triangular cross-section = 1/2 × base × height = 1/2 × 6 × 4 = 12 cm².\nStep 2: Volume = cross-section area × length = 12 × 10 = 120 cm³.\nCommon mistake: Choosing 240 cm³ (using full base × height instead of half) or 60 cm³ (1/2 × 6 × 10)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q25",
+      "question": "Vertically opposite angles are always:",
+      "options": ["Supplementary", "Complementary", "Equal", "Adjacent"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: When two lines cross, they form two pairs of vertically opposite angles.\nStep 2: Vertically opposite angles are always equal.\nCommon mistake: Choosing supplementary (which means they add to 180°, true for adjacent angles on a line)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q26",
+      "question": "Two dice are rolled. What is the probability that the sum is 7?",
+      "options": ["1/12", "1/6", "5/36", "7/36"],
+      "answer": 1,
+      "topic": "probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total outcomes = 6 × 6 = 36.\nStep 2: Ways to get sum of 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 ways.\nStep 3: Probability = 6/36 = 1/6.\nCommon mistake: Choosing 5/36 (missing one combination) or 7/36 (thinking 7 combinations)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q27",
+      "question": "A rectangle has corners at (1, 2), (5, 2), (5, 6) and (1, 6). What is its area?",
+      "options": ["8 units²", "12 units²", "16 units²", "20 units²"],
+      "answer": 2,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Length = 5 − 1 = 4 units. Width = 6 − 2 = 4 units.\nStep 2: Area = 4 × 4 = 16 units².\nCommon mistake: Choosing 12 units² (perimeter ÷ 2 = 8, no) or 8 units² (adding 4 + 4)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q28",
+      "question": "Sam mixes 200 mL of cordial with 800 mL of water. What percentage of the mixture is cordial?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total mixture = 200 + 800 = 1000 mL.\nStep 2: Percentage of cordial = (200/1000) × 100 = 20%.\nCommon mistake: Choosing 25% (200/800 × 100 = 25%, using water only as denominator)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q29",
+      "question": "Calculate: 2 1/3 + 1 3/4",
+      "options": ["3 4/7", "3 7/12", "4 1/12", "4 1/7"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert to improper fractions: 2 1/3 = 7/3, 1 3/4 = 7/4.\nStep 2: Common denominator is 12: 7/3 = 28/12, 7/4 = 21/12.\nStep 3: 28/12 + 21/12 = 49/12 = 4 1/12.\nCommon mistake: Choosing 3 4/7 (adding whole numbers and adding fractions incorrectly: 1/3 + 3/4 = 4/7)."
+    },
+    {
+      "id": "selective-y5-maths-t1-q30",
+      "question": "A swimming pool is 25 m long, 10 m wide and 1.5 m deep. It is being filled at 500 litres per minute. How many hours will it take to fill? (1 m³ = 1000 L)",
+      "options": ["6.25 hours", "10 hours", "12.5 hours", "15 hours"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Volume = 25 × 10 × 1.5 = 375 m³.\nStep 2: Convert to litres: 375 × 1000 = 375 000 L.\nStep 3: Time = 375 000 ÷ 500 = 750 minutes.\nStep 4: 750 ÷ 60 = 12.5 hours.\nCommon mistake: Choosing 6.25 hours (375/60, not converting m³ to L) or 10 hours (miscalculating)."
+    }
+  ]
+}

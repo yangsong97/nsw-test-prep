@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-maths-t1-q01",
+      "question": "What is 7 × 3?",
+      "options": ["18", "21", "24", "28"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 7 × 3 means 7 groups of 3, or 3 + 3 + 3 + 3 + 3 + 3 + 3.\nStep 2: 7 × 3 = 21.\nCommon mistake: Choosing 24 (confusing with 8 × 3) or 18 (confusing with 6 × 3)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q02",
+      "question": "What fraction of this shape is shaded if 2 out of 4 equal parts are coloured?",
+      "options": ["1/4", "1/2", "2/3", "3/4"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The shape is divided into 4 equal parts.\nStep 2: 2 parts are shaded.\nStep 3: 2 out of 4 = 2/4 = 1/2.\nCommon mistake: Choosing 1/4 (only counting one part) or 2/3 (using wrong denominator)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q03",
+      "question": "A chocolate bar costs $2.50. How much do 2 chocolate bars cost?",
+      "options": ["$4.00", "$4.50", "$5.00", "$5.50"],
+      "answer": 2,
+      "topic": "money",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: One chocolate bar = $2.50.\nStep 2: Two chocolate bars = $2.50 + $2.50 = $5.00.\nCommon mistake: Choosing $4.50 (adding $2 + $2.50) or $4.00 (doubling only the dollars)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q04",
+      "question": "How many minutes are in 1 hour?",
+      "options": ["30", "45", "60", "100"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1 hour = 60 minutes.\nCommon mistake: Choosing 100 (thinking in decimal) or 30 (half an hour)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q05",
+      "question": "Which of these is a 3D shape?",
+      "options": ["Circle", "Square", "Cube", "Triangle"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2D shapes are flat (circle, square, triangle).\nStep 2: 3D shapes have depth — they are solid objects.\nStep 3: A cube is a 3D shape (like a dice).\nCommon mistake: Choosing square (which is 2D, not 3D)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q06",
+      "question": "What is 24 ÷ 6?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 24 ÷ 6 means how many groups of 6 in 24.\nStep 2: 6 × 4 = 24, so 24 ÷ 6 = 4.\nCommon mistake: Choosing 3 (confusing with 18 ÷ 6) or 6 (confusing divisor with answer)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q07",
+      "question": "A classroom has 5 rows of desks with 6 desks in each row. How many desks are there?",
+      "options": ["11", "25", "30", "35"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5 rows × 6 desks = 30 desks.\nStep 2: This is like finding the area of a 5 × 6 grid.\nCommon mistake: Choosing 11 (adding 5 + 6) or 25 (multiplying 5 × 5)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q08",
+      "question": "Which bar graph shows the most popular fruit if 10 students chose apples, 7 chose bananas, and 5 chose oranges?",
+      "options": ["Apples bar is tallest", "Bananas bar is tallest", "Oranges bar is tallest", "All bars are the same height"],
+      "answer": 0,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Apples = 10, Bananas = 7, Oranges = 5.\nStep 2: The tallest bar represents the most popular fruit.\nStep 3: 10 is the highest number, so the apples bar is tallest.\nCommon mistake: Confusing the tallest bar with the shortest bar."
+    },
+    {
+      "id": "oc-y3-maths-t1-q09",
+      "question": "What fraction of a pizza is left if you eat 1 slice out of 8 equal slices?",
+      "options": ["1/8", "7/8", "6/8", "1/7"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pizza has 8 equal slices.\nStep 2: You eat 1 slice. Remaining = 8 − 1 = 7 slices.\nStep 3: 7 out of 8 = 7/8.\nCommon mistake: Choosing 1/8 (the fraction eaten, not remaining)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q10",
+      "question": "Tom pays for a $3.75 toy with a $5 note. How much change does he get?",
+      "options": ["$1.00", "$1.25", "$1.50", "$1.75"],
+      "answer": 1,
+      "topic": "money",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Change = $5.00 − $3.75.\nStep 2: From $3.75 to $4.00 = 25 cents. From $4.00 to $5.00 = $1.00.\nStep 3: 25 cents + $1.00 = $1.25.\nCommon mistake: Choosing $1.75 (subtracting only $3 from $5, then adding 75c)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q11",
+      "question": "What is 8 × 7?",
+      "options": ["48", "54", "56", "63"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 8 × 7.\nStep 2: Think of it as 8 × 5 + 8 × 2 = 40 + 16 = 56.\nStep 3: Or 7 × 8 = 56.\nCommon mistake: Choosing 54 (confusing with 6 × 9) or 63 (confusing with 9 × 7)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q12",
+      "question": "A rectangle is 4 cm long and 3 cm wide. What is its area?",
+      "options": ["7 cm²", "12 cm²", "14 cm²", "24 cm²"],
+      "answer": 1,
+      "topic": "area",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Area of a rectangle = length × width.\nStep 2: Area = 4 × 3 = 12 cm².\nCommon mistake: Choosing 14 cm² (finding perimeter: 4 + 3 + 4 + 3) or 7 cm² (adding 4 + 3)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q13",
+      "question": "Which fraction is bigger: 1/3 or 1/4?",
+      "options": ["1/3", "1/4", "They are equal", "Cannot tell"],
+      "answer": 0,
+      "topic": "fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: When the numerator is the same, the fraction with the smaller denominator is larger.\nStep 2: 3 < 4, so 1/3 > 1/4.\nStep 3: Think of it this way: cutting a cake into 3 pieces gives bigger pieces than cutting into 4.\nCommon mistake: Choosing 1/4 (thinking bigger denominator means bigger fraction)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q14",
+      "question": "There are 42 students going on an excursion. Each minibus holds 8 students. How many minibuses are needed?",
+      "options": ["4", "5", "6", "8"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 42 ÷ 8 = 5 remainder 2.\nStep 2: 5 buses hold 40 students, but 2 students are left over.\nStep 3: We need 1 more bus for the remaining 2 students.\nStep 4: 5 + 1 = 6 minibuses.\nCommon mistake: Choosing 5 (forgetting the leftover students need a bus too)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q15",
+      "question": "A movie starts at 2:15 pm and goes for 1 hour 45 minutes. What time does it finish?",
+      "options": ["3:45 pm", "4:00 pm", "4:15 pm", "4:30 pm"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start time = 2:15 pm.\nStep 2: Add 1 hour: 2:15 + 1:00 = 3:15 pm.\nStep 3: Add 45 minutes: 3:15 + 45 = 4:00 pm.\nThe movie finishes at 4:00 pm.\nCommon mistake: Choosing 3:45 pm (adding only 1 hour 30 minutes) or 4:15 pm (adding 2 hours)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q16",
+      "question": "How many faces does a rectangular prism (box) have?",
+      "options": ["4", "5", "6", "8"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A rectangular prism has: top, bottom, front, back, left side, right side.\nStep 2: Count them: 6 faces.\nCommon mistake: Choosing 4 (only counting the visible faces from one angle)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q17",
+      "question": "In a pictograph, each picture of a star represents 2 votes. If there are 7 stars next to 'Soccer', how many votes did Soccer get?",
+      "options": ["5", "7", "9", "14"],
+      "answer": 3,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each star = 2 votes.\nStep 2: 7 stars = 7 × 2 = 14 votes.\nCommon mistake: Choosing 7 (forgetting each star represents 2 votes, not 1)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q18",
+      "question": "Emily has $10.00. She buys a book for $6.45 and a pen for $1.20. How much money does she have left?",
+      "options": ["$2.35", "$2.45", "$3.35", "$3.55"],
+      "answer": 0,
+      "topic": "money",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total spent = $6.45 + $1.20 = $7.65.\nStep 2: Money left = $10.00 − $7.65.\nStep 3: $10.00 − $7.65 = $2.35.\nEmily has $2.35 left.\nCommon mistake: Choosing $3.55 (subtracting only the book: $10 − $6.45) or $2.45 (adding cents incorrectly)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q19",
+      "question": "What is 63 ÷ 9?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 63 ÷ 9.\nStep 2: 9 × 7 = 63.\nStep 3: So 63 ÷ 9 = 7.\nCommon mistake: Choosing 8 (confusing with 72 ÷ 9) or 6 (confusing with 54 ÷ 9)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q20",
+      "question": "Which of these fractions is the same as 1/2?",
+      "options": ["2/3", "2/4", "3/5", "2/6"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1/2 means half.\nStep 2: 2/4: both numerator and denominator are doubled (1×2 = 2, 2×2 = 4). So 2/4 = 1/2.\nStep 3: Check: 2/3 ≠ 1/2, 3/5 ≠ 1/2, 2/6 = 1/3.\nCommon mistake: Choosing 2/6 (seeing the 2 and thinking it equals 1/2)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q21",
+      "question": "A square garden has sides of 9 metres. What is its perimeter?",
+      "options": ["18 m", "27 m", "36 m", "81 m"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A square has 4 equal sides.\nStep 2: Perimeter = 4 × 9 = 36 m.\nCommon mistake: Choosing 81 m (finding the area: 9 × 9) or 18 m (adding only 2 sides)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q22",
+      "question": "A farmer packs eggs into cartons of 12. He has 100 eggs. How many full cartons can he fill?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 1,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 100 ÷ 12 = 8 remainder 4.\nStep 2: 8 × 12 = 96. The remaining 4 eggs do not fill a carton.\nStep 3: He can fill 8 full cartons.\nCommon mistake: Choosing 9 (rounding up, but the question asks for full cartons)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q23",
+      "question": "A survey found that 15 students like reading, 12 like sport, and 8 like art. How many more students like reading than art?",
+      "options": ["3", "4", "7", "23"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Reading = 15, Art = 8.\nStep 2: Difference = 15 − 8 = 7.\n7 more students like reading than art.\nCommon mistake: Choosing 3 (finding reading − sport) or 23 (adding reading + art)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q24",
+      "question": "Arrange these fractions from smallest to largest: 1/2, 1/8, 1/4. Which order is correct?",
+      "options": ["1/2, 1/4, 1/8", "1/8, 1/4, 1/2", "1/4, 1/2, 1/8", "1/8, 1/2, 1/4"],
+      "answer": 1,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: For unit fractions (numerator = 1), the larger the denominator, the smaller the fraction.\nStep 2: 1/8 is smallest (8 parts), 1/4 is next (4 parts), 1/2 is largest (2 parts).\nStep 3: Order: 1/8, 1/4, 1/2.\nCommon mistake: Choosing 1/2, 1/4, 1/8 (ordering largest to smallest instead)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q25",
+      "question": "A train leaves at 9:48 am and arrives at 11:15 am. How long is the journey?",
+      "options": ["1 hour 7 minutes", "1 hour 17 minutes", "1 hour 27 minutes", "1 hour 33 minutes"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: From 9:48 to 10:00 = 12 minutes.\nStep 2: From 10:00 to 11:00 = 60 minutes (1 hour).\nStep 3: From 11:00 to 11:15 = 15 minutes.\nStep 4: Total = 12 + 60 + 15 = 87 minutes = 1 hour 27 minutes.\nCommon mistake: Choosing 1 hour 33 minutes (subtracting 48 − 15 = 33, which is wrong)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q26",
+      "question": "A cone has a flat base. What shape is the base of a cone?",
+      "options": ["Square", "Triangle", "Circle", "Rectangle"],
+      "answer": 2,
+      "topic": "2d-3d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A cone has a curved surface that narrows to a point.\nStep 2: The flat base of a cone is a circle.\nCommon mistake: Choosing triangle (confusing the side view of a cone with its base)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q27",
+      "question": "Lucy buys 3 items costing $4.50, $2.30 and $1.75. She pays with a $10 note. How much change does she get?",
+      "options": ["$1.25", "$1.45", "$1.55", "$2.45"],
+      "answer": 1,
+      "topic": "money",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total cost = $4.50 + $2.30 + $1.75.\nStep 2: $4.50 + $2.30 = $6.80.\nStep 3: $6.80 + $1.75 = $8.55.\nStep 4: Change = $10.00 − $8.55 = $1.45.\nCommon mistake: Choosing $1.55 (adding $6.80 + $1.65 = $8.45) or $2.45 (calculation errors)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q28",
+      "question": "A rectangle has an area of 36 cm². Its width is 4 cm. What is its length?",
+      "options": ["6 cm", "8 cm", "9 cm", "12 cm"],
+      "answer": 2,
+      "topic": "area",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: 36 = length × 4.\nStep 3: length = 36 ÷ 4 = 9 cm.\nCommon mistake: Choosing 8 cm (guessing) or 6 cm (confusing with 36 ÷ 6)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q29",
+      "question": "3/6 of the 30 children in a class play netball. How many children play netball?",
+      "options": ["5", "10", "15", "18"],
+      "answer": 2,
+      "topic": "fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3/6 = 1/2 (simplify by dividing both by 3).\nStep 2: 1/2 of 30 = 15.\nStep 3: Or directly: 30 ÷ 6 = 5, then 5 × 3 = 15.\n15 children play netball.\nCommon mistake: Choosing 5 (finding 1/6 of 30) or 10 (finding 1/3 of 30)."
+    },
+    {
+      "id": "oc-y3-maths-t1-q30",
+      "question": "A shop sells 245 drinks on Monday and 378 drinks on Tuesday. How many drinks were sold in total over both days?",
+      "options": ["513", "613", "623", "633"],
+      "answer": 2,
+      "topic": "multiplication-division",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 245 + 378.\nStep 2: Ones: 5 + 8 = 13. Write 3, carry 1.\nStep 3: Tens: 4 + 7 + 1 = 12. Write 2, carry 1.\nStep 4: Hundreds: 2 + 3 + 1 = 6.\nStep 5: Total = 623.\nCommon mistake: Choosing 613 (not carrying from the tens) or 513 (not carrying at all)."
+    }
+  ]
+}

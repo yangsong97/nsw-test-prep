@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-maths-t2-q01",
+      "question": "What is 6 + 2 × 8?",
+      "options": ["22", "64", "48", "70"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Multiplication before addition: 2 × 8 = 16.\nStep 2: 6 + 16 = 22.\nCommon mistake: Choosing 64 (doing 6 + 2 = 8 first, then 8 × 8)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q02",
+      "question": "What is 50% of 240?",
+      "options": ["48", "100", "120", "140"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 50% means half.\nStep 2: 240 ÷ 2 = 120.\nCommon mistake: Choosing 48 (20% of 240) or 100 (guessing)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q03",
+      "question": "What is 3/8 + 1/8?",
+      "options": ["4/16", "4/8", "1/2", "1/4"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Same denominator: 3 + 1 = 4.\nStep 2: 3/8 + 1/8 = 4/8 = 1/2.\nCommon mistake: Choosing 4/16 (adding both numerators and denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q04",
+      "question": "A box is 10 cm long, 5 cm wide and 3 cm high. What is its volume?",
+      "options": ["18 cm³", "80 cm³", "150 cm³", "180 cm³"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Volume = length × width × height.\nStep 2: V = 10 × 5 × 3 = 150 cm³.\nCommon mistake: Choosing 80 cm³ (10 × 5 + 30) or 18 cm³ (adding dimensions)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q05",
+      "question": "What type of angle is 200°?",
+      "options": ["Acute", "Obtuse", "Straight", "Reflex"],
+      "answer": 3,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Reflex angles are between 180° and 360°.\nStep 2: 200° is between 180° and 360°.\nStep 3: 200° is a reflex angle.\nCommon mistake: Choosing obtuse (which is between 90° and 180°)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q06",
+      "question": "A coin is flipped. What is the probability of getting heads?",
+      "options": ["0", "1/4", "1/2", "1"],
+      "answer": 2,
+      "topic": "probability",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A fair coin has 2 equally likely outcomes: heads or tails.\nStep 2: Probability of heads = 1/2.\nCommon mistake: Choosing 1/4 (confusing with dice probability)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q07",
+      "question": "Which point is located at (4, 0)?",
+      "options": ["4 units up from the origin", "4 units right on the x-axis", "At the origin", "4 units up on the y-axis"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: (4, 0) means x = 4 and y = 0.\nStep 2: The point is 4 units right of the origin on the x-axis (since y = 0).\nCommon mistake: Choosing 4 units up (confusing x with y coordinate)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q08",
+      "question": "What is 30 − 12 ÷ 4?",
+      "options": ["4.5", "18", "24", "27"],
+      "answer": 3,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Division first: 12 ÷ 4 = 3.\nStep 2: 30 − 3 = 27.\nCommon mistake: Choosing 4.5 ((30 − 12) ÷ 4 = 18 ÷ 4) or 18 (30 − 12 first)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q09",
+      "question": "What is 75% as a fraction in simplest form?",
+      "options": ["7/10", "3/4", "75/10", "4/3"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 75% = 75/100.\nStep 2: Simplify by dividing by 25: 75/25 = 3, 100/25 = 4.\nStep 3: 75% = 3/4.\nCommon mistake: Choosing 7/10 (confusing 75% with 0.7)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q10",
+      "question": "What is 7/10 − 2/5?",
+      "options": ["1/5", "3/10", "1/2", "5/5"],
+      "answer": 1,
+      "topic": "fraction-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Convert 2/5 to tenths: 2/5 = 4/10.\nStep 2: 7/10 − 4/10 = 3/10.\nCommon mistake: Choosing 5/5 (subtracting numerators and denominators separately)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q11",
+      "question": "Evaluate: 4 × (7 + 3) − 6²",
+      "options": ["4", "10", "16", "34"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Brackets: 7 + 3 = 10.\nStep 2: Orders: 6² = 36.\nStep 3: Multiplication: 4 × 10 = 40.\nStep 4: Subtraction: 40 − 36 = 4.\nCommon mistake: Choosing 34 (doing 40 − 6 instead of 40 − 36)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q12",
+      "question": "A bike costs $450. It is on sale for 30% off. What is the sale price?",
+      "options": ["$135", "$280", "$315", "$420"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 30% of $450 = 0.3 × 450 = $135.\nStep 2: Sale price = $450 − $135 = $315.\nCommon mistake: Choosing $135 (the discount amount) or $280 (subtracting too much)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q13",
+      "question": "What is 1/3 × 2/5?",
+      "options": ["2/15", "3/8", "2/8", "1/4"],
+      "answer": 0,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Multiply numerators: 1 × 2 = 2.\nStep 2: Multiply denominators: 3 × 5 = 15.\nStep 3: 1/3 × 2/5 = 2/15.\nCommon mistake: Choosing 3/8 (adding numerators and denominators)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q14",
+      "question": "A container holds 2.5 litres. How many 250 mL cups can be filled from it?",
+      "options": ["5", "8", "10", "25"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 2.5 litres = 2500 mL.\nStep 2: 2500 ÷ 250 = 10 cups.\nCommon mistake: Choosing 5 (2500 ÷ 500) or 25 (2500 ÷ 100)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q15",
+      "question": "Two angles are complementary. One angle is 37°. What is the other?",
+      "options": ["43°", "53°", "63°", "143°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Complementary angles add up to 90°.\nStep 2: Other angle = 90 − 37 = 53°.\nCommon mistake: Choosing 143° (subtracting from 180°, confusing with supplementary)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q16",
+      "question": "A bag has 4 red balls and 6 blue balls. You pick one ball. What is the probability of NOT picking red?",
+      "options": ["2/5", "3/5", "4/10", "6/10"],
+      "answer": 1,
+      "topic": "probability",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total balls = 4 + 6 = 10.\nStep 2: P(red) = 4/10 = 2/5.\nStep 3: P(not red) = 1 − 2/5 = 3/5.\nOr: P(blue) = 6/10 = 3/5.\nCommon mistake: Choosing 6/10 (correct but not simplified — both 3/5 and 6/10 represent the same value, but 3/5 is the simplified answer)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q17",
+      "question": "What is the distance between the points (1, 3) and (1, 8) on a coordinate grid?",
+      "options": ["3 units", "4 units", "5 units", "11 units"],
+      "answer": 2,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Both points have x = 1, so the distance is vertical.\nStep 2: Distance = |8 − 3| = 5 units.\nCommon mistake: Choosing 11 units (adding 3 + 8) or 3 units (subtracting wrong values)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q18",
+      "question": "A class of 30 students took a survey. 40% prefer football, 30% prefer netball, and the rest prefer swimming. How many prefer swimming?",
+      "options": ["6", "8", "9", "10"],
+      "answer": 2,
+      "topic": "percentages",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Swimming percentage = 100% − 40% − 30% = 30%.\nStep 2: 30% of 30 = 0.3 × 30 = 9 students.\nCommon mistake: Choosing 10 (guessing) or 6 (20% of 30)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q19",
+      "question": "What is 4/5 ÷ 2?",
+      "options": ["2/5", "4/10", "8/5", "2/10"],
+      "answer": 0,
+      "topic": "fraction-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Dividing a fraction by a whole number: divide the numerator by the number (or multiply the denominator).\nStep 2: 4/5 ÷ 2 = 4/(5×2) = 4/10 = 2/5.\nCommon mistake: Choosing 8/5 (multiplying by 2 instead of dividing)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q20",
+      "question": "The angles at a point add up to:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "answer": 3,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A full rotation around a point = 360°.\nStep 2: All angles meeting at a single point add up to 360°.\nCommon mistake: Choosing 180° (angles on a straight line, not around a point)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q21",
+      "question": "Evaluate: 100 − 3 × (8 + 2²) ÷ 2",
+      "options": ["72", "76", "82", "88"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Brackets first — inside: 2² = 4, then 8 + 4 = 12.\nStep 2: Multiplication: 3 × 12 = 36.\nStep 3: Division: 36 ÷ 2 = 18.\nStep 4: Subtraction: 100 − 18 = 82.\nCommon mistake: Choosing 76 (100 − 3 × 8 = 76, ignoring the 2²)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q22",
+      "question": "A bookshop increases the price of a $40 book by 25%. Later, the new price is decreased by 20%. What is the final price?",
+      "options": ["$38", "$40", "$42", "$45"],
+      "answer": 1,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 25% increase: $40 × 1.25 = $50.\nStep 2: 20% decrease: $50 × 0.8 = $40.\nStep 3: The final price is $40.\nCommon mistake: Choosing $42 (thinking 25% − 20% = 5% increase) or $38 (applying 5% decrease)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q23",
+      "question": "What is 2 1/2 × 1 1/5?",
+      "options": ["2 1/10", "2 7/10", "3", "3 1/10"],
+      "answer": 2,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert to improper fractions: 2 1/2 = 5/2, 1 1/5 = 6/5.\nStep 2: 5/2 × 6/5 = 30/10 = 3.\nCommon mistake: Choosing 2 1/10 (multiplying whole numbers and fractions separately: 2×1=2, 1/2 × 1/5 = 1/10)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q24",
+      "question": "A swimming pool is 12 m long, 8 m wide and 1.5 m deep. How many litres does it hold? (1 m³ = 1000 L)",
+      "options": ["144 000 L", "96 000 L", "14 400 L", "9 600 L"],
+      "answer": 0,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Volume = 12 × 8 × 1.5 = 144 m³.\nStep 2: Convert: 144 × 1000 = 144 000 L.\nCommon mistake: Choosing 14 400 L (dividing by 10 instead of multiplying by 1000)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q25",
+      "question": "Two parallel lines are cut by a transversal. One angle is 65°. What is the co-interior (same-side interior) angle?",
+      "options": ["65°", "90°", "115°", "125°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Co-interior angles (same-side interior angles) are supplementary — they add up to 180°.\nStep 2: 180 − 65 = 115°.\nCommon mistake: Choosing 65° (confusing with alternate angles, which are equal)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q26",
+      "question": "A bag contains 3 red, 2 blue and 5 green marbles. Two marbles are drawn without replacement. What is the probability that the first marble is green?",
+      "options": ["1/5", "3/10", "1/2", "5/9"],
+      "answer": 2,
+      "topic": "probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total marbles = 3 + 2 + 5 = 10.\nStep 2: P(first is green) = 5/10 = 1/2.\nStep 3: The 'without replacement' detail affects later draws but not the first draw.\nCommon mistake: Choosing 5/9 (using 9 in denominator as if one marble was already drawn)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q27",
+      "question": "A triangle has vertices at (0, 0), (6, 0) and (3, 4). What is the area of the triangle?",
+      "options": ["8 units²", "10 units²", "12 units²", "24 units²"],
+      "answer": 2,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Base = distance from (0,0) to (6,0) = 6 units.\nStep 2: Height = y-coordinate of the apex = 4 units.\nStep 3: Area = 1/2 × base × height = 1/2 × 6 × 4 = 12 units².\nCommon mistake: Choosing 24 units² (forgetting to halve: 6 × 4 = 24)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q28",
+      "question": "In a class of 40, 15% are left-handed. How many are right-handed?",
+      "options": ["6", "25", "30", "34"],
+      "answer": 3,
+      "topic": "percentages",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Left-handed = 15% of 40 = 0.15 × 40 = 6.\nStep 2: Right-handed = 40 − 6 = 34.\nCommon mistake: Choosing 6 (the number who are left-handed, not right-handed)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q29",
+      "question": "Simplify: 3/4 + 2/3 − 5/12",
+      "options": ["5/6", "1", "11/12", "7/12"],
+      "answer": 1,
+      "topic": "fraction-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Common denominator is 12.\nStep 2: 3/4 = 9/12, 2/3 = 8/12, 5/12 = 5/12.\nStep 3: 9/12 + 8/12 − 5/12 = 12/12 = 1.\nCommon mistake: Choosing 11/12 (adding 9 + 8 = 17, then 17 − 5 = 12, but writing 11/12) or 7/12 (miscalculating)."
+    },
+    {
+      "id": "selective-y5-maths-t2-q30",
+      "question": "A rectangular tank is 80 cm long, 50 cm wide and 60 cm high. It is filled to 3/4 of its height. How many litres of water are in it? (1 L = 1000 cm³)",
+      "options": ["120 L", "150 L", "180 L", "240 L"],
+      "answer": 2,
+      "topic": "volume-capacity",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Water height = 3/4 × 60 = 45 cm.\nStep 2: Volume of water = 80 × 50 × 45 = 180 000 cm³.\nStep 3: 180 000 ÷ 1000 = 180 L.\nCommon mistake: Choosing 240 L (using full height of 60 cm instead of 3/4)."
+    }
+  ]
+}

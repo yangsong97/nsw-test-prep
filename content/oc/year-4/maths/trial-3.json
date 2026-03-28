@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-maths-t3-q01",
+      "question": "What is 1 234 + 2 567?",
+      "options": ["3 701", "3 791", "3 801", "3 811"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 4 + 7 = 11. Write 1, carry 1.\nStep 2: Tens: 3 + 6 + 1 = 10. Write 0, carry 1.\nStep 3: Hundreds: 2 + 5 + 1 = 8.\nStep 4: Thousands: 1 + 2 = 3.\nStep 5: 1234 + 2567 = 3801.\nCommon mistake: Choosing 3791 (not carrying from ones) or 3811 (carrying an extra 1)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q02",
+      "question": "Which fraction is NOT equivalent to 2/3?",
+      "options": ["4/6", "6/9", "8/12", "6/12"],
+      "answer": 3,
+      "topic": "equivalent-fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Check each: 4/6 = 2/3 (÷2). 6/9 = 2/3 (÷3). 8/12 = 2/3 (÷4).\nStep 2: 6/12 = 1/2, which is NOT equal to 2/3.\nCommon mistake: Choosing 6/9 (thinking 6 and 9 don't simplify to 2/3)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q03",
+      "question": "What is 0.75 as a fraction in simplest form?",
+      "options": ["3/5", "7/10", "3/4", "7/5"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.75 = 75/100.\nStep 2: Simplify: 75 ÷ 25 = 3, 100 ÷ 25 = 4.\nStep 3: 0.75 = 3/4.\nCommon mistake: Choosing 7/10 (confusing 0.75 with 0.7)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q04",
+      "question": "A rectangle is 9 cm long and 4 cm wide. What is its area?",
+      "options": ["13 cm²", "26 cm²", "36 cm²", "81 cm²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area = length × width = 9 × 4 = 36 cm².\nCommon mistake: Choosing 26 cm² (perimeter: 2 × (9+4)) or 13 cm² (adding 9+4)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q05",
+      "question": "What is the next number? 1, 4, 9, 16, 25, ___",
+      "options": ["30", "34", "36", "49"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: These are square numbers: 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25.\nStep 2: Next: 6² = 36.\nCommon mistake: Choosing 30 (adding 5) or 34 (adding 9)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q06",
+      "question": "A straight angle measures:",
+      "options": ["45°", "90°", "180°", "360°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A straight angle forms a straight line.\nStep 2: A straight line is 180°.\nCommon mistake: Choosing 90° (confusing with a right angle) or 360° (a full rotation)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q07",
+      "question": "What is 5 000 − 2 468?",
+      "options": ["2 432", "2 532", "2 542", "3 532"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5000 − 2468.\nStep 2: Borrow across zeros: 5000 becomes 4999 + 1.\nStep 3: 4999 + 1 − 2468: (10−8)=2, (9−6)=3, (9−4)=5, (4−2)=2.\nStep 4: 5000 − 2468 = 2532.\nCommon mistake: Choosing 2432 (errors borrowing from thousands) or 3532 (subtracting 1468)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q08",
+      "question": "A pie chart shows that 1/4 of students chose swimming, 1/2 chose cricket, and the rest chose tennis. If there are 40 students, how many chose tennis?",
+      "options": ["5", "8", "10", "20"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Swimming = 1/4, Cricket = 1/2 = 2/4.\nStep 2: Swimming + Cricket = 1/4 + 2/4 = 3/4.\nStep 3: Tennis = 1 − 3/4 = 1/4.\nStep 4: 1/4 of 40 = 10.\nCommon mistake: Choosing 5 (1/8 of 40) or 20 (1/2 of 40, confusing with cricket)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q09",
+      "question": "Which decimal is larger: 0.8 or 0.78?",
+      "options": ["0.8", "0.78", "They are equal", "Cannot tell"],
+      "answer": 0,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Convert to same decimal places: 0.8 = 0.80.\nStep 2: Compare: 80 hundredths > 78 hundredths.\nStep 3: 0.8 is larger.\nCommon mistake: Choosing 0.78 because 78 > 8, forgetting that 0.8 = 0.80."
+    },
+    {
+      "id": "oc-y4-maths-t3-q10",
+      "question": "What rule describes this pattern? 1, 2, 4, 8, 16, 32",
+      "options": ["Add 2", "Add the previous number", "Multiply by 2", "Multiply by 3"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2 ÷ 1 = 2, 4 ÷ 2 = 2, 8 ÷ 4 = 2, 16 ÷ 8 = 2, 32 ÷ 16 = 2.\nStep 2: Each number is multiplied by 2.\nCommon mistake: Choosing 'add the previous number' (1+1=2 works, 2+2=4 works, but it is not the simplest rule description)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q11",
+      "question": "What is 46 × 23?",
+      "options": ["968", "1 038", "1 058", "1 068"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 46 × 20 = 920.\nStep 2: 46 × 3 = 138.\nStep 3: 920 + 138 = 1058.\nCommon mistake: Choosing 1038 (46 × 3 = 118, error) or 1068 (adding incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q12",
+      "question": "Add these fractions: 1/4 + 2/4 = ?",
+      "options": ["2/4", "3/4", "3/8", "1/2"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Since the denominators are the same, add the numerators: 1 + 2 = 3.\nStep 2: 1/4 + 2/4 = 3/4.\nCommon mistake: Choosing 3/8 (adding both numerators AND denominators)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q13",
+      "question": "Round 6.47 to one decimal place.",
+      "options": ["6.4", "6.5", "6.47", "7.0"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Look at the second decimal place (hundredths): 7.\nStep 2: Since 7 ≥ 5, round up the tenths digit: 4 rounds up to 5.\nStep 3: 6.47 rounded to one decimal place = 6.5.\nCommon mistake: Choosing 6.4 (rounding down when should round up)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q14",
+      "question": "Two sides of a triangle are 6 cm and 8 cm. The perimeter is 21 cm. What is the third side?",
+      "options": ["5 cm", "7 cm", "9 cm", "14 cm"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Perimeter = sum of all three sides.\nStep 2: 21 = 6 + 8 + third side.\nStep 3: Third side = 21 − 14 = 7 cm.\nCommon mistake: Choosing 14 cm (adding 6 + 8 instead of subtracting)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q15",
+      "question": "How many right angles are in a full turn?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 3,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A full turn = 360°.\nStep 2: Each right angle = 90°.\nStep 3: 360 ÷ 90 = 4.\nThere are 4 right angles in a full turn.\nCommon mistake: Choosing 2 (a half turn) or 3 (270°/90°)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q16",
+      "question": "A table shows the temperatures for a week: Mon 18°C, Tue 22°C, Wed 19°C, Thu 25°C, Fri 21°C. What is the difference between the hottest and coolest days?",
+      "options": ["3°C", "5°C", "7°C", "9°C"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Hottest = 25°C (Thursday). Coolest = 18°C (Monday).\nStep 2: Difference = 25 − 18 = 7°C.\nCommon mistake: Choosing 3°C (22 − 19) or 5°C (25 − 20)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q17",
+      "question": "What is 864 ÷ 4?",
+      "options": ["206", "214", "216", "224"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 800 ÷ 4 = 200.\nStep 2: 64 ÷ 4 = 16.\nStep 3: 200 + 16 = 216.\nCommon mistake: Choosing 206 (64 ÷ 4 = 6, error) or 214 (miscalculating)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q18",
+      "question": "In the number 3.56, what is the value of the digit 5?",
+      "options": ["5", "50", "5/10", "5/100"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: In 3.56, the 3 is in the ones place, 5 is in the tenths place, 6 is in the hundredths place.\nStep 2: The 5 in the tenths place has a value of 5 tenths = 5/10 = 0.5.\nCommon mistake: Choosing 5 (the digit itself) or 5/100 (confusing tenths with hundredths)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q19",
+      "question": "Complete the pattern: 1, 1, 2, 3, 5, 8, ___",
+      "options": ["10", "11", "13", "16"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each number is the sum of the two numbers before it.\nStep 2: 1+1=2, 1+2=3, 2+3=5, 3+5=8.\nStep 3: Next: 5+8=13.\nThis is called the Fibonacci sequence.\nCommon mistake: Choosing 11 (adding 3 to 8) or 16 (doubling 8)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q20",
+      "question": "The perimeter of a square is 52 cm. What is its area?",
+      "options": ["104 cm²", "156 cm²", "169 cm²", "208 cm²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Side = perimeter ÷ 4 = 52 ÷ 4 = 13 cm.\nStep 2: Area = side × side = 13 × 13 = 169 cm².\nCommon mistake: Choosing 208 cm² (52 × 4, squaring the perimeter idea) or 156 cm² (52 × 3)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q21",
+      "question": "A warehouse has 48 shelves. Each shelf holds 125 items. How many items can the warehouse hold?",
+      "options": ["5 000", "5 500", "6 000", "6 250"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 48 × 125.\nStep 2: 48 × 100 = 4800. 48 × 25 = 1200.\nStep 3: 4800 + 1200 = 6000.\nCommon mistake: Choosing 6250 (50 × 125) or 5000 (40 × 125)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q22",
+      "question": "What is 5/6 − 1/3 = ?",
+      "options": ["1/3", "1/2", "2/3", "4/3"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert to common denominator. 1/3 = 2/6.\nStep 2: 5/6 − 2/6 = 3/6.\nStep 3: Simplify: 3/6 = 1/2.\nCommon mistake: Choosing 4/3 (5−1=4, 6−3=3, subtracting numerators AND denominators)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q23",
+      "question": "A path is 3.45 km long. Jess has walked 1.78 km. How much further does she need to walk?",
+      "options": ["1.57 km", "1.67 km", "1.77 km", "2.67 km"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3.45 − 1.78.\nStep 2: Hundredths: 5 − 8, borrow: 15 − 8 = 7.\nStep 3: Tenths: 3 − 7, borrow: 13 − 7 = 6 (after borrowing: 4−1=3).\nStep 4: Ones: 2 − 1 = 1.\nStep 5: 3.45 − 1.78 = 1.67 km.\nCommon mistake: Choosing 1.77 km (not borrowing correctly) or 2.67 km (subtracting only the ones)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q24",
+      "question": "An isosceles triangle has two angles of 70° each. What is the third angle?",
+      "options": ["30°", "40°", "50°", "70°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Angles in a triangle = 180°.\nStep 2: 70 + 70 = 140°.\nStep 3: Third angle = 180 − 140 = 40°.\nCommon mistake: Choosing 70° (thinking all angles are equal in an isosceles triangle)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q25",
+      "question": "A field is 50 m long and 30 m wide. It costs $4 per square metre to lay grass. What is the total cost?",
+      "options": ["$320", "$1 200", "$4 800", "$6 000"],
+      "answer": 3,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = 50 × 30 = 1500 m².\nStep 2: Cost = 1500 × $4 = $6000.\nCommon mistake: Choosing $1200 (using perimeter: 160 × 4 = 640... no) or $4800 (area of 1200 m²)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q26",
+      "question": "The temperatures over 5 days were 14°C, 18°C, 16°C, 20°C and 12°C. What was the mean temperature?",
+      "options": ["14°C", "15°C", "16°C", "18°C"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum = 14 + 18 + 16 + 20 + 12 = 80.\nStep 2: Mean = 80 ÷ 5 = 16°C.\nCommon mistake: Choosing 18°C (picking the middle value) or 15°C (dividing incorrectly)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q27",
+      "question": "What is 7 896 ÷ 12?",
+      "options": ["648", "658", "668", "678"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 12 × 600 = 7200. 7896 − 7200 = 696.\nStep 2: 12 × 50 = 600. 696 − 600 = 96.\nStep 3: 12 × 8 = 96. 96 − 96 = 0.\nStep 4: 7896 ÷ 12 = 658.\nCommon mistake: Choosing 648 (12 × 648 = 7776) or 668 (12 × 668 = 8016)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q28",
+      "question": "What are the next two numbers in this pattern? 1, 3, 7, 15, 31, ___, ___",
+      "options": ["47, 79", "55, 95", "63, 127", "62, 125"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Differences: 3−1=2, 7−3=4, 15−7=8, 31−15=16.\nStep 2: The differences double: 2, 4, 8, 16, next is 32.\nStep 3: 31 + 32 = 63. Then 63 + 64 = 127.\nCommon mistake: Choosing 62, 125 (off by 1) or 55, 95 (wrong rule)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q29",
+      "question": "A clock face is divided into 12 equal parts. What angle does each part represent?",
+      "options": ["15°", "20°", "30°", "45°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A full turn = 360°.\nStep 2: Divided into 12 equal parts: 360 ÷ 12 = 30°.\nStep 3: Each part represents 30°.\nCommon mistake: Choosing 15° (dividing by 24) or 45° (dividing by 8)."
+    },
+    {
+      "id": "oc-y4-maths-t3-q30",
+      "question": "A composite shape is made of a rectangle (8 cm × 5 cm) with a square (3 cm × 3 cm) cut out from the corner. What is the remaining area?",
+      "options": ["25 cm²", "31 cm²", "37 cm²", "49 cm²"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area of rectangle = 8 × 5 = 40 cm².\nStep 2: Area of square cut-out = 3 × 3 = 9 cm².\nStep 3: Remaining area = 40 − 9 = 31 cm².\nCommon mistake: Choosing 37 cm² (subtracting only 3) or 49 cm² (adding 40 + 9)."
+    }
+  ]
+}

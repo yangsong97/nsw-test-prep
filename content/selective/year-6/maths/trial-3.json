@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y6-maths-t3-q01",
+      "question": "If n/3 = 9, what is n?",
+      "options": ["3", "6", "12", "27"],
+      "answer": 3,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: n/3 = 9.\nStep 2: Multiply both sides by 3: n = 9 × 3 = 27.\nCommon mistake: Choosing 3 (dividing 9 by 3) or 12 (adding 9 + 3)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q02",
+      "question": "Write 18:24 as a ratio in simplest form.",
+      "options": ["2:3", "3:4", "6:8", "9:12"],
+      "answer": 1,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: HCF of 18 and 24 is 6.\nStep 2: 18 ÷ 6 = 3, 24 ÷ 6 = 4.\nStep 3: Simplest form: 3:4.\nCommon mistake: Choosing 6:8 (dividing by 3 instead of 6)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q03",
+      "question": "Convert 40% to a fraction in simplest form.",
+      "options": ["2/5", "4/10", "4/5", "40/10"],
+      "answer": 0,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 40% = 40/100.\nStep 2: Simplify: 40 ÷ 20 = 2, 100 ÷ 20 = 5.\nStep 3: 40% = 2/5.\nCommon mistake: Choosing 4/10 (not fully simplified)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q04",
+      "question": "Which transformation flips a shape over a line?",
+      "options": ["Translation", "Rotation", "Reflection", "Enlargement"],
+      "answer": 2,
+      "topic": "geometry-transformations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Translation = sliding. Rotation = turning. Reflection = flipping over a line. Enlargement = making bigger.\nStep 2: A flip over a line is a reflection.\nCommon mistake: Choosing rotation (which is a turn, not a flip)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q05",
+      "question": "What is the mean of 8, 12, 10, and 6?",
+      "options": ["8", "9", "10", "11"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sum = 8 + 12 + 10 + 6 = 36.\nStep 2: Mean = 36 ÷ 4 = 9.\nCommon mistake: Choosing 10 (the median) or 8 (the minimum)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q06",
+      "question": "What is the midpoint of the line segment from (2, 4) to (6, 8)?",
+      "options": ["(3, 5)", "(4, 6)", "(4, 4)", "(8, 12)"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Midpoint x = (2 + 6)/2 = 4.\nStep 2: Midpoint y = (4 + 8)/2 = 6.\nStep 3: Midpoint = (4, 6).\nCommon mistake: Choosing (8, 12) (adding instead of averaging)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q07",
+      "question": "What is 5/6 as a percentage (rounded to the nearest whole number)?",
+      "options": ["56%", "80%", "83%", "85%"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5 ÷ 6 = 0.8333...\nStep 2: 0.8333 × 100 = 83.33...%\nStep 3: Rounded to nearest whole = 83%.\nCommon mistake: Choosing 85% (rounding too generously) or 56% (writing digits side by side)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q08",
+      "question": "Simplify: 4n + 3n − 2n",
+      "options": ["5n", "5n²", "9n", "n"],
+      "answer": 0,
+      "topic": "algebra",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Combine like terms: 4n + 3n = 7n.\nStep 2: 7n − 2n = 5n.\nCommon mistake: Choosing 9n (adding all coefficients: 4+3+2) or 5n² (adding an exponent)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q09",
+      "question": "A box of sweets is shared between Tom and Ava in the ratio 4:1. If there are 30 sweets, how many does Ava get?",
+      "options": ["5", "6", "7", "10"],
+      "answer": 1,
+      "topic": "ratios",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total parts = 4 + 1 = 5.\nStep 2: Each part = 30 ÷ 5 = 6.\nStep 3: Ava gets 1 part = 6 sweets.\nCommon mistake: Choosing 10 (30 ÷ 3) or 5 (the number of parts, not Ava's share)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q10",
+      "question": "The mode of {7, 3, 5, 7, 9, 3, 7, 2} is:",
+      "options": ["2", "3", "5", "7"],
+      "answer": 3,
+      "topic": "statistics",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Count each value: 7 appears 3 times, 3 appears 2 times, others once.\nStep 2: The mode (most frequent) = 7.\nCommon mistake: Choosing 3 (it also appears multiple times, but not as often)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q11",
+      "question": "Solve: 5n − 3 = 2n + 12",
+      "options": ["3", "5", "7", "9"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5n − 3 = 2n + 12.\nStep 2: Subtract 2n: 3n − 3 = 12.\nStep 3: Add 3: 3n = 15.\nStep 4: Divide by 3: n = 5.\nCommon mistake: Choosing 3 (15 ÷ 5) or 9 (adding 3n + 12 − ... errors)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q12",
+      "question": "Blue and green paint are mixed in the ratio 5:3 to make 4 litres of paint. How much blue paint is needed?",
+      "options": ["1.5 L", "2 L", "2.5 L", "3 L"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Total parts = 5 + 3 = 8.\nStep 2: Each part = 4 ÷ 8 = 0.5 L.\nStep 3: Blue = 5 × 0.5 = 2.5 L.\nCommon mistake: Choosing 2 L (4 × 5/10) or 3 L (subtracting 4 − 1)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q13",
+      "question": "Which is the largest: 2/3, 0.65, 70%?",
+      "options": ["2/3", "0.65", "70%", "They are all equal"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert all to decimals: 2/3 ≈ 0.667, 0.65 = 0.65, 70% = 0.70.\nStep 2: 0.70 > 0.667 > 0.65.\nStep 3: 70% is the largest.\nCommon mistake: Choosing 2/3 (it is close but 0.667 < 0.70)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q14",
+      "question": "A regular pentagon is rotated about its centre. What is the smallest angle of rotation that maps it onto itself?",
+      "options": ["36°", "60°", "72°", "108°"],
+      "answer": 2,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A regular pentagon has rotational symmetry of order 5.\nStep 2: Smallest angle = 360° ÷ 5 = 72°.\nCommon mistake: Choosing 108° (the interior angle of a regular pentagon)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q15",
+      "question": "The data set is: 3, 5, 5, 6, 8, 10. The mean is 6.17 (rounded). If 12 is added to the set, what is the new mean (to 2 decimal places)?",
+      "options": ["6.43", "7.00", "7.14", "7.86"],
+      "answer": 1,
+      "topic": "statistics",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Original sum = 3 + 5 + 5 + 6 + 8 + 10 = 37.\nStep 2: New sum = 37 + 12 = 49.\nStep 3: New number of values = 7.\nStep 4: New mean = 49 ÷ 7 = 7.00.\nCommon mistake: Choosing 7.14 (dividing by 6.86 or errors) or 6.43 (using 6 as divisor)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q16",
+      "question": "A line has gradient 3 and passes through (1, 5). What is the y-intercept?",
+      "options": ["-2", "2", "3", "5"],
+      "answer": 1,
+      "topic": "coordinate-geometry",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: y = mx + b. Using m = 3 and point (1, 5).\nStep 2: 5 = 3(1) + b.\nStep 3: b = 5 − 3 = 2.\nStep 4: The y-intercept is 2.\nCommon mistake: Choosing 5 (using the y-coordinate of the point)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q17",
+      "question": "If n² = 144, what are the possible values of n?",
+      "options": ["12 only", "-12 only", "12 and -12", "72"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: n² = 144.\nStep 2: n = √144 = 12 or n = −√144 = −12.\nStep 3: Both 12 and −12 are valid since 12² = 144 and (−12)² = 144.\nCommon mistake: Choosing '12 only' (forgetting the negative square root)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q18",
+      "question": "A map uses a scale of 1:25 000. Two locations are 12 cm apart on the map. What is the actual distance in kilometres?",
+      "options": ["0.3 km", "3 km", "30 km", "300 km"],
+      "answer": 1,
+      "topic": "ratios",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 12 cm × 25 000 = 300 000 cm.\nStep 2: 300 000 cm = 3 000 m = 3 km.\nCommon mistake: Choosing 30 km (an extra factor of 10) or 0.3 km (dividing by 1000 twice)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q19",
+      "question": "A shape has vertices at (1, 2), (4, 2), (4, 5) and (1, 5). It is translated by the vector (−3, 2). What are the new coordinates of the vertex that was at (4, 5)?",
+      "options": ["(1, 7)", "(7, 7)", "(1, 3)", "(7, 3)"],
+      "answer": 0,
+      "topic": "geometry-transformations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Translation vector (−3, 2) means move 3 left and 2 up.\nStep 2: (4, 5) → (4−3, 5+2) = (1, 7).\nCommon mistake: Choosing (7, 7) (adding 3 instead of subtracting)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q20",
+      "question": "A shirt originally costs $80. It is reduced by 25%, then the new price is reduced by a further 10%. What is the final price?",
+      "options": ["$48", "$52", "$54", "$56"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: First discount: $80 × 0.75 = $60.\nStep 2: Second discount: $60 × 0.90 = $54.\nCommon mistake: Choosing $52 (applying 35% off $80) or $48 (applying further reduction incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q21",
+      "question": "Solve: n/4 + 5 = 3n/4 − 1",
+      "options": ["8", "10", "12", "16"],
+      "answer": 2,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: n/4 + 5 = 3n/4 − 1.\nStep 2: Subtract n/4: 5 = 2n/4 − 1 = n/2 − 1.\nStep 3: Add 1: 6 = n/2.\nStep 4: Multiply by 2: n = 12.\nCommon mistake: Choosing 8 (errors in fraction manipulation)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q22",
+      "question": "Three friends share a bill of $84 in the ratio 1:2:4. What does the person with the largest share pay?",
+      "options": ["$12", "$24", "$ 36", "$48"],
+      "answer": 3,
+      "topic": "ratios",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total parts = 1 + 2 + 4 = 7.\nStep 2: Each part = $84 ÷ 7 = $12.\nStep 3: Largest share = 4 × $12 = $48.\nCommon mistake: Choosing $36 (3 × $12, using wrong number of parts)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q23",
+      "question": "A shop buys an item for $50 and marks it up by 60%. During a sale, the marked price is discounted by 25%. What is the sale price?",
+      "options": ["$55", "$58", "$60", "$65"],
+      "answer": 2,
+      "topic": "fraction-decimal-percentage",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Marked price: $50 × 1.6 = $80.\nStep 2: Sale discount: $80 × 0.75 = $60.\nCommon mistake: Choosing $55 (applying 60% − 25% = 35% markup on $50)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q24",
+      "question": "Triangle A has vertices at (1, 1), (3, 1) and (2, 3). Triangle B has vertices at (-1, 1), (-3, 1) and (-2, 3). What transformation maps A to B?",
+      "options": ["Translation 4 units left", "Reflection in the y-axis", "Rotation 90° clockwise", "Enlargement scale factor 2"],
+      "answer": 1,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Compare vertices: (1,1)→(−1,1), (3,1)→(−3,1), (2,3)→(−2,3).\nStep 2: Each x-coordinate is negated while y stays the same.\nStep 3: This is a reflection in the y-axis (x = 0).\nCommon mistake: Choosing translation 4 units left (would give (−3,1),(−1,1),(−2,3), which reorders but does not match)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q25",
+      "question": "The heights of 7 plants are 12, 14, 15, 18, 20, 22, 25 cm. What are Q1 and Q3?",
+      "options": ["Q1=14, Q3=22", "Q1=12, Q3=25", "Q1=15, Q3=20", "Q1=14, Q3=20"],
+      "answer": 0,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Data: 12, 14, 15, 18, 20, 22, 25. Median (Q2) = 18.\nStep 2: Lower half: 12, 14, 15. Q1 = 14.\nStep 3: Upper half: 20, 22, 25. Q3 = 22.\nCommon mistake: Choosing Q1=15, Q3=20 (using the values adjacent to the median)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q26",
+      "question": "At what point do the lines y = x + 2 and y = 3x − 4 intersect?",
+      "options": ["(1, 3)", "(2, 4)", "(3, 5)", "(4, 8)"],
+      "answer": 2,
+      "topic": "coordinate-geometry",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Set equal: x + 2 = 3x − 4.\nStep 2: Subtract x: 2 = 2x − 4.\nStep 3: Add 4: 6 = 2x.\nStep 4: x = 3.\nStep 5: y = 3 + 2 = 5.\nStep 6: The intersection is (3, 5).\nCommon mistake: Choosing (2, 4) (substituting incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q27",
+      "question": "A number n satisfies: n is even, n > 20, and n is a multiple of 7. What is the smallest possible value of n?",
+      "options": ["21", "28", "35", "42"],
+      "answer": 1,
+      "topic": "algebra",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Multiples of 7: 7, 14, 21, 28, 35, 42...\nStep 2: Must be even: 14, 28, 42...\nStep 3: Must be > 20: 28, 42...\nStep 4: Smallest = 28.\nCommon mistake: Choosing 42 (skipping 28) or 21 (not even)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q28",
+      "question": "A car uses fuel at a rate of 8 L per 100 km. The fuel tank holds 60 L. The car has driven 450 km on a full tank. How many litres of fuel are left?",
+      "options": ["12 L", "18 L", "24 L", "36 L"],
+      "answer": 2,
+      "topic": "ratios",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Fuel used for 450 km: (8/100) × 450 = 36 L.\nStep 2: Fuel remaining = 60 − 36 = 24 L.\nCommon mistake: Choosing 36 L (the fuel used, not remaining) or 12 L (miscalculating)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q29",
+      "question": "The probability of rain tomorrow is 0.35. What is the probability it will NOT rain?",
+      "options": ["0.35", "0.55", "0.65", "0.75"],
+      "answer": 2,
+      "topic": "statistics",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: P(rain) + P(no rain) = 1.\nStep 2: P(no rain) = 1 − 0.35 = 0.65.\nCommon mistake: Choosing 0.55 (subtracting from a wrong total) or 0.75 (subtracting from 1.10)."
+    },
+    {
+      "id": "selective-y6-maths-t3-q30",
+      "question": "A composite shape is made of a rectangle (10 cm × 6 cm) with a right-angled triangle attached to one end (base 6 cm, height 4 cm). What is the total area?",
+      "options": ["64 cm²", "72 cm²", "84 cm²", "96 cm²"],
+      "answer": 1,
+      "topic": "geometry-transformations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area of rectangle = 10 × 6 = 60 cm².\nStep 2: Area of triangle = 1/2 × 6 × 4 = 12 cm².\nStep 3: Total area = 60 + 12 = 72 cm².\nCommon mistake: Choosing 84 cm² (using full 6 × 4 = 24 for triangle instead of halving)."
+    }
+  ]
+}

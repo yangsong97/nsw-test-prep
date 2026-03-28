@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-maths-t3-q01",
+      "question": "What is 6 + 9?",
+      "options": ["13", "14", "15", "16"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 6 + 9.\nStep 2: Think of it as 6 + 10 − 1 = 16 − 1 = 15.\nStep 3: Or count on from 9: 10, 11, 12, 13, 14, 15.\n6 + 9 = 15.\nCommon mistake: Choosing 14 (miscounting) or 16 (adding 7 + 9)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q02",
+      "question": "Which number is between 36 and 38?",
+      "options": ["35", "37", "39", "40"],
+      "answer": 1,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The numbers in order are 36, 37, 38.\nStep 2: The number between 36 and 38 is 37.\nCommon mistake: Choosing 35 (the number before 36) or 39 (the number after 38)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q03",
+      "question": "How many sides does a rectangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A rectangle is a flat shape.\nStep 2: Count its sides: top, bottom, left, right.\nStep 3: A rectangle has 4 sides.\nCommon mistake: Choosing 2 (counting only 2 different side lengths)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q04",
+      "question": "Half of the 14 children in a class are girls. How many girls are there?",
+      "options": ["4", "6", "7", "8"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Half of 14.\nStep 2: 14 ÷ 2 = 7.\nThere are 7 girls.\nCommon mistake: Choosing 4 (finding a quarter) or 8 (adding 1 extra)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q05",
+      "question": "There are 4 trees. Each tree has 3 birds. How many birds are there?",
+      "options": ["7", "10", "12", "15"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 4 trees with 3 birds each.\nStep 2: 3 + 3 + 3 + 3 = 12.\nStep 3: Or 4 × 3 = 12.\nThere are 12 birds.\nCommon mistake: Choosing 7 (adding 4 + 3)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q06",
+      "question": "Which month comes right after June?",
+      "options": ["May", "July", "August", "January"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The months in order are ... May, June, July, August ...\nStep 2: The month right after June is July.\nCommon mistake: Choosing May (the month before June) or August (two months after)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q07",
+      "question": "What is 15 − 8?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 15 − 8.\nStep 2: Count back 8 from 15: 14, 13, 12, 11, 10, 9, 8, 7.\nStep 3: 15 − 8 = 7.\nCommon mistake: Choosing 8 (confusing the number being subtracted with the answer)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q08",
+      "question": "How long is a standard school ruler?",
+      "options": ["10 cm", "20 cm", "30 cm", "100 cm"],
+      "answer": 2,
+      "topic": "measurement",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A standard school ruler is 30 cm long.\nStep 2: 100 cm would be 1 metre, which is much longer than a ruler.\nCommon mistake: Choosing 100 cm (confusing a ruler with a metre stick)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q09",
+      "question": "Count by 2s: 12, 14, 16, ___. What comes next?",
+      "options": ["17", "18", "19", "20"],
+      "answer": 1,
+      "topic": "counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We are counting by 2s.\nStep 2: 16 + 2 = 18.\nThe next number is 18.\nCommon mistake: Choosing 17 (counting by 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q10",
+      "question": "There are 5 groups of 2 socks. How many socks altogether?",
+      "options": ["7", "8", "10", "12"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5 groups of 2 socks.\nStep 2: 2 + 2 + 2 + 2 + 2 = 10.\nStep 3: Or 5 × 2 = 10.\nThere are 10 socks.\nCommon mistake: Choosing 7 (adding 5 + 2)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q11",
+      "question": "What is 43 + 29?",
+      "options": ["62", "64", "72", "74"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Add ones: 3 + 9 = 12. Write 2, carry 1.\nStep 2: Add tens: 4 + 2 + 1 (carried) = 7.\nStep 3: 43 + 29 = 72.\nCommon mistake: Choosing 62 (forgetting to carry) or 64 (miscalculating the ones)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q12",
+      "question": "How many 5s make 25?",
+      "options": ["3", "4", "5", "20"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Count by 5s: 5, 10, 15, 20, 25.\nStep 2: That is 5 counts.\nStep 3: 25 ÷ 5 = 5.\nThere are 5 fives in 25.\nCommon mistake: Choosing 20 (subtracting 25 − 5) or 4 (miscounting)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q13",
+      "question": "A quarter of a class of 24 students are absent. How many students are absent?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 1,
+      "topic": "halves-quarters",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A quarter means dividing by 4.\nStep 2: 24 ÷ 4 = 6.\n6 students are absent.\nCommon mistake: Choosing 12 (finding half instead of a quarter) or 8 (dividing by 3)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q14",
+      "question": "A pencil case is 22 cm long. A pencil is 17 cm long. How much longer is the pencil case?",
+      "options": ["3 cm", "5 cm", "7 cm", "39 cm"],
+      "answer": 1,
+      "topic": "measurement",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: To find how much longer, subtract: 22 − 17.\nStep 2: 22 − 17 = 5.\nThe pencil case is 5 cm longer.\nCommon mistake: Choosing 39 cm (adding instead of subtracting) or 3 cm (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q15",
+      "question": "It is 2 o'clock now. What time will it be in 3 hours?",
+      "options": ["3 o'clock", "4 o'clock", "5 o'clock", "6 o'clock"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start at 2 o'clock.\nStep 2: Add 3 hours: 2 + 3 = 5.\nIt will be 5 o'clock.\nCommon mistake: Choosing 3 o'clock (adding only 1 hour)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q16",
+      "question": "Which number sentence is correct?",
+      "options": ["25 > 52", "34 < 28", "67 > 76", "89 > 79"],
+      "answer": 3,
+      "topic": "counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check each option.\nStep 2: 25 > 52? No, 25 is less than 52.\nStep 3: 34 < 28? No, 34 is greater than 28.\nStep 4: 67 > 76? No, 67 is less than 76.\nStep 5: 89 > 79? Yes, 89 is greater than 79.\nCommon mistake: Choosing 67 > 76 (confusing the digits)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q17",
+      "question": "A shape has 4 equal sides and 4 corners. What is it?",
+      "options": ["Rectangle", "Triangle", "Square", "Circle"],
+      "answer": 2,
+      "topic": "2d-shapes",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The shape has 4 sides that are all equal and 4 corners.\nStep 2: A rectangle has 4 sides but they are not all equal (unless it is a square).\nStep 3: A square has 4 equal sides and 4 corners.\nCommon mistake: Choosing rectangle (which can have unequal sides)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q18",
+      "question": "Zara picks up 5 shells each day for 4 days. How many shells does she have?",
+      "options": ["9", "15", "20", "25"],
+      "answer": 2,
+      "topic": "basic-multiplication",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5 shells per day for 4 days.\nStep 2: 5 × 4 = 20 shells.\nStep 3: Or add: 5 + 5 + 5 + 5 = 20.\nZara has 20 shells.\nCommon mistake: Choosing 9 (adding 5 + 4) or 25 (multiplying 5 × 5)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q19",
+      "question": "What is 70 − 36?",
+      "options": ["34", "36", "44", "46"],
+      "answer": 0,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 70 − 36.\nStep 2: 70 − 30 = 40, then 40 − 6 = 34.\nStep 3: 70 − 36 = 34.\nCommon mistake: Choosing 44 (subtracting only 26) or 36 (confusing with the number being subtracted)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q20",
+      "question": "An ant is 5 mm long. How many ants placed in a row would measure 20 mm?",
+      "options": ["2", "3", "4", "15"],
+      "answer": 2,
+      "topic": "measurement",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each ant is 5 mm.\nStep 2: 20 ÷ 5 = 4 ants.\nStep 3: Check: 5 + 5 + 5 + 5 = 20 mm. Correct!\n4 ants would measure 20 mm.\nCommon mistake: Choosing 15 (subtracting 20 − 5) or 3 (miscounting)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q21",
+      "question": "Sophie has $1.00. She buys a drink for 65 cents. How much change does she get?",
+      "options": ["25 cents", "35 cents", "45 cents", "55 cents"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sophie pays $1.00 (100 cents) for a 65-cent drink.\nStep 2: 100 − 65 = 35 cents.\nSophie gets 35 cents change.\nCommon mistake: Choosing 45 cents (subtracting from 110 instead of 100) or 25 cents (subtracting 65 − 40)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q22",
+      "question": "What is the missing number in this pattern? 3, 6, 9, ___, 15, 18",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "topic": "counting",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the pattern. Each number goes up by 3.\nStep 2: 3, 6, 9, ?, 15, 18.\nStep 3: 9 + 3 = 12.\nStep 4: Check: 12 + 3 = 15. Correct!\nThe missing number is 12.\nCommon mistake: Choosing 10 (adding 1 instead of 3) or 13 (adding 4)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q23",
+      "question": "A class has 28 students. 13 are boys. How many are girls?",
+      "options": ["13", "15", "17", "41"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total students = 28. Boys = 13.\nStep 2: Girls = 28 − 13 = 15.\nThere are 15 girls.\nCommon mistake: Choosing 41 (adding 28 + 13) or 17 (subtracting incorrectly)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q24",
+      "question": "There are 7 days in a week. How many days are in 3 weeks?",
+      "options": ["10", "14", "21", "24"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1 week = 7 days.\nStep 2: 3 weeks = 3 × 7 = 21 days.\nThere are 21 days in 3 weeks.\nCommon mistake: Choosing 10 (adding 7 + 3) or 14 (calculating 2 × 7)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q25",
+      "question": "A triangle and two squares are drawn. How many sides are there in total?",
+      "options": ["9", "11", "12", "15"],
+      "answer": 1,
+      "topic": "2d-shapes",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A triangle has 3 sides.\nStep 2: Each square has 4 sides. Two squares have 4 + 4 = 8 sides.\nStep 3: Total: 3 + 8 = 11 sides.\nCommon mistake: Choosing 12 (thinking 3 shapes × 4 sides) or 9 (3 + 3 + 3)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q26",
+      "question": "What is double 48?",
+      "options": ["86", "88", "96", "98"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Double means adding the number to itself: 48 + 48.\nStep 2: 40 + 40 = 80. 8 + 8 = 16.\nStep 3: 80 + 16 = 96.\nDouble 48 is 96.\nCommon mistake: Choosing 86 (not carrying properly) or 88 (doubling only the tens)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q27",
+      "question": "A baker makes 10 cupcakes every hour. He works for 4 hours but drops 6 cupcakes. How many good cupcakes does he have?",
+      "options": ["28", "34", "40", "46"],
+      "answer": 1,
+      "topic": "basic-multiplication",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: He makes 10 cupcakes per hour for 4 hours: 10 × 4 = 40.\nStep 2: He drops 6: 40 − 6 = 34.\nHe has 34 good cupcakes.\nCommon mistake: Choosing 28 (subtracting 6 twice) or 46 (adding 6 instead of subtracting)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q28",
+      "question": "Kai has 50 cents. He finds a quarter of a dollar on the ground. How much money does he have now?",
+      "options": ["51 cents", "55 cents", "75 cents", "100 cents"],
+      "answer": 2,
+      "topic": "halves-quarters",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Kai starts with 50 cents.\nStep 2: A quarter of a dollar = 100 ÷ 4 = 25 cents.\nStep 3: 50 + 25 = 75 cents.\nKai has 75 cents.\nCommon mistake: Choosing 51 cents (thinking a quarter is 1 cent) or 55 cents (thinking a quarter is 5 cents)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q29",
+      "question": "A caterpillar crawls 8 cm every minute. How far does it crawl in 5 minutes?",
+      "options": ["13 cm", "30 cm", "35 cm", "40 cm"],
+      "answer": 3,
+      "topic": "measurement",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The caterpillar crawls 8 cm per minute.\nStep 2: In 5 minutes: 8 × 5 = 40 cm.\nThe caterpillar crawls 40 cm.\nCommon mistake: Choosing 13 cm (adding 8 + 5) or 35 cm (multiplying 7 × 5)."
+    },
+    {
+      "id": "oc-y2-maths-t3-q30",
+      "question": "Maya has 73 stickers. She gives 28 to her friend and then gets 19 from her teacher. How many stickers does Maya have now?",
+      "options": ["54", "60", "64", "120"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with 73 stickers.\nStep 2: Give away 28: 73 − 28 = 45.\nStep 3: Get 19 more: 45 + 19 = 64.\nMaya has 64 stickers.\nCommon mistake: Choosing 120 (adding all three numbers) or 54 (subtracting both: 73 − 28 + 9)."
+    }
+  ]
+}
