@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 2
+  },
+  "prompt": {
+    "id": "oc-y2-writing-t2",
+    "type": "persuasive",
+    "text": "Your school is deciding whether students should be allowed to bring pets to school for one special day each term. Write a letter to your principal explaining why you think Pet Day is a good idea or a bad idea.",
+    "timeLimit": 15,
+    "wordGuide": "Aim for 100-150 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Presents a clear opinion with two or more distinct and convincing reasons. Reasons are relevant and show thoughtful consideration of why Pet Day would be good or bad for the school community.",
+      "satisfactory": "States an opinion with at least one clear reason. Reasons are relevant to the topic but may lack detail or be somewhat obvious without further explanation.",
+      "developing": "Opinion is unclear or not stated. Reasons are missing, irrelevant, or simply restate the opinion without providing actual support."
+    },
+    "structure": {
+      "excellent": "The letter follows a logical format with an opening that states the opinion, a body that presents reasons, and a closing that wraps up the argument. The letter is addressed appropriately to the principal.",
+      "satisfactory": "The letter has a recognisable structure with an opening and reasons, though the closing may be weak or missing. The letter format is partially followed.",
+      "developing": "The writing lacks letter format. Ideas are presented without clear organisation and may jump between points randomly."
+    },
+    "language": {
+      "excellent": "Uses polite and persuasive language appropriate for writing to a principal. Includes words that support the argument such as 'because,' 'also,' and 'I believe.' Sentences vary in length.",
+      "satisfactory": "Language is mostly appropriate for the audience. Some persuasive words are used but the tone may be too casual for a letter to a principal. Sentences are mostly similar in structure.",
+      "developing": "Language is very casual or inappropriate for a letter to a principal. Little or no persuasive language is used. Sentences are repetitive and short."
+    },
+    "mechanics": {
+      "excellent": "Most words are spelt correctly. Capital letters and full stops are used correctly. The letter format includes a greeting and sign-off with correct punctuation.",
+      "satisfactory": "Common words are mostly spelt correctly. Capital letters and full stops are present in most sentences. The letter may be missing a proper greeting or sign-off.",
+      "developing": "Frequent spelling errors. Capital letters and full stops are often missing. No letter conventions are followed."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Dear Mrs Patterson,\n\nI am writing to tell you that I think Pet Day is a wonderful idea for our school. I believe we should have it once a term and here are my reasons.\n\nFirstly, Pet Day would help students learn about responsibility. When children bring their pets, they have to make sure they are fed, safe and comfortable. This teaches us to care for other living things.\n\nAlso, some children feel nervous at school. Having a pet nearby can make them feel calm and happy. I have read that animals can help people feel less worried.\n\nFinally, Pet Day would be exciting and fun. It would give us something special to look forward to each term.\n\nI hope you will think about my ideas. Thank you for reading my letter.\n\nYours sincerely,\nSophie",
+      "annotations": "This is an excellent persuasive letter for Year 2. The writer presents three distinct reasons (responsibility, wellbeing, enjoyment) and uses persuasive connectives like 'firstly,' 'also,' and 'finally' to organise the argument. The tone is polite and appropriate for the audience, with phrases like 'I am writing to tell you' and 'I hope you will think about my ideas.' The letter format is correctly followed with a greeting and sign-off. The reference to reading about animals helping people shows a thoughtful approach beyond personal experience."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Dear Principal,\n\nI think we should have a Pet Day at school. It would be really fun and everyone would like it.\n\nI want to bring my dog Biscuit because he is friendly and everyone would want to pat him. Dogs make people happy and it would be a good day.\n\nAlso we could learn about different animals. Some kids have cats and some have birds and we could see them all.\n\nI think Pet Day is a good idea. Please can we have one.\n\nFrom,\nJack",
+      "annotations": "This response is satisfactory for Year 2. The writer states a clear opinion and provides two reasons (fun/happiness and learning about animals). However, the first reason relies heavily on a personal example about the writer's own dog rather than making a broader argument. The persuasive language is limited — phrases like 'it would be really fun' and 'everyone would like it' could be strengthened with more specific reasons explaining why it would be fun. The letter format is present but the sign-off 'From' is less formal than 'Yours sincerely.' Adding a stronger closing argument would improve the piece."
+    }
+  ]
+}

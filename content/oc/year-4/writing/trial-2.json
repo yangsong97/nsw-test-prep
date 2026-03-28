@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 2
+  },
+  "prompt": {
+    "id": "oc-y4-writing-t2",
+    "type": "persuasive",
+    "text": "Your local council is planning to replace the neighbourhood playground with a car park. Write a persuasive letter to the mayor explaining why the playground should be kept. Include reasons, evidence, and suggestions for what the council could do instead.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 200-300 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Presents a compelling argument with three or more well-developed reasons supported by specific evidence or examples. Addresses the counter-argument (need for parking) and offers a practical alternative solution. Shows awareness of the community impact.",
+      "satisfactory": "Presents a clear argument with two or more reasons. Some evidence or examples are provided but they may lack specificity. An alternative suggestion may be present but underdeveloped. Awareness of community impact is limited.",
+      "developing": "The argument is weak with only one vague reason or reasons that do not clearly support keeping the playground. No evidence, examples, or alternative solutions are provided."
+    },
+    "structure": {
+      "excellent": "The letter follows a formal format with appropriate greeting and sign-off. The opening clearly states the purpose and position. Body paragraphs each focus on a separate point. The conclusion includes a call to action. Persuasive connectives are used throughout.",
+      "satisfactory": "The letter format is mostly followed. An opening position is stated and reasons are given, though they may not be in separate paragraphs. A conclusion is present but may lack a call to action. Some connectives are used.",
+      "developing": "The letter format is not followed. The writing lacks clear organisation. The position may be unclear or buried in the middle. No conclusion or call to action."
+    },
+    "language": {
+      "excellent": "Uses sophisticated persuasive techniques including rhetorical questions, emotive language, modal verbs, and formal register appropriate for writing to a mayor. Sentences vary in structure and length for effect. The tone is respectful yet passionate.",
+      "satisfactory": "Uses some persuasive language but relies heavily on 'I think' and 'because.' The register is mostly appropriate but may slip into casual language. Sentence variety is limited.",
+      "developing": "Language is casual and unpersuasive. The tone may be demanding or rude rather than respectful. Sentences are repetitive with no persuasive techniques evident."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate throughout. Punctuation is correct including commas, apostrophes, and any speech marks. The letter format is correctly punctuated. Writing is neat and legible.",
+      "satisfactory": "Most words are spelt correctly. Basic punctuation is accurate but commas and apostrophes may have errors. Letter format punctuation is mostly correct.",
+      "developing": "Frequent spelling and punctuation errors throughout. Letter formatting conventions are not followed."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Dear Mayor Henderson,\n\nI am writing to express my deep concern about the council's plan to replace Banksia Park playground with a car park. As a resident of this neighbourhood and a regular user of the playground, I strongly believe this decision would harm our community.\n\nFirstly, the playground is essential for children's health and wellbeing. Studies show that children need at least sixty minutes of physical activity each day, and our playground provides a safe, free space for running, climbing, and playing. If it is removed, many children in the area will have nowhere to exercise outdoors.\n\nSecondly, the playground brings our community together. Every weekend, families gather at Banksia Park to socialise while their children play. My neighbours, the Nguyens, told me they have met most of their friends at this playground since moving to Australia. Removing it would take away a vital meeting place.\n\nFurthermore, does our neighbourhood really need more car parks? There are already two car parks within walking distance on George Street and behind the shopping centre. Surely encouraging people to walk or cycle is better for the environment than building more spaces for cars.\n\nInstead of removing the playground, I suggest the council could upgrade the existing car parks to fit more vehicles, or create a small parking area at the edge of the park without removing the play equipment.\n\nI urge you to reconsider this decision. Our playground is not just a piece of equipment — it is the heart of our community.\n\nYours sincerely,\nOlivia Chen",
+      "annotations": "This is an excellent persuasive letter for Year 4. The writer presents three strong, distinct arguments (children's health, community connection, questioning the need for parking) each in its own paragraph with supporting evidence. The inclusion of a specific example (the Nguyen family) makes the argument personal and convincing. A rhetorical question ('does our neighbourhood really need more car parks?') is used effectively, and the writer addresses the counter-argument by pointing out existing car parks. The alternative suggestion is practical and reasonable. The formal register is maintained throughout with respectful yet passionate language, and the final line ('the heart of our community') is a powerful emotional appeal."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Dear Mayor,\n\nI am writing because I heard the council wants to turn our playground into a car park. I think this is a bad idea and the playground should stay.\n\nThe playground is important because kids need somewhere to play. If there is no playground we will have to play on the street which is dangerous. Lots of kids use the playground every day after school.\n\nAlso the playground is good for exercise. Kids are supposed to be active and healthy. If you take away the playground some kids might just stay inside and play video games all day.\n\nI think there are other places you could put a car park. Maybe you could use the empty block near the shops instead. That way everyone is happy.\n\nPlease do not remove our playground. It is important to the kids in this area.\n\nFrom,\nLiam",
+      "annotations": "This response meets the satisfactory standard for Year 4. The letter states a clear position and provides two main reasons (safety, exercise) with some supporting detail. The alternative suggestion (the empty block near the shops) is a good inclusion. However, the persuasive language could be much stronger — 'I think this is a bad idea' is a weak opening when more forceful language like 'I strongly believe' or 'this decision would be a mistake' would be more effective. The letter lacks evidence or specific examples, relying instead on general claims like 'lots of kids use the playground.' The register slips into casual language at times, and the sign-off 'From' is less formal than 'Yours sincerely.' The arguments would benefit from more development and specific detail."
+    }
+  ]
+}

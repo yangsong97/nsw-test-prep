@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 3
+  },
+  "prompt": {
+    "id": "selective-y6-writing-t3",
+    "type": "informational",
+    "text": "Write an information report about how the human brain learns new skills. Explain what happens in the brain when we learn something new, why practice is important, and what strategies can help people learn more effectively. Use scientific language where appropriate.",
+    "timeLimit": 30,
+    "wordGuide": "Aim for 300-400 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Provides detailed, scientifically accurate information about brain function during learning. Addresses all three areas (brain processes, importance of practice, learning strategies) with depth and specific examples. Demonstrates genuine understanding of concepts like neural pathways, synapses, or neuroplasticity. Information is clearly explained for a general audience without oversimplification.",
+      "satisfactory": "Covers all three required areas with generally accurate information. Some scientific concepts are mentioned but may lack precise explanation. The report demonstrates a basic understanding of the topic. Information is adequate but could be more detailed.",
+      "developing": "Information is thin, inaccurate, or addresses only one area. Scientific concepts are absent or incorrect. The report may confuse learning with memorisation or provide vague generalisations without substance."
+    },
+    "structure": {
+      "excellent": "The report is expertly organised with an engaging introduction that frames the topic, well-structured body sections that address each area with clear topic sentences and supporting detail, and a conclusion that synthesises the information and leaves the reader with a meaningful takeaway. Subheadings are used effectively if present. Transitions between sections are smooth and logical.",
+      "satisfactory": "The report has a clear introduction, body, and conclusion. Paragraphs are present and mostly focused on one topic. Transitions exist but may be formulaic. The conclusion summarises the main points.",
+      "developing": "The report lacks clear organisation. Information is jumbled. No introduction or conclusion. Paragraphing is absent or illogical."
+    },
+    "language": {
+      "excellent": "Uses precise scientific terminology accurately and explains it clearly for the reader (e.g., 'neurons,' 'synapses,' 'neural pathways,' 'neuroplasticity,' 'myelin'). Complex ideas are communicated through well-constructed sentences, including complex and compound-complex structures. Analogies or comparisons may be used to make abstract concepts accessible. The tone is consistently authoritative and informative.",
+      "satisfactory": "Uses some scientific vocabulary but may not explain technical terms clearly. Sentences show variety. The tone is mostly formal and informative with occasional lapses into casual language.",
+      "developing": "No scientific vocabulary. Language is basic and informal. Complex ideas are not adequately explained. The tone is inconsistent."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate throughout, including all scientific terms. Punctuation is correct, including in complex sentences. Grammar is consistently sound. Writing is neat and legible.",
+      "satisfactory": "Most words are spelt correctly with some errors on scientific terms. Basic punctuation is mostly accurate. Minor grammatical errors.",
+      "developing": "Frequent spelling errors across common and scientific vocabulary. Punctuation is often incorrect. Grammatical errors affect comprehension."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The human brain is often described as the most complex organ in the known universe, containing approximately eighty-six billion neurons. Yet one of its most remarkable features is not its size or its speed, but its ability to change — a property scientists call neuroplasticity. Understanding how the brain learns new skills can help us become more effective learners at any age.\n\nWhat Happens When We Learn\n\nWhen a person learns a new skill — whether it is playing the piano, solving a maths problem, or riding a bicycle — their brain forms new connections between neurons. These connections, called synapses, act as pathways through which electrical signals travel. The first time we attempt a new task, the neural pathway is weak and unreliable, which is why beginners make frequent mistakes. With repetition, however, the pathway strengthens.\n\nA substance called myelin plays a crucial role in this process. Myelin is a fatty coating that wraps around the nerve fibres used in a particular skill, much like insulation around an electrical wire. The more we practise, the thicker the myelin coating becomes, and the faster and more accurately signals travel along the pathway. This is why a pianist who has practised for years can play without consciously thinking about each note.\n\nWhy Practice Matters\n\nPractice is not merely repetition — it is the process by which the brain physically restructures itself. Research has shown that focused, deliberate practice is more effective than passive repetition. This means that practising difficult sections of a piece of music, for example, strengthens neural pathways more than playing the easy parts over and over. The brain responds most powerfully to challenge and effort.\n\nStrategies for Effective Learning\n\nScientific research suggests several strategies that enhance learning. Spaced repetition — revisiting material at increasing intervals — helps transfer knowledge from short-term to long-term memory. Sleep is also vital, as the brain consolidates new learning during deep sleep stages. Teaching a concept to someone else forces the brain to organise and clarify information, deepening understanding. Finally, physical exercise increases blood flow to the brain and promotes the growth of new neurons in the hippocampus, the brain region associated with memory.\n\nThe brain's capacity to learn and adapt throughout life is one of humanity's greatest advantages. By understanding the science behind learning, we can harness our brain's extraordinary potential more effectively.",
+      "annotations": "This is an excellent information report for Year 6 that demonstrates a sophisticated understanding of neuroscience concepts communicated in an accessible way. All three required areas are covered in depth with dedicated sections. The scientific vocabulary is precise and accurately used — 'neuroplasticity,' 'synapses,' 'myelin,' 'hippocampus,' 'spaced repetition' — and each term is clearly explained for the reader, often through effective analogies (myelin as insulation around an electrical wire). The report maintains an authoritative yet engaging tone throughout. The learning strategies section is particularly strong, providing four specific, evidence-based techniques rather than vague advice. The structure is exemplary with an introduction that frames the topic compellingly, well-organised body paragraphs, and a conclusion that broadens the scope to a meaningful takeaway."
+    },
+    {
+      "level": "satisfactory",
+      "text": "The brain is an amazing organ that controls everything we do. One of its most important jobs is helping us learn new things. This report explains how the brain learns, why practice is important, and how we can learn better.\n\nWhen we learn something new our brain makes new connections between brain cells called neurons. These connections are like pathways in the brain. At first the pathways are weak which is why new things feel hard. But the more we do something the stronger the pathways get and the easier it becomes.\n\nPractice is very important for learning because it strengthens the connections in our brain. When we practise something over and over the brain gets better at sending signals along the right pathway. This is why athletes train every day and musicians practise their instruments for hours. Without practice the pathways can become weak again and we might forget what we learned.\n\nThere are some strategies that can help people learn more effectively. One strategy is to break learning into small chunks instead of trying to learn everything at once. Another strategy is to get enough sleep because the brain processes what we learned during sleep. Testing yourself on what you have learned is also helpful because it forces the brain to work harder. Finally eating healthy food and exercising can help the brain work better.\n\nIn conclusion the human brain is designed to learn new things throughout our lives. By understanding how the brain works and using good learning strategies we can all become better learners.\n\nThe brain really is the most important organ we have.",
+      "annotations": "This response meets the satisfactory standard for Year 6. It covers all three required areas and the information about neural pathways and the importance of practice is generally accurate. The structure is clear with distinct sections for each topic area. However, the scientific language is limited — the report mentions 'neurons' and 'pathways' but does not include more specific terminology like 'synapses,' 'myelin,' or 'neuroplasticity' that would demonstrate deeper understanding. The explanations are somewhat surface-level; for instance, saying 'the brain processes what we learned during sleep' could be more specific about memory consolidation. Several commas are missing after introductory clauses throughout the piece. The learning strategies section lists four techniques but each could be elaborated with more detail or examples. The final line adds little to the conclusion and feels redundant."
+    }
+  ]
+}

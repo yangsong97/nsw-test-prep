@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 1
+  },
+  "prompt": {
+    "id": "oc-y2-writing-t1",
+    "type": "narrative",
+    "text": "Write a story about a child who finds a tiny door hidden behind a bookshelf. What is on the other side? What happens when the child goes through the door?",
+    "timeLimit": 15,
+    "wordGuide": "Aim for 100-150 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a creative and imaginative scenario with original details about what is behind the door. Events are clearly connected to the prompt and show thoughtful invention beyond the obvious.",
+      "satisfactory": "The story responds to the prompt with a recognisable scenario. Some imaginative details are present but ideas may be predictable or lack elaboration.",
+      "developing": "The story has limited connection to the prompt or provides very few details. Ideas may be unclear, repetitive, or copied from well-known stories without original thought."
+    },
+    "structure": {
+      "excellent": "The story has a clear beginning that sets the scene, a middle where the main event occurs, and a satisfying ending. Events follow a logical sequence that is easy to follow.",
+      "satisfactory": "The story has a recognisable beginning, middle, and end, though transitions between parts may be abrupt. The sequence of events mostly makes sense.",
+      "developing": "The story lacks a clear structure. It may jump between events without connection, or it may be missing a beginning, middle, or end."
+    },
+    "language": {
+      "excellent": "Uses interesting and varied vocabulary appropriate for Year 2. Sentences vary in length and type. Descriptive words help the reader picture the story.",
+      "satisfactory": "Uses mostly simple but appropriate vocabulary. Sentences are mostly similar in structure. Some descriptive words are used but description is limited.",
+      "developing": "Uses very basic or repetitive vocabulary. Sentences are short and follow the same pattern (e.g., 'I did... I did... I did...'). Little or no descriptive language."
+    },
+    "mechanics": {
+      "excellent": "Most words are spelt correctly, including common Year 2 words. Capital letters and full stops are used correctly in nearly all sentences. Writing is neat and legible.",
+      "satisfactory": "Common words are mostly spelt correctly with some errors on harder words. Capital letters and full stops are used in most sentences. Writing is generally readable.",
+      "developing": "Frequent spelling errors on common words. Capital letters and full stops are often missing or misplaced. Writing may be difficult to read due to poor letter formation."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "One rainy afternoon, Mia was reading her favourite book when she noticed something strange. Behind the big bookshelf in the lounge room, there was a tiny green door she had never seen before.\n\nMia pushed the bookshelf to the side and carefully opened the little door. A warm golden light spilled out. She crawled through and gasped. On the other side was a beautiful garden filled with flowers that glowed like lanterns. Butterflies with shimmering wings floated everywhere.\n\nA friendly hedgehog wearing a tiny hat waddled over to her. \"Welcome to the Glow Garden,\" he said with a bow. \"We have been waiting for a kind visitor.\"\n\nMia spent the afternoon playing with the garden creatures. When the sun began to set, she crawled back through the door and smiled. She knew she would visit again tomorrow.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 2. The story has a clear three-part structure: discovering the door, exploring the magical garden, and returning home with a promise to come back. The vocabulary is varied and vivid, with phrases like 'warm golden light spilled out' and 'flowers that glowed like lanterns' showing strong descriptive language. The inclusion of a speaking character (the hedgehog) adds creative depth, and the ending provides a satisfying sense of closure while leaving the story open for more adventures."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Tom found a small door behind the bookshelf in his room. He opened it and went inside. It was dark at first but then he saw a big cave. The cave had crystals on the walls and they were shiny.\n\nThere was a little dragon in the cave. The dragon was nice and it could talk. The dragon said hello and they played together. They played hide and seek in the cave.\n\nThen Tom went back through the door. He was happy he found the cave and the dragon. He told his mum about it but she did not believe him. Tom did not mind because he knew it was real.",
+      "annotations": "This response meets the satisfactory standard for Year 2. It follows the prompt and has a clear beginning, middle, and end. However, the language is quite simple and relies on basic sentence structures ('He opened it...', 'He saw...', 'They played...'). The description of the cave could be more vivid — for example, instead of 'they were shiny,' the writer could describe the colour or size of the crystals. The idea of the dragon is good but could be developed further with more specific details about its appearance or personality."
+    }
+  ]
+}

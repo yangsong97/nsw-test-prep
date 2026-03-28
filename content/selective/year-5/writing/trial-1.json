@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 1
+  },
+  "prompt": {
+    "id": "selective-y5-writing-t1",
+    "type": "narrative",
+    "text": "Write a story inspired by the following opening line: 'The old lighthouse had not shone its light for thirty years, but tonight, without warning, the beam cut through the fog.' Your story should explore who or what caused the light to turn on, and what happens as a result.",
+    "timeLimit": 25,
+    "wordGuide": "Aim for 250-350 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a highly original and compelling explanation for the lighthouse mystery. Characters are well-developed with clear motivations. The plot builds tension effectively and includes unexpected developments. Sensory details and atmospheric descriptions create a vivid sense of place.",
+      "satisfactory": "The story provides a reasonable explanation for the lighthouse event with some creative elements. Characters are present but may lack depth. The plot is coherent but follows a predictable trajectory. Some descriptive details are included but atmosphere could be stronger.",
+      "developing": "The story does not adequately explain the lighthouse mystery or the explanation is illogical. Characters are flat or absent. The plot lacks development or tension. Few descriptive details are used."
+    },
+    "structure": {
+      "excellent": "The narrative has a sophisticated structure with a strong orientation that builds atmosphere, a complication that escalates tension, and a resolution that feels earned and satisfying. Paragraphing is purposeful, with shifts in time, place, or focus clearly managed. Pacing is controlled — the writer knows when to slow down for effect and when to accelerate.",
+      "satisfactory": "The narrative has a clear orientation, complication, and resolution. Paragraphing is present and mostly logical. Pacing may be uneven, with some sections rushed and others overwritten. Transitions between events are mostly smooth.",
+      "developing": "The narrative structure is incomplete or confused. Events may be out of order. Paragraphing is absent or random. The story may end abruptly or lack a clear complication."
+    },
+    "language": {
+      "excellent": "Uses sophisticated vocabulary precisely and for effect. Sentence structures are deliberately varied — short sentences for tension, longer sentences for description. Figurative language (similes, metaphors, personification) is used effectively. Dialogue is natural and purposeful. A distinctive narrative voice is evident.",
+      "satisfactory": "Uses appropriate vocabulary with some effective word choices. Sentences show variety but may not be deliberately crafted for effect. Some figurative language is attempted. Dialogue is present but may not always sound natural. Voice is emerging.",
+      "developing": "Vocabulary is basic and lacks precision. Sentences are monotonous in structure. No figurative language. Dialogue, if present, is stilted. No clear narrative voice."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate across all words, including ambitious vocabulary. Punctuation is consistently correct, including dialogue punctuation, commas in complex sentences, and apostrophes for possession and contraction. Writing is neat and legible throughout.",
+      "satisfactory": "Most words are spelt correctly. Punctuation is generally accurate but may have errors in complex sentences or dialogue. Some inconsistencies with apostrophes.",
+      "developing": "Frequent spelling errors. Basic punctuation is often incorrect. Dialogue punctuation is absent or wrong. Multiple grammatical errors."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The old lighthouse had not shone its light for thirty years, but tonight, without warning, the beam cut through the fog.\n\nTwelve-year-old Nara pressed her face against the rain-streaked window and stared. The lighthouse on Morrow Point had been abandoned since before she was born. Her grandmother had told her stories about it — how the last keeper, a woman named Edith Calloway, had vanished one stormy night, leaving the lamp burning until the oil ran dry.\n\nNara pulled on her raincoat and stepped into the wild darkness. The wind tasted of salt and something older, something she could not name. She climbed the narrow path that clung to the cliff, her torch flickering against the sheets of rain. Above her, the great beam swept in slow, steady circles, as if the lighthouse itself were breathing.\n\nThe door was open. Not broken — open, as if someone had simply turned the handle and walked in. Nara crept up the spiral staircase, each iron step ringing beneath her boots. At the top, the lantern room blazed with golden light.\n\nBut there was no one there. The lamp burned with no oil, no electricity, no explanation. On the glass was a message, traced as if by a finger through the condensation: THANK YOU FOR COMING.\n\nNara's heart hammered. She turned slowly. In the corner, barely visible in the glow, sat a leather journal. She picked it up and opened it to the last entry, dated exactly thirty years ago tonight. The handwriting was hurried and desperate.\n\nI have found something beneath the lighthouse. It is not of this world. If the light returns, someone must come. Someone brave. Someone young enough to believe.\n\nNara closed the journal and looked down through the rain-blurred glass at the black ocean below. Whatever Edith Calloway had found, whatever had called her here tonight — it was waiting.\n\nShe took a deep breath, tucked the journal under her arm, and began to descend the stairs. Not away from the mystery, but towards it.",
+      "annotations": "This is an excellent narrative for Year 5. The writing demonstrates sophisticated craft across multiple dimensions. The atmosphere is powerfully established through sensory details ('the wind tasted of salt,' 'rain-streaked window,' 'each iron step ringing beneath her boots'). The plot builds tension masterfully, layering mystery upon mystery — the unexplained light, the open door, the message in condensation, the journal entry. The character of Nara is established economically through her actions rather than direct description, and her decision to go towards the mystery rather than away from it reveals courage and curiosity. The ending is deliberately open, which is a sophisticated narrative choice. Figurative language is used with restraint and precision ('as if the lighthouse itself were breathing'). The pacing alternates between atmospheric slow passages and moments of sharp tension."
+    },
+    {
+      "level": "satisfactory",
+      "text": "The old lighthouse had not shone its light for thirty years, but tonight, without warning, the beam cut through the fog.\n\nSam and his friend Marcus were camping on the beach when they saw the light. They could not believe it because everyone in town knew the lighthouse was shut down a long time ago.\n\n\"Should we go and check it out?\" Marcus asked.\n\n\"I don't know,\" said Sam. \"It's pretty creepy up there at night.\"\n\nBut they were too curious to stay away. They packed up their torches and walked along the beach towards the lighthouse. The waves crashed on the rocks and the wind was blowing hard. It took them about twenty minutes to reach the base of the lighthouse.\n\nThe door was unlocked so they went inside. It was dusty and there were cobwebs everywhere. They climbed the stairs to the top where the light was. When they got there they found an old man sitting in a chair next to the lamp. He was wearing overalls and had a long grey beard.\n\n\"Who are you?\" Sam asked.\n\nThe old man smiled. \"I'm the keeper,\" he said. \"I was the last one to work here before they closed it down. I came back tonight because there's a ship out there in the fog and I didn't want it to crash on the rocks.\"\n\nSam and Marcus looked out the window and saw a small fishing boat struggling in the waves. The light was guiding it safely past the rocks.\n\n\"You saved them,\" Marcus said.\n\nThe old man nodded. \"That's what lighthouses are for.\"\n\nIn the morning the boys went back to the lighthouse but the old man was gone. The light was off again. They told the people in town what happened but no one believed them.",
+      "annotations": "This response meets the satisfactory standard for Year 5. The story provides a clear explanation for the lighthouse mystery and follows a coherent plot with a beginning, middle, and end. Dialogue is used throughout and is generally punctuated correctly. However, the story follows a very predictable pattern and lacks the atmospheric tension that the prompt invites. The descriptions are functional rather than evocative — for example, 'it was dusty and there were cobwebs everywhere' is generic and could describe any abandoned building. The old man character, while logical, is a straightforward explanation that lacks mystery or surprise. The sentence structures are mostly simple or compound, with few complex sentences. The ending where 'no one believed them' is a common narrative trope. To improve, the writer could build more suspense before the reveal, use more sensory language to create atmosphere, and provide a more unexpected resolution."
+    }
+  ]
+}

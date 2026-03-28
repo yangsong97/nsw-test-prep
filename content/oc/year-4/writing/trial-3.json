@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 3
+  },
+  "prompt": {
+    "id": "oc-y4-writing-t3",
+    "type": "informational",
+    "text": "Write an information report about how natural disasters affect communities. Choose one type of natural disaster (such as bushfires, floods, or cyclones) and explain what causes it, how it affects people and the environment, and what communities can do to prepare.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 200-300 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Provides accurate and detailed information about the chosen natural disaster across all three areas (causes, effects, preparation). Includes specific facts, examples, or statistics that demonstrate strong knowledge. Information is well-researched and relevant to Australian contexts where appropriate.",
+      "satisfactory": "Covers all three areas with mostly accurate information, though details may be general rather than specific. Some facts are included but may lack depth. The information is relevant but not thoroughly developed.",
+      "developing": "Only one or two areas are addressed, or information is inaccurate or very superficial. The writer may confuse different types of natural disasters or provide opinions instead of facts."
+    },
+    "structure": {
+      "excellent": "The report has a clear introduction that names and defines the disaster, well-organised body paragraphs that each address a specific aspect (causes, effects, preparation), and a conclusion that summarises key points. Subheadings may be used effectively.",
+      "satisfactory": "The report has an introduction and covers the required content. Paragraphs are present but may not be clearly focused on one topic each. Information flow is mostly logical but some jumps occur.",
+      "developing": "The report lacks clear structure. Information about causes, effects, and preparation is mixed together. No introduction or conclusion. Paragraphing is absent."
+    },
+    "language": {
+      "excellent": "Uses precise, technical vocabulary related to the chosen disaster (e.g., 'debris,' 'evacuation,' 'infrastructure'). Sentences are varied in length and structure, including complex sentences with subordinate clauses. The tone is consistently formal and informative.",
+      "satisfactory": "Uses some topic-specific vocabulary alongside everyday language. Sentences show some variety. The tone is mostly informative but may include personal opinions or casual expressions.",
+      "developing": "Little or no technical vocabulary. Language is basic and may be more suited to a narrative. The tone is inconsistent and may include slang or very informal expressions."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate, including technical terms. Punctuation is correct throughout, including commas in lists and complex sentences. Writing is neat and legible. Any subheadings are correctly formatted.",
+      "satisfactory": "Most common words are spelt correctly. Some errors on technical terms. Basic punctuation is mostly correct. Writing is generally neat.",
+      "developing": "Frequent spelling errors. Punctuation is often incorrect or missing. Writing may be difficult to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Bushfires are one of the most dangerous natural disasters in Australia. Every year, thousands of hectares of land are destroyed by fire, and communities across the country must be prepared for the threat.\n\nWhat Causes Bushfires?\n\nBushfires are caused by a combination of hot weather, dry conditions, and strong winds. During summer, temperatures in Australia can reach over forty degrees Celsius, and the dry bush becomes like fuel waiting for a spark. Fires can be started by lightning strikes, fallen power lines, or unfortunately, by people who are careless or deliberately light fires.\n\nHow Bushfires Affect Communities\n\nBushfires can be devastating for both people and the environment. Homes, farms, and businesses can be destroyed in minutes. People may lose everything they own, and tragically, lives can be lost. Animals such as koalas, kangaroos, and birds often cannot escape fast-moving fires. The smoke from bushfires also causes poor air quality, which affects people's breathing, sometimes hundreds of kilometres away.\n\nThe environment suffers greatly as well. Forests that took decades to grow can be reduced to ash overnight. Soil is damaged, making it harder for plants to regrow, and waterways become polluted with ash and debris.\n\nHow Communities Can Prepare\n\nPreparation is essential for surviving bushfire season. Families should create a bushfire survival plan that includes where to go and what to take. Clearing leaves, branches, and dry grass from around homes reduces the risk of fire spreading to buildings. Communities should stay informed by checking the Rural Fire Service website and listening to emergency broadcasts.\n\nBushfires are a natural part of the Australian landscape, but with proper preparation and awareness, communities can reduce the damage and keep people safe.",
+      "annotations": "This is an excellent information report for Year 4. The writer addresses all three required areas with specific, accurate detail relevant to the Australian context. Technical vocabulary is used precisely ('hectares,' 'debris,' 'infrastructure' is implied through examples, 'Rural Fire Service'). The use of subheadings enhances the organisation and makes the report easy to navigate. The writing demonstrates sophisticated sentence structures including complex sentences ('Forests that took decades to grow can be reduced to ash overnight'). The conclusion effectively summarises the key message without simply repeating earlier points. The scope of effects discussed (people, animals, air quality, soil, waterways) shows comprehensive understanding."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Floods are a natural disaster that happens in Australia. This report will explain what causes floods, how they affect people and what we can do to get ready for them.\n\nFloods happen when there is too much rain and the water has nowhere to go. Rivers and creeks overflow and the water spreads across the land. Sometimes floods happen because of cyclones that bring lots of rain. Floods can also happen when dams overflow.\n\nWhen a flood happens it can cause a lot of damage. Houses can be flooded with dirty water and people have to leave their homes. Roads get covered with water so people cannot drive to work or school. Farmers can lose their crops and animals. The water can also carry rubbish and chemicals into rivers which is bad for fish and other animals.\n\nTo prepare for floods people should have an emergency kit with food, water, and a torch. They should know where the high ground is near their home. It is important to listen to the news for flood warnings and to never drive through flood water because it is very dangerous.\n\nFloods are serious but if people are prepared they can stay safe.",
+      "annotations": "This response meets the satisfactory standard for Year 4. It covers all three required areas and the information is generally accurate. The structure is clear with an introduction and separate paragraphs for each topic. However, the language could be more precise and varied — for example, 'too much rain' could be replaced with 'heavy or prolonged rainfall,' and 'nowhere to go' could be 'the ground is saturated and cannot absorb any more.' The report relies heavily on simple sentences and the connective 'and.' Adding more specific facts, such as examples of recent Australian floods or statistics about damage, would strengthen the content significantly. The conclusion is present but brief."
+    }
+  ]
+}

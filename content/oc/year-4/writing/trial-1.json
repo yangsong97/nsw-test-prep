@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 1
+  },
+  "prompt": {
+    "id": "oc-y4-writing-t1",
+    "type": "narrative",
+    "text": "Write a story about a student who accidentally brings a science experiment to life. The experiment escapes from the classroom, and the student must find it before anyone else does. What was the experiment? Where does it go? How does the student get it back?",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 200-300 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a highly creative and original experiment that comes to life. The plot is engaging with unexpected twists or humorous complications. The character's problem-solving is believable and clever. Sensory details bring the story to life.",
+      "satisfactory": "The story describes a recognisable experiment that comes to life with some creative details. The plot follows a predictable path but is engaging enough to hold the reader's interest. The character's actions make sense.",
+      "developing": "The experiment and plot are generic or underdeveloped. The story may lack a clear problem or resolution. Ideas are thin with few details to engage the reader."
+    },
+    "structure": {
+      "excellent": "The story has a compelling orientation that introduces character and setting, a well-paced complication with rising tension, and a satisfying resolution. Paragraphs are used effectively to organise different stages of the narrative. Transitions between scenes are smooth.",
+      "satisfactory": "The story has an orientation, complication, and resolution, though the pacing may be uneven. Paragraphs are used but some may be too long or not clearly focused. Transitions between scenes exist but may be abrupt.",
+      "developing": "The story is missing one or more narrative stages. Events are listed rather than developed. Paragraphing is absent or illogical. The story may end abruptly without resolution."
+    },
+    "language": {
+      "excellent": "Uses rich vocabulary including precise verbs and varied adjectives. Sentence structures are varied, including compound and complex sentences. Dialogue is natural and advances the plot. Figurative language such as similes may be used effectively.",
+      "satisfactory": "Uses appropriate vocabulary with some interesting word choices. Sentences show some variety but may rely on simple or compound structures. Dialogue may be present but could be more natural. Limited figurative language.",
+      "developing": "Vocabulary is basic and repetitive. Most sentences follow the same simple structure. No dialogue or figurative language. The writing lacks voice and personality."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate across common and more challenging words. Punctuation is correct, including speech marks for dialogue, commas in compound sentences, and apostrophes. Writing is neat and clearly legible.",
+      "satisfactory": "Most common words are spelt correctly. Basic punctuation is accurate but speech marks or commas may be used inconsistently. Some apostrophe errors. Writing is generally neat.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. Speech marks are absent despite dialogue. Writing may be difficult to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Zara never meant to bring the slime to life. It was supposed to be a simple science project — mix the ingredients, observe the reaction, write a report. But when she accidentally knocked a beaker of mysterious blue liquid into her slime mixture, something extraordinary happened.\n\nThe slime bubbled, stretched, and slowly rose from the tray. Two googly eyes popped open, and a wide gooey mouth formed across its face. Before Zara could react, the slime creature leapt off the desk and slithered towards the classroom door like a wobbly green pancake.\n\n\"Oh no,\" Zara whispered, her heart hammering. She grabbed her backpack and chased after it.\n\nThe slime creature was surprisingly fast. It oozed down the hallway, leaving a glittering trail behind it. It squeezed under the library door, slid across the canteen bench, and splattered through the playground gate. Zara followed the shimmering trail, apologising to confused teachers along the way.\n\nShe finally cornered it near the school vegetable garden. The creature had wrapped itself around a tomato plant and was happily absorbing water from the soil. It looked up at Zara with its googly eyes and made a soft squelching sound, almost like a purr.\n\n\"Come on, little guy,\" Zara said gently, holding out a plastic container. \"You can live in here. I promise I will look after you.\"\n\nThe slime creature wobbled for a moment, then slowly plopped into the container. Zara sealed the lid, poked some air holes, and tucked it into her bag.\n\nFrom that day on, Zara always double-checked which beaker she was using in science class. But she never regretted her accident — after all, how many people can say their best friend is a sentient blob of slime?",
+      "annotations": "This is an excellent narrative for Year 4. The story is highly creative, with the slime creature being a memorable and original character. The plot follows a clear narrative arc: orientation (the accidental creation), complication (the chase through the school), and resolution (befriending the creature). The language is particularly strong — verbs like 'oozed,' 'slithered,' and 'squelching' are precise and vivid, while the simile 'like a wobbly green pancake' adds humour. Dialogue is used effectively and punctuated correctly. The ending is satisfying with a humorous final line that gives the story voice and personality. Paragraphing is well-managed with each paragraph focused on a distinct scene."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Jake was making a robot for his science project. He was putting the last pieces together when the robot suddenly turned on by itself. Its eyes lit up and it started moving around the desk.\n\n\"Whoa!\" said Jake. The robot jumped off the desk and ran out of the classroom. Jake ran after it.\n\nThe robot was very fast. It went down the hallway and into the school office. The secretary screamed when she saw it. Jake said sorry and kept chasing it.\n\nThen the robot went outside to the oval. It was running around in circles on the grass. Jake tried to catch it but it kept dodging him. He was getting tired.\n\nJake had an idea. He remembered that the robot ran on batteries. He took the remote control out of his pocket and pressed the off button. The robot stopped moving and fell over on the grass.\n\nJake picked up the robot and took it back to class. His teacher said it was a very impressive project. Jake got an A but he decided to take the batteries out before the next science fair.\n\nIt was a crazy day but at least his project worked.",
+      "annotations": "This response meets the satisfactory standard for Year 4. The story has a clear structure with an orientation, complication, and resolution. The idea of using the remote control to stop the robot shows logical problem-solving. However, the language could be more descriptive — the robot's movements are described simply ('went down the hallway,' 'running around in circles') without vivid sensory details. The sentence structures are mostly simple, and the story would benefit from more compound or complex sentences. The secretary's reaction is mentioned but not developed, which is a missed opportunity for humour or tension. The ending wraps up the story but feels somewhat flat. Adding more specific details about the robot's appearance and more varied vocabulary would strengthen this piece significantly."
+    }
+  ]
+}

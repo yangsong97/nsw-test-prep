@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 2
+  },
+  "prompt": {
+    "id": "oc-y3-writing-t2",
+    "type": "persuasive",
+    "text": "Some people think that children should have no homework so they can play and relax after school. Others think homework helps children learn. Write a persuasive text explaining your opinion about whether primary school students should have homework.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 150-200 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Presents a strong, clear opinion supported by three or more well-developed reasons. Arguments are convincing and show awareness of the audience. May acknowledge the other side of the argument before countering it.",
+      "satisfactory": "States a clear opinion with two reasons that support it. Reasons are relevant but may not be fully explained or developed. The argument is straightforward but not strongly persuasive.",
+      "developing": "Opinion is vague or changes throughout the text. Only one weak reason is given, or reasons do not clearly support the stated opinion. The writing may be more of a recount than an argument."
+    },
+    "structure": {
+      "excellent": "Opens with a clear statement of position. Body paragraphs each present a separate reason with supporting detail. Concludes with a strong summary that reinforces the opinion. Persuasive connectives link ideas smoothly.",
+      "satisfactory": "Opens with an opinion statement. Reasons are presented but may not be in separate paragraphs. A conclusion is present but may simply repeat the opening. Some connectives are used.",
+      "developing": "No clear structure. The opinion may appear in the middle of the text or not at all. Reasons and conclusion are absent or muddled. No use of connectives to link ideas."
+    },
+    "language": {
+      "excellent": "Uses strong persuasive language including modal verbs ('should,' 'must'), emotive words, and rhetorical questions. Varies sentence structure between short punchy sentences and longer explanations. Tone is confident and appropriate.",
+      "satisfactory": "Uses some persuasive words like 'I think' and 'because.' Language is appropriate but lacks the variety and force of a strong argument. Most sentences follow similar patterns.",
+      "developing": "Language is flat and unpersuasive. The writer tells rather than argues. Repetitive sentence structures and limited vocabulary weaken the message."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate for most words. Sentences are correctly punctuated. Paragraphs are indented or clearly separated. Writing is neat and legible throughout.",
+      "satisfactory": "Most common words are spelt correctly. Basic punctuation is mostly accurate. Some paragraphing is attempted. Writing is generally readable.",
+      "developing": "Frequent spelling and punctuation errors. No paragraphing. Writing may be difficult to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "I strongly believe that primary school students should have a small amount of homework each week, but not too much. Here are my reasons.\n\nFirstly, homework helps children practise what they have learnt in class. If a student learns about multiplication on Monday, doing a few problems at home helps the knowledge stick in their brain. Without practice, it is easy to forget.\n\nSecondly, homework teaches children important life skills like time management and responsibility. When students have to finish a task by a certain day, they learn to plan ahead. These skills will help them when they are older.\n\nHowever, I understand that too much homework is not good. Children also need time to play sport, spend time with family, and simply relax. That is why I think homework should take no longer than twenty minutes a night.\n\nIn conclusion, a small amount of homework is helpful because it builds knowledge and teaches responsibility. Schools should give homework, but they must make sure students still have time to be children.",
+      "annotations": "This is an excellent persuasive text for Year 3. The writer takes a nuanced position (some homework but not too much) which shows sophisticated thinking. The argument is well-structured with persuasive connectives ('firstly,' 'secondly,' 'however,' 'in conclusion') guiding the reader through the reasoning. The writer acknowledges the counter-argument ('I understand that too much homework is not good') before presenting a balanced solution, which is an advanced persuasive technique. The language is confident with strong modal verbs ('should,' 'must') and specific examples like 'multiplication on Monday' that make the argument concrete and convincing."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I think that kids should not have homework. Homework is boring and takes up too much time.\n\nOne reason is that school is already long enough. We are at school from nine to three and that is six hours of learning. When we get home we should be allowed to play and have fun.\n\nAnother reason is that homework makes kids stressed. Some kids find it hard and they get upset. It is not fair if kids have to cry over homework.\n\nAlso I think we learn better when we are having fun. Playing with friends teaches us things too like sharing and teamwork.\n\nSo I think homework should be banned because kids need time to relax and play. School is for learning and home is for fun.",
+      "annotations": "This response is satisfactory for Year 3. It states a clear opinion and provides three reasons, which shows good structure. The connectives 'one reason,' 'another reason,' and 'also' help organise the argument. However, the persuasive language could be stronger — 'I think' is used repeatedly instead of more forceful phrases like 'I strongly believe' or 'it is clear that.' The opening reason that 'homework is boring' is an opinion presented without support. The argument would be more convincing if the writer addressed the other side — for instance, acknowledging that homework can help learning but arguing the downsides outweigh the benefits. The conclusion is present but somewhat simplistic."
+    }
+  ]
+}

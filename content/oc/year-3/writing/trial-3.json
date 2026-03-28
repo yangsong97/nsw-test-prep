@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 3
+  },
+  "prompt": {
+    "id": "oc-y3-writing-t3",
+    "type": "informational",
+    "text": "Write an information report about the water cycle. Explain what happens at each stage and why the water cycle is important for life on Earth.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 150-200 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Accurately explains the key stages of the water cycle (evaporation, condensation, precipitation) with clear detail. Includes a well-reasoned explanation of why the water cycle matters for living things. May include additional relevant facts.",
+      "satisfactory": "Covers the main stages of the water cycle with mostly accurate information. Some explanation of importance is included but may be brief or vague. Minor inaccuracies may be present.",
+      "developing": "Only one or two stages are mentioned, or the explanation is inaccurate. The importance of the water cycle is not addressed or is incorrect. Information is very thin."
+    },
+    "structure": {
+      "excellent": "The report has a clear introduction that states the topic, well-organised body paragraphs that address each stage and the importance of the water cycle, and a conclusion. Information flows logically from one stage to the next.",
+      "satisfactory": "The report has an introduction and covers the required content, but paragraphing may be inconsistent. The order of information is mostly logical but some jumps may occur.",
+      "developing": "The report lacks an introduction or any clear structure. Stages are presented out of order or mixed together. No paragraphing is attempted."
+    },
+    "language": {
+      "excellent": "Uses accurate scientific vocabulary (e.g., 'evaporation,' 'condensation,' 'precipitation,' 'water vapour'). Sentences are clear and varied in structure. The tone is consistently informative and impersonal.",
+      "satisfactory": "Uses some scientific vocabulary but may rely on everyday language to explain concepts. The tone is mostly informative but may include personal comments. Sentence variety is limited.",
+      "developing": "No scientific vocabulary is used. Concepts are explained in very basic or inaccurate terms. The writing reads more like a story than an information report."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate, including scientific terms. Correct use of capital letters, full stops, and commas. Writing is neat and legible.",
+      "satisfactory": "Common words are spelt correctly but scientific terms may have errors. Basic punctuation is mostly correct. Writing is readable.",
+      "developing": "Many spelling errors across common and scientific words. Punctuation is frequently incorrect or missing. Writing may be hard to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The water cycle is the journey that water takes as it moves from the Earth's surface to the sky and back again. It is a process that never stops and is essential for all life on our planet.\n\nThe first stage is evaporation. When the sun heats water in oceans, rivers, and lakes, the water turns into an invisible gas called water vapour. This vapour rises up into the atmosphere.\n\nThe next stage is condensation. As the water vapour rises higher, it cools down and turns back into tiny water droplets. These droplets group together to form clouds.\n\nThe third stage is precipitation. When the clouds become heavy with water, the droplets fall back to Earth as rain, snow, or hail. This water flows into rivers, lakes, and oceans, and the cycle starts all over again.\n\nThe water cycle is important because all living things need water to survive. Plants need rain to grow, animals need fresh water to drink, and humans use water every day for drinking, cooking, and washing. Without the water cycle, the Earth would have no fresh water at all.",
+      "annotations": "This is an excellent information report for Year 3. The writer demonstrates a strong understanding of the water cycle by clearly explaining all three main stages in the correct order. Scientific vocabulary is used accurately throughout ('evaporation,' 'water vapour,' 'atmosphere,' 'condensation,' 'precipitation'). Each stage is given its own paragraph, creating a logical and easy-to-follow structure. The importance of the water cycle is thoroughly explained with specific examples (plants, animals, humans). The tone remains consistently informative and the opening sentence provides a clear, concise definition of the topic."
+    },
+    {
+      "level": "satisfactory",
+      "text": "The water cycle is how water goes around and around on Earth. It is very important.\n\nFirst the sun heats up the water and it goes up into the sky. This is called evaporation. The water turns into a gas.\n\nThen the gas goes up high and it gets cold. It turns back into water and makes clouds. This part is called condensation.\n\nWhen the clouds get really full of water it rains. This is called precipitation. The rain goes into rivers and the ocean and then it starts again.\n\nThe water cycle is important because we need water. Plants and animals need water too. If there was no water cycle we would not have water to drink.\n\nThat is how the water cycle works.",
+      "annotations": "This response meets the satisfactory standard for Year 3. It covers all three stages of the water cycle in the correct order and names each stage correctly. However, the explanations could be more detailed — for example, the writer could explain that the gas is called 'water vapour' rather than just 'a gas.' The language is quite informal for a report, with phrases like 'goes around and around' and 'really full of water' instead of more precise scientific language. The section on importance is brief and could include more specific examples. The structure is clear with paragraphs for each stage, which is a strength, but the conclusion is very simple and could summarise the key points more effectively."
+    }
+  ]
+}

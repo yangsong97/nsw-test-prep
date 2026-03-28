@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 2
+  },
+  "prompt": {
+    "id": "selective-y5-writing-t2",
+    "type": "persuasive",
+    "text": "Some schools have introduced a rule that all students must wear the same plain school shoes — no brand names, no colours, no decorations. Write a persuasive essay arguing either for or against this rule. Consider different perspectives and use evidence to support your argument.",
+    "timeLimit": 25,
+    "wordGuide": "Aim for 250-350 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Presents a sophisticated argument with multiple well-developed reasons supported by specific evidence, examples, or logical reasoning. Effectively acknowledges and refutes counter-arguments. Shows awareness of different stakeholders (students, parents, teachers, families with financial pressures). Ideas demonstrate critical thinking beyond surface-level opinions.",
+      "satisfactory": "Presents a clear argument with two or three reasons. Some evidence or examples are provided but may lack specificity. A counter-argument may be acknowledged but not effectively refuted. Ideas are sound but could go deeper.",
+      "developing": "The argument relies on one weak reason or personal preference rather than logical reasoning. No evidence or examples. No acknowledgement of other perspectives. Ideas are shallow or undeveloped."
+    },
+    "structure": {
+      "excellent": "The essay has a commanding introduction that hooks the reader and clearly states the position. Body paragraphs are well-organised with topic sentences and supporting details. A counter-argument paragraph is included and effectively addressed. The conclusion is powerful and memorable, reinforcing the argument without simply repeating the introduction.",
+      "satisfactory": "The essay has an introduction, body paragraphs, and conclusion. Paragraphs mostly focus on one point each. The conclusion restates the position. Connectives are used to link ideas but may be repetitive.",
+      "developing": "The essay lacks clear paragraphing. The position may not be stated until partway through. No clear conclusion. Ideas are jumbled without logical progression."
+    },
+    "language": {
+      "excellent": "Uses a range of persuasive techniques including rhetorical questions, emotive language, inclusive language ('we,' 'our'), tricolon (groups of three), and formal register. Sentences are varied in type and length for rhetorical effect. The voice is authoritative and engaging.",
+      "satisfactory": "Uses some persuasive techniques but relies on 'I think' and 'I believe.' Register is mostly formal but inconsistent. Some sentence variety is present. Voice is present but not distinctive.",
+      "developing": "Language is informal and unpersuasive. No rhetorical devices. Sentences are monotonous. The writing lacks voice and conviction."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate throughout, including complex vocabulary. All punctuation is correct, including semicolons or colons if attempted. Grammar is consistently correct. Writing is neat and legible.",
+      "satisfactory": "Most words are spelt correctly. Basic punctuation is accurate. Some grammatical errors may be present but do not impede understanding.",
+      "developing": "Frequent spelling and punctuation errors. Grammatical errors make some sentences difficult to understand."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Every morning, thousands of students across Australia stand in front of their wardrobes agonising over one decision: which shoes to wear to school. Some choose the latest designer sneakers. Others wear whatever their family can afford. By the time the bell rings, an invisible line has already been drawn between the haves and the have-nots. It is time for this to stop.\n\nI strongly believe that all students should wear the same plain school shoes, and here is why.\n\nFirstly, uniform shoes remove a significant source of bullying and social pressure. Research consistently shows that visible markers of wealth — or the lack of it — contribute to exclusion in schools. When every student wears the same shoes, no one can be teased for having cheap footwear or pressured into begging their parents for expensive brands. The playing field becomes level.\n\nSecondly, a plain shoe rule eases the financial burden on families. A pair of branded sneakers can cost over two hundred dollars, while a standard school shoe typically costs far less and lasts longer. For families managing tight budgets, this difference is not trivial — it is the difference between stress and relief at the start of each school year.\n\nSome argue that uniform shoes suppress individual expression. This is a fair point, and self-expression matters. However, students have countless other ways to express themselves: through art, music, sport, writing, and the ideas they share in class. A pair of shoes is a thin foundation for personal identity.\n\nFinally, uniform shoes simplify the morning routine, reduce distractions in the classroom, and teach students that character matters more than appearance.\n\nSchools exist to educate, inspire, and equalise. A plain shoe rule may seem like a small change, but small changes can create a fairer, kinder school community for everyone. Our feet should carry us towards learning, not towards competition.",
+      "annotations": "This is an excellent persuasive essay for Year 5. The introduction immediately engages the reader with a relatable scenario before clearly stating the position. The argument is built on three strong pillars: reducing bullying, easing financial pressure, and simplifying routines. Each reason includes specific evidence or logical reasoning rather than vague claims. The counter-argument about self-expression is acknowledged respectfully and then effectively refuted with concrete alternatives. The language is sophisticated, employing rhetorical techniques including the tricolon in the penultimate paragraph, emotive language ('stress and relief'), and a powerful metaphorical closing line. The formal register is maintained throughout, and the voice is both authoritative and compassionate."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I believe that schools should not make students wear the same plain shoes. I think students should be allowed to choose their own shoes and here are my reasons.\n\nMy first reason is that students should be able to express themselves. School uniforms already make everyone look the same and shoes are one of the only ways to show your personality. If you take away shoe choice as well then students will feel like they have no freedom at all.\n\nMy second reason is that some shoes are more comfortable than others. Some students have wide feet or flat feet and they need special shoes that might not match the school rule. It is not fair to make someone wear shoes that hurt their feet just because of a rule.\n\nAlso different families have different budgets. Some families might already own good shoes and having to buy new plain ones would be a waste of money. The rule is supposed to save money but it could actually cost more for some people.\n\nSome people say plain shoes stop bullying about brands but I think bullying will just happen about something else instead like bags or lunch boxes. You cannot stop bullying by changing shoes.\n\nIn conclusion I think the plain shoe rule is unnecessary. Students should be trusted to make their own choices about what they wear on their feet. Schools should focus on more important things than shoes.\n\nThat is why I am against the plain shoe rule.",
+      "annotations": "This response meets the satisfactory standard for Year 5. The writer presents a clear opposing position with three distinct reasons and attempts to address a counter-argument, which shows structural awareness. However, the persuasive language relies heavily on 'I think' and 'I believe' rather than more sophisticated techniques like rhetorical questions or emotive language. The point about bullying shifting to other items is a strong argument but could be developed further with reasoning or evidence rather than simply stated. Several sentences lack commas where they are needed (e.g., before 'and' in compound sentences, after introductory clauses). The conclusion feels repetitive, restating the position three times in slightly different ways. To improve, the writer should vary their sentence openings, use more formal and forceful persuasive language, and develop each argument with more specific examples."
+    }
+  ]
+}

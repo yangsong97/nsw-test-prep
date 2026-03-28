@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 3
+  },
+  "prompt": {
+    "id": "oc-y2-writing-t3",
+    "type": "informational",
+    "text": "Think about your favourite animal. Write a report that explains what your favourite animal looks like, where it lives, what it eats, and one interesting fact about it.",
+    "timeLimit": 15,
+    "wordGuide": "Aim for 100-150 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Provides accurate and detailed information about the animal across all four areas (appearance, habitat, diet, interesting fact). Demonstrates genuine knowledge and includes specific details rather than vague statements.",
+      "satisfactory": "Covers most of the four areas requested in the prompt. Information is generally accurate but may lack specific details or include only obvious facts about the animal.",
+      "developing": "Covers only one or two areas from the prompt, or provides information that is inaccurate or very vague. May include personal opinions instead of factual information."
+    },
+    "structure": {
+      "excellent": "Information is clearly organised, with related facts grouped together. The report has an introduction that names the animal and a clear structure that addresses each area from the prompt in a logical order.",
+      "satisfactory": "The report names the animal and covers the required topics, but information may be jumbled. Some attempt at grouping related facts is evident.",
+      "developing": "Information is disorganised and presented randomly. It may be difficult to tell which topic the writer is addressing. There is no clear introduction or grouping of ideas."
+    },
+    "language": {
+      "excellent": "Uses factual and informative language appropriate for a report. Includes topic-specific vocabulary (e.g., 'habitat,' 'predator,' 'nocturnal'). Sentences vary in structure and length.",
+      "satisfactory": "Uses mostly appropriate language for a report, though it may slip into a personal or storytelling tone at times. Some topic vocabulary is used. Sentences are mostly simple.",
+      "developing": "Language is more suited to a story than a report. Very little or no topic-specific vocabulary is used. Sentences are repetitive and basic."
+    },
+    "mechanics": {
+      "excellent": "Most words are spelt correctly, including animal-related vocabulary. Capital letters and full stops are used correctly. Writing is neat and easy to read.",
+      "satisfactory": "Common words are mostly spelt correctly. Some errors on topic-specific words. Capital letters and full stops are used in most sentences.",
+      "developing": "Frequent spelling errors on common and topic words. Capital letters and full stops are often missing. Writing may be hard to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "My favourite animal is the bottlenose dolphin. Dolphins are one of the most interesting creatures in the ocean.\n\nBottlenose dolphins are grey on top and lighter underneath. They have a long nose called a snout and a curved fin on their back. They can grow up to four metres long.\n\nDolphins live in warm oceans all around the world. They are often seen near the coast of Australia. They swim together in groups called pods.\n\nDolphins eat fish and squid. They are very clever hunters and sometimes work together to catch their food.\n\nOne interesting fact about dolphins is that they sleep with one eye open. This is because only half of their brain sleeps at a time so they can watch for danger.\n\nDolphins are truly amazing animals.",
+      "annotations": "This is an excellent informational report for Year 2. The writer addresses all four areas from the prompt in a clear, organised manner, with each paragraph focusing on a specific topic. The vocabulary is strong, using terms like 'bottlenose,' 'snout,' and 'pods' to show genuine knowledge. The interesting fact about dolphins sleeping with one eye open is specific and well-explained rather than vague. The writing maintains an informative report tone throughout, avoiding personal storytelling, and the opening and closing sentences provide a clear framework for the report."
+    },
+    {
+      "level": "satisfactory",
+      "text": "My favourite animal is a koala. I love koalas because they are so cute and fluffy.\n\nKoalas are grey and they have big round ears and a black nose. They have sharp claws for climbing trees. They are not very big.\n\nKoalas live in Australia in eucalyptus trees. They like to sit in the trees all day.\n\nKoalas eat eucalyptus leaves. They eat a lot of leaves every day. The leaves are not very nice but koalas like them.\n\nAn interesting fact is that baby koalas are called joeys. They live in their mums pouch when they are little.\n\nKoalas are great animals.",
+      "annotations": "This response meets the satisfactory standard for Year 2. It covers all four required areas and is generally accurate. However, the language slips into a personal tone in the opening ('I love koalas because they are so cute') which is more suited to a narrative than a report. Details could be more specific — for example, instead of 'they are not very big,' the writer could mention their actual size. The phrase 'the leaves are not very nice but koalas like them' is conversational rather than factual. The interesting fact about joeys is good but could include more detail, such as how long they stay in the pouch. An apostrophe is missing in 'mums' (should be 'mum's')."
+    }
+  ]
+}

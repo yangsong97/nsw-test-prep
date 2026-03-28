@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 3
+  },
+  "prompt": {
+    "id": "selective-y5-writing-t3",
+    "type": "informational",
+    "text": "Write an information report about how ancient civilisations solved the problem of supplying clean water to their people. You may focus on one civilisation (such as Ancient Rome, Ancient Egypt, or the Indus Valley) or compare two. Explain the technologies they used, why clean water was important, and what we can learn from them today.",
+    "timeLimit": 25,
+    "wordGuide": "Aim for 250-350 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "Provides detailed, accurate information about the water systems of the chosen civilisation(s). Addresses all three areas (technologies, importance, modern lessons) with depth and specific examples. Demonstrates strong knowledge and includes facts that show genuine understanding rather than surface-level statements.",
+      "satisfactory": "Covers the three required areas with generally accurate information. Some specific details are included but the report may rely on general statements. Knowledge is adequate but not deeply developed.",
+      "developing": "Information is thin, inaccurate, or only addresses one of the three required areas. The report may confuse different civilisations or include fictional information presented as fact."
+    },
+    "structure": {
+      "excellent": "The report has a clear, engaging introduction that contextualises the topic. Body paragraphs are well-organised with each addressing a specific aspect. Subheadings may be used effectively. The conclusion draws connections between the past and present. Transitions between sections are smooth and logical.",
+      "satisfactory": "The report has an introduction, body, and conclusion. Paragraphs are present and mostly focused. The conclusion may be weak or simply restate the introduction. Transitions are present but could be smoother.",
+      "developing": "The report lacks clear organisation. No introduction or conclusion. Information is presented randomly without logical grouping."
+    },
+    "language": {
+      "excellent": "Uses precise, subject-specific vocabulary accurately (e.g., 'aqueduct,' 'sanitation,' 'irrigation,' 'infrastructure'). Sentences are varied and well-constructed, including complex sentences with relative clauses. The tone is consistently formal, objective, and authoritative.",
+      "satisfactory": "Uses some subject-specific vocabulary alongside general language. Sentences show some variety. The tone is mostly formal but may slip into casual language or personal opinion.",
+      "developing": "No subject-specific vocabulary. Language is basic and informal. The tone is more suited to a narrative than an information report."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate throughout, including technical and historical terms. Punctuation is consistently correct. Grammar is accurate. Writing is neat and legible.",
+      "satisfactory": "Most words are spelt correctly with some errors on technical terms. Basic punctuation is mostly accurate. Minor grammatical errors.",
+      "developing": "Frequent spelling errors. Punctuation is often incorrect. Grammatical errors impede readability."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Long before modern plumbing existed, ancient civilisations recognised that access to clean water was essential for survival. One of the most impressive examples of early water engineering comes from Ancient Rome, whose water supply systems were so advanced that some are still standing two thousand years later.\n\nRoman Water Technology\n\nThe Romans built an extensive network of aqueducts — stone channels that carried fresh water from mountain springs and rivers to cities and towns. These aqueducts used gravity to move water over long distances, sometimes stretching for hundreds of kilometres. The Aqua Appia, built in 312 BCE, was Rome's first aqueduct and ran mostly underground to protect the water from contamination.\n\nOnce the water reached the city, it flowed into public fountains, bathhouses, and the homes of wealthy citizens through lead and clay pipes. The Romans also built sophisticated sewage systems, including the Cloaca Maxima, one of the world's earliest sewage drains, which carried waste away from the city and into the Tiber River.\n\nWhy Clean Water Mattered\n\nThe Romans understood that contaminated water caused disease, even though they did not yet know about bacteria. Public bathhouses promoted hygiene, and the constant flow of fresh water through the city helped prevent the stagnation that breeds illness. At its peak, Rome's system delivered approximately one million cubic metres of water per day to a population of over one million people.\n\nLessons for Today\n\nAncient Rome's water systems remind us that infrastructure investment is crucial for public health. Many communities around the world still lack access to clean water, and the Roman approach — using gravity, natural sources, and careful engineering — offers principles that remain relevant. Modern engineers continue to study Roman aqueducts for inspiration in sustainable water management.\n\nThe ingenuity of the Romans proves that solving water challenges requires both technical skill and a commitment to the wellbeing of all citizens.",
+      "annotations": "This is an excellent information report for Year 5. The writer demonstrates strong knowledge of Roman water systems with specific, accurate details including named structures (Aqua Appia, Cloaca Maxima) and a quantified statistic about daily water delivery. All three required areas are covered in depth with dedicated sections. The subheadings enhance organisation and readability. The language is precise and authoritative, using subject-specific vocabulary accurately ('aqueducts,' 'contamination,' 'stagnation,' 'infrastructure'). The conclusion draws a thoughtful connection between ancient and modern water challenges rather than simply summarising. Complex sentence structures with relative clauses demonstrate sophisticated writing ability."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Ancient civilisations needed to find ways to get clean water to their people. This report is about how Ancient Egypt used the Nile River to supply water.\n\nThe Nile River was the most important thing in Ancient Egypt. It flowed through the middle of the country and provided water for drinking, farming, and washing. The Egyptians built canals and ditches to carry water from the Nile to their fields. This is called irrigation. They also invented a tool called a shaduf which was like a big lever with a bucket on one end that could scoop water from the river and pour it onto the land.\n\nClean water was important because the Egyptians needed it to grow food. Without water from the Nile the desert land would not grow anything. The Nile also flooded every year and left behind rich black soil that was perfect for farming. People also needed clean water to drink because dirty water could make them sick.\n\nWe can learn a lot from the Ancient Egyptians today. They showed that it is important to look after water sources and use them wisely. Many countries today have problems with water shortage and the Egyptian system of canals and irrigation could give us ideas about how to manage water better.\n\nIn conclusion the Ancient Egyptians were very clever at using the Nile River to supply water to their civilisation. Their technology was simple but effective and we can still learn from them today.",
+      "annotations": "This response meets the satisfactory standard for Year 5. It covers all three required areas and the information about Egyptian irrigation and the shaduf is accurate. The structure is clear with a recognisable introduction, body, and conclusion. However, the report could be strengthened in several ways. The language sometimes lacks precision — 'the most important thing' is vague, and 'very clever' is more suited to a narrative than an information report. The section on modern lessons is general rather than specific; mentioning a particular modern water challenge or technology that draws on ancient principles would be more convincing. Several commas are missing after introductory clauses ('Without water from the Nile' and 'In conclusion'). The conclusion largely repeats earlier statements rather than offering a fresh perspective."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 1
+  },
+  "prompt": {
+    "id": "oc-y3-writing-t1",
+    "type": "narrative",
+    "text": "Write a story about a day when everything went backwards. People walked backwards, clocks ticked backwards, and words came out in reverse. How did your character handle this strange day?",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 150-200 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story explores the 'backwards day' concept with original and creative details. Multiple examples of things going backwards are included, and the character's reactions are believable and engaging. The story goes beyond surface-level ideas to explore humorous or surprising consequences.",
+      "satisfactory": "The story uses the backwards concept with some creative details. At least two examples of things going backwards are included. The character reacts to the situation but responses may be predictable.",
+      "developing": "The story has limited engagement with the backwards concept. Only one example may be given, or the idea is mentioned but not developed. The character's response to the situation is unclear or absent."
+    },
+    "structure": {
+      "excellent": "The story has a strong opening that draws the reader in, a well-developed middle with rising tension or humour, and a satisfying ending that resolves the situation. Paragraphs are used to separate different parts of the story.",
+      "satisfactory": "The story has a clear beginning, middle, and end. Paragraphs may be attempted but not always used effectively. The ending resolves the story but may feel rushed.",
+      "developing": "The story lacks clear structure. Events may be listed without connection. Paragraphing is absent or random. The story may stop abruptly without resolution."
+    },
+    "language": {
+      "excellent": "Uses vivid vocabulary and varied sentence structures, including some compound sentences joined by conjunctions. Descriptive language helps the reader visualise the backwards world. Dialogue may be included and punctuated correctly.",
+      "satisfactory": "Uses appropriate vocabulary with some descriptive words. Sentences mostly begin the same way or follow similar patterns. Some attempt at varied language is evident.",
+      "developing": "Vocabulary is basic and repetitive. Sentences are all short and simple with the same structure. No descriptive or figurative language is used."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate for most words, including common Year 3 words. Sentences are correctly punctuated with capital letters, full stops, and correct use of commas in lists. Writing is neat and clearly legible.",
+      "satisfactory": "Most common words are spelt correctly. Capital letters and full stops are generally used but there may be some inconsistencies. Commas are attempted but not always correctly placed.",
+      "developing": "Many common words are misspelt. Capital letters and full stops are frequently missing. Little evidence of correct punctuation beyond basic full stops."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "When Liam woke up on Tuesday morning, something felt very wrong. His alarm clock was ticking backwards, counting down from twelve to one. He shrugged and got out of bed, but when he tried to walk to the bathroom, his legs carried him backwards instead.\n\n\"Mum, something weird is happening!\" he called out. But the words tumbled from his mouth in reverse and his mum just looked confused.\n\nAt school, everything was even stranger. The teacher wrote on the board from right to left, and lunch came before morning tea. When Liam tried to kick a football, it flew behind him instead of forward. His best friend Aiden laughed so hard he nearly fell over — backwards, of course.\n\nBy the afternoon, Liam decided to stop fighting it. He walked backwards to class, read his book from the last page to the first, and ate his sandwich starting with the crusts. It turned out that once you stopped worrying, a backwards day was actually quite fun.\n\nWhen he woke up on Wednesday, the clock ticked forwards again. Liam smiled. It was good to be normal, but he secretly hoped for another backwards day soon.",
+      "annotations": "This is an excellent narrative for Year 3. The story provides multiple creative examples of the backwards concept (alarm clock, walking, speech, writing, lunch order, football, reading, eating) rather than relying on just one or two. The character arc is strong — Liam moves from confusion to acceptance to enjoyment, which is a sophisticated narrative progression. Dialogue is included and correctly punctuated. The vocabulary is vivid ('tumbled from his mouth,' 'nearly fell over') and sentences vary between short and compound structures. The ending is satisfying and ties back to the opening, giving the story a complete feel."
+    },
+    {
+      "level": "satisfactory",
+      "text": "One morning Ruby woke up and everything was going backwards. She walked backwards to the kitchen and her cereal went back into the box when she tried to pour it.\n\nAt school it was very confusing. The teacher talked backwards and no one could understand her. Ruby tried to write her name but the letters came out the wrong way. She wrote YBUR instead of RUBY.\n\nAt lunchtime the bell rang before they even started eating. Ruby and her friends had to eat really fast. Then they had to play before eating which was very confusing.\n\nAt the end of the day Ruby went home. She went to bed early because the backwards day made her tired. When she woke up the next day everything was normal again and she was happy.\n\nIt was a very strange day but Ruby was glad it was over.",
+      "annotations": "This response meets the satisfactory standard for Year 3. It addresses the prompt with several examples of backwards events and follows a clear chronological structure through the school day. However, the language is somewhat repetitive — many sentences begin with 'She' or 'Ruby' and follow similar patterns. The descriptions could be more vivid; for instance, instead of saying the day was 'very confusing,' the writer could show the confusion through a specific reaction or feeling. The ending resolves the story but is quite simple. Adding more of Ruby's emotions or a humorous moment would strengthen the piece and make the character more engaging."
+    }
+  ]
+}
