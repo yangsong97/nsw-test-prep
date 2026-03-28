@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-thinking-t1-q01",
+      "question": "What number comes next? 7, 10, 13, 16, ___",
+      "options": ["17", "18", "19", "20"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 10-7=3, 13-10=3, 16-13=3.\nStep 2: Each number goes up by 3.\nStep 3: 16 + 3 = 19.\nThe answer is 19.\nCommon mistake: Choosing 18 (adding 2 instead of 3) or 20 (adding 4)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q02",
+      "question": "Which picture is the mirror image of a capital letter 'F' reflected in a vertical mirror placed to its right?",
+      "options": ["F facing normally", "F reversed left-to-right", "F upside down", "F rotated 90 degrees"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A vertical mirror placed to the right of 'F' flips the letter left to right.\nStep 2: The horizontal lines of F that point to the right will now point to the left.\nStep 3: The vertical line stays but moves to the right side.\nThe answer is F reversed left-to-right.\nCommon mistake: Choosing F upside down (that would be a horizontal mirror, not vertical)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q03",
+      "question": "Tall is to height as heavy is to ___",
+      "options": ["Size", "Weight", "Length", "Volume"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 'Tall' describes something that has a lot of 'height'.\nStep 2: 'Heavy' describes something that has a lot of what?\nStep 3: Heavy describes something that has a lot of weight.\nThe answer is Weight.\nCommon mistake: Choosing Size (too general — weight is the specific measurement)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q04",
+      "question": "Look at this sequence of shapes: a circle with 1 dot inside, a circle with 2 dots inside, a circle with 3 dots inside. What comes next?",
+      "options": ["A circle with 3 dots inside", "A circle with 4 dots inside", "A circle with 5 dots inside", "A square with 4 dots inside"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The number of dots increases by 1 each time: 1, 2, 3.\nStep 2: The shape stays the same (circle).\nStep 3: Next is a circle with 4 dots.\nThe answer is a circle with 4 dots inside.\nCommon mistake: Choosing a square with 4 dots (changing the shape when only the dots change)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q05",
+      "question": "Which item does NOT belong in this group? Eagle, Sparrow, Penguin, Butterfly",
+      "options": ["Eagle", "Sparrow", "Penguin", "Butterfly"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Eagle, Sparrow, and Penguin are all birds.\nStep 2: A Butterfly is an insect, not a bird.\nStep 3: Butterfly does not belong.\nThe answer is Butterfly.\nCommon mistake: Choosing Penguin (because it cannot fly), but it is still a bird."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q06",
+      "question": "What number comes next? 2, 4, 8, 16, ___",
+      "options": ["20", "24", "28", "32"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 4÷2=2, 8÷4=2, 16÷8=2.\nStep 2: Each number is doubled (×2).\nStep 3: 16 × 2 = 32.\nThe answer is 32.\nCommon mistake: Choosing 24 (adding 8 instead of doubling)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q07",
+      "question": "If you place a mirror below the letter 'T', what will the reflection look like?",
+      "options": ["T looks the same", "T is upside down — the horizontal bar is at the bottom", "T is reversed left to right", "T becomes an L shape"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A mirror placed below reflects vertically — what is on top appears at the bottom.\nStep 2: The horizontal bar of T is at the top.\nStep 3: In the reflection, the horizontal bar will be at the bottom, like an upside-down T.\nThe answer is T upside down with the bar at the bottom.\nCommon mistake: Choosing 'T looks the same' (T is NOT symmetrical top-to-bottom)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q08",
+      "question": "Paw is to dog as hoof is to ___",
+      "options": ["Cat", "Horse", "Bird", "Fish"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A paw is the foot of a dog.\nStep 2: A hoof is the foot of a horse.\nStep 3: The relationship is type of foot to the animal.\nThe answer is Horse.\nCommon mistake: Choosing Cat (cats also have paws, not hooves)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q09",
+      "question": "A sequence shows: a tree with no leaves, a tree with a few leaves, a tree with many leaves, a tree with flowers. What season does each picture represent in order?",
+      "options": ["Spring, Summer, Autumn, Winter", "Winter, Spring, Summer, Spring", "Autumn, Winter, Spring, Summer", "Summer, Autumn, Winter, Spring"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: No leaves = Winter (trees are bare).\nStep 2: A few leaves = Spring (leaves are growing).\nStep 3: Many leaves = Summer (full growth).\nStep 4: Flowers = Spring again or late Summer. But the sequence Winter→Spring→Summer→Spring makes the most sense for the cycle shown.\nThe answer is Winter, Spring, Summer, Spring.\nCommon mistake: Choosing Autumn, Winter, Spring, Summer (the bare tree is more likely Winter than Autumn)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q10",
+      "question": "Which item does NOT belong? Violin, Flute, Drum, Trumpet",
+      "options": ["Violin", "Flute", "Drum", "Trumpet"],
+      "answer": 2,
+      "topic": "classification",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Violin is a string instrument. Flute and Trumpet are wind instruments you blow into.\nStep 2: Actually, Violin, Flute, and Trumpet all produce musical notes by playing a melody. A Drum produces beats, not melody notes.\nStep 3: More precisely: Violin, Flute, and Trumpet can all play tunes. Drum only keeps rhythm.\nThe answer is Drum.\nCommon mistake: Choosing Violin (because you use a bow, not blowing), but the main difference is melody vs rhythm."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q11",
+      "question": "What number comes next? 5, 8, 11, 14, 17, ___",
+      "options": ["18", "19", "20", "21"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 8-5=3, 11-8=3, 14-11=3, 17-14=3.\nStep 2: Each number goes up by 3.\nStep 3: 17 + 3 = 20.\nThe answer is 20.\nCommon mistake: Choosing 19 (adding 2) or 21 (adding 4)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q12",
+      "question": "The word 'BED' is reflected in a vertical mirror placed to its right. Which option shows the correct reflection?",
+      "options": ["BED (unchanged)", "DEB (reversed order, normal letters)", "BED with each letter reversed left-to-right", "DEB with each letter reversed left-to-right"],
+      "answer": 3,
+      "topic": "mirror-images",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A vertical mirror reverses everything left to right.\nStep 2: The order of letters reverses: B-E-D becomes D-E-B reading from left to right.\nStep 3: Each individual letter is also reversed left-to-right.\nThe answer is DEB with each letter reversed.\nCommon mistake: Choosing 'DEB normal letters' (forgetting that individual letters also get reversed)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q13",
+      "question": "Crust is to bread as shell is to ___",
+      "options": ["Beach", "Egg", "Ocean", "Sand"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The crust is the hard outer layer of bread.\nStep 2: A shell is the hard outer layer of an egg.\nStep 3: The relationship is outer layer to the thing it covers.\nThe answer is Egg.\nCommon mistake: Choosing Beach (shells are found on beaches, but the analogy is about covering)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q14",
+      "question": "A sequence of pictures shows: (1) a caterpillar, (2) a chrysalis, (3) a butterfly emerging, (4) ___. What comes next?",
+      "options": ["A caterpillar again", "A butterfly flying with full wings", "An egg", "A cocoon"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: This shows the life cycle of a butterfly.\nStep 2: Caterpillar → Chrysalis → Butterfly emerging → Butterfly fully formed and flying.\nStep 3: The next step after emerging is a butterfly flying with full wings.\nThe answer is A butterfly flying with full wings.\nCommon mistake: Choosing An egg (that would come before the caterpillar in the full cycle, not after emerging)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q15",
+      "question": "Which item does NOT belong? Mars, Jupiter, Saturn, Moon",
+      "options": ["Mars", "Jupiter", "Saturn", "Moon"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Mars, Jupiter, and Saturn are all planets in our solar system.\nStep 2: The Moon is not a planet — it is a natural satellite.\nStep 3: Moon does not belong.\nThe answer is Moon.\nCommon mistake: Choosing Mars (because it is smaller), but it is still a planet."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q16",
+      "question": "What number comes next? 1, 3, 9, 27, ___",
+      "options": ["30", "54", "72", "81"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 3÷1=3, 9÷3=3, 27÷9=3.\nStep 2: Each number is multiplied by 3.\nStep 3: 27 × 3 = 81.\nThe answer is 81.\nCommon mistake: Choosing 54 (multiplying by 2 instead of 3) or 30 (adding 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q17",
+      "question": "An arrow is pointing to the right (→). If you place a mirror directly above the arrow, what direction does the reflected arrow point?",
+      "options": ["Left (←)", "Right (→)", "Up (↑)", "Down (↓)"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A mirror placed above the arrow creates a vertical reflection.\nStep 2: A vertical reflection (mirror above) flips top and bottom, but does NOT change left and right.\nStep 3: The arrow still points to the right.\nThe answer is Right (→).\nCommon mistake: Choosing Left (confusing vertical and horizontal reflections)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q18",
+      "question": "Author is to book as composer is to ___",
+      "options": ["Piano", "Song", "Singer", "Orchestra"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: An author creates (writes) a book.\nStep 2: A composer creates (writes) a song or piece of music.\nStep 3: The relationship is creator to creation.\nThe answer is Song.\nCommon mistake: Choosing Piano (a tool used, not what is created)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q19",
+      "question": "A picture sequence shows: a glass that is empty, a glass that is one-quarter full, a glass that is half full, a glass that is three-quarters full. What comes next?",
+      "options": ["A glass that is half full", "A glass that is completely full", "An empty glass", "A glass that is overflowing"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The glass is being filled: 0, 1/4, 1/2, 3/4.\nStep 2: Each step adds one quarter.\nStep 3: After three-quarters, the next step is completely full (4/4).\nThe answer is A glass that is completely full.\nCommon mistake: Choosing overflowing (the logical next step is simply full, not overfull)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q20",
+      "question": "Which item does NOT belong? Whale, Dolphin, Shark, Seal",
+      "options": ["Whale", "Dolphin", "Shark", "Seal"],
+      "answer": 2,
+      "topic": "classification",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Whale, Dolphin, and Seal are all mammals (they breathe air and feed their young milk).\nStep 2: Shark is a fish, not a mammal.\nStep 3: Shark does not belong.\nThe answer is Shark.\nCommon mistake: Choosing Seal (because it lives on land too), but it is still a mammal like whales and dolphins."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q21",
+      "question": "What number comes next? 2, 6, 12, 20, 30, ___",
+      "options": ["36", "40", "42", "44"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 6-2=4, 12-6=6, 20-12=8, 30-20=10.\nStep 2: The differences increase by 2 each time: 4, 6, 8, 10.\nStep 3: The next difference is 12. So 30 + 12 = 42.\nThe answer is 42.\nCommon mistake: Choosing 40 (adding 10 again instead of 12)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q22",
+      "question": "A capital letter 'P' is reflected in a horizontal mirror placed below it, and then the reflection is reflected in a vertical mirror placed to its right. What does the final image look like?",
+      "options": ["A normal P", "P reversed left-to-right (like a q shape)", "P upside down", "P reversed and upside down (like a d shape)"],
+      "answer": 3,
+      "topic": "mirror-images",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with P. Reflect in a horizontal mirror below → the P flips upside down (bump on the bottom-left).\nStep 2: Now reflect that in a vertical mirror to the right → it flips left-to-right.\nStep 3: The result is a P that is both upside down AND reversed — it looks like a lowercase 'd' shape.\nThe answer is P reversed and upside down (like a d shape).\nCommon mistake: Choosing P reversed left-to-right only (forgetting the first horizontal reflection)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q23",
+      "question": "Steering wheel is to car as handlebars are to ___",
+      "options": ["Motorbike", "Wheel", "Road", "Engine"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A steering wheel is used to steer a car.\nStep 2: Handlebars are used to steer a motorbike (or bicycle).\nStep 3: The relationship is steering mechanism to vehicle.\nThe answer is Motorbike.\nCommon mistake: Choosing Wheel (handlebars are connected to a wheel, but the analogy is about the vehicle controlled)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q24",
+      "question": "A picture sequence shows the following clock times: 3:00, 4:30, 6:00, 7:30. What time comes next?",
+      "options": ["8:00", "8:30", "9:00", "9:30"],
+      "answer": 2,
+      "topic": "sequencing",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the pattern in times: 3:00 → 4:30 (add 1 hour 30 minutes).\nStep 2: 4:30 → 6:00 (add 1 hour 30 minutes). 6:00 → 7:30 (add 1 hour 30 minutes).\nStep 3: 7:30 + 1 hour 30 minutes = 9:00.\nThe answer is 9:00.\nCommon mistake: Choosing 8:30 (adding only 1 hour) or 9:30 (adding 2 hours)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q25",
+      "question": "Which item does NOT belong? Oxygen, Nitrogen, Carbon, Water",
+      "options": ["Oxygen", "Nitrogen", "Carbon", "Water"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Oxygen, Nitrogen, and Carbon are all chemical elements.\nStep 2: Water is a compound (made of hydrogen and oxygen), not an element.\nStep 3: Water does not belong.\nThe answer is Water.\nCommon mistake: Choosing Carbon (because it is a solid), but it is still an element."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q26",
+      "question": "What number comes next? 1, 1, 2, 3, 5, 8, ___",
+      "options": ["10", "11", "12", "13"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Look at the pattern: 1+1=2, 1+2=3, 2+3=5, 3+5=8.\nStep 2: Each number is the sum of the two numbers before it.\nStep 3: 5 + 8 = 13.\nThe answer is 13.\nCommon mistake: Choosing 11 (adding 3 to 8) or 12 (seeing a +4 pattern from 8)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q27",
+      "question": "Which letter looks exactly the same when reflected in a vertical mirror? Consider: A, B, F, G",
+      "options": ["A", "B", "F", "G"],
+      "answer": 0,
+      "topic": "mirror-images",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A vertical mirror flips left to right.\nStep 2: A: symmetrical left-to-right — looks the same. B: the bumps would flip to the left side — different. F: the lines would flip to the left — different. G: the opening would flip — different.\nStep 3: Only A is symmetrical left-to-right.\nThe answer is A.\nCommon mistake: Choosing B (B looks symmetrical but only top-to-bottom, not left-to-right in standard fonts)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q28",
+      "question": "Captain is to ship as pilot is to ___",
+      "options": ["Car", "Aeroplane", "Train", "Bicycle"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A captain commands and steers a ship.\nStep 2: A pilot commands and steers an aeroplane.\nStep 3: The relationship is person in charge to their vehicle.\nThe answer is Aeroplane.\nCommon mistake: Choosing Car (a car driver is not called a pilot)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q29",
+      "question": "A sequence shows shapes getting smaller and changing colour: large red hexagon, medium orange pentagon, small yellow square. If the pattern continues, what comes next?",
+      "options": ["Tiny green triangle", "Large blue circle", "Medium red hexagon", "Small orange pentagon"],
+      "answer": 0,
+      "topic": "sequencing",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Size decreases: large → medium → small → tiny (even smaller).\nStep 2: Colour follows the rainbow: red → orange → yellow → green.\nStep 3: Number of sides decreases: hexagon (6) → pentagon (5) → square (4) → triangle (3).\nStep 4: Next is: tiny, green, triangle.\nThe answer is Tiny green triangle.\nCommon mistake: Choosing Large blue circle (restarting the sequence instead of continuing the shrinking pattern)."
+    },
+    {
+      "id": "oc-y3-thinking-t1-q30",
+      "question": "Which item does NOT belong in this group? Addition (+), Subtraction (−), Multiplication (×), Equals (=)",
+      "options": ["Addition (+)", "Subtraction (−)", "Multiplication (×)", "Equals (=)"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Addition, Subtraction, and Multiplication are all mathematical operations (they do something to numbers).\nStep 2: Equals (=) is not an operation — it shows that two sides are the same.\nStep 3: Equals does not belong with the operations.\nThe answer is Equals (=).\nCommon mistake: Choosing Multiplication (because it uses a different symbol), but it is still an operation like addition and subtraction."
+    }
+  ]
+}

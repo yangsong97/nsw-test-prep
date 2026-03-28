@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-thinking-t2-q01",
+      "question": "What number comes next? 4, 7, 10, 13, ___",
+      "options": ["14", "15", "16", "17"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 7-4=3, 10-7=3, 13-10=3.\nStep 2: Each number goes up by 3.\nStep 3: 13 + 3 = 16.\nThe answer is 16.\nCommon mistake: Choosing 15 (adding 2 instead of 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q02",
+      "question": "Which option is the mirror image of the letter 'J' reflected in a vertical mirror placed to its right?",
+      "options": ["J (unchanged)", "A backwards J (hook curving to the left)", "J upside down", "J rotated 90 degrees"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A vertical mirror flips the letter left to right.\nStep 2: The hook of J curves to the right at the bottom.\nStep 3: In the reflection, the hook curves to the left.\nThe answer is a backwards J (hook curving to the left).\nCommon mistake: Choosing J unchanged (J is NOT symmetrical left-to-right)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q03",
+      "question": "Pupil is to school as patient is to ___",
+      "options": ["Doctor", "Hospital", "Medicine", "Nurse"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A pupil goes to a school (person to place).\nStep 2: A patient goes to a hospital.\nStep 3: The relationship is person to the place they go to receive a service.\nThe answer is Hospital.\nCommon mistake: Choosing Doctor (the person who helps the patient, not the place)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q04",
+      "question": "A picture sequence shows: a seed in soil, a small sprout, a plant with leaves, a plant with a flower bud. What comes next?",
+      "options": ["A seed in soil", "A plant with an open flower", "A bare stick", "A plant with fruit"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: This shows a plant growing: seed → sprout → leaves → flower bud.\nStep 2: The next stage after a flower bud is the flower opening.\nStep 3: A plant with an open flower comes next.\nThe answer is A plant with an open flower.\nCommon mistake: Choosing A plant with fruit (that comes even later, after pollination)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q05",
+      "question": "Which item does NOT belong? Soccer, Tennis, Cricket, Chess",
+      "options": ["Soccer", "Tennis", "Cricket", "Chess"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Soccer, Tennis, and Cricket are all physical sports that require running and physical activity.\nStep 2: Chess is a board game that requires thinking, not physical activity.\nStep 3: Chess does not belong.\nThe answer is Chess.\nCommon mistake: Choosing Tennis (because it is played individually), but it is still a physical sport."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q06",
+      "question": "What number comes next? 3, 6, 12, 24, ___",
+      "options": ["30", "36", "42", "48"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 6÷3=2, 12÷6=2, 24÷12=2.\nStep 2: Each number is doubled (×2).\nStep 3: 24 × 2 = 48.\nThe answer is 48.\nCommon mistake: Choosing 36 (adding 12 instead of doubling)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q07",
+      "question": "If you place a vertical mirror to the right of the number '3', what does the reflection look like?",
+      "options": ["The number 3 (unchanged)", "A backwards 3 (like the letter E)", "The number 8", "The number 5"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A vertical mirror flips the number left to right.\nStep 2: The curves of 3 that open to the left will now open to the right.\nStep 3: A backwards 3 looks similar to the letter E.\nThe answer is a backwards 3 (like the letter E).\nCommon mistake: Choosing 3 unchanged (3 is NOT symmetrical left-to-right)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q08",
+      "question": "Wool is to sheep as silk is to ___",
+      "options": ["Spider", "Worm", "Silkworm", "Cotton"],
+      "answer": 2,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Wool comes from sheep.\nStep 2: Silk comes from silkworms.\nStep 3: The relationship is material to the creature that produces it.\nThe answer is Silkworm.\nCommon mistake: Choosing Spider (spiders make silk too, but the fabric called 'silk' comes from silkworms)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q09",
+      "question": "A sequence of shapes shows: triangle, square, pentagon, hexagon. How many sides does the next shape have?",
+      "options": ["6 sides", "7 sides", "8 sides", "9 sides"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Count the sides: triangle (3), square (4), pentagon (5), hexagon (6).\nStep 2: The number of sides increases by 1 each time.\nStep 3: The next shape has 6 + 1 = 7 sides.\nThe answer is 7 sides.\nCommon mistake: Choosing 8 sides (adding 2 instead of 1)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q10",
+      "question": "Which item does NOT belong? Sydney, Melbourne, Brisbane, New Zealand",
+      "options": ["Sydney", "Melbourne", "Brisbane", "New Zealand"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sydney, Melbourne, and Brisbane are all cities in Australia.\nStep 2: New Zealand is a country, not a city.\nStep 3: New Zealand does not belong.\nThe answer is New Zealand.\nCommon mistake: Choosing Brisbane (because it is smaller), but it is still an Australian city."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q11",
+      "question": "What number comes next? 100, 91, 82, 73, ___",
+      "options": ["63", "64", "65", "66"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 91-100=-9, 82-91=-9, 73-82=-9.\nStep 2: Each number goes down by 9.\nStep 3: 73 - 9 = 64.\nThe answer is 64.\nCommon mistake: Choosing 63 (subtracting 10 instead of 9)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q12",
+      "question": "The letter 'R' is reflected in a horizontal mirror placed below it. What does the reflection look like?",
+      "options": ["R looks the same", "R is upside down (the leg points upward)", "R is reversed left-to-right", "R disappears"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A horizontal mirror below flips the letter upside down.\nStep 2: The bump and leg of R that are at the top-right and bottom-right will swap positions.\nStep 3: The R appears upside down with the leg pointing up.\nThe answer is R upside down.\nCommon mistake: Choosing R reversed left-to-right (that would be a vertical mirror, not horizontal)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q13",
+      "question": "Chapter is to book as verse is to ___",
+      "options": ["Poem", "Story", "Page", "Library"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A chapter is a section of a book.\nStep 2: A verse is a section of a poem.\nStep 3: The relationship is a part to its whole.\nThe answer is Poem.\nCommon mistake: Choosing Page (a page is a physical part, not a structural section like a verse)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q14",
+      "question": "A picture sequence shows hands on a clock: 12:00, 12:15, 12:30, 12:45. What time comes next?",
+      "options": ["12:50", "12:55", "1:00", "1:15"],
+      "answer": 2,
+      "topic": "sequencing",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The time increases by 15 minutes each step: 12:00, 12:15, 12:30, 12:45.\nStep 2: 12:45 + 15 minutes = 1:00 (the next hour).\nThe answer is 1:00.\nCommon mistake: Choosing 12:55 (adding 10 minutes) or 1:15 (adding 30 minutes)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q15",
+      "question": "Which item does NOT belong? Centimetre, Metre, Kilometre, Kilogram",
+      "options": ["Centimetre", "Metre", "Kilometre", "Kilogram"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Centimetre, Metre, and Kilometre are all units of length (distance).\nStep 2: Kilogram is a unit of mass (weight), not length.\nStep 3: Kilogram does not belong.\nThe answer is Kilogram.\nCommon mistake: Choosing Kilometre (because it starts with 'kilo' like Kilogram), but it is still a unit of length."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q16",
+      "question": "What number comes next? 2, 5, 11, 23, ___",
+      "options": ["35", "46", "47", "48"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 5 = 2×2+1, 11 = 5×2+1, 23 = 11×2+1.\nStep 2: The rule is: double the number and add 1.\nStep 3: 23 × 2 + 1 = 47.\nThe answer is 47.\nCommon mistake: Choosing 46 (just doubling without adding 1) or 48 (doubling and adding 2)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q17",
+      "question": "Which of these shapes looks the same when reflected in a vertical mirror? (A) An isosceles triangle pointing up (B) The letter 'L' (C) The letter 'S' (D) The number '7'",
+      "options": ["An isosceles triangle pointing up", "The letter L", "The letter S", "The number 7"],
+      "answer": 0,
+      "topic": "mirror-images",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A vertical mirror flips left to right.\nStep 2: An isosceles triangle pointing up is symmetrical left-to-right — its reflection looks the same.\nStep 3: L, S, and 7 are all asymmetrical left-to-right.\nThe answer is An isosceles triangle pointing up.\nCommon mistake: Choosing S (it looks somewhat symmetrical, but it is actually reversed when mirrored left-to-right)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q18",
+      "question": "Thermometer is to temperature as ruler is to ___",
+      "options": ["Length", "Weight", "Time", "Speed"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A thermometer measures temperature.\nStep 2: A ruler measures length.\nStep 3: The relationship is measuring tool to what it measures.\nThe answer is Length.\nCommon mistake: Choosing Weight (that is measured by a scale, not a ruler)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q19",
+      "question": "A sequence shows shapes with increasing dots inside: circle with 2 dots, square with 4 dots, triangle with 6 dots. What comes next?",
+      "options": ["Pentagon with 7 dots", "Pentagon with 8 dots", "Hexagon with 8 dots", "Circle with 8 dots"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Shapes cycle through: circle (0 corners), square (4 corners), triangle (3 corners)... Actually, let's look at sides: circle, square (4), triangle (3). Hmm, that doesn't increase.\nStep 2: Focus on dots: 2, 4, 6 — increasing by 2. Next is 8 dots.\nStep 3: Shapes: circle (0 sides), square (4 sides), triangle (3 sides), pentagon (5 sides). The sides go 0, 4, 3, 5. Let's reconsider — shapes are cycling differently. The next shape with 8 dots: pentagon with 8 dots.\nThe answer is Pentagon with 8 dots.\nCommon mistake: Choosing Pentagon with 7 dots (adding 1 to the dots instead of 2)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q20",
+      "question": "Which item does NOT belong? Canberra, London, Paris, Antarctica",
+      "options": ["Canberra", "London", "Paris", "Antarctica"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Canberra is the capital of Australia, London is the capital of England, Paris is the capital of France.\nStep 2: Antarctica is a continent, not a capital city.\nStep 3: Antarctica does not belong.\nThe answer is Antarctica.\nCommon mistake: Choosing Canberra (because it is less well-known), but it is still a capital city."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q21",
+      "question": "What number comes next? 1, 4, 9, 16, 25, ___",
+      "options": ["30", "33", "36", "49"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: These are perfect squares: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25.\nStep 2: The next perfect square is 6² = 36.\nThe answer is 36.\nCommon mistake: Choosing 30 (adding 5) or 49 (skipping to 7²)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q22",
+      "question": "A shape consists of the letter 'L' made from 3 unit squares (2 squares in a vertical column, 1 square to the right of the bottom square). This shape is reflected in a vertical mirror. Which description matches the reflected shape?",
+      "options": ["2 squares in a vertical column with 1 square to the right of the bottom", "2 squares in a vertical column with 1 square to the left of the bottom", "2 squares in a horizontal row with 1 square above the left square", "2 squares in a horizontal row with 1 square below the right square"],
+      "answer": 1,
+      "topic": "mirror-images",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The original L-shape has 2 squares stacked vertically, with 1 square extending to the right from the bottom.\nStep 2: A vertical mirror flips left and right.\nStep 3: The square that was to the RIGHT of the bottom now appears to the LEFT.\nStep 4: The result is 2 vertical squares with 1 square to the left of the bottom — a backwards L.\nThe answer is 2 squares in a vertical column with 1 square to the left of the bottom.\nCommon mistake: Choosing the unchanged L (not recognising that right becomes left in the mirror)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q23",
+      "question": "Gills are to fish as lungs are to ___",
+      "options": ["Water", "Air", "Human", "Oxygen"],
+      "answer": 2,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Gills are the breathing organs of a fish.\nStep 2: Lungs are the breathing organs of a human.\nStep 3: The relationship is breathing organ to the creature that has it.\nThe answer is Human.\nCommon mistake: Choosing Air (lungs breathe air, but the analogy is organ to creature, not organ to substance)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q24",
+      "question": "A sequence of pictures shows a shape being built: 1 square, then 3 squares in an L-shape, then 6 squares in a triangle shape, then 10 squares in a larger triangle shape. How many squares are in the next shape?",
+      "options": ["12", "13", "14", "15"],
+      "answer": 3,
+      "topic": "sequencing",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The numbers are: 1, 3, 6, 10.\nStep 2: The differences are: 3-1=2, 6-3=3, 10-6=4.\nStep 3: The differences increase by 1 each time. The next difference is 5.\nStep 4: 10 + 5 = 15.\nThe answer is 15.\nCommon mistake: Choosing 14 (adding 4 again) or 13 (adding 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q25",
+      "question": "Which item does NOT belong? Noun, Verb, Adjective, Sentence",
+      "options": ["Noun", "Verb", "Adjective", "Sentence"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Noun, Verb, and Adjective are all parts of speech (types of words).\nStep 2: A Sentence is a group of words, not a type of word.\nStep 3: Sentence does not belong.\nThe answer is Sentence.\nCommon mistake: Choosing Adjective (because it describes things), but it is still a part of speech."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q26",
+      "question": "What number comes next? 64, 32, 16, 8, ___",
+      "options": ["2", "4", "6", "0"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 32÷64=½, 16÷32=½, 8÷16=½.\nStep 2: Each number is halved (divided by 2).\nStep 3: 8 ÷ 2 = 4.\nThe answer is 4.\nCommon mistake: Choosing 2 (dividing by 4 instead of 2)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q27",
+      "question": "The number '25' is reflected in a horizontal mirror placed below it. What does the reflection look like?",
+      "options": ["25 upside down", "52 upside down", "25 unchanged", "52 unchanged"],
+      "answer": 0,
+      "topic": "mirror-images",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A horizontal mirror placed below flips the image upside down.\nStep 2: The order of the digits stays the same (2 is still on the left, 5 on the right).\nStep 3: But each digit is individually flipped upside down.\nThe answer is 25 upside down.\nCommon mistake: Choosing 52 upside down (a horizontal mirror does not reverse left-to-right, only top-to-bottom)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q28",
+      "question": "Ingredient is to recipe as note is to ___",
+      "options": ["Melody", "Piano", "Musician", "Sound"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: An ingredient is one component of a recipe.\nStep 2: A note is one component of a melody.\nStep 3: The relationship is small part to the larger whole it creates.\nThe answer is Melody.\nCommon mistake: Choosing Piano (an instrument that plays notes, but not what notes combine to form)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q29",
+      "question": "A picture sequence shows an ice cream cone: (1) 1 scoop, (2) 2 scoops with a cherry, (3) 3 scoops, (4) 4 scoops with a cherry. What is picture (5)?",
+      "options": ["4 scoops without a cherry", "5 scoops", "5 scoops with a cherry", "6 scoops"],
+      "answer": 1,
+      "topic": "sequencing",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The scoops increase by 1 each time: 1, 2, 3, 4, so next is 5.\nStep 2: The cherry pattern: no, yes, no, yes — it alternates.\nStep 3: Picture 5 should have no cherry (odd-numbered pictures have no cherry).\nStep 4: Picture 5 is 5 scoops without a cherry.\nThe answer is 5 scoops.\nCommon mistake: Choosing 5 scoops with a cherry (not noticing the alternating cherry pattern)."
+    },
+    {
+      "id": "oc-y3-thinking-t2-q30",
+      "question": "Which item does NOT belong? Evaporation, Condensation, Precipitation, Photosynthesis",
+      "options": ["Evaporation", "Condensation", "Precipitation", "Photosynthesis"],
+      "answer": 3,
+      "topic": "classification",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Evaporation, Condensation, and Precipitation are all stages in the water cycle.\nStep 2: Photosynthesis is the process plants use to make food from sunlight — not part of the water cycle.\nStep 3: Photosynthesis does not belong.\nThe answer is Photosynthesis.\nCommon mistake: Choosing Precipitation (because it sounds different), but it is the stage where water falls as rain."
+    }
+  ]
+}

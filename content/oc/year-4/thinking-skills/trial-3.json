@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-thinking-t3-q01",
+      "question": "What number comes next? 1, 4, 13, 40, ___",
+      "options": ["80", "100", "121", "130"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 4=1×3+1, 13=4×3+1, 40=13×3+1.\nStep 2: The rule is: multiply by 3 and add 1.\nStep 3: 40 × 3 + 1 = 121.\nThe answer is 121.\nCommon mistake: Choosing 130 (multiplying by 3 and adding 10)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q02",
+      "question": "An arrow pointing upward (↑) is rotated 135 degrees clockwise. Which direction does it now point?",
+      "options": ["Down-left (↙)", "Down-right (↘)", "Right (→)", "Up-left (↖)"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Start pointing up (↑). Rotating clockwise: 45° = up-right, 90° = right, 135° = down-right.\nStep 2: 135° clockwise from up lands halfway between right and down, which is down-right (↘).\nThe answer is Down-right (↘).\nCommon mistake: Choosing Down-left (confusing clockwise with anti-clockwise)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q03",
+      "question": "Decrease is to increase as shrink is to ___",
+      "options": ["Small", "Tiny", "Grow", "Reduce"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Decrease and increase are opposites.\nStep 2: Shrink (get smaller) is the opposite of grow (get larger).\nThe answer is Grow.\nCommon mistake: Choosing Small (describes the result of shrinking, not the opposite action)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q04",
+      "question": "In a 3×3 grid, the numbers increase by 2 across each row and by 3 down each column. Top row: 1, 3, 5. Middle row: 4, 6, 8. What is the bottom-right number?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Bottom row: first number = 4+3 = 7. Then 7, 9, 11 (adding 2 each time).\nStep 2: Check column 3: 5, 8, 11 (adding 3 each time). ✓\nThe answer is 11.\nCommon mistake: Choosing 10 (adding 2 to 8 instead of following the column rule)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q05",
+      "question": "If all cats have tails, and Fluffy has a tail, is Fluffy definitely a cat?",
+      "options": ["Yes, because all cats have tails", "No, other animals also have tails", "Yes, because Fluffy is a common cat name", "Cannot tell without more information"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We know: All cats have tails.\nStep 2: Fluffy has a tail. But many animals have tails (dogs, horses, etc.).\nStep 3: Having a tail does not mean Fluffy is a cat.\nThe answer is: No, other animals also have tails.\nCommon mistake: Choosing 'Yes' (confusing 'all cats have tails' with 'all things with tails are cats')."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q06",
+      "question": "What number comes next? 2, 3, 5, 8, 13, 21, ___",
+      "options": ["26", "29", "34", "42"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Look at the pattern: 2+3=5, 3+5=8, 5+8=13, 8+13=21.\nStep 2: Each number is the sum of the two before it (Fibonacci-like).\nStep 3: 13 + 21 = 34.\nThe answer is 34.\nCommon mistake: Choosing 29 (adding 8 instead of 13)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q07",
+      "question": "A square has a dot in each corner. If the square is rotated 90 degrees clockwise, where are the dots?",
+      "options": ["Still in each corner — the same positions", "Only on the left side", "Only on the top", "No dots visible"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The square has dots in ALL four corners.\nStep 2: When rotated 90° clockwise, each corner moves to the next corner position.\nStep 3: Since all corners had dots, all corners still have dots — the shape looks the same.\nThe answer is: Still in each corner.\nCommon mistake: Thinking the dots move to different positions (they do move, but since all corners had dots, the result looks identical)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q08",
+      "question": "Archipelago is to islands as constellation is to ___",
+      "options": ["Planets", "Stars", "Galaxies", "Moons"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: An archipelago is a group of islands.\nStep 2: A constellation is a group of stars.\nStep 3: The relationship is collective term to the individual items.\nThe answer is Stars.\nCommon mistake: Choosing Planets (planets are not grouped into constellations — stars are)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q09",
+      "question": "In a 3×3 grid, the shapes are: Row 1: ○ △ □. Row 2: □ ○ △. Row 3: △ □ ___. Each row and column contains all three shapes. What goes in the bottom-right?",
+      "options": ["○", "△", "□", "◇"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 has △ and □. Missing shape: ○.\nStep 2: Check column 3: □, △, ___. Missing shape: ○. ✓\nThe answer is ○.\nCommon mistake: Choosing △ (already in Row 3)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q10",
+      "question": "Lily is older than Rose. Rose is older than Daisy. Poppy is older than Lily. Who is the youngest?",
+      "options": ["Lily", "Rose", "Daisy", "Poppy"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Poppy > Lily > Rose > Daisy (from oldest to youngest).\nStep 2: Daisy is the youngest.\nThe answer is Daisy.\nCommon mistake: Choosing Rose (she is second youngest, not youngest)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q11",
+      "question": "What comes next? 3, 5, 9, 15, 23, ___",
+      "options": ["30", "31", "33", "35"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences: 5-3=2, 9-5=4, 15-9=6, 23-15=8.\nStep 2: The differences increase by 2: 2, 4, 6, 8.\nStep 3: The next difference is 10. So 23 + 10 = 33.\nThe answer is 33.\nCommon mistake: Choosing 31 (adding 8 again instead of 10)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q12",
+      "question": "A triangle has vertices labelled A (top), B (bottom-left), C (bottom-right). After rotating 120 degrees clockwise, which vertex is now at the top?",
+      "options": ["A", "B", "C", "None — the triangle is upside down"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: An equilateral triangle rotated 120° clockwise moves each vertex to the next position clockwise.\nStep 2: A (top) moves to where C was (bottom-right). C (bottom-right) moves to where B was (bottom-left). B (bottom-left) moves to where A was (top).\nStep 3: So B is now at the top.\nThe answer is B.\nCommon mistake: Choosing C (rotating in the wrong direction)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q13",
+      "question": "Diameter is to circle as diagonal is to ___",
+      "options": ["Triangle", "Square", "Line", "Angle"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A diameter is a line that goes across the widest part of a circle.\nStep 2: A diagonal is a line that goes across the widest part of a square (corner to corner).\nStep 3: The relationship is a special line to the shape it belongs to.\nThe answer is Square.\nCommon mistake: Choosing Triangle (triangles have sides and altitudes, but 'diagonal' specifically relates to polygons with 4+ sides)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q14",
+      "question": "In a 3×3 grid, each cell shows a face with different features. Across each row, the mouth changes: smile, neutral, frown. Down each column, the eyes change: open, half-open, closed. Row 1: open+smile, open+neutral, open+frown. Row 2: half-open+smile, half-open+neutral, half-open+frown. Row 3: closed+smile, closed+neutral, ___. What fills the blank?",
+      "options": ["Closed eyes with smile", "Open eyes with frown", "Closed eyes with frown", "Half-open eyes with frown"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 has closed eyes. The mouth changes: smile, neutral, ___.\nStep 2: The mouth pattern is: smile, neutral, frown.\nStep 3: The blank is closed eyes with frown.\nThe answer is Closed eyes with frown.\nCommon mistake: Choosing Half-open eyes with frown (wrong eye type for Row 3)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q15",
+      "question": "In a group of children: some play soccer, some play tennis, and some play both. If 15 play soccer, 10 play tennis, and 5 play both, how many children play at least one sport?",
+      "options": ["15", "20", "25", "30"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Using the inclusion-exclusion principle: Total = Soccer + Tennis - Both.\nStep 2: Total = 15 + 10 - 5 = 20.\nStep 3: 20 children play at least one sport.\nThe answer is 20.\nCommon mistake: Choosing 25 (adding all three numbers without subtracting the overlap)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q16",
+      "question": "What comes next? 1, 8, 27, 64, ___",
+      "options": ["100", "125", "216", "256"],
+      "answer": 1,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: These are cube numbers: 1³=1, 2³=8, 3³=27, 4³=64.\nStep 2: The next cube number is 5³ = 125.\nThe answer is 125.\nCommon mistake: Choosing 100 (5²=25 or 10²=100, confusing squares and cubes)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q17",
+      "question": "A shape is made of 4 unit squares in a straight horizontal line. If it is rotated 90° clockwise, what does it become?",
+      "options": ["4 squares in a straight vertical line", "4 squares in an L-shape", "4 squares in a T-shape", "4 squares in a horizontal line (unchanged)"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 4 squares in a horizontal line.\nStep 2: Rotating 90° clockwise turns horizontal into vertical.\nStep 3: The result is 4 squares in a straight vertical line.\nThe answer is 4 squares in a straight vertical line.\nCommon mistake: Choosing unchanged (a horizontal line becomes vertical when rotated 90°)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q18",
+      "question": "Migration is to birds as hibernation is to ___",
+      "options": ["Bears", "Summer", "Travel", "Sleep"],
+      "answer": 0,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Migration is a seasonal behaviour associated with birds.\nStep 2: Hibernation is a seasonal behaviour associated with bears.\nStep 3: The relationship is seasonal survival strategy to the animal known for it.\nThe answer is Bears.\nCommon mistake: Choosing Sleep (hibernation involves sleep-like states, but the analogy pairs behaviour with animal)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q19",
+      "question": "In a 3×3 grid, the number in each cell equals the sum of the cell directly above and the cell directly to its left (with 0 for cells outside the grid). Row 1: 1, 1, 1. Row 2: 1, 2, 3. Row 3: 1, ?, ___. What is the bottom-right number?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3, Column 1: given as 1.\nStep 2: Row 3, Column 2: cell above (Row 2, Col 2) = 2 + cell to left (Row 3, Col 1) = 1. So 2 + 1 = 3.\nStep 3: Row 3, Column 3: cell above (Row 2, Col 3) = 3 + cell to left (Row 3, Col 2) = 3. So 3 + 3 = 6.\nThe answer is 6.\nCommon mistake: Choosing 5 (adding wrong cells together)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q20",
+      "question": "Three friends each play a different instrument: piano, guitar, or drums. Aiden does not play piano or guitar. Blake does not play drums. Who plays piano?",
+      "options": ["Aiden", "Blake", "Charlie", "Cannot tell"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Aiden does not play piano or guitar. So Aiden plays drums.\nStep 2: Blake does not play drums. So Blake plays piano or guitar.\nStep 3: Charlie plays whatever Blake doesn't.\nStep 4: We don't know if Blake plays piano or guitar. So we cannot tell who plays piano.\nThe answer is Cannot tell.\nCommon mistake: Choosing Blake (we only know Blake doesn't play drums — could be piano or guitar)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q21",
+      "question": "What comes next? 4, 5, 8, 13, 20, 29, ___",
+      "options": ["38", "39", "40", "41"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 5-4=1, 8-5=3, 13-8=5, 20-13=7, 29-20=9.\nStep 2: The differences are odd numbers increasing by 2: 1, 3, 5, 7, 9.\nStep 3: The next difference is 11. So 29 + 11 = 40.\nThe answer is 40.\nCommon mistake: Choosing 38 (adding 9 again instead of 11)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q22",
+      "question": "A piece of paper is folded in half horizontally (bottom half folds up onto top half), then a circle is cut from the centre of the folded paper. When unfolded, how many holes are there?",
+      "options": ["1 hole in the centre", "2 holes, one in the top half and one in the bottom half", "1 hole, but it is oval", "4 holes"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The paper is folded horizontally — the bottom half folds up onto the top half.\nStep 2: A circle is cut from the centre. This cuts through both layers.\nStep 3: When unfolded, there is one hole in the top half and one hole in the bottom half. They are in the same horizontal position but at different vertical positions — one above the centre line and one below.\nThe answer is 2 holes, one in the top half and one in the bottom half.\nCommon mistake: Choosing 1 hole in the centre (forgetting that the fold creates two layers)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q23",
+      "question": "Compass is to direction as calendar is to ___",
+      "options": ["Time", "Date", "Year", "Month"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A compass tells you direction.\nStep 2: A calendar tells you the date.\nStep 3: The relationship is tool to what it measures or shows.\nThe answer is Date.\nCommon mistake: Choosing Time (a clock tells time; a calendar tells dates)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q24",
+      "question": "In a 3×3 grid, each cell has a letter and a number. The letters cycle A, B, C across rows. The numbers cycle 1, 2, 3 down columns. Row 1: A1, B1, C1. Row 2: A2, B2, C2. Row 3: A3, B3, ___. What fills the blank?",
+      "options": ["A3", "B3", "C3", "C1"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 letters: A, B, ___. The letter cycle is A, B, C. Missing: C.\nStep 2: Column 3 numbers: 1, 2, ___. The number cycle is 1, 2, 3. Missing: 3.\nStep 3: The blank is C3.\nThe answer is C3.\nCommon mistake: Choosing C1 (using the wrong number from the cycle)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q25",
+      "question": "Four friends — Kai, Leah, Max, and Nina — each got a different score on a test: 70, 80, 90, 100. Kai scored higher than Max. Nina scored higher than Kai. Leah scored the lowest. What was Kai's score?",
+      "options": ["70", "80", "90", "100"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Leah scored the lowest = 70.\nStep 2: Nina > Kai > Max. With scores 80, 90, 100 remaining.\nStep 3: Nina has the highest of the three = 100. Kai is next = 90. Max is lowest of the three = 80.\nThe answer is 90.\nCommon mistake: Choosing 80 (putting Kai and Max in the wrong order)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q26",
+      "question": "What comes next? 1000, 500, 250, 125, ___",
+      "options": ["50", "62.5", "75", "100"],
+      "answer": 1,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 500÷1000=0.5, 250÷500=0.5, 125÷250=0.5.\nStep 2: Each number is halved.\nStep 3: 125 ÷ 2 = 62.5.\nThe answer is 62.5.\nCommon mistake: Choosing 75 (subtracting 50 instead of halving)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q27",
+      "question": "A square piece of paper has a star in the top-right corner. The paper is folded in half vertically (left side folds onto right side), then in half horizontally (bottom folds up onto top). Where is the star on the folded paper?",
+      "options": ["Top-right", "Top-left", "Bottom-right", "Hidden inside the fold"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Star starts in top-right.\nStep 2: Fold vertically (left onto right): the left side covers the right side. The star is on the right side, so it gets covered — hidden between layers.\nStep 3: Then fold horizontally (bottom onto top): the bottom folds up. The star (already hidden) remains inside the folds.\nThe answer is Hidden inside the fold.\nCommon mistake: Choosing Top-right (not tracking how the star gets covered by the folds)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q28",
+      "question": "Chronological is to time as alphabetical is to ___",
+      "options": ["Numbers", "Letters", "Words", "Pages"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Chronological order is based on time.\nStep 2: Alphabetical order is based on letters (the order of the alphabet).\nStep 3: The relationship is type of ordering to what it is based on.\nThe answer is Letters.\nCommon mistake: Choosing Words (words are sorted alphabetically, but the order is based on the letters themselves)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q29",
+      "question": "In a 3×3 grid, each cell has a shape. The shape in each cell is determined by adding the number of sides of the shape above and the shape to the left (with 0 for empty cells). Row 1: triangle (3), triangle (3), triangle (3). Row 2: triangle (3), hexagon (6), ___. Following the addition rule, what goes in Row 2, Column 3?",
+      "options": ["Nonagon (9 sides)", "Hexagon (6 sides)", "Pentagon (5 sides)", "Octagon (8 sides)"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The rule: each cell = sides of cell above + sides of cell to the left.\nStep 2: Row 2, Col 3: cell above = Row 1, Col 3 = triangle (3 sides). Cell to left = Row 2, Col 2 = hexagon (6 sides).\nStep 3: 3 + 6 = 9 sides = nonagon.\nThe answer is Nonagon (9 sides).\nCommon mistake: Choosing Hexagon (using 3+3=6 instead of 3+6=9)."
+    },
+    {
+      "id": "oc-y4-thinking-t3-q30",
+      "question": "Five children are seated in a circle: Amy, Ben, Cara, Dan, and Eve. Amy sits between Ben and Eve. Cara sits next to Ben but not next to Eve. Who sits between Cara and Eve?",
+      "options": ["Amy", "Ben", "Dan", "Both Amy and Dan"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Amy sits between Ben and Eve. So the arrangement includes: Ben, Amy, Eve (in that order).\nStep 2: Cara sits next to Ben but not next to Eve. Since Ben has Amy on one side, Cara must be on Ben's other side.\nStep 3: Order so far: Cara, Ben, Amy, Eve. Dan fills the remaining spot between Eve and Cara.\nStep 4: The circle is: Cara, Ben, Amy, Eve, Dan. Between Cara and Eve is Dan (on one path) and Ben, Amy (on the other).\nStep 5: The question asks who sits between Cara and Eve — Dan sits between them (going the short way: Eve, Dan, Cara).\nThe answer is Dan.\nCommon mistake: Choosing Ben (Ben is between Cara and Amy, not between Cara and Eve)."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-thinking-t1-q01",
+      "question": "What number comes next? 3, 7, 15, 31, ___",
+      "options": ["47", "55", "62", "63"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 7=3×2+1, 15=7×2+1, 31=15×2+1.\nStep 2: The rule is: double the number and add 1.\nStep 3: 31 × 2 + 1 = 63.\nThe answer is 63.\nCommon mistake: Choosing 62 (doubling without adding 1) or 47 (adding 16)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q02",
+      "question": "A triangle pointing upwards is rotated 90 degrees clockwise. Which direction is it now pointing?",
+      "options": ["Down", "Left", "Right", "Up"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The triangle starts pointing up (the apex is at the top).\nStep 2: A 90-degree clockwise rotation turns up → right.\nStep 3: The triangle now points to the right.\nThe answer is Right.\nCommon mistake: Choosing Left (that would be 90 degrees anti-clockwise, not clockwise)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q03",
+      "question": "Hot is to cold as bright is to ___",
+      "options": ["Light", "Dark", "Shiny", "Warm"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Hot and cold are opposites.\nStep 2: The opposite of bright is dark.\nThe answer is Dark.\nCommon mistake: Choosing Light (which is similar to bright, not opposite)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q04",
+      "question": "In a 3×3 grid, the top row shows: circle, square, triangle. The middle row shows: square, triangle, circle. What is the bottom-left cell?",
+      "options": ["Circle", "Square", "Triangle", "Diamond"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Each row contains one circle, one square, and one triangle.\nStep 2: Each column must also contain one of each shape.\nStep 3: The left column has: circle (top), square (middle). The missing shape is triangle.\nThe answer is Triangle.\nCommon mistake: Choosing Circle (repeating the top-left instead of finding what's missing)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q05",
+      "question": "If all roses are flowers, and some flowers are red, which statement MUST be true?",
+      "options": ["All roses are red", "Some roses are red", "All flowers are roses", "Some roses are flowers"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We know: All roses are flowers.\nStep 2: We know: Some flowers are red. But we don't know which flowers are red.\nStep 3: Since all roses are flowers, it is definitely true that some roses are flowers (in fact, all of them are).\nStep 4: We cannot be sure that any roses are red — the red flowers might be daisies.\nThe answer is 'Some roses are flowers'.\nCommon mistake: Choosing 'Some roses are red' (we don't know if the red flowers include roses)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q06",
+      "question": "What number comes next? 2, 6, 18, 54, ___",
+      "options": ["108", "126", "162", "216"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 6÷2=3, 18÷6=3, 54÷18=3.\nStep 2: Each number is multiplied by 3.\nStep 3: 54 × 3 = 162.\nThe answer is 162.\nCommon mistake: Choosing 108 (multiplying by 2 instead of 3)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q07",
+      "question": "An arrow pointing to the right (→) is rotated 180 degrees. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The arrow starts pointing right.\nStep 2: A 180-degree rotation turns the arrow to point in the opposite direction.\nStep 3: The opposite of right is left.\nThe answer is Left.\nCommon mistake: Choosing Up or Down (those would be 90-degree rotations)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q08",
+      "question": "Author is to novel as sculptor is to ___",
+      "options": ["Painting", "Statue", "Museum", "Clay"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: An author creates a novel.\nStep 2: A sculptor creates a statue.\nStep 3: The relationship is creator to creation.\nThe answer is Statue.\nCommon mistake: Choosing Clay (the material used, not the finished creation)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q09",
+      "question": "In a 3×3 grid, the top row has: 1, 2, 3. The middle row has: 4, 5, 6. The bottom row has: 7, 8, ?. Each row increases by 1, each column increases by 3. What is the missing number?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The bottom row follows: 7, 8, ? — increasing by 1.\nStep 2: 8 + 1 = 9.\nStep 3: Check: the right column is 3, 6, 9 — increasing by 3. Correct.\nThe answer is 9.\nCommon mistake: Choosing 10 (adding 2 instead of 1)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q10",
+      "question": "Sam is taller than Ben. Ben is taller than Max. Who is the shortest?",
+      "options": ["Sam", "Ben", "Max", "Cannot tell"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sam > Ben (Sam is taller than Ben).\nStep 2: Ben > Max (Ben is taller than Max).\nStep 3: So: Sam > Ben > Max. Max is the shortest.\nThe answer is Max.\nCommon mistake: Choosing 'Cannot tell' (we have enough information to determine the order)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q11",
+      "question": "What number comes next? 1, 4, 10, 22, 46, ___",
+      "options": ["70", "82", "92", "94"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 4=1×2+2, 10=4×2+2, 22=10×2+2, 46=22×2+2.\nStep 2: The rule is: double the number and add 2.\nStep 3: 46 × 2 + 2 = 94.\nThe answer is 94.\nCommon mistake: Choosing 92 (doubling without adding 2)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q12",
+      "question": "A capital letter 'L' is rotated 90 degrees clockwise. What does it look like?",
+      "options": ["An upside-down L", "An L rotated to look like a backwards 'J' shape (horizontal line on top, vertical line going down from its right end)", "A shape like the top of a 'T' with a vertical line dropping from the left end", "The letter L unchanged"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The letter L has a vertical line going up and a horizontal line going right at the bottom.\nStep 2: Rotating 90° clockwise: the vertical line (pointing up) now points right, and the horizontal line (pointing right) now points down.\nStep 3: The result looks like a horizontal line on top with a vertical line dropping from its left end — like a backwards 'J' or the corner of a table.\nThe answer is: a shape like the top of a T with a vertical line dropping from the left end.\nCommon mistake: Choosing an upside-down L (that would be a 180° rotation)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q13",
+      "question": "Pupil is to eye as blade is to ___",
+      "options": ["Knife", "Grass", "Sharp", "Handle"],
+      "answer": 0,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A pupil is a part of an eye.\nStep 2: A blade is a part of a knife.\nStep 3: The relationship is component part to the whole.\nThe answer is Knife.\nCommon mistake: Choosing Grass (blade of grass is a phrase, but the analogy is about a part of something)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q14",
+      "question": "In a 3×3 grid, each row and column must contain a star, a moon, and a sun. The top row is: star, moon, sun. The middle-left is moon, middle-centre is sun. What is in the middle-right?",
+      "options": ["Star", "Moon", "Sun", "Cloud"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The middle row has: moon, sun, ?.\nStep 2: Each row must have one star, one moon, one sun.\nStep 3: The middle row already has moon and sun, so it needs a star.\nThe answer is Star.\nCommon mistake: Choosing Moon (repeating the first item in the row)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q15",
+      "question": "If all squares are rectangles, and all rectangles have four sides, what can we conclude?",
+      "options": ["All rectangles are squares", "All squares have four sides", "All four-sided shapes are rectangles", "All four-sided shapes are squares"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: All squares are rectangles, and all rectangles have four sides.\nStep 2: Since squares are a type of rectangle, and all rectangles have four sides, all squares must also have four sides.\nStep 3: We cannot say all rectangles are squares (rectangles include non-square shapes).\nThe answer is 'All squares have four sides'.\nCommon mistake: Choosing 'All rectangles are squares' (squares are a subset of rectangles, not the other way around)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q16",
+      "question": "What comes next? 2, 3, 5, 9, 17, ___",
+      "options": ["25", "31", "33", "35"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences: 3-2=1, 5-3=2, 9-5=4, 17-9=8.\nStep 2: The differences double each time: 1, 2, 4, 8.\nStep 3: The next difference is 16. So 17 + 16 = 33.\nThe answer is 33.\nCommon mistake: Choosing 25 (adding 8 again instead of 16)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q17",
+      "question": "A square has one corner cut off (the top-right corner is replaced by a diagonal line). If this shape is rotated 90 degrees anti-clockwise, which corner now has the cut?",
+      "options": ["Top-left", "Top-right", "Bottom-left", "Bottom-right"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The cut is at the top-right corner.\nStep 2: Rotating 90° anti-clockwise: top-right moves to top-left, top-left moves to bottom-left, bottom-left moves to bottom-right, bottom-right moves to top-right.\nStep 3: Wait, let me reconsider. Anti-clockwise 90°: top-right → bottom-right? No. Let me think step by step.\nStep 4: In anti-clockwise rotation: imagine the square turning left. The top-right corner moves to the top-left position... No. Think of it as: for 90° anti-clockwise, the right side becomes the top, the top becomes the left, the left becomes the bottom, the bottom becomes the right.\nStep 5: So top-right → bottom-right.\nThe answer is Bottom-right.\nCommon mistake: Choosing Top-left (confusing clockwise and anti-clockwise)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q18",
+      "question": "Transparent is to opaque as flexible is to ___",
+      "options": ["Bendy", "Rigid", "Strong", "Thin"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Transparent and opaque are opposites (you can see through vs cannot see through).\nStep 2: Flexible means bendy. Its opposite is rigid (stiff, not bendy).\nThe answer is Rigid.\nCommon mistake: Choosing Bendy (this means the same as flexible, not the opposite)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q19",
+      "question": "In a 3×3 grid, the numbers 1-9 are placed so each row and column sums to 15. The top row is: 2, 7, 6. The middle row starts with 9, 5. What number completes the middle row?",
+      "options": ["1", "3", "4", "8"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each row must sum to 15.\nStep 2: Middle row: 9 + 5 + ? = 15.\nStep 3: 14 + ? = 15, so ? = 1.\nThe answer is 1.\nCommon mistake: Choosing 3 (miscalculating the sum)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q20",
+      "question": "Amy likes apples. Everyone who likes apples also likes bananas. What can we conclude?",
+      "options": ["Amy likes bananas", "Amy does not like oranges", "Everyone likes bananas", "Amy only likes apples and bananas"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Amy likes apples (given).\nStep 2: Everyone who likes apples also likes bananas (given).\nStep 3: Amy likes apples, so Amy must also like bananas.\nStep 4: We cannot say anything about oranges or whether Amy likes other things too.\nThe answer is 'Amy likes bananas'.\nCommon mistake: Choosing 'Amy only likes apples and bananas' (she might like other things too — we just don't know)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q21",
+      "question": "What comes next in this number pattern? 1, 1, 2, 3, 5, 8, 13, 21, ___",
+      "options": ["26", "29", "34", "42"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each number is the sum of the two before it: 1+1=2, 1+2=3, 2+3=5, 3+5=8, 5+8=13, 8+13=21.\nStep 2: 13 + 21 = 34.\nThe answer is 34.\nCommon mistake: Choosing 29 (adding only 8 to 21)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q22",
+      "question": "A shape made of 4 unit squares arranged in a T-shape (3 squares in a row with 1 square centred below the middle square) is rotated 180 degrees. Which description matches the rotated shape?",
+      "options": ["3 squares in a row with 1 square centred above the middle square", "3 squares in a row with 1 square centred below the middle square (unchanged)", "3 squares in a column with 1 square to the right of the middle square", "3 squares in a column with 1 square to the left of the middle square"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The original T-shape has 3 squares across the top and 1 square hanging down from the centre.\nStep 2: A 180° rotation flips everything upside down.\nStep 3: The 3 squares that were across the top are now across the bottom, and the 1 square that hung down now sticks up.\nStep 4: This means 3 squares in a row (now at the bottom) with 1 square centred above the middle. But described from the new orientation: 3 in a row with 1 above the middle.\nThe answer is: 3 squares in a row with 1 square centred above the middle square.\nCommon mistake: Choosing unchanged (a T-shape is NOT the same when rotated 180°)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q23",
+      "question": "Nocturnal is to diurnal as ancient is to ___",
+      "options": ["Old", "Historic", "Modern", "Antique"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Nocturnal (active at night) is the opposite of diurnal (active during the day).\nStep 2: Ancient (very old) is the opposite of modern (very new/recent).\nThe answer is Modern.\nCommon mistake: Choosing Old (which is similar to ancient, not opposite)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q24",
+      "question": "In a 3×3 grid, each cell contains a shape with a colour. Row 1: red circle, blue square, green triangle. Row 2: blue triangle, green circle, red square. Row 3: green square, red triangle, ___. What goes in the bottom-right cell?",
+      "options": ["Blue circle", "Red circle", "Green circle", "Blue triangle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each row must have all 3 colours (red, blue, green) and all 3 shapes (circle, square, triangle).\nStep 2: Row 3 has: green square, red triangle, ___.\nStep 3: Colours used: green, red. Missing colour: blue.\nStep 4: Shapes used: square, triangle. Missing shape: circle.\nStep 5: The answer is blue circle.\nThe answer is Blue circle.\nCommon mistake: Choosing Green circle (green is already in the row)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q25",
+      "question": "Three friends — Alex, Bella, and Chris — each have a different pet: a dog, a cat, and a fish. Alex does not have the dog. Bella does not have the cat or the fish. Who has the dog?",
+      "options": ["Alex", "Bella", "Chris", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Bella does not have the cat or the fish. So Bella must have the dog.\nStep 2: Alex does not have the dog, confirming Bella has it.\nStep 3: That leaves cat and fish for Alex and Chris.\nThe answer is Bella.\nCommon mistake: Choosing Chris (not reading the clues about Bella carefully)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q26",
+      "question": "What number comes next? 0, 1, 3, 7, 15, 31, ___",
+      "options": ["47", "55", "62", "63"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 1-0=1, 3-1=2, 7-3=4, 15-7=8, 31-15=16.\nStep 2: The differences double: 1, 2, 4, 8, 16.\nStep 3: The next difference is 32. So 31 + 32 = 63.\nThe answer is 63.\nCommon mistake: Choosing 47 (adding 16 again instead of 32)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q27",
+      "question": "A rectangle has a diagonal line from the bottom-left to the top-right, and the top-left triangle is shaded. The shape is rotated 270 degrees clockwise. Where is the shaded triangle now?",
+      "options": ["Top-left", "Top-right", "Bottom-left", "Bottom-right"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 270° clockwise is the same as 90° anti-clockwise.\nStep 2: The shaded triangle is at the top-left.\nStep 3: Rotating 90° anti-clockwise: the top moves to the left, the left moves to the bottom. So top-left moves to bottom-left.\nThe answer is Bottom-left.\nCommon mistake: Choosing Top-right (rotating in the wrong direction)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q28",
+      "question": "Herbivore is to plants as carnivore is to ___",
+      "options": ["Vegetables", "Meat", "Fish", "Grass"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A herbivore eats plants.\nStep 2: A carnivore eats meat (other animals).\nStep 3: The relationship is type of eater to what they eat.\nThe answer is Meat.\nCommon mistake: Choosing Fish (some carnivores eat fish, but meat is the general category)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q29",
+      "question": "In a 3×3 grid, each cell has a number of dots (1, 2, or 3). Each row sums to 6 and each column sums to 6. Top row: 1, 2, 3. Middle row: 3, ?, 1. What is the missing number?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each row sums to 6.\nStep 2: Middle row: 3 + ? + 1 = 6.\nStep 3: 4 + ? = 6, so ? = 2.\nStep 4: Check column 2: 2 + 2 + ? (bottom) = 6, so bottom-centre = 2. And column 1: 1 + 3 + ? = 6, so bottom-left = 2. Column 3: 3 + 1 + ? = 6, so bottom-right = 2. Bottom row: 2+2+2=6. ✓\nThe answer is 2.\nCommon mistake: Choosing 3 (miscalculating the row sum)."
+    },
+    {
+      "id": "oc-y4-thinking-t1-q30",
+      "question": "Four students sit in a row. Emma sits to the left of Jake. Mia sits between Emma and Jake. Liam sits at the right end. From left to right, what is the order?",
+      "options": ["Emma, Mia, Jake, Liam", "Mia, Emma, Jake, Liam", "Jake, Mia, Emma, Liam", "Emma, Jake, Mia, Liam"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Emma is to the left of Jake.\nStep 2: Mia sits between Emma and Jake. So the order is: Emma, Mia, Jake.\nStep 3: Liam sits at the right end. So: Emma, Mia, Jake, Liam.\nThe answer is Emma, Mia, Jake, Liam.\nCommon mistake: Choosing 'Mia, Emma, Jake, Liam' (Mia must be between Emma and Jake, not before Emma)."
+    }
+  ]
+}

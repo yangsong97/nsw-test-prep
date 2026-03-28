@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-thinking-t2-q01",
+      "question": "What comes next in this pattern? Sun, Moon, Sun, Moon, Sun, ___",
+      "options": ["Sun", "Star", "Moon", "Cloud"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern alternates: Sun, Moon, Sun, Moon, Sun.\nStep 2: After Sun comes Moon.\nThe answer is Moon.\nCommon mistake: Choosing Sun (repeating the last item instead of alternating)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q02",
+      "question": "Which one does NOT belong? Lion, Tiger, Elephant, Rose",
+      "options": ["Lion", "Tiger", "Elephant", "Rose"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Lion, Tiger, and Elephant are all animals.\nStep 2: Rose is a flower, not an animal.\nStep 3: Rose does not belong.\nThe answer is Rose.\nCommon mistake: Choosing Elephant (because it is much bigger), but all three others are still animals."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q03",
+      "question": "What number comes next? 4, 6, 8, 10, ___",
+      "options": ["11", "12", "13", "14"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 6-4=2, 8-6=2, 10-8=2.\nStep 2: Each number goes up by 2.\nStep 3: 10 + 2 = 12.\nThe answer is 12.\nCommon mistake: Choosing 11 (adding 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q04",
+      "question": "Sheep is to lamb as horse is to ___",
+      "options": ["Pony", "Foal", "Colt", "Stallion"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A lamb is a baby sheep.\nStep 2: We need the baby of a horse.\nStep 3: A baby horse is called a foal.\nThe answer is Foal.\nCommon mistake: Choosing Pony (a small horse, not necessarily a baby) or Stallion (an adult male horse)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q05",
+      "question": "Which shape matches? A triangle with a circle inside it.",
+      "options": ["A circle with a triangle inside it", "A triangle with a square inside it", "A triangle with a circle inside it", "A square with a circle inside it"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The original is a triangle with a circle inside.\nStep 2: Check each option for an exact match.\nStep 3: Option C is a triangle with a circle inside — an exact match.\nThe answer is C.\nCommon mistake: Choosing A (the shapes are swapped — circle outside and triangle inside)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q06",
+      "question": "What comes next? Blue, Blue, Red, Blue, Blue, Red, Blue, Blue, ___",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Group the pattern: (Blue, Blue, Red), (Blue, Blue, Red), (Blue, Blue, ___).\nStep 2: The pattern repeats every 3: Blue, Blue, Red.\nStep 3: The missing colour is Red.\nThe answer is Red.\nCommon mistake: Choosing Blue (continuing the Blues instead of completing the group)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q07",
+      "question": "What number comes next? 10, 15, 20, 25, ___",
+      "options": ["28", "29", "30", "35"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 15-10=5, 20-15=5, 25-20=5.\nStep 2: Each number goes up by 5.\nStep 3: 25 + 5 = 30.\nThe answer is 30.\nCommon mistake: Choosing 35 (adding 10 instead of 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q08",
+      "question": "Teacher is to school as doctor is to ___",
+      "options": ["Medicine", "Hospital", "Patient", "Ambulance"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A teacher works at a school.\nStep 2: We need the place where a doctor works.\nStep 3: A doctor works at a hospital.\nThe answer is Hospital.\nCommon mistake: Choosing Medicine (what a doctor uses, not where they work)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q09",
+      "question": "Which one does NOT belong? Fork, Knife, Spoon, Cup",
+      "options": ["Fork", "Knife", "Spoon", "Cup"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Fork, Knife, and Spoon are all cutlery (things you eat with).\nStep 2: Cup is a drinking vessel, not cutlery.\nStep 3: Cup does not belong.\nThe answer is Cup.\nCommon mistake: Choosing Knife (because it can cut things), but it is still cutlery like the fork and spoon."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q10",
+      "question": "A square has its top half coloured blue and bottom half coloured yellow. Which shape matches it?",
+      "options": ["A square with left half blue and right half yellow", "A square all coloured blue", "A square with top half blue and bottom half yellow", "A square with top half yellow and bottom half blue"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The original square has top=blue, bottom=yellow.\nStep 2: Look for an exact match.\nStep 3: Option C has top half blue and bottom half yellow — this matches.\nThe answer is C.\nCommon mistake: Choosing D (colours are in the opposite positions)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q11",
+      "question": "What comes next in this pattern? 1, 3, 1, 3, 1, 3, 1, ___",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The pattern alternates: 1, 3, 1, 3, 1, 3, 1.\nStep 2: After 1 comes 3.\nThe answer is 3.\nCommon mistake: Choosing 1 (repeating the same number) or 2 (the number between 1 and 3)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q12",
+      "question": "What number comes next? 1, 3, 5, 7, ___",
+      "options": ["8", "9", "10", "11"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 3-1=2, 5-3=2, 7-5=2.\nStep 2: Each number goes up by 2.\nStep 3: 7 + 2 = 9.\nThe answer is 9.\nCommon mistake: Choosing 8 (adding 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q13",
+      "question": "Bark is to tree as skin is to ___",
+      "options": ["Bone", "Human", "Hair", "Leaf"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Bark is the outer covering of a tree.\nStep 2: Skin is the outer covering of a human.\nStep 3: The relationship is outer covering to the thing it covers.\nThe answer is Human.\nCommon mistake: Choosing Hair (found on skin but not what skin covers)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q14",
+      "question": "Which one does NOT belong? Piano, Guitar, Drum, Painting",
+      "options": ["Piano", "Guitar", "Drum", "Painting"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Piano, Guitar, and Drum are all musical instruments.\nStep 2: A Painting is a piece of art, not an instrument.\nStep 3: Painting does not belong.\nThe answer is Painting.\nCommon mistake: Choosing Drum (because you hit it instead of pressing keys or strumming), but it is still a musical instrument."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q15",
+      "question": "A circle is divided into 4 equal parts like a pizza. One part is coloured red. If you turn the circle halfway around, where will the red part be?",
+      "options": ["In the same place", "On the opposite side", "It will disappear", "Next to where it was"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Turning halfway around means rotating 180 degrees.\nStep 2: A 180-degree turn moves everything to the opposite side.\nStep 3: The red part will be on the opposite side of the circle.\nThe answer is: On the opposite side.\nCommon mistake: Choosing 'In the same place' (confusing a full turn with a half turn)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q16",
+      "question": "What comes next? Circle, Circle, Square, Triangle, Circle, Circle, Square, Triangle, Circle, Circle, ___",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Group the pattern: (Circle, Circle, Square, Triangle), (Circle, Circle, Square, Triangle), (Circle, Circle, ___).\nStep 2: The pattern repeats every 4 items.\nStep 3: After Circle, Circle comes Square.\nThe answer is Square.\nCommon mistake: Choosing Circle (adding another circle) or Triangle (skipping ahead in the group)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q17",
+      "question": "What number comes next? 20, 18, 16, 14, ___",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 18-20=-2, 16-18=-2, 14-16=-2.\nStep 2: Each number goes down by 2.\nStep 3: 14 - 2 = 12.\nThe answer is 12.\nCommon mistake: Choosing 13 (subtracting 1) or 10 (subtracting 4)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q18",
+      "question": "Eye is to see as ear is to ___",
+      "options": ["Hear", "Smell", "Touch", "Taste"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: We use our eyes to see.\nStep 2: We need what we use our ears for.\nStep 3: We use our ears to hear.\nThe answer is Hear.\nCommon mistake: Choosing Smell (a different sense, done with the nose)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q19",
+      "question": "Which one does NOT belong? Red, Green, Blue, Happy",
+      "options": ["Red", "Green", "Blue", "Happy"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Red, Green, and Blue are all colours.\nStep 2: Happy is a feeling, not a colour.\nStep 3: Happy does not belong.\nThe answer is Happy.\nCommon mistake: Choosing Green (because it is a different shade) — but all three are colours."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q20",
+      "question": "What comes next? Small red circle, medium red circle, large red circle, small blue circle, medium blue circle, large blue circle, small green circle, ___",
+      "options": ["Large green circle", "Medium green circle", "Small red circle", "Medium red circle"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Group by colour: (small red, medium red, large red), (small blue, medium blue, large blue), (small green, ___).\nStep 2: Within each colour, size goes: small, medium, large.\nStep 3: After small green comes medium green circle.\nThe answer is Medium green circle.\nCommon mistake: Choosing Large green circle (skipping medium)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q21",
+      "question": "What comes next in this pattern? 2, 4, 8, 16, ___",
+      "options": ["18", "20", "24", "32"],
+      "answer": 3,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 4÷2=2, 8÷4=2, 16÷8=2.\nStep 2: Each number is doubled (multiplied by 2).\nStep 3: 16 × 2 = 32.\nThe answer is 32.\nCommon mistake: Choosing 18 (adding 2) or 24 (adding 8)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q22",
+      "question": "A rectangle is divided into 6 equal squares (2 rows of 3). The top-left and bottom-right squares are shaded. How many squares are NOT shaded?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: There are 6 squares in total.\nStep 2: 2 squares are shaded (top-left and bottom-right).\nStep 3: 6 - 2 = 4 squares are NOT shaded.\nThe answer is 4.\nCommon mistake: Choosing 3 (thinking there are only 5 squares total) or 2 (counting only shaded squares)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q23",
+      "question": "Finger is to hand as toe is to ___",
+      "options": ["Leg", "Foot", "Arm", "Knee"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A finger is part of a hand.\nStep 2: A toe is part of a foot.\nStep 3: The relationship is small part to the larger body part it belongs to.\nThe answer is Foot.\nCommon mistake: Choosing Leg (a toe is on the foot, not the leg)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q24",
+      "question": "Which one does NOT belong? 3, 6, 9, 11, 15",
+      "options": ["3", "6", "11", "15"],
+      "answer": 2,
+      "topic": "odd-one-out",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Check which numbers are multiples of 3: 3÷3=1, 6÷3=2, 9÷3=3, 15÷3=5. These are all multiples of 3.\nStep 2: 11÷3=3 remainder 2. It is NOT a multiple of 3.\nStep 3: 11 does not belong.\nThe answer is 11.\nCommon mistake: Choosing 15 (because it is the largest), but it is still a multiple of 3."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q25",
+      "question": "What comes next? Right-pointing arrow, Down-pointing arrow, Left-pointing arrow, Up-pointing arrow, Right-pointing arrow, Down-pointing arrow, Left-pointing arrow, ___",
+      "options": ["Right-pointing arrow", "Down-pointing arrow", "Left-pointing arrow", "Up-pointing arrow"],
+      "answer": 3,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern is: Right, Down, Left, Up (rotating clockwise).\nStep 2: The pattern repeats: Right, Down, Left, Up, Right, Down, Left, ___.\nStep 3: After Left comes Up.\nThe answer is Up-pointing arrow.\nCommon mistake: Choosing Right (starting the cycle over too early)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q26",
+      "question": "What number comes next? 100, 90, 80, 70, ___",
+      "options": ["50", "55", "60", "65"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 90-100=-10, 80-90=-10, 70-80=-10.\nStep 2: Each number goes down by 10.\nStep 3: 70 - 10 = 60.\nThe answer is 60.\nCommon mistake: Choosing 50 (subtracting 20 instead of 10)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q27",
+      "question": "Book is to read as food is to ___",
+      "options": ["Cook", "Eat", "Drink", "Buy"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The main purpose of a book is to read it.\nStep 2: The main purpose of food is to eat it.\nStep 3: The relationship is object to its primary use.\nThe answer is Eat.\nCommon mistake: Choosing Cook (preparing food, not its main purpose)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q28",
+      "question": "A pattern uses shapes that change in two ways. The first shape is a small white circle. The second shape is a large black circle. The third shape is a small white square. What is the fourth shape?",
+      "options": ["Small black square", "Large white square", "Large black square", "Small white circle"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Look at how the shapes change: Shape 1 (small, white, circle) → Shape 2 (large, black, circle) — size and colour change.\nStep 2: Shape 2 (large, black, circle) → Shape 3 (small, white, square) — size, colour, and shape change.\nStep 3: Actually, let's look at pairs: (small white circle, large black circle), (small white square, ___). The second in each pair is large and black.\nStep 4: So the fourth shape is a large black square.\nThe answer is Large black square.\nCommon mistake: Choosing Small black square (only changing colour but not size)."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q29",
+      "question": "Which one does NOT belong? Hammer, Saw, Screwdriver, Sandwich",
+      "options": ["Hammer", "Saw", "Screwdriver", "Sandwich"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Hammer, Saw, and Screwdriver are all tools.\nStep 2: A Sandwich is food, not a tool.\nStep 3: Sandwich does not belong.\nThe answer is Sandwich.\nCommon mistake: Choosing Saw (because it cuts while the others don't), but all three are tools used for building."
+    },
+    {
+      "id": "oc-y2-thinking-t2-q30",
+      "question": "What number comes next? 1, 2, 4, 8, 16, ___",
+      "options": ["20", "24", "28", "32"],
+      "answer": 3,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 2÷1=2, 4÷2=2, 8÷4=2, 16÷8=2.\nStep 2: Each number is doubled (multiplied by 2).\nStep 3: 16 × 2 = 32.\nThe answer is 32.\nCommon mistake: Choosing 24 (adding 8) or 20 (adding 4)."
+    }
+  ]
+}

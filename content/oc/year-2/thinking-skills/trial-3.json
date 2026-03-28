@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 3,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-thinking-t3-q01",
+      "question": "What comes next in this pattern? Apple, Orange, Apple, Orange, Apple, ___",
+      "options": ["Apple", "Banana", "Orange", "Grape"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern alternates: Apple, Orange, Apple, Orange, Apple.\nStep 2: After Apple comes Orange.\nThe answer is Orange.\nCommon mistake: Choosing Apple (repeating the last item instead of alternating)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q02",
+      "question": "Which one does NOT belong? Shirt, Trousers, Jacket, Bread",
+      "options": ["Shirt", "Trousers", "Jacket", "Bread"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Shirt, Trousers, and Jacket are all clothes.\nStep 2: Bread is food, not clothing.\nStep 3: Bread does not belong.\nThe answer is Bread.\nCommon mistake: Choosing Trousers (because they cover legs while the others cover the upper body), but all three are clothing."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q03",
+      "question": "What number comes next? 3, 5, 7, 9, ___",
+      "options": ["10", "11", "12", "13"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 5-3=2, 7-5=2, 9-7=2.\nStep 2: Each number goes up by 2.\nStep 3: 9 + 2 = 11.\nThe answer is 11.\nCommon mistake: Choosing 10 (adding 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q04",
+      "question": "Bee is to hive as rabbit is to ___",
+      "options": ["Burrow", "Nest", "Kennel", "Stable"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A bee lives in a hive.\nStep 2: We need the home of a rabbit.\nStep 3: A rabbit lives in a burrow.\nThe answer is Burrow.\nCommon mistake: Choosing Nest (birds live in nests, not rabbits)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q05",
+      "question": "Which shape matches exactly? A diamond (tilted square) with a horizontal line through the middle.",
+      "options": ["A diamond with a vertical line through the middle", "A diamond with a horizontal line through the middle", "A diamond with a diagonal line through it", "A diamond with no line"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The original shape is a diamond with a horizontal line.\nStep 2: Check each option for an exact match.\nStep 3: Option B has a diamond with a horizontal line — an exact match.\nThe answer is B.\nCommon mistake: Choosing A (the line goes the wrong direction — vertical instead of horizontal)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q06",
+      "question": "What comes next? Cat, Dog, Bird, Cat, Dog, Bird, Cat, Dog, ___",
+      "options": ["Cat", "Dog", "Bird", "Fish"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern repeats every 3 items: Cat, Dog, Bird.\nStep 2: We have Cat, Dog, ___ — we need the third item.\nStep 3: The third item is Bird.\nThe answer is Bird.\nCommon mistake: Choosing Cat (jumping back to the start of the pattern too early)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q07",
+      "question": "What number comes next? 10, 8, 6, 4, ___",
+      "options": ["1", "2", "3", "0"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 8-10=-2, 6-8=-2, 4-6=-2.\nStep 2: Each number goes down by 2.\nStep 3: 4 - 2 = 2.\nThe answer is 2.\nCommon mistake: Choosing 3 (subtracting 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q08",
+      "question": "Tall is to short as fast is to ___",
+      "options": ["Quick", "Slow", "Run", "Big"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Tall and short are opposites.\nStep 2: We need the opposite of fast.\nStep 3: The opposite of fast is slow.\nThe answer is Slow.\nCommon mistake: Choosing Quick (means the same as fast, not the opposite)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q09",
+      "question": "Which one does NOT belong? Square, Rectangle, Circle, Triangle",
+      "options": ["Square", "Rectangle", "Circle", "Triangle"],
+      "answer": 2,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Square, Rectangle, and Triangle all have straight sides and corners.\nStep 2: A Circle has no straight sides and no corners.\nStep 3: Circle is the odd one out.\nThe answer is Circle.\nCommon mistake: Choosing Triangle (because it has fewer sides), but it still has straight sides and corners like the square and rectangle."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q10",
+      "question": "A picture shows a row of beads: red, yellow, red, yellow, red, yellow. What colour is the next bead?",
+      "options": ["Red", "Blue", "Yellow", "Green"],
+      "answer": 0,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern alternates: red, yellow, red, yellow, red, yellow.\nStep 2: The last bead is yellow, so the next bead is red.\nThe answer is Red.\nCommon mistake: Choosing Yellow (repeating the last colour instead of alternating)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q11",
+      "question": "What comes next in this pattern? 5, 10, 5, 10, 5, 10, 5, ___",
+      "options": ["5", "10", "15", "20"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The pattern alternates: 5, 10, 5, 10, 5, 10, 5.\nStep 2: After 5 comes 10.\nThe answer is 10.\nCommon mistake: Choosing 15 (thinking the numbers are adding up)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q12",
+      "question": "A square is cut in half from corner to corner, making two triangles. The top-right triangle is shaded grey. If you flip the square upside down, which triangle will be grey?",
+      "options": ["Top-right triangle", "Top-left triangle", "Bottom-left triangle", "Bottom-right triangle"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The grey triangle is in the top-right.\nStep 2: Flipping upside down moves top to bottom and right stays on the same side — wait, flipping upside down (vertical flip) moves top-right to bottom-right and bottom-left to top-left.\nStep 3: Actually, when you flip a square upside down (rotate 180 degrees), the top-right corner goes to the bottom-left corner.\nStep 4: So the grey triangle moves to the bottom-left.\nThe answer is Bottom-left triangle.\nCommon mistake: Choosing Bottom-right (only flipping vertically without considering the diagonal)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q13",
+      "question": "What number comes next? 4, 8, 12, 16, ___",
+      "options": ["18", "20", "22", "24"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 8-4=4, 12-8=4, 16-12=4.\nStep 2: Each number goes up by 4.\nStep 3: 16 + 4 = 20.\nThe answer is 20.\nCommon mistake: Choosing 18 (adding 2 instead of 4) or 24 (adding 8)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q14",
+      "question": "Brush is to paint as pencil is to ___",
+      "options": ["Draw", "Paper", "Eraser", "Colour"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A brush is used to paint (tool to action).\nStep 2: A pencil is used to draw.\nStep 3: The relationship is tool to its action.\nThe answer is Draw.\nCommon mistake: Choosing Paper (what you draw on, not the action)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q15",
+      "question": "Which one does NOT belong? Bicycle, Skateboard, Scooter, Boat",
+      "options": ["Bicycle", "Skateboard", "Scooter", "Boat"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Bicycle, Skateboard, and Scooter all have wheels and travel on land.\nStep 2: A Boat travels on water and has no wheels.\nStep 3: Boat does not belong.\nThe answer is Boat.\nCommon mistake: Choosing Skateboard (because you stand on it), but it still has wheels and goes on land."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q16",
+      "question": "What comes next? Heart, Heart, Star, Diamond, Heart, Heart, Star, Diamond, Heart, Heart, Star, ___",
+      "options": ["Heart", "Star", "Diamond", "Circle"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Group the pattern: (Heart, Heart, Star, Diamond) repeats.\nStep 2: We have Heart, Heart, Star, ___ — we need the 4th item.\nStep 3: The 4th item is Diamond.\nThe answer is Diamond.\nCommon mistake: Choosing Heart (starting the cycle again too soon)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q17",
+      "question": "What number comes next? 25, 20, 15, 10, ___",
+      "options": ["0", "3", "5", "8"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 20-25=-5, 15-20=-5, 10-15=-5.\nStep 2: Each number goes down by 5.\nStep 3: 10 - 5 = 5.\nThe answer is 5.\nCommon mistake: Choosing 0 (subtracting 10 instead of 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q18",
+      "question": "Moon is to night as sun is to ___",
+      "options": ["Day", "Star", "Sky", "Light"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: We see the moon at night.\nStep 2: We see the sun during the day.\nStep 3: The relationship is bright object to its time.\nThe answer is Day.\nCommon mistake: Choosing Sky (the sun is in the sky, but the analogy is about time of day)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q19",
+      "question": "Two shapes are shown: Shape A is a large white triangle. Shape B is a small black triangle. Which option shows a large black triangle?",
+      "options": ["Large white triangle", "Small white triangle", "Large black triangle", "Small black triangle"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: We need a triangle that is large (like Shape A) and black (like Shape B).\nStep 2: This combines the size from A and the colour from B.\nStep 3: A large black triangle matches.\nThe answer is Large black triangle.\nCommon mistake: Choosing Small black triangle (keeping Shape B's size instead of taking Shape A's size)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q20",
+      "question": "Which one does NOT belong? Monday, Tuesday, March, Wednesday",
+      "options": ["Monday", "Tuesday", "March", "Wednesday"],
+      "answer": 2,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Monday, Tuesday, and Wednesday are all days of the week.\nStep 2: March is a month of the year, not a day.\nStep 3: March does not belong.\nThe answer is March.\nCommon mistake: Choosing Wednesday (because it starts with a different letter), but it is still a day of the week."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q21",
+      "question": "What number comes next? 2, 3, 5, 8, 12, ___",
+      "options": ["15", "16", "17", "18"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 3-2=1, 5-3=2, 8-5=3, 12-8=4.\nStep 2: The differences increase by 1 each time: 1, 2, 3, 4.\nStep 3: The next difference is 5. So 12 + 5 = 17.\nThe answer is 17.\nCommon mistake: Choosing 16 (adding 4 again instead of increasing to 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q22",
+      "question": "A pattern has three properties that change: colour (red, blue), shape (circle, square), and size (big, small). The first shape is a big red circle. The second is a big blue square. The third is a small red circle. What is the fourth?",
+      "options": ["Small blue square", "Big red square", "Small red square", "Big blue circle"],
+      "answer": 0,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: List the shapes:\n1st: big, red, circle\n2nd: big, blue, square\n3rd: small, red, circle\n4th: ?\nStep 2: Look at pairs: (1st, 2nd) = big shapes, colour and shape change. (3rd, 4th) = small shapes, colour and shape should change the same way.\nStep 3: From 1st to 2nd: red→blue, circle→square. From 3rd to 4th: red→blue, circle→square. Size stays small.\nStep 4: The fourth shape is a small blue square.\nThe answer is Small blue square.\nCommon mistake: Choosing Big blue circle (mixing up the pattern rules)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q23",
+      "question": "Wheel is to car as wing is to ___",
+      "options": ["Bird", "Feather", "Sky", "Fly"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A wheel is a part of a car that helps it move.\nStep 2: A wing is a part of a bird that helps it move.\nStep 3: The relationship is part to the whole thing it belongs to.\nThe answer is Bird.\nCommon mistake: Choosing Fly (the action, not the thing the wing belongs to)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q24",
+      "question": "Which one does NOT belong? 10, 20, 25, 30, 40",
+      "options": ["10", "25", "30", "40"],
+      "answer": 1,
+      "topic": "odd-one-out",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Check which numbers are multiples of 10: 10, 20, 30, 40 are all multiples of 10.\nStep 2: 25 is not a multiple of 10 (25 ÷ 10 = 2.5).\nStep 3: 25 does not belong.\nThe answer is 25.\nCommon mistake: Choosing 40 (because it is the largest), but it is still a multiple of 10."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q25",
+      "question": "A grid has 3 rows and 3 columns (9 squares). The middle square is shaded, and the four corner squares are shaded. How many squares are NOT shaded?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: There are 9 squares total.\nStep 2: Shaded squares: 4 corners + 1 middle = 5 shaded.\nStep 3: Not shaded: 9 - 5 = 4.\nThe answer is 4.\nCommon mistake: Choosing 3 (miscounting the shaded squares) or 5 (counting shaded instead of unshaded)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q26",
+      "question": "What comes next? 1, 4, 9, 16, ___",
+      "options": ["20", "21", "24", "25"],
+      "answer": 3,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: These are square numbers: 1×1=1, 2×2=4, 3×3=9, 4×4=16.\nStep 2: The next square number is 5×5=25.\nThe answer is 25.\nCommon mistake: Choosing 20 (adding 4) or 24 (adding 8)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q27",
+      "question": "A pattern goes: one dot, two dots, three dots, one dot, two dots, three dots. How many dots are in the 10th position?",
+      "options": ["One dot", "Two dots", "Three dots", "Four dots"],
+      "answer": 0,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern repeats every 3: (1, 2, 3), (1, 2, 3), ...\nStep 2: Position 10 ÷ 3 = 3 remainder 1.\nStep 3: A remainder of 1 means it is the 1st item in the group, which is one dot.\nThe answer is One dot.\nCommon mistake: Choosing Three dots (confusing which position in the cycle)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q28",
+      "question": "Page is to book as key is to ___",
+      "options": ["Lock", "Door", "Keyboard", "Piano"],
+      "answer": 2,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A page is one part of a book (many pages make a book).\nStep 2: A key is one part of a keyboard (many keys make a keyboard).\nStep 3: The relationship is one small part to the whole it belongs to.\nThe answer is Keyboard.\nCommon mistake: Choosing Lock (a key opens a lock, but that is a different relationship — tool to object, not part to whole)."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q29",
+      "question": "Which one does NOT belong? Triangle (3 sides), Pentagon (5 sides), Hexagon (6 sides), Circle (0 sides)",
+      "options": ["Triangle", "Pentagon", "Hexagon", "Circle"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Triangle (3 sides), Pentagon (5 sides), and Hexagon (6 sides) all have straight sides.\nStep 2: A Circle has no straight sides at all.\nStep 3: Circle is the odd one out.\nThe answer is Circle.\nCommon mistake: Choosing Triangle (because it has the fewest sides), but it still has straight sides like the others."
+    },
+    {
+      "id": "oc-y2-thinking-t3-q30",
+      "question": "What comes next? Large red circle, Small blue square, Large red triangle, Small blue circle, Large red square, Small blue triangle, Large red circle, ___",
+      "options": ["Small blue square", "Large red square", "Small red circle", "Large blue circle"],
+      "answer": 0,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Split into pairs: (Large red circle, Small blue square), (Large red triangle, Small blue circle), (Large red square, Small blue triangle), (Large red circle, ___).\nStep 2: The first in each pair is always Large and Red. The second is always Small and Blue.\nStep 3: The shapes in the second position cycle: square, circle, triangle, square.\nStep 4: The next second-position shape is square.\nThe answer is Small blue square.\nCommon mistake: Choosing Large red square (using the wrong position's properties)."
+    }
+  ]
+}

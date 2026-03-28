@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 2,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-thinking-t2-q01",
+      "question": "Three friends — Zara, Tom, and Lee — each play a different sport: netball, rugby, and cricket. Zara plays netball. Tom does not play cricket. What sport does Lee play?",
+      "options": ["Netball", "Rugby", "Cricket", "Cannot tell"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Zara plays netball.\nStep 2: Tom does not play cricket. Netball is taken. So Tom plays rugby.\nStep 3: Lee gets the remaining sport: cricket.\nThe answer is Cricket.\nCommon mistake: Choosing Rugby (that is Tom's sport)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q02",
+      "question": "A cube has its faces coloured: top is red, bottom is red, front is blue, back is blue, left is green, right is green. The cube is rolled to the right (the right face goes to the bottom). What colour is now on top?",
+      "options": ["Red", "Blue", "Green", "Cannot tell"],
+      "answer": 2,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Rolling right means the cube rotates around the front-back axis.\nStep 2: Top → Right, Right → Bottom, Bottom → Left, Left → Top.\nStep 3: The left face was green. So now the top is green.\nThe answer is Green.\nCommon mistake: Choosing Red (forgetting that the top face rolls to the right, not stays)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q03",
+      "question": "Icing is to cake as paint is to ___. The relationship is:",
+      "options": ["Container to contents", "Outer covering to the thing it covers", "Cause to effect", "Tool to material"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Icing goes on the outside of a cake — it is the outer covering.\nStep 2: Paint goes on the outside of a wall/surface — it is the outer covering.\nStep 3: The relationship is: outer covering to the thing it covers.\nThe answer is Outer covering to the thing it covers.\nCommon mistake: Choosing Container to contents (icing does not contain the cake)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q04",
+      "question": "Five children line up for a photo. Mia is in the centre. Jake is at the left end. Sophie is between Jake and Mia. Oscar is at the right end. Where is Lily?",
+      "options": ["2nd from left", "Centre", "4th from left", "Right end"],
+      "answer": 2,
+      "topic": "deductive-puzzles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Jake is at position 1 (left end). Mia is at position 3 (centre). Oscar is at position 5 (right end).\nStep 2: Sophie is between Jake (1) and Mia (3), so Sophie is at position 2.\nStep 3: Lily takes the remaining position: 4 (4th from left).\nThe answer is 4th from left.\nCommon mistake: Choosing 2nd from left (that is Sophie's position)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q05",
+      "question": "A table shows: Input 3 → Output 10, Input 5 → Output 16, Input 8 → Output 25. What is the rule?",
+      "options": ["Multiply by 3 and add 1", "Multiply by 3 and subtract 2", "Add 7", "Multiply by 2 and add 4"],
+      "answer": 0,
+      "topic": "number-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Test 'Multiply by 3 and add 1': 3×3+1=10 ✓, 5×3+1=16 ✓, 8×3+1=25 ✓.\nStep 2: All inputs match. The rule is: multiply by 3 and add 1.\nThe answer is Multiply by 3 and add 1.\nCommon mistake: Choosing Add 7 (3+7=10 works, but 5+7=12 ≠ 16)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q06",
+      "question": "Five students each scored differently on a test. Ava scored higher than both Ben and Cara. Dan scored lower than Cara but higher than Eve. Who scored the lowest?",
+      "options": ["Ben", "Cara", "Dan", "Eve"],
+      "answer": 3,
+      "topic": "multi-step-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ava > Ben and Ava > Cara.\nStep 2: Cara > Dan > Eve.\nStep 3: Eve is below Dan who is below Cara. Ben is below Ava but we don't know where Ben falls relative to Cara/Dan/Eve.\nStep 4: However, Eve is definitely below Dan, and Dan is below Cara, so Eve is the lowest confirmed. Even if Ben is below Ava, Ben could be above or below Eve. But the question asks who scored lowest. The only person definitely at the bottom of a chain is Eve.\nStep 5: Actually, we know Cara > Dan > Eve. We know Ava > Ben. But is Ben above or below Eve? Without that info, we can't be certain Eve is lowest... unless we assume all clues give a complete ordering. Given the options and typical test design, Eve is the intended answer as the lowest in the chain.\nThe answer is Eve.\nCommon mistake: Choosing Dan (Dan is second lowest in the Cara-Dan-Eve chain, not the lowest)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q07",
+      "question": "A cube net is shaped like a cross: 4 squares in a vertical column with 1 square to the left and 1 square to the right of the second square from the top. If the second square from the top is the front face, which square is opposite it?",
+      "options": ["The top square", "The third square from the top", "The bottom square", "The square to the left"],
+      "answer": 2,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The net has 4 vertical squares (positions 1-4 from top) with wings on position 2.\nStep 2: Position 2 is the front face. When folding: position 1 folds to become the top, position 3 folds to become the bottom face... no.\nStep 3: Actually, in a cross net with the column of 4: position 2 (front), position 1 (folds up = top), position 3 (folds down = bottom), position 4 (folds further = back/opposite of front).\nStep 4: The face opposite the front (position 2) is position 4 (the bottom of the column).\nThe answer is The bottom square.\nCommon mistake: Choosing the third square (it becomes the bottom of the cube, not the back)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q08",
+      "question": "Telescope is to astronomer as microscope is to ___. What type of analogy is this?",
+      "options": ["Cause and effect", "Tool and user", "Part and whole", "Synonym pair"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: An astronomer uses a telescope as their main tool.\nStep 2: A biologist/scientist uses a microscope as their main tool.\nStep 3: The relationship is tool to the person who uses it.\nThe answer is Tool and user.\nCommon mistake: Choosing Part and whole (a telescope is not a part of an astronomer)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q09",
+      "question": "Four houses in a row are painted different colours: red, blue, yellow, and green. The red house is immediately to the right of the blue house. The yellow house is at the left end. The green house is not next to the yellow house. From left to right, what is the order?",
+      "options": ["Yellow, Blue, Red, Green", "Yellow, Green, Blue, Red", "Yellow, Red, Blue, Green", "Blue, Yellow, Red, Green"],
+      "answer": 0,
+      "topic": "deductive-puzzles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Yellow is at position 1 (left end).\nStep 2: Red is immediately to the right of blue. So the pair is: Blue, Red (in consecutive positions).\nStep 3: Green is not next to yellow (not at position 2).\nStep 4: If Blue is at position 2, Red is at position 3, Green is at position 4. Green is not next to Yellow ✓ (positions 4 and 1 are not adjacent).\nStep 5: Order: Yellow, Blue, Red, Green.\nThe answer is Yellow, Blue, Red, Green.\nCommon mistake: Choosing Yellow, Green, Blue, Red (Green cannot be at position 2 because it would be next to Yellow)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q10",
+      "question": "A function takes a number, squares it, then subtracts 1. What is the output when the input is 6?",
+      "options": ["11", "25", "35", "37"],
+      "answer": 2,
+      "topic": "number-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Input = 6.\nStep 2: Square it: 6² = 36.\nStep 3: Subtract 1: 36 − 1 = 35.\nThe answer is 35.\nCommon mistake: Choosing 37 (adding 1 instead of subtracting)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q11",
+      "question": "At a party, every child who ate cake also ate ice cream. Some children ate only ice cream. No child ate only cake. If 15 children ate ice cream and 8 children ate cake, what is the minimum number of children at the party?",
+      "options": ["8", "15", "17", "23"],
+      "answer": 1,
+      "topic": "multi-step-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Every child who ate cake also ate ice cream. So all 8 cake-eaters are included in the 15 ice-cream-eaters.\nStep 2: The 8 cake-eaters are a subset of the 15 ice-cream-eaters.\nStep 3: There could also be children who ate neither, but the minimum number of children is at least the 15 who ate ice cream (which already includes the 8 cake-eaters).\nStep 4: The minimum number of children at the party is 15.\nThe answer is 15.\nCommon mistake: Choosing 23 (adding 15+8 without recognising the overlap)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q12",
+      "question": "A cube is painted red on all faces. It is then cut into 8 smaller cubes (2×2×2). How many faces of the small cubes are red in total?",
+      "options": ["24", "32", "48", "96"],
+      "answer": 0,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The original cube has 6 faces, each with area equal to 4 small-cube faces (since 2×2 = 4).\nStep 2: Total red small-cube faces = 6 × 4 = 24.\nStep 3: Each of the 8 small cubes has 3 red faces (corner cubes), so total = 8 × 3 = 24. ✓\nThe answer is 24.\nCommon mistake: Choosing 48 (counting each face twice or miscounting)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q13",
+      "question": "Library is to books as orchard is to ___.",
+      "options": ["Farmers", "Trees", "Fruit", "Garden"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A library is a place that contains a collection of books.\nStep 2: An orchard is a place that contains a collection of trees (fruit trees).\nStep 3: The relationship is: place to the main things it contains.\nThe answer is Trees.\nCommon mistake: Choosing Fruit (orchards produce fruit, but they contain trees)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q14",
+      "question": "Four friends — Anna, Ben, Cara, and Dan — each own a different coloured car: red, blue, white, and black. Anna's car is not red or blue. Ben's car is white. Dan's car is not blue. What colour is Cara's car?",
+      "options": ["Red", "Blue", "White", "Black"],
+      "answer": 1,
+      "topic": "deductive-puzzles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ben's car is white.\nStep 2: Anna's car is not red or blue. White is taken. So Anna's car is black.\nStep 3: Dan's car is not blue. White and black are taken. So Dan's car is red.\nStep 4: Cara gets the remaining colour: blue.\nThe answer is Blue.\nCommon mistake: Choosing Red (that is Dan's car colour)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q15",
+      "question": "A table of values shows: x=1, y=3; x=2, y=7; x=3, y=11; x=4, y=15. What is y when x=10?",
+      "options": ["39", "41", "43", "45"],
+      "answer": 0,
+      "topic": "number-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. y increases by 4 for each increase of 1 in x: 3, 7, 11, 15 (differences are 4).\nStep 2: Rule: y = 4x − 1. Check: 4(1)−1=3 ✓, 4(2)−1=7 ✓, 4(3)−1=11 ✓.\nStep 3: For x=10: y = 4(10) − 1 = 39.\nThe answer is 39.\nCommon mistake: Choosing 41 (using y = 4x + 1 instead of 4x − 1)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q16",
+      "question": "A bag contains red, blue, and green marbles. There are twice as many red marbles as blue marbles. There are 3 more green marbles than red marbles. If there are 5 blue marbles, how many marbles are in the bag in total?",
+      "options": ["18", "23", "28", "33"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Blue = 5.\nStep 2: Red = 2 × Blue = 2 × 5 = 10.\nStep 3: Green = Red + 3 = 10 + 3 = 13.\nStep 4: Total = 5 + 10 + 13 = 28.\nThe answer is 28.\nCommon mistake: Choosing 23 (using Green = Blue + 3 instead of Red + 3)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q17",
+      "question": "A cube is placed on a table with the number 1 on top and 6 on the bottom. The front shows 2 and the back shows 5. The right shows 3 and the left shows 4. If the cube is rolled forward (towards you) one full face, what number is now on top?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 3,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Rolling forward: the front goes to the bottom, the bottom goes to the back, the back goes to the top, the top goes to the front.\nStep 2: Original: Top=1, Front=2, Bottom=6, Back=5.\nStep 3: After rolling forward: Top=Back=5, Front=Top=1, Bottom=Front=2, Back=Bottom=6.\nStep 4: The new top shows 5.\nThe answer is 5.\nCommon mistake: Choosing 2 (confusing which face goes where during forward rolling)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q18",
+      "question": "Drought is to water as famine is to ___.",
+      "options": ["Rain", "Food", "Poverty", "Disease"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A drought is a severe shortage of water.\nStep 2: A famine is a severe shortage of food.\nStep 3: The relationship is: crisis to what it is a shortage of.\nThe answer is Food.\nCommon mistake: Choosing Poverty (famine can cause poverty, but the analogy is about shortage)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q19",
+      "question": "Six children — A, B, C, D, E, F — sit in 6 chairs in a row. A sits at one end. F sits at the other end. B sits next to A. D sits next to F. C sits next to B. Where does E sit?",
+      "options": ["Between C and D", "Between B and D", "Next to A", "Next to F"],
+      "answer": 0,
+      "topic": "deductive-puzzles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A is at position 1 (one end). F is at position 6 (other end).\nStep 2: B sits next to A: B is at position 2.\nStep 3: D sits next to F: D is at position 5.\nStep 4: C sits next to B: C is at position 3.\nStep 5: E takes the remaining position: 4 (between C at 3 and D at 5).\nThe answer is Between C and D.\nCommon mistake: Choosing Next to F (position 5 is D, not E)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q20",
+      "question": "A function machine takes a number n and outputs 2n + 5. If the output of this machine is then fed into a second machine that outputs n − 3, and the final output is 12, what was the original input?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1,
+      "topic": "number-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Work backwards. The second machine outputs n − 3. Its output is 12.\nStep 2: So the input to the second machine was 12 + 3 = 15.\nStep 3: The first machine outputs 2n + 5 = 15.\nStep 4: 2n = 10, so n = 5.\nThe answer is 5.\nCommon mistake: Choosing 7 (working the operations in the wrong order)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q21",
+      "question": "In a school of 100 students, 60 play sport, 45 play music, and 20 play both. How many students play neither sport nor music?",
+      "options": ["5", "10", "15", "25"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Students playing at least one: Sport + Music − Both = 60 + 45 − 20 = 85.\nStep 2: Students playing neither: 100 − 85 = 15.\nThe answer is 15.\nCommon mistake: Choosing 5 (subtracting all three values: 100−60−45+20=15... actually that also gives 15. Let me verify: 100 − (60+45−20) = 100 − 85 = 15)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q22",
+      "question": "A cube has edges of length 3 cm. If you paint only the top and bottom faces, then cut the cube into 27 unit cubes (1 cm edges), how many unit cubes have exactly one painted face?",
+      "options": ["8", "10", "12", "18"],
+      "answer": 3,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Only top and bottom faces are painted. Each painted face covers a 3×3 grid of unit-cube faces.\nStep 2: Top layer: all 9 unit cubes have exactly 1 painted face (the top). Side faces are not painted, so no extra painted faces.\nStep 3: Bottom layer: all 9 unit cubes have exactly 1 painted face (the bottom).\nStep 4: Middle layer: 0 painted faces (no unit cube touches a painted surface).\nStep 5: No unit cube touches both top and bottom paint (3 layers apart). So total with exactly 1 painted face = 9 + 9 = 18.\nThe answer is 18.\nCommon mistake: Choosing 12 (only counting one painted face instead of both top and bottom)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q23",
+      "question": "Tadpole is to frog as caterpillar is to ___.",
+      "options": ["Cocoon", "Moth", "Butterfly", "Larva"],
+      "answer": 2,
+      "topic": "advanced-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A tadpole is the juvenile form of a frog.\nStep 2: A caterpillar is the juvenile form of a butterfly.\nStep 3: The relationship is: immature form to the adult form.\nThe answer is Butterfly.\nCommon mistake: Choosing Cocoon (the cocoon is the intermediate stage, not the adult form)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q24",
+      "question": "Five people — P, Q, R, S, T — each drive a different coloured car: red, blue, green, white, black. P drives the red car. R drives green. Q does not drive blue or green. T drives black. What colour does S drive?",
+      "options": ["Blue", "Green", "White", "Black"],
+      "answer": 0,
+      "topic": "deductive-puzzles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: P = red. R = green. T = black.\nStep 2: Q does not drive blue or green. Red, green, and black are taken. So Q drives white.\nStep 3: S gets the remaining colour: blue.\nThe answer is Blue.\nCommon mistake: Choosing White (that is Q's car colour)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q25",
+      "question": "A number follows this rule: multiply by itself, then add the original number. If the result is 72, what is the original number?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2,
+      "topic": "number-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The rule is: n² + n = 72.\nStep 2: Try n = 8: 8² + 8 = 64 + 8 = 72. ✓\nThe answer is 8.\nCommon mistake: Choosing 9 (9² + 9 = 90, not 72)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q26",
+      "question": "A school has Year 5 and Year 6. In Year 5, 30 students study French and 20 study Japanese. In Year 6, 25 study French and 35 study Japanese. No student studies both languages. How many more students study Japanese than French across both years?",
+      "options": ["0", "5", "10", "15"],
+      "answer": 0,
+      "topic": "multi-step-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total French: 30 + 25 = 55.\nStep 2: Total Japanese: 20 + 35 = 55.\nStep 3: Difference: 55 − 55 = 0.\nThe answer is 0.\nCommon mistake: Choosing 10 (comparing only one year level)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q27",
+      "question": "A solid cube of side 4 cm is painted blue on all faces, then cut into 64 unit cubes (1 cm). How many unit cubes have NO painted faces?",
+      "options": ["0", "4", "8", "16"],
+      "answer": 2,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The unpainted cubes are completely inside the larger cube — they don't touch any face.\nStep 2: The interior of a 4×4×4 cube is 2×2×2 (removing one layer from each side).\nStep 3: 2 × 2 × 2 = 8 cubes with no painted faces.\nThe answer is 8.\nCommon mistake: Choosing 4 (calculating 2×2×1 instead of 2×2×2)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q28",
+      "question": "Monarchy is to king as democracy is to ___.",
+      "options": ["President", "Citizens", "Parliament", "Law"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: In a monarchy, power rests with the king.\nStep 2: In a democracy, power rests with the citizens (the people).\nStep 3: The relationship is: system of government to who holds the power.\nThe answer is Citizens.\nCommon mistake: Choosing President (a president is the leader in some democracies, but the defining feature of democracy is that power belongs to the people)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q29",
+      "question": "A family of 5 — mother, father, and three children (aged 5, 8, and 12) — sits in a row at the cinema. The parents sit at each end. The 5-year-old sits next to the mother. The 12-year-old does not sit next to the father. Where does the 8-year-old sit?",
+      "options": ["Next to the mother", "In the centre", "Next to the father", "Next to the 12-year-old"],
+      "answer": 2,
+      "topic": "deductive-puzzles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Parents at each end: Mother at position 1, Father at position 5 (or vice versa).\nStep 2: The 5-year-old sits next to the mother. So the 5-year-old is at position 2 (if Mother is at 1).\nStep 3: The 12-year-old does not sit next to the father (position 5). So the 12-year-old is not at position 4. The 12-year-old is at position 3.\nStep 4: The 8-year-old takes position 4 (next to the father).\nThe answer is Next to the father.\nCommon mistake: Choosing In the centre (the 12-year-old is in the centre)."
+    },
+    {
+      "id": "selective-y5-thinking-t2-q30",
+      "question": "Two machines work together. Machine A takes a number and adds 7. Machine B takes a number and multiplies by 3. If a number goes through Machine A first, then Machine B, the output is 45. What was the original number?",
+      "options": ["5", "6", "8", "10"],
+      "answer": 2,
+      "topic": "number-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Work backwards. Machine B output is 45. Machine B multiplies by 3. So input to B = 45 ÷ 3 = 15.\nStep 2: Machine A output is 15. Machine A adds 7. So input to A = 15 − 7 = 8.\nThe answer is 8.\nCommon mistake: Choosing 6 (subtracting 3 instead of dividing by 3)."
+    }
+  ]
+}

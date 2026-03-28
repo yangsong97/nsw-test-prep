@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-thinking-t1-q01",
+      "question": "Emma, Finn, and Grace each have a different pet: a cat, a dog, and a rabbit. Emma does not have the cat. Finn does not have the dog or the rabbit. Grace does not have the dog. What pet does Grace have?",
+      "options": ["Cat", "Dog", "Rabbit", "Cannot tell"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Finn does not have the dog or the rabbit. So Finn has the cat.\nStep 2: Grace does not have the dog. And Finn has the cat. So Grace has the rabbit.\nStep 3: Emma gets the remaining pet: the dog.\nThe answer is Rabbit.\nCommon mistake: Choosing Dog (Grace does not have the dog — stated in the clues)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q02",
+      "question": "A cube has 6 faces. If you unfold it into a cross-shaped net (one row of 4 squares with 1 square above and 1 square below the second square from the left), which face is opposite the top square of the cross?",
+      "options": ["The bottom square of the cross", "The leftmost square", "The rightmost square", "The third square from the left"],
+      "answer": 0,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Imagine the cross-shaped net: a row of 4 squares (left to right: 1, 2, 3, 4), with a square above position 2 (top) and a square below position 2 (bottom).\nStep 2: When folding: square 2 becomes the front face. The top square folds back to become the top of the cube. The bottom square folds back to become the bottom of the cube.\nStep 3: The top and bottom squares of the cross become opposite faces.\nThe answer is The bottom square of the cross.\nCommon mistake: Choosing the leftmost square (which becomes a side face, not the opposite face)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q03",
+      "question": "Dog is to puppy as tree is to ___. What relationship is being shown?",
+      "options": ["Forest — group containing the item", "Sapling — young version of the item", "Leaf — part of the item", "Wood — material from the item"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A puppy is a young dog (adult to young version).\nStep 2: A sapling is a young tree.\nStep 3: The relationship is adult/mature form to young form.\nThe answer is Sapling — young version of the item.\nCommon mistake: Choosing Leaf (a part of the tree, not a young version of it)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q04",
+      "question": "Three children — Aiden, Bella, and Cody — sit in a row of 3 chairs (left, middle, right). Aiden is not in the middle. Bella is to the right of Cody. Bella is in the middle. What seat is Cody in?",
+      "options": ["Left", "Middle", "Right", "Cannot tell"],
+      "answer": 0,
+      "topic": "deductive-puzzles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Bella is in the middle and to the right of Cody.\nStep 2: Since Bella is in the middle, Cody must be to her left, which is the left seat.\nStep 3: Aiden is not in the middle (Bella is there), so Aiden is in the right seat.\nStep 4: Order: Cody (left), Bella (middle), Aiden (right).\nThe answer is Left.\nCommon mistake: Choosing Middle (Bella is in the middle, not Cody)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q05",
+      "question": "A table shows: Input 1 → Output 5, Input 2 → Output 8, Input 3 → Output 11, Input 4 → Output 14. What is the rule?",
+      "options": ["Multiply by 5", "Multiply by 3 and add 2", "Add 4", "Multiply by 4 and add 1"],
+      "answer": 1,
+      "topic": "number-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Test each rule with Input 1:\n- Multiply by 5: 1×5=5 ✓\n- Multiply by 3 and add 2: 1×3+2=5 ✓\n- Add 4: 1+4=5 ✓\n- Multiply by 4 and add 1: 1×4+1=5 ✓\nStep 2: Test with Input 2:\n- Multiply by 5: 2×5=10 ✗ (should be 8)\n- Multiply by 3 and add 2: 2×3+2=8 ✓\n- Add 4: 2+4=6 ✗ (should be 8)\n- Multiply by 4 and add 1: 2×4+1=9 ✗ (should be 8)\nStep 3: Only 'Multiply by 3 and add 2' works for all inputs.\nThe answer is Multiply by 3 and add 2.\nCommon mistake: Choosing Multiply by 5 (only works for input 1)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q06",
+      "question": "Four students took different tests. Amy scored higher than Dan. Dan scored higher than Ben. Ben scored higher than Cara. Rank them from highest to lowest.",
+      "options": ["Amy, Dan, Ben, Cara", "Amy, Dan, Cara, Ben", "Amy, Ben, Dan, Cara", "Dan, Amy, Ben, Cara"],
+      "answer": 0,
+      "topic": "multi-step-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Amy > Dan (Amy scored higher than Dan).\nStep 2: Dan > Ben (Dan scored higher than Ben).\nStep 3: Ben > Cara (Ben scored higher than Cara).\nStep 4: Combining: Amy > Dan > Ben > Cara.\nThe answer is Amy, Dan, Ben, Cara.\nCommon mistake: Choosing Amy, Ben, Dan, Cara (swapping Dan and Ben)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q07",
+      "question": "A cube has numbers 1-6 on its faces. When looking at it from one corner, you can see faces showing 1, 2, and 3. Which number is on the face opposite to 1?",
+      "options": ["4", "5", "6", "Cannot tell from this information alone"],
+      "answer": 3,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: From one corner of a cube, you can see 3 faces.\nStep 2: The visible faces show 1, 2, and 3. The hidden faces show 4, 5, and 6.\nStep 3: Each visible face is opposite a hidden face, but we don't know which specific hidden face is opposite which visible face.\nStep 4: Without additional views or constraints, we cannot determine which number is opposite 1.\nThe answer is Cannot tell from this information alone.\nCommon mistake: Choosing 6 (assuming opposite faces always sum to 7 — this is true for standard dice but the question just says 'a cube with numbers 1-6', not a standard die)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q08",
+      "question": "Whole is to fraction as ___. Choose the pair that matches the same relationship.",
+      "options": ["Day is to hour", "Word is to letter", "Complete is to partial", "Full is to half"],
+      "answer": 2,
+      "topic": "advanced-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 'Whole' means complete or entire. A 'fraction' is a part or an incomplete amount.\nStep 2: The relationship is: complete/entire vs partial/incomplete.\nStep 3: 'Complete' to 'partial' matches this relationship exactly.\nThe answer is Complete is to partial.\nCommon mistake: Choosing 'Full is to half' (half is a specific fraction, not the general concept of being partial)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q09",
+      "question": "Five friends line up. Jake is 3rd. Sarah is in front of Jake but not 1st. Tom is last. Mia is 1st. Where is Leo?",
+      "options": ["2nd", "4th", "5th", "Cannot tell"],
+      "answer": 1,
+      "topic": "deductive-puzzles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Mia is 1st. Jake is 3rd. Tom is last (5th).\nStep 2: Sarah is in front of Jake but not 1st. Sarah must be 2nd.\nStep 3: Leo takes the only remaining position: 4th.\nThe answer is 4th.\nCommon mistake: Choosing 2nd (forgetting that Sarah must be 2nd)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q10",
+      "question": "A table shows: Input 2 → Output 7, Input 5 → Output 16, Input 10 → Output 31. What is the output for Input 7?",
+      "options": ["19", "20", "22", "24"],
+      "answer": 2,
+      "topic": "number-logic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. Try Output = Input × 3 + 1: 2×3+1=7 ✓, 5×3+1=16 ✓, 10×3+1=31 ✓.\nStep 2: The rule is: multiply by 3 and add 1.\nStep 3: For Input 7: 7 × 3 + 1 = 22.\nThe answer is 22.\nCommon mistake: Choosing 24 (multiplying by 3 and adding 3 instead of 1)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q11",
+      "question": "Four children each chose a different after-school activity: swimming, painting, music, and chess. From these clues, work out who does what. Clue 1: Liam does not do swimming or chess. Clue 2: Olivia does not do painting or music. Clue 3: Noah does swimming. Clue 4: Sophia does not do painting. What does Sophia do?",
+      "options": ["Swimming", "Painting", "Music", "Chess"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Noah does swimming (Clue 3).\nStep 2: Olivia does not do painting or music (Clue 2). Swimming is taken. So Olivia does chess.\nStep 3: Liam does not do swimming or chess (Clue 1). So Liam does painting or music.\nStep 4: Sophia does not do painting (Clue 4). Swimming and chess are taken. So Sophia does music.\nStep 5: Liam gets the remaining activity: painting.\nThe answer is Music.\nCommon mistake: Choosing Chess (Olivia does chess, not Sophia)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q12",
+      "question": "A net for a cube is shown as a T-shape: 3 squares in a vertical column, with 1 square to the right of the top square, 1 square to the right of the middle square, and 1 square to the left of the middle square. If the front face (middle square) has a star on it, which face is opposite the star?",
+      "options": ["The square to the left of the middle", "The square to the right of the top", "The bottom square of the column", "The top square of the column"],
+      "answer": 2,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The net is a T-shape. The middle square of the column is the front face.\nStep 2: When folding: the top square folds up to become the top face. The bottom square folds to become the opposite of the front face (the back).\nStep 3: The squares to the left and right of the middle become the left and right side faces. The square to the right of the top becomes... let me trace this.\nStep 4: Actually, the face opposite the middle (front) square is the bottom square of the column.\nThe answer is The bottom square of the column.\nCommon mistake: Choosing the top square (which becomes the top face, not the back face)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q13",
+      "question": "Doctor is to stethoscope as astronomer is to ___. The relationship type is:",
+      "options": ["Person to their workplace", "Person to the tool of their profession", "Person to their subject of study", "Person to their qualification"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A doctor uses a stethoscope as a professional tool.\nStep 2: An astronomer uses a telescope as a professional tool.\nStep 3: The relationship is: professional to their characteristic tool.\nThe answer is Person to the tool of their profession.\nCommon mistake: Choosing 'Person to their subject of study' (the stethoscope is a tool, not a subject)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q14",
+      "question": "Four children — Ava, Ben, Cal, and Dee — each like a different subject: maths, science, English, and art. Ava does not like maths or art. Ben likes science. Cal does not like English or maths. What subject does Dee like?",
+      "options": ["Maths", "Science", "English", "Art"],
+      "answer": 0,
+      "topic": "deductive-puzzles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ben likes science.\nStep 2: Ava does not like maths or art. Science is taken. So Ava likes English.\nStep 3: Cal does not like English or maths. Science is taken. So Cal likes art.\nStep 4: Dee gets the remaining subject: maths.\nThe answer is Maths.\nCommon mistake: Choosing Art (Cal likes art, not Dee)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q15",
+      "question": "A table shows pairs of numbers: (1, 1), (2, 4), (3, 9), (4, 16), (5, ?). What is the missing number?",
+      "options": ["20", "21", "25", "30"],
+      "answer": 2,
+      "topic": "number-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check the pattern: 1→1, 2→4, 3→9, 4→16.\nStep 2: Each output is the input squared: 1²=1, 2²=4, 3²=9, 4²=16.\nStep 3: For input 5: 5² = 25.\nThe answer is 25.\nCommon mistake: Choosing 20 (multiplying by 4 instead of squaring)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q16",
+      "question": "A farmer has chickens and cows in a paddock. He counts 20 heads and 56 legs in total. How many chickens are there?",
+      "options": ["8", "10", "12", "14"],
+      "answer": 2,
+      "topic": "multi-step-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each animal has 1 head. So there are 20 animals total.\nStep 2: Chickens have 2 legs, cows have 4 legs.\nStep 3: If all 20 were chickens: 20 × 2 = 40 legs. But we have 56 legs. Extra legs: 56 − 40 = 16.\nStep 4: Each cow has 2 extra legs compared to a chicken. Number of cows: 16 ÷ 2 = 8.\nStep 5: Number of chickens: 20 − 8 = 12.\nThe answer is 12.\nCommon mistake: Choosing 8 (that is the number of cows, not chickens)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q17",
+      "question": "A cube is painted red on all faces, then cut into 27 smaller cubes (3×3×3). How many of the small cubes have exactly 2 red faces?",
+      "options": ["6", "8", "12", "16"],
+      "answer": 2,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A 3×3×3 cube has 27 small cubes.\nStep 2: Corner cubes have 3 red faces. There are 8 corners.\nStep 3: Edge cubes (not corners) have 2 red faces. Each edge has 1 such cube (in a 3×3×3 cube). A cube has 12 edges.\nStep 4: So there are 12 small cubes with exactly 2 red faces.\nThe answer is 12.\nCommon mistake: Choosing 8 (counting corner cubes instead of edge cubes)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q18",
+      "question": "Clock is to time as thermometer is to temperature. Map is to location as ___ is to speed.",
+      "options": ["Speedometer", "Car", "Road", "Distance"],
+      "answer": 0,
+      "topic": "advanced-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A clock measures time. A thermometer measures temperature. A map shows location.\nStep 2: The relationship is: measuring instrument/tool to what it measures.\nStep 3: A speedometer measures speed.\nThe answer is Speedometer.\nCommon mistake: Choosing Car (a car has speed, but a speedometer is the instrument that measures it)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q19",
+      "question": "In a school, 5 children — Amy, Ben, Cara, Dan, and Eve — finish a race in different positions (1st to 5th). Amy finishes 1st. Dan finishes 2nd. Cara finishes after Dan but before Eve. Ben finishes 3rd. In what position does Eve finish?",
+      "options": ["3rd", "4th", "5th", "Cannot tell"],
+      "answer": 2,
+      "topic": "deductive-puzzles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Amy=1st, Dan=2nd, Ben=3rd.\nStep 2: Cara finishes after Dan (so 4th or 5th) but before Eve.\nStep 3: For Cara to be before Eve, Cara=4th and Eve=5th.\nThe answer is 5th.\nCommon mistake: Choosing 4th (that is Cara's position, not Eve's)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q20",
+      "question": "A function machine takes a number, doubles it, then subtracts 3. If the output is 17, what was the input?",
+      "options": ["7", "8", "9", "10"],
+      "answer": 3,
+      "topic": "number-logic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The rule is: Output = Input × 2 − 3.\nStep 2: Work backwards: 17 = Input × 2 − 3.\nStep 3: 17 + 3 = Input × 2. So 20 = Input × 2. Input = 10.\nThe answer is 10.\nCommon mistake: Choosing 7 (working the operations in the wrong order)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q21",
+      "question": "A school has 4 houses: Red, Blue, Green, and Yellow. From these clues, determine which house won the most points. Clue 1: Blue scored more than Red. Clue 2: Green scored less than Yellow. Clue 3: Blue scored less than Green. Which house scored the most?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "answer": 3,
+      "topic": "multi-step-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Blue > Red (Clue 1).\nStep 2: Yellow > Green (Clue 2).\nStep 3: Green > Blue (Clue 3).\nStep 4: Combining: Yellow > Green > Blue > Red.\nStep 5: Yellow scored the most.\nThe answer is Yellow.\nCommon mistake: Choosing Green (second highest, not the highest)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q22",
+      "question": "A cube is placed on a table. The top face shows a circle, the front face shows a triangle, and the right face shows a star. If the cube is rolled forward once (the front face goes down, the top face becomes the new front), what shape is now on top?",
+      "options": ["Circle", "Triangle", "Star", "The shape that was on the back face"],
+      "answer": 3,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Before rolling: Top=circle, Front=triangle, Right=star.\nStep 2: When rolled forward: the front goes to the bottom, the bottom goes to the back, the back goes to the top, the top goes to the front.\nStep 3: New top = old back face. We don't know what was on the back face directly.\nStep 4: The back face was opposite the front face (triangle). We don't know its shape.\nThe answer is The shape that was on the back face.\nCommon mistake: Choosing Circle (the circle was on top, but after rolling forward, it moves to the front, not stays on top)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q23",
+      "question": "Metaphor is to comparison as hyperbole is to ___.",
+      "options": ["Understatement", "Exaggeration", "Description", "Repetition"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A metaphor is a figure of speech that makes a comparison.\nStep 2: Hyperbole is a figure of speech that uses exaggeration.\nStep 3: The relationship is: literary device to what it does.\nThe answer is Exaggeration.\nCommon mistake: Choosing Understatement (the opposite of hyperbole, not what it does)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q24",
+      "question": "Seven people — A, B, C, D, E, F, G — sit in a row of chairs. B sits 3 chairs to the right of A. C sits immediately to the left of B. D sits at one end. E sits between D and A. F sits immediately to the right of B. Where does G sit?",
+      "options": ["To the left of D", "Between E and A", "To the right of F", "At the opposite end from D"],
+      "answer": 2,
+      "topic": "deductive-puzzles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 7 chairs, positions 1-7. B is 3 to the right of A.\nStep 2: If A is at position 1, B is at position 4. C is immediately left of B: C at position 3. F is immediately right of B: F at position 5.\nStep 3: D is at one end. E is between D and A.\nStep 4: If D is at position 7, E is between D (7) and A (1). E could be at position 2 (between A and D on the number line).\nStep 5: Positions filled: 1=A, 2=E, 3=C, 4=B, 5=F. D=7. Position 6 is empty. G goes at position 6.\nStep 6: Position 6 is to the right of F (position 5). ✓\nThe answer is To the right of F.\nCommon mistake: Choosing 'At the opposite end from D' (G is at position 6, not position 1)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q25",
+      "question": "A number machine has two operations: ★ means 'add 5' and ● means 'multiply by 2'. Starting with 3, the sequence of operations is ★ ● ★ ●. What is the final result?",
+      "options": ["26", "32", "36", "42"],
+      "answer": 3,
+      "topic": "number-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with 3.\nStep 2: ★ (add 5): 3 + 5 = 8.\nStep 3: ● (multiply by 2): 8 × 2 = 16.\nStep 4: ★ (add 5): 16 + 5 = 21.\nStep 5: ● (multiply by 2): 21 × 2 = 42.\nThe answer is 42.\nCommon mistake: Choosing 26 (doing all additions first, then all multiplications instead of following the sequence)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q26",
+      "question": "In a class, every student studies at least one of maths or science. 20 students study maths, 15 study science, and 8 study both. How many students are in the class?",
+      "options": ["27", "35", "43", "23"],
+      "answer": 0,
+      "topic": "multi-step-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Using inclusion-exclusion: Total = Maths + Science − Both.\nStep 2: Total = 20 + 15 − 8 = 27.\nThe answer is 27.\nCommon mistake: Choosing 35 (adding 20 + 15 without subtracting the overlap)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q27",
+      "question": "A cube is painted blue on the top and bottom, red on the front and back, and yellow on the left and right. If the cube is tilted so the right face becomes the new top, what colour is now on the front?",
+      "options": ["Blue", "Red", "Yellow", "Cannot tell — it depends on the tilt direction"],
+      "answer": 1,
+      "topic": "3d-spatial-reasoning",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Original: Top=blue, Bottom=blue, Front=red, Back=red, Left=yellow, Right=yellow.\nStep 2: The cube is tilted so the right face becomes the new top. This is a 90° rotation around the front-back axis.\nStep 3: Right→Top, Top→Left, Left→Bottom, Bottom→Right.\nStep 4: The front and back faces don't change in this rotation.\nStep 5: New arrangement: Top=yellow, Front=red, Right=blue.\nThe answer is Red (the front face remains red).\nCommon mistake: Choosing Blue (confusing which axis the rotation is around)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q28",
+      "question": "Democracy is to government as capitalism is to ___.",
+      "options": ["Politics", "Economy", "Freedom", "Society"],
+      "answer": 1,
+      "topic": "advanced-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Democracy is a type of government system.\nStep 2: Capitalism is a type of economic system.\nStep 3: The relationship is: specific system to the domain it belongs to.\nThe answer is Economy.\nCommon mistake: Choosing Politics (democracy relates to politics, but the analogy asks about capitalism's domain)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q29",
+      "question": "Four friends — Pete, Quinn, Rosa, and Steve — each live on a different street: Elm, Oak, Pine, and Maple. Pete does not live on Elm or Maple. Quinn does not live on Oak. Rosa lives on Pine. Steve does not live on Elm. Where does Pete live?",
+      "options": ["Elm", "Oak", "Pine", "Maple"],
+      "answer": 1,
+      "topic": "deductive-puzzles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Rosa lives on Pine.\nStep 2: Pete does not live on Elm or Maple. Pine is taken by Rosa. So Pete lives on Oak.\nStep 3: Verify: Steve does not live on Elm and Pine is taken. Steve lives on Elm or Maple. Since Steve ≠ Elm, Steve lives on Maple.\nStep 4: Quinn gets Elm (the remaining street). Quinn ≠ Oak ✓.\nThe answer is Oak.\nCommon mistake: Choosing Maple (Pete does not live on Maple — stated in the clues)."
+    },
+    {
+      "id": "selective-y5-thinking-t1-q30",
+      "question": "Two function machines are connected. Machine A takes an input, adds 3, then outputs to Machine B. Machine B takes that number, multiplies by 4, and gives the final output. If the final output is 48, what was the original input to Machine A?",
+      "options": ["6", "9", "12", "15"],
+      "answer": 1,
+      "topic": "number-logic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Work backwards from the final output.\nStep 2: Machine B multiplied by 4 to get 48. So input to B = 48 ÷ 4 = 12.\nStep 3: Machine A added 3 to get 12. So input to A = 12 − 3 = 9.\nThe answer is 9.\nCommon mistake: Choosing 12 (only working back through Machine B, not Machine A)."
+    }
+  ]
+}

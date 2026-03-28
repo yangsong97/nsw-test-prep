@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 1,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-thinking-t1-q01",
+      "question": "What comes next in this pattern? Circle, Square, Circle, Square, Circle, ___",
+      "options": ["Circle", "Triangle", "Square", "Rectangle"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Look at the pattern: Circle, Square, Circle, Square, Circle.\nStep 2: The pattern repeats two shapes: Circle, Square.\nStep 3: After Circle comes Square.\nThe answer is Square.\nCommon mistake: Choosing Circle (repeating the last shape instead of continuing the pattern)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q02",
+      "question": "Which shape is different from the others? (A) A red circle (B) A red square (C) A red triangle (D) A blue circle",
+      "options": ["A red circle", "A red square", "A red triangle", "A blue circle"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Look at what the shapes have in common.\nStep 2: Three shapes are red (circle, square, triangle). One shape is blue (circle).\nStep 3: The blue circle is the odd one out because it has a different colour.\nThe answer is the blue circle.\nCommon mistake: Choosing the red square or red triangle because they have a different shape, but the question is about which one differs from the majority — three are red and only one is blue."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q03",
+      "question": "What number comes next? 2, 4, 6, 8, ___",
+      "options": ["9", "10", "11", "12"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 4 - 2 = 2, 6 - 4 = 2, 8 - 6 = 2.\nStep 2: Each number goes up by 2.\nStep 3: 8 + 2 = 10.\nThe answer is 10.\nCommon mistake: Choosing 9 (adding 1 instead of 2) or 12 (adding 4)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q04",
+      "question": "Cat is to kitten as dog is to ___",
+      "options": ["Puppy", "Cub", "Foal", "Calf"],
+      "answer": 0,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A kitten is a baby cat.\nStep 2: So we need the baby of a dog.\nStep 3: A baby dog is called a puppy.\nThe answer is Puppy.\nCommon mistake: Choosing Cub (baby bear) or Calf (baby cow)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q05",
+      "question": "What comes next in this pattern? Star, Star, Moon, Star, Star, Moon, Star, Star, ___",
+      "options": ["Star", "Moon", "Sun", "Cloud"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Look at the pattern: Star, Star, Moon repeats.\nStep 2: The pattern is ABC: Star, Star, Moon.\nStep 3: After Star, Star, the next shape is Moon.\nThe answer is Moon.\nCommon mistake: Choosing Star (not noticing the repeating group of three)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q06",
+      "question": "Which shape looks the same as this one? A square with a dot in the top-right corner.",
+      "options": ["A square with a dot in the bottom-left corner", "A square with a dot in the top-right corner", "A square with a dot in the centre", "A square with no dot"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The original shape is a square with a dot in the top-right corner.\nStep 2: We need to find the exact same shape.\nStep 3: Option B has a square with a dot in the top-right corner — this matches exactly.\nThe answer is B.\nCommon mistake: Choosing A (dot in the wrong corner — bottom-left instead of top-right)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q07",
+      "question": "What number comes next? 5, 10, 15, 20, ___",
+      "options": ["22", "24", "25", "30"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 10 - 5 = 5, 15 - 10 = 5, 20 - 15 = 5.\nStep 2: Each number goes up by 5.\nStep 3: 20 + 5 = 25.\nThe answer is 25.\nCommon mistake: Choosing 30 (adding 10 instead of 5) or 22 (adding 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q08",
+      "question": "Which one does NOT belong? Apple, Banana, Carrot, Grape",
+      "options": ["Apple", "Banana", "Carrot", "Grape"],
+      "answer": 2,
+      "topic": "odd-one-out",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Apple, Banana, and Grape are all fruits.\nStep 2: Carrot is a vegetable, not a fruit.\nStep 3: Carrot does not belong with the group of fruits.\nThe answer is Carrot.\nCommon mistake: Choosing Banana (because it is a different shape) — but the key grouping is fruits vs vegetables."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q09",
+      "question": "Bird is to nest as fish is to ___",
+      "options": ["Tree", "Water", "Sky", "Cave"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A bird lives in a nest.\nStep 2: So we need the place where a fish lives.\nStep 3: A fish lives in water.\nThe answer is Water.\nCommon mistake: Choosing Tree (confusing where birds and fish live)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q10",
+      "question": "What comes next in this pattern? Red, Blue, Red, Blue, Red, ___",
+      "options": ["Red", "Green", "Blue", "Yellow"],
+      "answer": 2,
+      "topic": "simple-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern alternates: Red, Blue, Red, Blue, Red.\nStep 2: After Red comes Blue.\nThe answer is Blue.\nCommon mistake: Choosing Red (repeating the last colour instead of alternating)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q11",
+      "question": "What comes next in this pattern? Triangle, Triangle, Square, Square, Triangle, Triangle, Square, Square, Triangle, Triangle, ___",
+      "options": ["Triangle", "Square", "Circle", "Rectangle"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Group the shapes: (Triangle, Triangle), (Square, Square), (Triangle, Triangle), (Square, Square), (Triangle, Triangle).\nStep 2: The pattern is two triangles then two squares, repeating.\nStep 3: After two triangles, the next shape is a square.\nThe answer is Square.\nCommon mistake: Choosing Triangle (continuing the triangles instead of switching to squares)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q12",
+      "question": "A rectangle has a line drawn from the top-left corner to the bottom-right corner, dividing it into two triangles. The top triangle is shaded. Which option describes the same shape but flipped upside down?",
+      "options": ["The top triangle is shaded", "The bottom triangle is shaded", "Both triangles are shaded", "Neither triangle is shaded"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The original has the top triangle shaded.\nStep 2: When you flip a shape upside down, what was on top goes to the bottom.\nStep 3: So the shaded triangle would now be on the bottom.\nThe answer is: The bottom triangle is shaded.\nCommon mistake: Choosing 'The top triangle is shaded' (forgetting that flipping changes top and bottom)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q13",
+      "question": "What number comes next? 3, 6, 9, 12, ___",
+      "options": ["13", "14", "15", "16"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 6 - 3 = 3, 9 - 6 = 3, 12 - 9 = 3.\nStep 2: Each number goes up by 3.\nStep 3: 12 + 3 = 15.\nThe answer is 15.\nCommon mistake: Choosing 13 (adding 1) or 14 (adding 2 instead of 3)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q14",
+      "question": "Foot is to shoe as hand is to ___",
+      "options": ["Sock", "Glove", "Hat", "Scarf"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A shoe is worn on a foot.\nStep 2: We need something worn on a hand.\nStep 3: A glove is worn on a hand.\nThe answer is Glove.\nCommon mistake: Choosing Sock (socks go on feet, not hands)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q15",
+      "question": "Which one does NOT belong? Car, Bus, Bicycle, Helicopter",
+      "options": ["Car", "Bus", "Bicycle", "Helicopter"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Car, Bus, and Bicycle all travel on roads (on the ground).\nStep 2: A Helicopter travels in the air.\nStep 3: The Helicopter is the odd one out because it does not travel on roads.\nThe answer is Helicopter.\nCommon mistake: Choosing Bicycle (because it has no engine), but the main grouping is ground vs air transport."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q16",
+      "question": "What comes next in this pattern? 1, 1, 2, 1, 1, 2, 1, 1, ___",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Group the numbers: (1, 1, 2), (1, 1, 2), (1, 1, __).\nStep 2: The pattern repeats every three numbers: 1, 1, 2.\nStep 3: The missing number is 2.\nThe answer is 2.\nCommon mistake: Choosing 1 (continuing the 1s instead of completing the group)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q17",
+      "question": "A square is divided into 4 equal smaller squares. The top-left small square is shaded. Which option shows the same pattern rotated so the shaded square is in the bottom-left?",
+      "options": ["Shaded square in top-right", "Shaded square in bottom-right", "Shaded square in bottom-left", "Shaded square in top-left"],
+      "answer": 2,
+      "topic": "shape-matching",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The shaded square starts in the top-left.\nStep 2: We need it to be in the bottom-left.\nStep 3: Moving from top-left to bottom-left means rotating 90 degrees clockwise.\nThe answer is: Shaded square in bottom-left.\nCommon mistake: Choosing bottom-right (rotating 180 degrees instead of 90 degrees)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q18",
+      "question": "What number comes next? 10, 20, 30, 40, ___",
+      "options": ["45", "50", "55", "60"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 20 - 10 = 10, 30 - 20 = 10, 40 - 30 = 10.\nStep 2: Each number goes up by 10.\nStep 3: 40 + 10 = 50.\nThe answer is 50.\nCommon mistake: Choosing 45 (adding 5 instead of 10) or 60 (adding 20)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q19",
+      "question": "Day is to night as hot is to ___",
+      "options": ["Warm", "Cold", "Sunny", "Wet"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Day and night are opposites.\nStep 2: We need the opposite of hot.\nStep 3: The opposite of hot is cold.\nThe answer is Cold.\nCommon mistake: Choosing Warm (similar to hot, not opposite)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q20",
+      "question": "Which one does NOT belong? Dog, Cat, Goldfish, Table",
+      "options": ["Dog", "Cat", "Goldfish", "Table"],
+      "answer": 3,
+      "topic": "odd-one-out",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Dog, Cat, and Goldfish are all animals.\nStep 2: A Table is a piece of furniture, not an animal.\nStep 3: Table does not belong.\nThe answer is Table.\nCommon mistake: Choosing Goldfish (because it lives in water unlike the others), but all three are still animals."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q21",
+      "question": "What comes next in this pattern? A, C, E, G, ___",
+      "options": ["H", "I", "J", "K"],
+      "answer": 1,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Look at the letters: A(1), C(3), E(5), G(7).\nStep 2: Each letter skips one: A, skip B, C, skip D, E, skip F, G.\nStep 3: Skip H, so the next letter is I.\nThe answer is I.\nCommon mistake: Choosing H (the next letter without skipping)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q22",
+      "question": "What comes next in this pattern? Heart, Diamond, Club, Heart, Diamond, Club, Heart, ___",
+      "options": ["Heart", "Diamond", "Club", "Spade"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Group the pattern: (Heart, Diamond, Club), (Heart, Diamond, Club), (Heart, ___).\nStep 2: The pattern repeats every 3 symbols.\nStep 3: After Heart comes Diamond.\nThe answer is Diamond.\nCommon mistake: Choosing Club (jumping to the third item) or Heart (repeating the last seen symbol)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q23",
+      "question": "A large circle has a small circle inside it. The small circle is in the top half. Which option shows the same picture flipped left to right (mirrored)?",
+      "options": ["Small circle in the bottom half", "Small circle in the top half", "Small circle outside the large circle", "No small circle at all"],
+      "answer": 1,
+      "topic": "shape-matching",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The small circle is in the top half of the large circle.\nStep 2: Flipping left to right (mirroring horizontally) does not change the vertical position.\nStep 3: The small circle stays in the top half.\nThe answer is: Small circle in the top half.\nCommon mistake: Choosing 'bottom half' (confusing a horizontal flip with a vertical flip)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q24",
+      "question": "Cow is to milk as hen is to ___",
+      "options": ["Feather", "Egg", "Chick", "Corn"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A cow gives us milk (a product we collect).\nStep 2: We need the product we collect from a hen.\nStep 3: A hen gives us eggs.\nThe answer is Egg.\nCommon mistake: Choosing Chick (a baby hen, not a product) or Feather (a part of a hen but not the main product)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q25",
+      "question": "What number comes next? 1, 2, 4, 7, 11, ___",
+      "options": ["14", "15", "16", "17"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 2-1=1, 4-2=2, 7-4=3, 11-7=4.\nStep 2: The differences increase by 1 each time: 1, 2, 3, 4.\nStep 3: The next difference is 5. So 11 + 5 = 16.\nThe answer is 16.\nCommon mistake: Choosing 15 (adding 4 again instead of increasing the difference to 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q26",
+      "question": "Which one does NOT belong? 2, 5, 8, 10, 14",
+      "options": ["2", "5", "8", "10"],
+      "answer": 1,
+      "topic": "odd-one-out",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Look at the numbers: 2, 5, 8, 10, 14.\nStep 2: 2, 8, 10, 14 are all even numbers.\nStep 3: 5 is the only odd number.\nThe answer is 5.\nCommon mistake: Choosing 14 (because it is the largest) — but the grouping is even vs odd."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q27",
+      "question": "What comes next in this pattern? Triangle pointing up, Triangle pointing down, Triangle pointing up, Triangle pointing down, Triangle pointing up, ___",
+      "options": ["Triangle pointing up", "Triangle pointing down", "Triangle pointing left", "Square"],
+      "answer": 1,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern alternates: up, down, up, down, up.\nStep 2: After 'up' comes 'down'.\nThe answer is Triangle pointing down.\nCommon mistake: Choosing Triangle pointing up (repeating the last direction instead of alternating)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q28",
+      "question": "Pen is to write as scissors are to ___",
+      "options": ["Paper", "Cut", "Draw", "Glue"],
+      "answer": 1,
+      "topic": "simple-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A pen is used to write (tool to action).\nStep 2: We need the action that scissors are used for.\nStep 3: Scissors are used to cut.\nThe answer is Cut.\nCommon mistake: Choosing Paper (what you cut, not the action of cutting)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q29",
+      "question": "What number comes next? 50, 45, 40, 35, ___",
+      "options": ["25", "28", "30", "32"],
+      "answer": 2,
+      "topic": "basic-sequences",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 45-50=-5, 40-45=-5, 35-40=-5.\nStep 2: Each number goes down by 5.\nStep 3: 35 - 5 = 30.\nThe answer is 30.\nCommon mistake: Choosing 25 (subtracting 10 instead of 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t1-q30",
+      "question": "A row of shapes follows a pattern: large circle, small circle, large square, small square, large triangle, small triangle, large circle, small circle, large square, small square, large triangle, ___. What comes next?",
+      "options": ["Large circle", "Small circle", "Large triangle", "Small triangle"],
+      "answer": 3,
+      "topic": "simple-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern uses pairs: (large circle, small circle), (large square, small square), (large triangle, small triangle), then repeats.\nStep 2: The last shape shown is 'large triangle'. It needs its pair.\nStep 3: The pair is 'small triangle'.\nThe answer is Small triangle.\nCommon mistake: Choosing Large circle (jumping to the start of the next cycle instead of finishing the current pair)."
+    }
+  ]
+}
