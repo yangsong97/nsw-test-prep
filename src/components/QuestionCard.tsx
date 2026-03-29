@@ -8,7 +8,6 @@ interface QuestionCardProps {
   selectedAnswer: number | null;
   onSelect: (index: number) => void;
   showCorrect: boolean;
-  isTeacher: boolean;
 }
 
 const OPTION_LETTERS = ['A', 'B', 'C', 'D'] as const;
@@ -18,7 +17,6 @@ export default function QuestionCard({
   selectedAnswer,
   onSelect,
   showCorrect,
-  isTeacher,
 }: QuestionCardProps) {
   function getOptionClasses(index: number): string {
     const base =
@@ -85,8 +83,8 @@ export default function QuestionCard({
         ))}
       </div>
 
-      {showCorrect && isTeacher && (
-        <WorkedSolution solution={question.workedSolution} isTeacher={isTeacher} />
+      {showCorrect && (
+        <WorkedSolution solution={question.workedSolution} />
       )}
     </div>
   );

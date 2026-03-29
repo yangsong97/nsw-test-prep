@@ -5,7 +5,6 @@ import { WritingRubric as WritingRubricType, SampleResponse } from '@/lib/types'
 interface WritingRubricProps {
   rubric: WritingRubricType;
   sampleResponses: SampleResponse[];
-  isTeacher: boolean;
 }
 
 const CRITERIA = [
@@ -24,10 +23,7 @@ const LEVELS = [
 export default function WritingRubric({
   rubric,
   sampleResponses,
-  isTeacher,
 }: WritingRubricProps) {
-  if (!isTeacher) return null;
-
   return (
     <div className="space-y-6">
       {/* Rubric table */}

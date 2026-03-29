@@ -105,7 +105,6 @@ function ResultsClientInner({
             <QuestionReview
               questions={questions}
               answers={answers}
-              isTeacher={isTeacher}
             />
           </div>
 

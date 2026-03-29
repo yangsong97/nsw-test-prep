@@ -25,23 +25,18 @@ import WritingRubric from '@/components/WritingRubric';
 // ---- Writing view (no scoring) ----
 function WritingView({
   test,
-  isTeacher,
   backHref,
 }: {
   test: WritingTest;
-  isTeacher: boolean;
   backHref: string;
 }) {
   return (
     <div className="space-y-6">
       <WritingPrompt prompt={test.prompt} />
-      {isTeacher && (
-        <WritingRubric
-          rubric={test.rubric}
-          sampleResponses={test.sampleResponses}
-          isTeacher={isTeacher}
-        />
-      )}
+      <WritingRubric
+        rubric={test.rubric}
+        sampleResponses={test.sampleResponses}
+      />
       <div>
         <Link
           href={backHref}
@@ -132,7 +127,6 @@ function MCView({ test, isTeacher, resultsHref, testId }: MCViewProps) {
         selectedAnswer={answers[currentQuestion] ?? null}
         onSelect={(optionIndex) => selectAnswer(currentQuestion, optionIndex)}
         showCorrect={false}
-        isTeacher={isTeacher}
       />
 
       {/* Navigation */}
@@ -215,7 +209,7 @@ function TestClientInner({
 
         {/* Test content */}
         {isWritingTest(test) && (
-          <WritingView test={test as WritingTest} isTeacher={isTeacher} backHref={backHref} />
+          <WritingView test={test as WritingTest} backHref={backHref} />
         )}
         {(isMCTest(test) || isReadingTest(test)) && (
           <MCView

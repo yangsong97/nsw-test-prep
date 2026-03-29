@@ -1,12 +1,6 @@
 'use client';
 
-interface WorkedSolutionProps {
-  solution: string;
-  isTeacher: boolean;
-}
-
-export default function WorkedSolution({ solution, isTeacher }: WorkedSolutionProps) {
-  if (!isTeacher) return null;
+export default function WorkedSolution({ solution }: { solution: string }) {
 
   // Split solution into paragraphs, highlighting "Common mistake" sections
   const lines = solution.split('\n');

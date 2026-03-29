@@ -7,7 +7,6 @@ import WorkedSolution from './WorkedSolution';
 interface QuestionReviewProps {
   questions: MCQuestion[];
   answers: Record<number, number>;
-  isTeacher: boolean;
 }
 
 const OPTION_LETTERS = ['A', 'B', 'C', 'D'] as const;
@@ -15,7 +14,6 @@ const OPTION_LETTERS = ['A', 'B', 'C', 'D'] as const;
 export default function QuestionReview({
   questions,
   answers,
-  isTeacher,
 }: QuestionReviewProps) {
   const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
 
@@ -147,12 +145,7 @@ export default function QuestionReview({
                   })}
                 </div>
 
-                {isTeacher && (
-                  <WorkedSolution
-                    solution={question.workedSolution}
-                    isTeacher={isTeacher}
-                  />
-                )}
+                <WorkedSolution solution={question.workedSolution} />
               </div>
             )}
           </div>
