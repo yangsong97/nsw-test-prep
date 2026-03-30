@@ -32,3 +32,28 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
 }
+
+@media print {
+  header,
+  footer {
+    display: none !important;
+  }
+
+  .sticky {
+    position: static !important;
+  }
+
+  .shadow-sm {
+    box-shadow: none !important;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  [data-print-block] {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}

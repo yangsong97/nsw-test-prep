@@ -7,6 +7,7 @@ import WorkedSolution from './WorkedSolution';
 interface QuestionReviewProps {
   questions: MCQuestion[];
   answers: Record<number, number>;
+  expandAll?: boolean;
 }
 
 const OPTION_LETTERS = ['A', 'B', 'C', 'D'] as const;
@@ -14,6 +15,7 @@ const OPTION_LETTERS = ['A', 'B', 'C', 'D'] as const;
 export default function QuestionReview({
   questions,
   answers,
+  expandAll = false,
 }: QuestionReviewProps) {
   const [expandedIndex, setExpandedIndex] = useState<number | null>(null);
 
@@ -30,13 +32,14 @@ export default function QuestionReview({
     <div className="space-y-2">
       {questions.map((question, index) => {
         const status = getStatus(index);
-        const isExpanded = expandedIndex === index;
+        const isExpanded = expandAll || expandedIndex === index;
         const userAnswer = answers[index];
         const correctAnswer = question.answer;
 
         return (
           <div
             key={question.id}
+            data-print-block
             className="bg-white rounded-xl border border-gray-200 overflow-hidden shadow-sm"
           >
             {/* Summary row */}
@@ -96,7 +99,7 @@ export default function QuestionReview({
               </span>
 
               {/* Expand chevron */}
-              <span className={`flex-shrink-0 text-gray-400 transition-transform ${isExpanded ? 'rotate-180' : ''}`}>
+              <span className={`flex-shrink-0 text-gray-400 transition-transform print:hidden ${isExpanded ? 'rotate-180' : ''}`}>
                 <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
                 </svg>

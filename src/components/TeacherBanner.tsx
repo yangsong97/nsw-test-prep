@@ -8,7 +8,7 @@ export default function TeacherBanner({ isTeacher }: TeacherBannerProps) {
   if (!isTeacher) return null;
 
   return (
-    <div className="sticky top-14 z-40 w-full bg-amber-400 border-b border-amber-500">
+    <div className="sticky top-14 z-40 w-full bg-amber-400 border-b border-amber-500 print:hidden">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-2 flex items-center gap-2">
         <svg
           className="w-4 h-4 text-amber-900 flex-shrink-0"

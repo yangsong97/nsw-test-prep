@@ -26,6 +26,7 @@ function ResultsClientInner({
   const isTeacher = useTeacherMode();
   const [answers, setAnswers] = useState<Record<number, number>>({});
   const [loaded, setLoaded] = useState(false);
+  const [isPrintMode, setIsPrintMode] = useState(false);
 
   useEffect(() => {
     // Load saved answers from localStorage
@@ -39,6 +40,16 @@ function ResultsClientInner({
     }
     setLoaded(true);
   }, [testId]);
+
+  useEffect(() => {
+    if (!isPrintMode) return;
+    // Let React flush expanded questions into the DOM before printing
+    const id = setTimeout(() => {
+      window.print();
+      setIsPrintMode(false);
+    }, 100);
+    return () => clearTimeout(id);
+  }, [isPrintMode]);
 
   if (!loaded) {
     return (
@@ -72,7 +83,7 @@ function ResultsClientInner({
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Back link */}
-        <div className="mb-6">
+        <div className="mb-6 print:hidden">
           <Link
             href={backHref}
             className="inline-flex items-center gap-2 text-sm text-gray-500 hover:text-gray-700 transition-colors"
@@ -105,11 +116,12 @@ function ResultsClientInner({
             <QuestionReview
               questions={questions}
               answers={answers}
+              expandAll={isPrintMode}
             />
           </div>
 
-          {/* Retry / back */}
-          <div className="flex flex-wrap gap-3 pt-4 border-t border-gray-100">
+          {/* Retry / back / print */}
+          <div className="flex flex-wrap gap-3 pt-4 border-t border-gray-100 print:hidden">
             <Link
               href={retryHref}
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-semibold rounded-lg transition-colors"
@@ -122,6 +134,15 @@ function ResultsClientInner({
             >
               Back to tests
             </Link>
+            <button
+              onClick={() => setIsPrintMode(true)}
+              className="inline-flex items-center gap-2 px-5 py-2.5 border border-gray-300 text-gray-700 hover:bg-gray-50 text-sm font-semibold rounded-lg transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
+              </svg>
+              Print
+            </button>
           </div>
         </div>
       </div>
