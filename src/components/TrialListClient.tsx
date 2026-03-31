@@ -32,12 +32,15 @@ function TrialListInner({
       {trials.map((trial) => {
         const testId = makeTestId(track, grade, subject, trial);
         const result = getResult(testId);
-        const href = teacherUrl(`${basePath}/trial-${trial}`, isTeacher);
+        const base = `${basePath}/trial-${trial}`;
+        const href = teacherUrl(base, isTeacher);
+        const printHref = `${base}?print=true`;
         return (
           <TestCard
             key={trial}
             trial={trial}
             href={href}
+            printHref={printHref}
             completed={result ?? undefined}
           />
         );
@@ -62,6 +65,7 @@ export default function TrialListClient(props: TrialListClientProps) {
               key={trial}
               trial={trial}
               href={`${props.basePath}/trial-${trial}`}
+              printHref={`${props.basePath}/trial-${trial}?print=true`}
             />
           ))}
         </div>

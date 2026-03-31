@@ -1,7 +1,7 @@
 'use client';
 
 import { Suspense, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import {
   Test,
@@ -21,6 +21,7 @@ import TestProgress from '@/components/TestProgress';
 import TeacherBanner from '@/components/TeacherBanner';
 import WritingPrompt from '@/components/WritingPrompt';
 import WritingRubric from '@/components/WritingRubric';
+import PrintableWorksheet from '@/components/PrintableWorksheet';
 
 // ---- Writing view (no scoring) ----
 function WritingView({
@@ -194,6 +195,12 @@ function TestClientInner({
   title,
 }: TestClientInnerProps) {
   const isTeacher = useTeacherMode();
+  const searchParams = useSearchParams();
+  const isPrintMode = searchParams.get('print') === 'true';
+
+  if (isPrintMode) {
+    return <PrintableWorksheet test={test} title={title} backHref={backHref} />;
+  }
 
   return (
     <div>
