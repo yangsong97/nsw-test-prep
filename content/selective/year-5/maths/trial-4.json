@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-maths-t4-q01",
+      "question": "What is 12,345 + 8,679?",
+      "options": ["20,024", "21,024", "21,124", "22,024"],
+      "answer": 1,
+      "topic": "operations-large-numbers",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 5 + 9 = 14. Write 4, carry 1.\nStep 2: Tens: 4 + 7 + 1 = 12. Write 2, carry 1.\nStep 3: Hundreds: 3 + 6 + 1 = 10. Write 0, carry 1.\nStep 4: Thousands: 2 + 8 + 1 = 11. Write 1, carry 1.\nStep 5: Ten-thousands: 1 + 1 = 2.\nStep 6: 12,345 + 8,679 = 21,024.\nCommon mistake: Choosing 20,024 (not carrying from hundreds) or 21,124 (hundreds digit error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q02",
+      "question": "What is 3/4 as a decimal?",
+      "options": ["0.25", "0.34", "0.5", "0.75"],
+      "answer": 3,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3/4 = 3 ÷ 4 = 0.75.\nStep 2: Or: 1/4 = 0.25, so 3/4 = 3 × 0.25 = 0.75.\nCommon mistake: Choosing 0.34 (writing the fraction digits) or 0.5 (confusing with 1/2)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q03",
+      "question": "A rectangular room is 6 m long, 4 m wide, and 3 m high. What is the volume of the room?",
+      "options": ["24 m³", "48 m³", "72 m³", "96 m³"],
+      "answer": 2,
+      "topic": "area-volume",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Volume = length × width × height.\nStep 2: 6 × 4 × 3 = 72 m³.\nCommon mistake: Choosing 24 m³ (6 × 4 only, forgetting height) or 48 m³ (multiplying two dimensions wrong)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q04",
+      "question": "How many degrees are in a right angle?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "answer": 2,
+      "topic": "angles-triangles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A right angle is exactly 90°.\nCommon mistake: Choosing 180° (a straight angle) or 45° (half a right angle)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q05",
+      "question": "If n + 7 = 15, what is n?",
+      "options": ["7", "8", "9", "22"],
+      "answer": 1,
+      "topic": "algebraic-thinking",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: n + 7 = 15.\nStep 2: n = 15 − 7 = 8.\nCommon mistake: Choosing 22 (adding instead of subtracting) or 7 (using the given number)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q06",
+      "question": "The scores of 5 students are: 72, 85, 68, 90, 75. What is the mean (average)?",
+      "options": ["75", "76", "78", "80"],
+      "answer": 2,
+      "topic": "data-mean-median",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sum = 72 + 85 + 68 + 90 + 75 = 390.\nStep 2: Mean = 390 ÷ 5 = 78.\nCommon mistake: Choosing 75 (the median, not the mean) or 80 (rounding)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q07",
+      "question": "What is 8 + 3 × 4?",
+      "options": ["20", "44", "32", "14"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Order of operations: multiplication before addition.\nStep 2: 3 × 4 = 12.\nStep 3: 8 + 12 = 20.\nCommon mistake: Choosing 44 (doing 8 + 3 = 11 first, then 11 × 4) or 32 (8 × 4)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q08",
+      "question": "What is 50,000 − 23,456?",
+      "options": ["26,444", "26,544", "27,544", "36,544"],
+      "answer": 1,
+      "topic": "operations-large-numbers",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 50,000 − 23,456.\nStep 2: 50,000 − 23,000 = 27,000. 27,000 − 456 = 26,544.\nCommon mistake: Choosing 26,444 (ones column error) or 27,544 (not subtracting hundreds properly)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q09",
+      "question": "What is 40% as a fraction in simplest form?",
+      "options": ["2/5", "4/10", "4/5", "1/4"],
+      "answer": 0,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 40% = 40/100.\nStep 2: Simplify: 40 ÷ 20 = 2, 100 ÷ 20 = 5.\nStep 3: 40% = 2/5.\nCommon mistake: Choosing 4/10 (not fully simplified) or 1/4 (confusing 40% with 25%)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q10",
+      "question": "A triangle has angles of 40° and 70°. What is the third angle?",
+      "options": ["60°", "70°", "80°", "110°"],
+      "answer": 1,
+      "topic": "angles-triangles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Sum of angles in a triangle = 180°.\nStep 2: 40° + 70° = 110°.\nStep 3: Third angle = 180° − 110° = 70°.\nCommon mistake: Choosing 80° (subtracting from 190°) or 110° (adding instead of subtracting from 180°)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q11",
+      "question": "What is 346 × 28?",
+      "options": ["9,288", "9,588", "9,688", "9,788"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 346 × 20 = 6,920.\nStep 2: 346 × 8 = 2,768.\nStep 3: 6,920 + 2,768 = 9,688.\nCommon mistake: Choosing 9,588 (346 × 8 = 2,668 error) or 9,788 (addition error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q12",
+      "question": "Convert 0.6 to a percentage.",
+      "options": ["0.6%", "6%", "60%", "600%"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: To convert a decimal to a percentage, multiply by 100.\nStep 2: 0.6 × 100 = 60%.\nCommon mistake: Choosing 6% (not multiplying by 100) or 0.6% (keeping decimal form)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q13",
+      "question": "A box is 20 cm long, 15 cm wide, and 10 cm tall. What is its volume?",
+      "options": ["1500 cm³", "3000 cm³", "4500 cm³", "6000 cm³"],
+      "answer": 1,
+      "topic": "area-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Volume = length × width × height.\nStep 2: 20 × 15 = 300. 300 × 10 = 3000 cm³.\nCommon mistake: Choosing 1500 cm³ (20 × 15 × 5 or miscalculating) or 4500 cm³ (adding dimensions then multiplying)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q14",
+      "question": "An isosceles triangle has two equal angles of 55° each. What is the third angle?",
+      "options": ["55°", "60°", "65°", "70°"],
+      "answer": 3,
+      "topic": "angles-triangles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Sum of angles = 180°.\nStep 2: Two equal angles = 55° + 55° = 110°.\nStep 3: Third angle = 180° − 110° = 70°.\nCommon mistake: Choosing 55° (all angles equal) or 65° (subtraction error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q15",
+      "question": "If 3n = 24, what is the value of n + 5?",
+      "options": ["8", "10", "13", "29"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 3n = 24. n = 24 ÷ 3 = 8.\nStep 2: n + 5 = 8 + 5 = 13.\nCommon mistake: Choosing 8 (finding n but not adding 5) or 29 (24 + 5)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q16",
+      "question": "The scores are: 45, 52, 48, 52, 63. What is the median?",
+      "options": ["48", "50", "52", "53"],
+      "answer": 2,
+      "topic": "data-mean-median",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Arrange in order: 45, 48, 52, 52, 63.\nStep 2: The middle value (3rd of 5) is 52.\nCommon mistake: Choosing 48 (second value) or 50 (average of 48 and 52)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q17",
+      "question": "What is (12 + 8) ÷ 4 + 3?",
+      "options": ["5", "7", "8", "23"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Brackets first: 12 + 8 = 20.\nStep 2: Division: 20 ÷ 4 = 5.\nStep 3: Addition: 5 + 3 = 8.\nCommon mistake: Choosing 23 (12 + 8 ÷ 4 + 3 = 12 + 2 + 3 = 17, or other order error) or 5 (forgetting to add 3)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q18",
+      "question": "What is 15,600 ÷ 24?",
+      "options": ["550", "600", "650", "700"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 24 × 600 = 14,400. 15,600 − 14,400 = 1,200.\nStep 2: 1,200 ÷ 24 = 50.\nStep 3: 600 + 50 = 650.\nCommon mistake: Choosing 600 (15,600 ÷ 26) or 700 (rounding error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q19",
+      "question": "Which of the following is equal to 3/8?",
+      "options": ["0.35", "0.375", "0.38", "0.83"],
+      "answer": 1,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 3/8 = 3 ÷ 8.\nStep 2: 3 ÷ 8 = 0.375.\nCommon mistake: Choosing 0.38 (writing 3 and 8 as digits) or 0.35 (incorrect division)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q20",
+      "question": "A square has a perimeter of 48 cm. What is its area?",
+      "options": ["96 cm²", "144 cm²", "192 cm²", "576 cm²"],
+      "answer": 1,
+      "topic": "area-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Side = perimeter ÷ 4 = 48 ÷ 4 = 12 cm.\nStep 2: Area = 12 × 12 = 144 cm².\nCommon mistake: Choosing 576 cm² (48 × 12) or 192 cm² (48 × 4)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q21",
+      "question": "What is 4,082 × 37?",
+      "options": ["150,034", "151,034", "151,134", "152,034"],
+      "answer": 1,
+      "topic": "operations-large-numbers",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4,082 × 30 = 122,460.\nStep 2: 4,082 × 7 = 28,574.\nStep 3: 122,460 + 28,574 = 151,034.\nCommon mistake: Choosing 150,034 (addition error) or 151,134 (digit error in multiplication)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q22",
+      "question": "Express 7/20 as a percentage.",
+      "options": ["7%", "14%", "35%", "70%"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 7/20 = 7 ÷ 20 = 0.35.\nStep 2: 0.35 × 100 = 35%.\nCommon mistake: Choosing 70% (7/10 instead of 7/20) or 14% (doubling 7 without context)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q23",
+      "question": "A swimming pool is 25 m long, 10 m wide, and 2 m deep. How many cubic metres of water does it hold?",
+      "options": ["250 m³", "350 m³", "500 m³", "750 m³"],
+      "answer": 2,
+      "topic": "area-volume",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Volume = length × width × depth.\nStep 2: 25 × 10 × 2 = 500 m³.\nCommon mistake: Choosing 250 m³ (25 × 10 only) or 350 m³ (calculation error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q24",
+      "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. Is it a right-angled triangle? If so, what is its area?",
+      "options": ["24 cm²", "30 cm²", "32.5 cm²", "65 cm²"],
+      "answer": 1,
+      "topic": "angles-triangles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Check: 5² + 12² = 25 + 144 = 169 = 13². Yes, right-angled.\nStep 2: Area = 1/2 × base × height = 1/2 × 5 × 12 = 30 cm².\nCommon mistake: Choosing 65 cm² (using 13 × 5, wrong pair) or 32.5 cm² (1/2 × 5 × 13)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q25",
+      "question": "If 2(n + 3) = 20, what is n?",
+      "options": ["5", "7", "8.5", "10"],
+      "answer": 1,
+      "topic": "algebraic-thinking",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 2(n + 3) = 20.\nStep 2: n + 3 = 10.\nStep 3: n = 7.\nCommon mistake: Choosing 10 (dividing 20 by 2 but not subtracting 3) or 8.5 (20 ÷ 2 − 1.5 error)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q26",
+      "question": "The test scores of 6 students are: 70, 82, 78, 85, 90, 65. What is the mean score?",
+      "options": ["75", "78", "78.3", "80"],
+      "answer": 2,
+      "topic": "data-mean-median",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum = 70 + 82 + 78 + 85 + 90 + 65 = 470.\nStep 2: Mean = 470 ÷ 6 = 78.33... ≈ 78.3.\nCommon mistake: Choosing 78 (truncating) or 80 (rounding to nearest 10)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q27",
+      "question": "What is 48 ÷ (2 + 6) × 3?",
+      "options": ["2", "6", "18", "72"],
+      "answer": 2,
+      "topic": "order-of-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Brackets: 2 + 6 = 8.\nStep 2: Left to right: 48 ÷ 8 = 6.\nStep 3: 6 × 3 = 18.\nCommon mistake: Choosing 2 (doing 6 × 3 = 18, then 48 ÷ 18) or 72 (48 ÷ 2 × 3)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q28",
+      "question": "A shop sells 1,250 items per day. How many items does it sell in 4 weeks?",
+      "options": ["5,000", "8,750", "35,000", "50,000"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4 weeks = 28 days.\nStep 2: 1,250 × 28 = 1,250 × 30 − 1,250 × 2 = 37,500 − 2,500 = 35,000.\nCommon mistake: Choosing 5,000 (1,250 × 4, only 4 days) or 8,750 (1,250 × 7, only 1 week)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q29",
+      "question": "Which fraction is between 1/3 and 1/2?",
+      "options": ["1/4", "2/5", "3/8", "5/12"],
+      "answer": 1,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1/3 ≈ 0.333. 1/2 = 0.5.\nStep 2: Check: 1/4 = 0.25 (too small). 2/5 = 0.4 (between). 3/8 = 0.375 (between). 5/12 ≈ 0.417 (between).\nStep 3: All of 2/5, 3/8, and 5/12 are between, but 2/5 is the simplest answer.\nCommon mistake: Choosing 1/4 (0.25, which is less than 1/3)."
+    },
+    {
+      "id": "selective-y5-maths-t4-q30",
+      "question": "If y = 3x − 2 and x = 5, what is y?",
+      "options": ["7", "11", "13", "17"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Substitute x = 5: y = 3(5) − 2.\nStep 2: y = 15 − 2 = 13.\nCommon mistake: Choosing 17 (3 × 5 + 2) or 11 (3 × 5 − 4)."
+    }
+  ]
+}

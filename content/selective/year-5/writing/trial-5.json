@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 5
+  },
+  "prompt": {
+    "id": "selective-y5-writing-t5",
+    "type": "persuasive",
+    "text": "Some people believe that students should not be given homework because they need time to relax and play after school. Others believe homework is important for learning. Write a persuasive text arguing your position on whether primary school students should have homework. Support your argument with clear reasons and evidence.",
+    "timeLimit": 25,
+    "wordGuide": "Aim for 250-350 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The text presents a strong, well-reasoned argument about homework with at least three compelling reasons supported by specific examples, evidence, or logical reasoning. The writer demonstrates an understanding of multiple perspectives and effectively addresses counter-arguments to strengthen their position.",
+      "satisfactory": "The text presents a clear argument with at least two reasons about homework. Reasons are relevant and supported with some examples, but the evidence could be more specific or persuasive. Counter-arguments may not be addressed.",
+      "developing": "The argument is unclear or supported by only one weak reason. Little evidence or examples are provided. The text may drift off topic or present contradictory points."
+    },
+    "structure": {
+      "excellent": "The text has an engaging introduction that hooks the reader and clearly states the position, well-organised body paragraphs with one argument per paragraph, effective use of a counter-argument paragraph, and a powerful conclusion that reinforces the central argument with a call to action.",
+      "satisfactory": "The text has a recognisable introduction, body, and conclusion. Arguments are mostly organised in separate paragraphs. The conclusion summarises the main points but may lack impact.",
+      "developing": "The text lacks clear organisation. Arguments are mixed together or presented without logical order. There is no clear introduction or conclusion."
+    },
+    "language": {
+      "excellent": "Uses a range of sophisticated persuasive techniques including rhetorical questions, emotive language, inclusive language ('we', 'our'), and authoritative statements. Connectives are varied and purposeful (consequently, nevertheless, on the other hand). Vocabulary is precise and powerful.",
+      "satisfactory": "Uses some persuasive techniques such as opinion statements and basic connectives (also, because, however). The language is clear but could be more powerful and varied. The tone is mostly appropriate for a persuasive text.",
+      "developing": "Uses basic language with few or no persuasive techniques. The writing sounds more like a recount or information report than a persuasive text. Vocabulary is limited."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including topic-specific and sophisticated vocabulary. Punctuation is varied and correct, including commas, colons, and question marks for rhetorical effect. Paragraphing is consistent and purposeful.",
+      "satisfactory": "Most words are spelt correctly. Basic punctuation is mostly accurate. Paragraphing is present but may be inconsistent.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. No clear paragraphing."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Every afternoon, thousands of Australian primary school students sit at kitchen tables, hunched over worksheets, while the sun sets outside their windows. Is this really the best use of their precious childhood hours? I firmly believe that homework in primary school should be significantly reduced, if not removed entirely.\n\nFirstly, research consistently shows that homework has minimal academic benefit for primary-aged students. A major study by Professor John Hattie from the University of Melbourne found that homework in primary school has a near-zero effect on achievement. If the evidence tells us it doesn't work, why are we still doing it?\n\nSecondly, excessive homework robs children of the time they need for physical activity, creative play, and family connection. After six hours of concentrated learning at school, young minds need rest and variety. Children who spend their afternoons playing sport, reading for pleasure, or simply exploring their neighbourhood develop important social and emotional skills that no worksheet can teach.\n\nFurthermore, homework creates unnecessary stress and anxiety for many students and their families. Evenings that should be spent enjoying dinner together or sharing stories are instead filled with arguments about unfinished assignments. This damages the relationship between children and learning, making school feel like a burden rather than a joy.\n\nAdmittedly, some argue that homework teaches responsibility and time management. While these are valuable skills, there are far better ways to develop them — such as household chores, caring for pets, or managing a personal project. These real-world tasks are more meaningful than completing a worksheet that will be marked and forgotten.\n\nIn conclusion, our children deserve afternoons filled with play, curiosity, and family — not stress and busy work. It is time for Australian schools to listen to the research, respect childhood, and rethink the role of homework in primary education. Our students will be better learners for it.",
+      "annotations": "This response demonstrates excellent persuasive writing for Year 5. The opening paints a vivid picture before posing a rhetorical question, immediately engaging the reader. Three strong arguments are presented with specific evidence, including a reference to Professor Hattie's research, which adds credibility. The writer effectively addresses a counter-argument in the fourth body paragraph, acknowledging the opposing view before refuting it with practical alternatives. Persuasive language is sophisticated and varied, including rhetorical questions, emotive language ('robs children'), inclusive language, and powerful connectives. The conclusion ends with a clear call to action. The text is well-paragraphed and maintains a formal, authoritative tone throughout."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I believe that primary school students should not have homework. Here are my reasons why.\n\nFirstly, homework takes up too much time after school. Students spend all day at school learning and they should be able to relax when they get home. They need time to play with their friends and do things they enjoy.\n\nSecondly, homework can be stressful. Some students find the work hard and they get upset. Their parents also get stressed trying to help them. This makes everyone unhappy.\n\nAnother reason is that students learn enough at school. If teachers are doing their job properly then students should not need to do extra work at home. School time should be enough for learning.\n\nSome people think homework is good because it helps you practice what you learnt. But I think you can practice at school during class time instead.\n\nIn conclusion, I think homework should be removed from primary school because it takes up too much time, causes stress, and is not necessary if schools teach well enough.",
+      "annotations": "This response meets the satisfactory standard for Year 5. It presents a clear position with three reasons and makes an attempt to address a counter-argument. The structure is logical with an introduction, body paragraphs, and conclusion. However, the reasons lack specific evidence or examples — statements like 'homework takes up too much time' need supporting data or concrete scenarios to be more convincing. The persuasive language is basic, relying on 'I believe' and 'I think' rather than more powerful techniques like rhetorical questions or emotive language. The counter-argument is acknowledged but dismissed too briefly. The spelling 'learnt' is acceptable in Australian English, but 'practice' should be 'practise' when used as a verb."
+    }
+  ]
+}

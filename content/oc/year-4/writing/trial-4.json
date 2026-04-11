@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 4
+  },
+  "prompt": {
+    "id": "oc-y4-writing-t4",
+    "type": "persuasive",
+    "text": "Imagine your school is thinking about replacing all textbooks with tablets and laptops. Write a persuasive text arguing whether you think this is a good idea or a bad idea. Give clear reasons and examples to support your opinion.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 200-300 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The text presents a strong, clear opinion about replacing textbooks with technology. At least three well-developed reasons are given, each supported with specific examples or evidence relating to learning, school life, and student experience. The writer may also address a counter-argument.",
+      "satisfactory": "The text states a clear opinion with at least two reasons about textbooks versus technology. Reasons are relevant but may lack specific examples or detailed explanation. Counter-arguments are not addressed.",
+      "developing": "The opinion is unclear or only one vague reason is given. The reasons may not clearly relate to the topic or may simply repeat the same point in different words."
+    },
+    "structure": {
+      "excellent": "The text has a compelling introduction that hooks the reader and states the opinion, well-organised body paragraphs with one reason per paragraph, and a strong conclusion that reinforces the argument. Paragraphing is used effectively throughout.",
+      "satisfactory": "The text has a recognisable introduction, body, and conclusion. Paragraphs are used but may not always contain a single clear idea. The conclusion may simply repeat the introduction.",
+      "developing": "The text lacks clear organisation. Ideas run together without paragraphing. There may be no clear introduction or conclusion."
+    },
+    "language": {
+      "excellent": "Uses persuasive devices effectively, including rhetorical questions, emotive language, and strong opinion statements. Connectives are varied (furthermore, in addition, consequently). Vocabulary is precise and appropriate for the audience.",
+      "satisfactory": "Uses some persuasive language such as 'I believe' and basic connectives like 'also,' 'because,' and 'another reason.' Vocabulary is appropriate but lacks the variety and power needed to be fully convincing.",
+      "developing": "Uses very basic language with no persuasive techniques. Vocabulary is limited and repetitive. The writing does not sound like a persuasive text."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including subject-specific vocabulary (technology, environment, education). Punctuation is used correctly including commas in lists, apostrophes, and question marks for rhetorical questions. Paragraphing is consistent.",
+      "satisfactory": "Most words are spelt correctly with some errors on more challenging vocabulary. Basic punctuation is mostly accurate. Some inconsistency in paragraphing.",
+      "developing": "Frequent spelling errors including on common words. Basic punctuation is often missing or incorrect. No paragraphing is used."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Should we really throw away our textbooks and replace them with screens? In my opinion, replacing all textbooks with tablets and laptops would be a positive step forward for our school, and here is why.\n\nFirstly, digital devices make learning more interactive and engaging. Instead of just reading a page about the solar system, students could watch videos, explore 3D models, and even take virtual tours of space. Research has shown that students remember more when they can interact with what they are learning, rather than simply reading about it.\n\nFurthermore, tablets and laptops are much lighter than a bag full of heavy textbooks. Many students, including myself, carry backpacks that are far too heavy for our growing bodies. With a single device, we would have access to every subject without the weight. This would be better for our health and make walking to school much easier.\n\nIn addition, using technology in the classroom prepares us for the future. Almost every job today requires computer skills. The earlier we learn to use technology for research, writing, and problem-solving, the more prepared we will be for high school and beyond.\n\nSome people argue that screens are bad for our eyes and cause distractions. While this is a fair point, schools could set time limits and use special apps that block games during class time. With the right rules in place, these problems can be managed.\n\nIn conclusion, replacing textbooks with tablets and laptops would make learning more exciting, reduce the weight of our bags, and prepare us for a technology-driven future. I strongly urge our school to embrace this change.",
+      "annotations": "This response demonstrates excellent persuasive writing for Year 4. The text opens with an engaging rhetorical question and clearly states the writer's position. Three distinct, well-developed reasons are presented, each in its own paragraph with supporting detail. The writer demonstrates mature thinking by addressing a counter-argument about screen time and distractions, then refuting it with a practical solution. Persuasive language is varied and effective, with connectives like 'furthermore' and 'in addition,' and strong phrases like 'I strongly urge.' The conclusion effectively summarises the key arguments and ends with a clear call to action."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I think replacing textbooks with tablets and laptops is a good idea. There are a few reasons why I think this.\n\nThe first reason is that tablets are more fun than books. You can watch videos and play learning games on them. This makes learning more interesting for students.\n\nAnother reason is that tablets are lighter than lots of books. My bag is very heavy when I have all my textbooks in it. A tablet would be much easier to carry.\n\nAlso technology is important for the future. We need to learn how to use computers because most jobs use them.\n\nIn conclusion I think our school should use tablets instead of textbooks because they are more fun, lighter, and help us learn about technology.",
+      "annotations": "This response meets the satisfactory standard for Year 4. It presents a clear opinion with three reasons, and the conclusion summarises the argument. However, each reason is stated briefly without detailed supporting examples — for instance, the point about tablets being 'more fun' could be developed with specific examples of interactive learning. The persuasive language is basic, relying on 'I think' and simple connectives like 'another reason' and 'also.' The writing would be stronger with rhetorical questions, emotive language, or acknowledgement of opposing views. A comma is missing after 'In conclusion' and paragraphs could be more fully developed."
+    }
+  ]
+}

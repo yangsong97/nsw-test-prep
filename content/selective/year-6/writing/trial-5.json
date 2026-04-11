@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 5
+  },
+  "prompt": {
+    "id": "selective-y6-writing-t5",
+    "type": "narrative",
+    "text": "Write a story about a student who discovers a mysterious object that leads them into solving a puzzling mystery at their school. What is the object? What clues do they follow? How is the mystery resolved? Create suspense and intrigue throughout your story.",
+    "timeLimit": 30,
+    "wordGuide": "Aim for 300-400 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents an original and intriguing mystery with a well-crafted plot. The mysterious object is creative and the clues are cleverly planted throughout the narrative. The resolution is satisfying and logical, with all threads tied together. The character's detective work feels believable and engaging.",
+      "satisfactory": "The story includes a recognisable mystery with a mysterious object and some clues. The plot is functional but the mystery may be predictable or the clues may not connect logically to the resolution. The character investigates but the process could be more detailed.",
+      "developing": "The mystery is vague or underdeveloped. The mysterious object may be mentioned but not explored. Clues are absent or do not lead logically to a conclusion. The resolution may feel random or rushed."
+    },
+    "structure": {
+      "excellent": "The story is expertly paced to build suspense, with a hook that immediately creates intrigue, rising action that layers clues and deepens the mystery, a climactic revelation, and a satisfying denouement. Paragraphing is purposeful, with shorter paragraphs used for dramatic effect and longer ones for investigation scenes.",
+      "satisfactory": "The story has a clear beginning, middle, and end with the mystery introduced, investigated, and resolved. Pacing is adequate but may rush the investigation or spend too long on setup. Paragraphing is present.",
+      "developing": "The story lacks clear pacing or structure. The mystery may be introduced and solved too quickly, or the story may end without resolution. Little or no paragraphing."
+    },
+    "language": {
+      "excellent": "Uses sophisticated language to create atmosphere and suspense, including sensory imagery, foreshadowing, and tension-building techniques such as short sentences and rhetorical questions. Vocabulary is precise and evocative. Dialogue reveals character and advances the plot. Figurative language enriches the narrative.",
+      "satisfactory": "Uses appropriate vocabulary with some attempts at creating suspense. Some descriptive language is present. Dialogue may be included but does not always enhance the mystery. Sentence structure has some variety.",
+      "developing": "Uses basic vocabulary with little attempt at creating suspense or atmosphere. Description is minimal. Sentences are repetitive in structure."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including sophisticated vocabulary. Punctuation is varied and used deliberately for effect — ellipses for suspense, dashes for interruption, semicolons for complex sentences. Tense and point of view are consistent. Paragraphing enhances narrative pacing.",
+      "satisfactory": "Most words are spelt correctly. Punctuation is mostly accurate. Tense is mostly consistent. Paragraphing is present but may not always enhance the storytelling.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. Tense shifts are distracting. Paragraphing is absent or random."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Nobody ever went into the old music room at the back of Block C. The piano was out of tune, the curtains smelt like dust, and Mr Whitmore swore it was haunted. So when Kai found a brass key lying in the middle of the corridor outside it, he probably should have walked away.\n\nHe didn't.\n\nThe key was small and oddly warm, as though someone had just been holding it. Engraved along its handle were two tiny words: Find me. Kai turned it over in his palm, his curiosity burning brighter than his common sense.\n\nAt lunch, he tried the key on the music room door. It didn't fit. He tried the supply cupboard, the drama storeroom, the old groundskeeper's shed — nothing. He was about to give up when he noticed something he had never seen before: a small keyhole in the base of the marble bust of Sir Henry Parkes that stood in the school foyer.\n\nThe key slid in perfectly. With a soft click, a hidden drawer opened at the bottom of the pedestal. Inside lay a folded letter, yellowed with age, and a photograph of a group of students standing where the school oval now was. The date on the back read 1952.\n\nThe letter was written by a student named Margaret Chen. It described a time capsule buried beneath the school's original flagpole — a capsule containing items that told the story of the school's first students. Margaret wrote that she had hidden the key so that only a curious student would ever find it.\n\n\"The flagpole,\" Kai whispered. He knew the old stone base still existed near the library garden; he had sat on it a hundred times without thinking twice.\n\nAfter school, Kai brought a trowel and carefully dug around the base. Fifteen centimetres down, his trowel struck metal. He unearthed a rusty tin box. Inside were marbles, a handwritten class list, a pressed wildflower, and a small photograph of Margaret herself — grinning, as though she had known someone would find it one day.\n\nKai sat back on his heels, the afternoon light golden around him. Seventy years. This box had waited seventy years for someone curious enough to follow the clues.\n\nHe carried it to the principal's office, already imagining the look on her face. Some mysteries, he thought, were meant to be shared.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 6. The mystery is cleverly constructed with logical clues — the key, the keyhole in the bust, the letter, and finally the time capsule — each discovery naturally leading to the next. Suspense is built effectively through short paragraphs ('He didn't.'), sensory details ('oddly warm'), and the gradual revelation of the mystery. The historical element of Margaret Chen's 1952 letter adds depth and emotional resonance. The language is sophisticated with varied sentence structures, effective dialogue, and atmospheric description. The ending is satisfying and thematically rich, mirroring the opening observation about curiosity. Australian context is woven in naturally through the reference to Sir Henry Parkes and the school setting."
+    },
+    {
+      "level": "satisfactory",
+      "text": "One day at school I found a weird old compass on the ground near the science block. It had strange markings on it and the needle was spinning around and around instead of pointing north.\n\nI showed it to my friend Alex and we tried to figure out what the markings meant. We thought they might be directions. The first marking pointed towards the library so we went there.\n\nIn the library we found a book that had been left on a table with a bookmark in it. The page had a message written in pencil that said \"look under the third step.\" We went to the main staircase and looked under the third step. There was a small box taped underneath.\n\nInside the box was a note that said \"Congratulations! You found the treasure hunt! This was set up by the Year 6 class of 2015 for future students to discover.\"\n\nWe were excited that we had solved the mystery. We told our teacher and she said we could put it on display in the school hall. It was really cool to know that students from years ago had set up a treasure hunt for us to find.\n\nI wonder if anyone else had tried to solve it before us. Maybe we were the first ones to figure out the compass clues.",
+      "annotations": "This response meets the satisfactory standard for Year 6. It follows the prompt with a mysterious object (the compass) leading to a series of clues and a resolution. The plot is logical and the reader can follow the investigation clearly. However, the mystery lacks suspense — the clues are found and followed without much tension, difficulty, or false leads. The language is straightforward but lacks the atmospheric description and varied sentence structures expected at Year 6 level. The resolution (a treasure hunt by former students) is neat but predictable. The story would benefit from more sensory detail, internal thoughts showing the character's excitement or uncertainty, dialogue between the friends, and techniques for building suspense such as foreshadowing or red herrings."
+    }
+  ]
+}

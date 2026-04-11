@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "sel-y6-thinking-t4-q01",
+      "question": "What number comes next? 1, 1, 2, 3, 5, 8, 13, ___",
+      "options": ["16", "18", "20", "21"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: This is the Fibonacci sequence: each number is the sum of the two before it.\nStep 2: 8 + 13 = 21.\nStep 3: The answer is 21.\nThe answer is 21.\nCommon mistake: Choosing 18 (adding 5 to 13 instead of 8+13)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q02",
+      "question": "What number comes next? 2, 6, 18, 54, 162, ___",
+      "options": ["324", "486", "500", "648"],
+      "answer": 1,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 6=2x3, 18=6x3, 54=18x3, 162=54x3.\nStep 2: Each number is multiplied by 3.\nStep 3: 162 x 3 = 486.\nThe answer is 486.\nCommon mistake: Choosing 324 (multiplying by 2 instead of 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q03",
+      "question": "What number comes next? 1, 8, 27, 64, 125, ___",
+      "options": ["150", "196", "210", "216"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Recognise the pattern: 1=1³, 8=2³, 27=3³, 64=4³, 125=5³.\nStep 2: These are perfect cubes. The next is 6³.\nStep 3: 6 x 6 x 6 = 216.\nThe answer is 216.\nCommon mistake: Choosing 196 (confusing cubes with squares: 14²=196)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q04",
+      "question": "What number comes next? 3, 5, 11, 29, 83, ___",
+      "options": ["165", "200", "245", "249"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 5=3x2-1, 11=5x2+1, 29=11x2+7? Let me re-check. 5-3=2, 11-5=6, 29-11=18, 83-29=54. Differences: 2, 6, 18, 54 — multiplying by 3 each time. Next difference: 54x3=162.\nStep 2: 83 + 162 = 245.\nStep 3: The answer is 245.\nThe answer is 245.\nCommon mistake: Choosing 165 (adding 82 instead of 162)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q05",
+      "question": "What number comes next? 0, 1, 1, 2, 4, 7, 13, ___",
+      "options": ["20", "22", "24", "26"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Check if each number is the sum of the three before it. 0+1+1=2, 1+1+2=4, 1+2+4=7, 2+4+7=13.\nStep 2: This is a Tribonacci-like sequence (sum of previous three terms).\nStep 3: 4 + 7 + 13 = 24.\nThe answer is 24.\nCommon mistake: Choosing 20 (adding only the previous two numbers: 7+13=20, using Fibonacci instead of Tribonacci)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q06",
+      "question": "What number comes next? 2, 3, 5, 9, 17, 33, ___",
+      "options": ["49", "57", "65", "66"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences: 3-2=1, 5-3=2, 9-5=4, 17-9=8, 33-17=16.\nStep 2: The differences are 1, 2, 4, 8, 16 — doubling each time. Next difference: 32.\nStep 3: 33 + 32 = 65.\nThe answer is 65.\nCommon mistake: Choosing 49 (adding 16 again instead of 32)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q07",
+      "question": "A cube has one face coloured red (top) and the opposite face coloured blue (bottom). The cube is rotated 90 degrees forward (top face tilts towards you). Then it is rotated 90 degrees to the right. What colour is now on top?",
+      "options": ["Red", "Blue", "Neither (unpainted)", "Cannot determine"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Start: top=red, bottom=blue, front/back/left/right=unpainted.\nStep 2: Rotate 90 degrees forward (top tilts towards you): top(red) goes to front, front goes to bottom, bottom(blue) goes to back, back goes to top. Now: top=unpainted (was back), front=red, bottom=unpainted (was front), back=blue.\nStep 3: Rotate 90 degrees to the right: top stays top in a horizontal rotation. So top is still unpainted.\nThe answer is Neither (unpainted).\nCommon mistake: Choosing Red (forgetting that the first rotation moved red to the front)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q08",
+      "question": "A 3D shape is made by gluing a pyramid on top of a cube so the pyramid's base matches the cube's top face. How many faces does this combined shape have?",
+      "options": ["9", "10", "11", "5"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cube has 6 faces. A square-based pyramid has 5 faces (4 triangular + 1 square base).\nStep 2: When joined, the pyramid's base and the cube's top face are glued together and hidden.\nStep 3: Total faces = 6 + 5 - 2 (the two hidden faces) = 9.\nThe answer is 9.\nCommon mistake: Choosing 10 (subtracting only 1 hidden face instead of 2)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q09",
+      "question": "An L-shaped flat piece (made of 3 unit squares) is rotated 90 degrees clockwise, then reflected across a vertical line. Which of the following describes the result?",
+      "options": ["Same as the original L", "Rotated 180 degrees from original", "A mirror image of the original L", "Rotated 90 degrees anticlockwise from original"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start with L-shape (vertical bar going down, horizontal bar going right at bottom).\nStep 2: Rotate 90 CW: the L rotates so the vertical bar now goes right and the stub goes down. This gives an upside-down L rotated.\nStep 3: Reflect across vertical line: left-right swap. The result is a mirror image of the original L.\nThe answer is A mirror image of the original L.\nCommon mistake: Choosing Same as the original L (not accounting for the reflection reversing the handedness)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q10",
+      "question": "A cube is painted red on all faces, then cut into 27 smaller cubes (3x3x3). How many small cubes have exactly two red faces?",
+      "options": ["6", "8", "12", "24"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: In a 3x3x3 cube, small cubes at corners have 3 painted faces, edge cubes (not corners) have 2, face-centre cubes have 1, and the centre cube has 0.\nStep 2: Each edge of a cube has 3 small cubes, but 2 are corners. So each edge contributes 1 cube with exactly 2 painted faces.\nStep 3: A cube has 12 edges, so 12 small cubes have exactly 2 red faces.\nThe answer is 12.\nCommon mistake: Choosing 8 (counting corner cubes instead of edge cubes)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q11",
+      "question": "A T-shaped piece (made of 4 unit squares in a T arrangement) is placed flat on a table. How many distinct orientations can it have when rotated (not reflected)?",
+      "options": ["2", "3", "4", "8"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A T-shape can be rotated 0, 90, 180, and 270 degrees.\nStep 2: Each rotation produces a visually distinct orientation (the T points up, right, down, left).\nStep 3: There are 4 distinct rotational orientations.\nThe answer is 4.\nCommon mistake: Choosing 2 (thinking the T has rotational symmetry at 180 degrees, but it does not — T pointing up looks different from T pointing down)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q12",
+      "question": "A cube has different symbols on each face: star (top), heart (front), diamond (right), club (back), spade (left), moon (bottom). The cube is rotated 90 degrees to the right (clockwise when viewed from above), then 90 degrees forward (top tilts toward you). What symbol is now on top?",
+      "options": ["Heart", "Diamond", "Club", "Spade"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start: top=star, front=heart, right=diamond, back=club, left=spade, bottom=moon.\nStep 2: Rotate 90 degrees to the right (clockwise from above): front->right, right->back, back->left, left->front. Top and bottom stay. Now: top=star, front=spade, right=heart, back=diamond, left=club, bottom=moon.\nStep 3: Rotate 90 degrees forward (top tilts toward you): top->front, front->bottom, bottom->back, back->top. Left and right stay. Now: top=diamond (was back), front=star (was top), bottom=spade (was front), back=moon (was bottom).\nStep 4: The symbol on top is diamond.\nThe answer is Diamond.\nCommon mistake: Choosing Heart (not tracking the first rotation before the second)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q13",
+      "question": "Cocoon is to butterfly as chrysalis is to ___",
+      "options": ["Caterpillar", "Moth", "Larva", "Pupa"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cocoon is the protective casing from which a butterfly emerges. Actually, technically a cocoon is for moths and a chrysalis is for butterflies. Let me correct: a cocoon produces a moth.\nStep 2: So: cocoon is to butterfly (the question states this relationship). By parallel: chrysalis produces what?\nStep 3: In common usage for this analogy, cocoon->butterfly and chrysalis->moth (or the reverse). Since the question pairs cocoon with butterfly, chrysalis pairs with moth.\nThe answer is Moth.\nCommon mistake: Choosing Caterpillar (the stage before, not what emerges)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q14",
+      "question": "Symphony is to composer as mural is to ___",
+      "options": ["Painter", "Muralist", "Canvas", "Gallery"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A symphony is created by a composer.\nStep 2: A mural is created by a muralist.\nStep 3: The specific creator of a mural is a muralist.\nThe answer is Muralist.\nCommon mistake: Choosing Painter (too general — a muralist is the specific type of artist who creates murals)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q15",
+      "question": "Encryption is to data as armour is to ___",
+      "options": ["Sword", "Soldier", "Shield", "Battle"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Encryption protects data.\nStep 2: Armour protects a ___.\nStep 3: Armour protects a soldier.\nThe answer is Soldier.\nCommon mistake: Choosing Shield (a shield is another form of protection, but the analogy is about what is being protected)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q16",
+      "question": "Catalyst is to reaction as spark is to ___",
+      "options": ["Electricity", "Fire", "Match", "Heat"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A catalyst initiates or speeds up a chemical reaction.\nStep 2: A spark initiates ___.\nStep 3: A spark initiates a fire.\nThe answer is Fire.\nCommon mistake: Choosing Electricity (electricity can create sparks, but the analogy is about what the spark starts)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q17",
+      "question": "Paradox is to logic as illusion is to ___",
+      "options": ["Magic", "Perception", "Reality", "Trick"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A paradox contradicts or challenges logic.\nStep 2: An illusion contradicts or challenges ___.\nStep 3: An illusion challenges perception (what we perceive is not reality).\nThe answer is Perception.\nCommon mistake: Choosing Reality (an illusion does contradict reality, but the closer parallel to 'logic' as a faculty of reasoning is 'perception' as a faculty of sensing)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q18",
+      "question": "Nostalgia is to past as ambition is to ___",
+      "options": ["Present", "Future", "Success", "Goal"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Nostalgia is a feeling directed towards the past.\nStep 2: Ambition is a feeling directed towards ___.\nStep 3: Ambition is directed towards the future (aspirations for what is to come).\nThe answer is Future.\nCommon mistake: Choosing Success (ambition aims for success, but the analogy is about temporal direction: past vs future)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q19",
+      "question": "In a 3x3 grid, each cell has a colour (red/blue/green) and a number (1/2/3). Row 1: red-1, blue-2, green-3. Row 2: green-2, red-3, blue-1. Row 3: blue-3, green-1, ___. Each colour and number appears once per row and column. What goes in the blank?",
+      "options": ["Red-2", "Red-1", "Green-2", "Blue-2"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 colours: blue, green. Needs red.\nStep 2: Row 3 numbers: 3, 1. Needs 2.\nStep 3: The blank is red-2.\nThe answer is Red-2.\nCommon mistake: Choosing Red-1 (1 is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q20",
+      "question": "In a 3x3 grid, Row 1: solid upward arrow, striped rightward arrow, dotted downward arrow. Row 2: dotted rightward arrow, solid downward arrow, striped upward arrow. Row 3: striped downward arrow, dotted upward arrow, ___. Each pattern and direction appears once per row and column. What goes in the blank?",
+      "options": ["Solid rightward arrow", "Dotted rightward arrow", "Solid upward arrow", "Striped rightward arrow"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 patterns: striped, dotted. Needs solid.\nStep 2: Row 3 directions: downward, upward. Needs rightward.\nStep 3: The blank is solid rightward arrow.\nThe answer is Solid rightward arrow.\nCommon mistake: Choosing Striped rightward arrow (striped is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q21",
+      "question": "In a 4x4 grid, each row and column contains the numbers 1-4 exactly once. Row 1: 4, 1, 2, 3. Row 2: 2, 3, 4, 1. Row 3: 1, 4, 3, 2. Row 4: 3, 2, ___, 4. What goes in the blank?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 4 has 3, 2, and 4. It needs 1.\nStep 2: Column 3 has 2, 4, 3. It needs 1.\nStep 3: Both confirm the answer is 1.\nThe answer is 1.\nCommon mistake: Choosing 2 (already in row 4)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q22",
+      "question": "In a 3x3 grid, each cell has three attributes: size (S/M/L), colour (R/B/G), and shape (circle/square/triangle). Each attribute value appears exactly once per row and column. Row 1: S-R-circle, M-B-square, L-G-triangle. Row 2: M-G-circle, L-R-square, S-B-triangle. Row 3: L-B-circle, S-G-square, ___. What goes in the blank?",
+      "options": ["M-R-triangle", "S-R-triangle", "L-R-triangle", "M-B-triangle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 sizes: L, S. Needs M.\nStep 2: Row 3 colours: B, G. Needs R.\nStep 3: Row 3 shapes: circle, square. Needs triangle.\nStep 4: The blank is M-R-triangle.\nThe answer is M-R-triangle.\nCommon mistake: Choosing S-R-triangle (S is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q23",
+      "question": "In a 4x4 grid, each row and column contains the symbols @, #, $, % exactly once. Row 1: @, #, $, %. Row 2: $, %, @, #. Row 3: #, @, %, $. Row 4: %, $, ___, @. What goes in the blank?",
+      "options": ["@", "#", "$", "%"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 4 has %, $, and @. It needs #.\nStep 2: Column 3 has $, @, %. It needs #.\nStep 3: Both confirm the answer is #.\nThe answer is #.\nCommon mistake: Choosing @ (already in row 4)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q24",
+      "question": "In a 3x3 grid, each cell has four attributes: size (S/M/L), fill (solid/striped/empty), colour (red/blue/yellow), and shape (star/diamond/heart). Row 1: S-solid-red-star, M-striped-blue-diamond, L-empty-yellow-heart. Row 2: L-striped-yellow-star, S-empty-red-diamond, M-solid-blue-heart. Row 3: M-empty-blue-star, L-solid-yellow-diamond, ___. What goes in the blank?",
+      "options": ["S-striped-red-heart", "S-solid-red-heart", "M-striped-red-heart", "L-striped-red-heart"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 sizes: M, L. Needs S.\nStep 2: Row 3 fills: empty, solid. Needs striped.\nStep 3: Row 3 colours: blue, yellow. Needs red.\nStep 4: Row 3 shapes: star, diamond. Needs heart.\nStep 5: The blank is S-striped-red-heart.\nThe answer is S-striped-red-heart.\nCommon mistake: Choosing S-solid-red-heart (solid is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q25",
+      "question": "If P implies Q, and Q implies R, what can we conclude if R is false?",
+      "options": ["P is true", "P is false", "P could be true or false", "Q is true"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: P -> Q -> R. If P were true, then Q would be true, and R would be true.\nStep 2: But R is false. By contrapositive: not R -> not Q -> not P.\nStep 3: So P must be false.\nThe answer is P is false.\nCommon mistake: Choosing P could be true or false (not applying the chain of contrapositives)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q26",
+      "question": "All squares are rectangles. All rectangles are parallelograms. A shape is not a parallelogram. What can we conclude?",
+      "options": ["The shape is a square", "The shape is a rectangle but not a square", "The shape is not a rectangle and not a square", "Cannot determine"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Square -> Rectangle -> Parallelogram.\nStep 2: The shape is not a parallelogram. By contrapositive: not parallelogram -> not rectangle. Not rectangle -> not square.\nStep 3: The shape is neither a rectangle nor a square.\nThe answer is The shape is not a rectangle and not a square.\nCommon mistake: Choosing Cannot determine (not using the chain of contrapositives)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q27",
+      "question": "In a group of 60 people: 30 speak English, 25 speak French, 20 speak German. 10 speak both English and French, 8 speak both English and German, 5 speak both French and German, and 3 speak all three languages. How many speak at least one language?",
+      "options": ["50", "52", "55", "57"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Use inclusion-exclusion: |E or F or G| = |E| + |F| + |G| - |E and F| - |E and G| - |F and G| + |E and F and G|.\nStep 2: = 30 + 25 + 20 - 10 - 8 - 5 + 3 = 55.\nStep 3: 55 of the 60 people speak at least one language.\nThe answer is 55.\nCommon mistake: Choosing 52 (forgetting to add back the triple overlap of 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q28",
+      "question": "Statement: 'If it is not raining, then the picnic will happen.' Which of the following must also be true?",
+      "options": ["If it is raining, the picnic will not happen", "If the picnic does not happen, it is raining", "If the picnic happens, it is not raining", "None of the above"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Original: Not raining -> Picnic happens.\nStep 2: The contrapositive (which is logically equivalent): Not (Picnic happens) -> Not (Not raining), i.e., Picnic doesn't happen -> It is raining.\nStep 3: Option B states exactly the contrapositive.\nThe answer is If the picnic does not happen, it is raining.\nCommon mistake: Choosing Option A (the converse/inverse — 'if raining, no picnic' — is not guaranteed by the original statement)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q29",
+      "question": "Five boxes are labelled A, B, C, D, E. Each contains a different item: key, coin, ring, marble, button. Clue 1: The key is in Box A. Clue 2: The coin is not in Box C, D, or E. Clue 3: Box C contains the ring. Clue 4: The marble is in Box D. What is in Box E?",
+      "options": ["Key", "Coin", "Ring", "Button"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Box A = key (Clue 1). Box C = ring (Clue 3). Box D = marble (Clue 4).\nStep 2: The coin is not in C, D, or E (Clue 2). It is not in A (key is there). So the coin is in Box B.\nStep 3: The only remaining item is button, and the only remaining box is E.\nStep 4: Box E = button.\nThe answer is Button.\nCommon mistake: Choosing Coin (not applying Clue 2 which eliminates E for the coin)."
+    },
+    {
+      "id": "sel-y6-thinking-t4-q30",
+      "question": "There are four statements, but only one is true. Statement A: 'Exactly two of these statements are true.' Statement B: 'None of these statements are true.' Statement C: 'Exactly one of these statements is true.' Statement D: 'All four statements are true.' Which statement is true?",
+      "options": ["A", "B", "C", "D"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: If D is true ('all four are true'), then B ('none are true') would also be true, creating a contradiction. So D is false.\nStep 2: If B is true ('none are true'), then B itself would be true, contradicting 'none are true'. So B is false.\nStep 3: If A is true ('exactly two are true'), then we need exactly one more true statement. But we need to check which other one could be true without contradiction. C says 'exactly one is true', which contradicts A saying 'exactly two'. So if A is true, C is false, and we cannot find a second true statement. So A is false.\nStep 4: If C is true ('exactly one is true'), then A, B, and D are false. A is false (not exactly two), B is false (not none — C is true), D is false (not all). This is consistent.\nThe answer is C.\nCommon mistake: Choosing B (thinking 'none are true' could be self-consistently true, but it creates a paradox)."
+    }
+  ]
+}

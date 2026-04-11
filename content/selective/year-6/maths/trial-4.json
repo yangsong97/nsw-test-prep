@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y6-maths-t4-q01",
+      "question": "A recipe uses flour and sugar in the ratio 3:1. If you use 450 g of flour, how much sugar do you need?",
+      "options": ["50 g", "100 g", "150 g", "200 g"],
+      "answer": 2,
+      "topic": "ratios-proportions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ratio flour:sugar = 3:1.\nStep 2: 450 g flour ÷ 3 = 150 g per part.\nStep 3: Sugar = 1 × 150 = 150 g.\nCommon mistake: Choosing 50 g (450 ÷ 9) or 100 g (dividing by 4.5)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q02",
+      "question": "Solve for x: x + 12 = 35",
+      "options": ["13", "17", "23", "47"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: x + 12 = 35.\nStep 2: x = 35 − 12 = 23.\nCommon mistake: Choosing 47 (adding instead of subtracting) or 17 (subtracting from wrong number)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q03",
+      "question": "What are the coordinates of a point 3 units right and 5 units up from the origin?",
+      "options": ["(5, 3)", "(3, 5)", "(3, −5)", "(−3, 5)"],
+      "answer": 1,
+      "topic": "geometry-coordinates",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Right means positive x. Up means positive y.\nStep 2: 3 units right = x = 3. 5 units up = y = 5.\nStep 3: Coordinates = (3, 5).\nCommon mistake: Choosing (5, 3) (swapping x and y)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q04",
+      "question": "A bag has 3 red, 4 blue, and 3 green marbles. What is the probability of picking a blue marble?",
+      "options": ["3/10", "4/10", "4/7", "3/7"],
+      "answer": 1,
+      "topic": "data-probability",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total marbles = 3 + 4 + 3 = 10.\nStep 2: P(blue) = 4/10 = 2/5.\nCommon mistake: Choosing 4/7 (not counting all marbles) or 3/10 (probability of red)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q05",
+      "question": "What is 2/3 + 1/4?",
+      "options": ["3/7", "3/12", "11/12", "8/12"],
+      "answer": 2,
+      "topic": "fractions-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Common denominator = 12.\nStep 2: 2/3 = 8/12. 1/4 = 3/12.\nStep 3: 8/12 + 3/12 = 11/12.\nCommon mistake: Choosing 3/7 (adding numerators and denominators separately) or 8/12 (forgetting to add)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q06",
+      "question": "A jacket costs $120. After a 25% discount, what is the sale price?",
+      "options": ["$30", "$85", "$90", "$95"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 25% of $120 = 0.25 × 120 = $30.\nStep 2: Sale price = $120 − $30 = $90.\nCommon mistake: Choosing $30 (the discount, not the sale price) or $95 (subtracting 25)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q07",
+      "question": "What is the highest common factor (HCF) of 24 and 36?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 3,
+      "topic": "number-theory",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24.\nStep 2: Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36.\nStep 3: Common factors: 1, 2, 3, 4, 6, 12. Highest = 12.\nCommon mistake: Choosing 6 (a common factor but not the highest) or 8 (factor of 24 only)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q08",
+      "question": "The ratio of boys to girls in a class is 5:3. If there are 40 students, how many are girls?",
+      "options": ["8", "12", "15", "24"],
+      "answer": 2,
+      "topic": "ratios-proportions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total parts = 5 + 3 = 8.\nStep 2: Each part = 40 ÷ 8 = 5 students.\nStep 3: Girls = 3 × 5 = 15.\nCommon mistake: Choosing 24 (5 × 40 ÷ 8... error) or 8 (total parts)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q09",
+      "question": "Solve: 3x = 27",
+      "options": ["3", "8", "9", "24"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3x = 27.\nStep 2: x = 27 ÷ 3 = 9.\nCommon mistake: Choosing 24 (27 − 3) or 3 (dividing by 9 instead)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q10",
+      "question": "What is the lowest common multiple (LCM) of 6 and 8?",
+      "options": ["12", "16", "24", "48"],
+      "answer": 2,
+      "topic": "number-theory",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Multiples of 6: 6, 12, 18, 24, 30...\nStep 2: Multiples of 8: 8, 16, 24, 32...\nStep 3: LCM = 24.\nCommon mistake: Choosing 48 (6 × 8, not the LCM) or 12 (multiple of 6 but not 8)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q11",
+      "question": "A map has a scale of 1:50,000. Two towns are 6 cm apart on the map. What is the real distance?",
+      "options": ["300 m", "3 km", "30 km", "300 km"],
+      "answer": 1,
+      "topic": "ratios-proportions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Real distance = 6 cm × 50,000 = 300,000 cm.\nStep 2: 300,000 cm = 3,000 m = 3 km.\nCommon mistake: Choosing 30 km (multiplying by extra 10) or 300 m (not converting correctly)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q12",
+      "question": "Solve: 2x + 5 = 19",
+      "options": ["5", "7", "8", "12"],
+      "answer": 1,
+      "topic": "algebra-equations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 2x + 5 = 19.\nStep 2: 2x = 19 − 5 = 14.\nStep 3: x = 14 ÷ 2 = 7.\nCommon mistake: Choosing 12 (19 − 5 = 14, then forgetting to divide by 2) or 8 (rounding error)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q13",
+      "question": "Point A is at (2, 3) and Point B is at (6, 3). What is the distance from A to B?",
+      "options": ["3 units", "4 units", "5 units", "8 units"],
+      "answer": 1,
+      "topic": "geometry-coordinates",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Both points have y = 3, so the line is horizontal.\nStep 2: Distance = |6 − 2| = 4 units.\nCommon mistake: Choosing 8 units (6 + 2) or 3 units (the y-coordinate)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q14",
+      "question": "A spinner has 8 equal sections numbered 1 to 8. What is the probability of landing on a prime number?",
+      "options": ["3/8", "4/8", "5/8", "6/8"],
+      "answer": 1,
+      "topic": "data-probability",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Prime numbers from 1 to 8: 2, 3, 5, 7 (four primes).\nStep 2: P(prime) = 4/8 = 1/2.\nCommon mistake: Choosing 3/8 (forgetting that 2 is prime) or 5/8 (including 1 as prime)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q15",
+      "question": "What is 3/5 × 2/3?",
+      "options": ["2/5", "5/8", "6/15", "6/8"],
+      "answer": 0,
+      "topic": "fractions-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Multiply numerators: 3 × 2 = 6.\nStep 2: Multiply denominators: 5 × 3 = 15.\nStep 3: 6/15 = 2/5 (simplify by dividing by 3).\nCommon mistake: Choosing 5/8 (adding numerators and denominators) or 6/15 (correct but not simplified)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q16",
+      "question": "A TV originally costs $800. Its price increases by 10%, then decreases by 10%. What is the final price?",
+      "options": ["$780", "$790", "$792", "$800"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: After 10% increase: $800 × 1.10 = $880.\nStep 2: After 10% decrease: $880 × 0.90 = $792.\nCommon mistake: Choosing $800 (thinking increase then same decrease returns to original)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q17",
+      "question": "Is 91 a prime number?",
+      "options": ["Yes, it has no factors other than 1 and itself", "No, it is divisible by 7 and 13", "No, it is divisible by 3 and 30", "Yes, it is odd and not divisible by 2"],
+      "answer": 1,
+      "topic": "number-theory",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check divisibility: 91 ÷ 7 = 13.\nStep 2: 7 × 13 = 91. So 91 is not prime.\nCommon mistake: Choosing 'Yes' (91 looks prime because it is not even and does not end in 5)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q18",
+      "question": "What is 5/6 − 1/4?",
+      "options": ["4/2", "7/12", "2/3", "1/2"],
+      "answer": 1,
+      "topic": "fractions-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Common denominator = 12.\nStep 2: 5/6 = 10/12. 1/4 = 3/12.\nStep 3: 10/12 − 3/12 = 7/12.\nCommon mistake: Choosing 2/3 (subtracting numerators: 5−1=4, denominators: 6−4=2, giving 4/2) or 1/2 (incorrect simplification)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q19",
+      "question": "A store sold 240 items on Monday and 360 on Tuesday. What is the ratio of Monday to Tuesday sales in simplest form?",
+      "options": ["2:3", "3:4", "4:6", "24:36"],
+      "answer": 0,
+      "topic": "ratios-proportions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ratio = 240:360.\nStep 2: Divide both by 120: 2:3.\nCommon mistake: Choosing 4:6 (not fully simplified) or 3:4 (reversed ratio)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q20",
+      "question": "A point is reflected in the x-axis. If the original point is (4, 7), what are the coordinates of the reflected point?",
+      "options": ["(−4, 7)", "(4, −7)", "(−4, −7)", "(7, 4)"],
+      "answer": 1,
+      "topic": "geometry-coordinates",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Reflecting in the x-axis keeps x the same and negates y.\nStep 2: (4, 7) → (4, −7).\nCommon mistake: Choosing (−4, 7) (reflecting in y-axis instead) or (−4, −7) (reflecting in both axes)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q21",
+      "question": "If 4 workers can paint a house in 6 days, how many days would it take 3 workers?",
+      "options": ["4.5 days", "7 days", "8 days", "9 days"],
+      "answer": 2,
+      "topic": "ratios-proportions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total work = 4 workers × 6 days = 24 worker-days.\nStep 2: With 3 workers: 24 ÷ 3 = 8 days.\nCommon mistake: Choosing 9 days (adding instead of using inverse proportion) or 4.5 days (6 × 3/4)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q22",
+      "question": "Solve: 3(x − 4) = 15",
+      "options": ["3", "5", "7", "9"],
+      "answer": 3,
+      "topic": "algebra-equations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3(x − 4) = 15.\nStep 2: x − 4 = 5.\nStep 3: x = 9.\nCommon mistake: Choosing 5 (stopping at x − 4 = 5 without adding 4) or 7 (15 ÷ 3 + 4 − 2 error)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q23",
+      "question": "A triangle has vertices at (1, 1), (5, 1), and (3, 5). What is the area of the triangle?",
+      "options": ["4 units²", "6 units²", "8 units²", "10 units²"],
+      "answer": 2,
+      "topic": "geometry-coordinates",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Base = distance from (1,1) to (5,1) = 4 units.\nStep 2: Height = distance from y=1 to y=5 = 4 units.\nStep 3: Area = 1/2 × 4 × 4 = 8 units².\nCommon mistake: Choosing 10 units² (using wrong height) or 4 units² (forgetting to use 1/2 × base × height properly)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q24",
+      "question": "Two dice are rolled. What is the probability that the sum is 7?",
+      "options": ["1/6", "5/36", "6/36", "7/36"],
+      "answer": 2,
+      "topic": "data-probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total outcomes = 6 × 6 = 36.\nStep 2: Ways to make 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 ways.\nStep 3: P(sum=7) = 6/36 = 1/6.\nCommon mistake: Choosing 7/36 (thinking 7 combinations) or 5/36 (missing one combination)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q25",
+      "question": "What is 3/4 ÷ 2/5?",
+      "options": ["6/20", "15/8", "3/10", "5/8"],
+      "answer": 1,
+      "topic": "fractions-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Dividing by a fraction: multiply by its reciprocal.\nStep 2: 3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8.\nCommon mistake: Choosing 6/20 (multiplying without reciprocal) or 3/10 (inverting the wrong fraction)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q26",
+      "question": "A population of 5,000 grows by 8% per year. What is the population after 1 year?",
+      "options": ["5,040", "5,080", "5,400", "5,800"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Growth = 8% of 5,000 = 0.08 × 5,000 = 400.\nStep 2: New population = 5,000 + 400 = 5,400.\nCommon mistake: Choosing 5,800 (adding 800) or 5,040 (using 0.8% instead of 8%)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q27",
+      "question": "What is the prime factorisation of 180?",
+      "options": ["2 × 2 × 3 × 3 × 5", "2 × 2 × 5 × 9", "2 × 3 × 3 × 10", "2 × 2 × 3 × 15"],
+      "answer": 0,
+      "topic": "number-theory",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 180 ÷ 2 = 90. 90 ÷ 2 = 45. 45 ÷ 3 = 15. 15 ÷ 3 = 5.\nStep 2: 180 = 2 × 2 × 3 × 3 × 5 = 2² × 3² × 5.\nCommon mistake: Choosing 2 × 2 × 5 × 9 (9 is not prime) or 2 × 3 × 3 × 10 (10 is not prime)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q28",
+      "question": "Solve: x/4 + 3 = 10",
+      "options": ["7", "16", "28", "52"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: x/4 + 3 = 10.\nStep 2: x/4 = 7.\nStep 3: x = 28.\nCommon mistake: Choosing 7 (stopping after x/4 = 7) or 16 (multiplying 4 × 4)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q29",
+      "question": "A card is drawn from a standard deck of 52 cards. What is the probability of drawing a red face card (Jack, Queen, or King)?",
+      "options": ["3/52", "6/52", "3/26", "6/26"],
+      "answer": 2,
+      "topic": "data-probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Face cards per suit: J, Q, K = 3.\nStep 2: Red suits: hearts and diamonds = 2 suits.\nStep 3: Red face cards = 3 × 2 = 6.\nStep 4: P = 6/52 = 3/26.\nCommon mistake: Choosing 3/52 (counting only one red suit) or 6/26 (wrong simplification)."
+    },
+    {
+      "id": "selective-y6-maths-t4-q30",
+      "question": "The selling price of an item is $63 after a 10% profit. What was the cost price?",
+      "options": ["$53", "$56.70", "$57.27", "$69.30"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Selling price = Cost price × 1.10.\nStep 2: 63 = Cost × 1.10.\nStep 3: Cost = 63 ÷ 1.10 ≈ $57.27.\nCommon mistake: Choosing $56.70 (63 × 0.90, subtracting 10% of selling price) or $53 (63 − 10)."
+    }
+  ]
+}

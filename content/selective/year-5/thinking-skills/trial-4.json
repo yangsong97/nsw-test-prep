@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "sel-y5-thinking-t4-q01",
+      "question": "What number comes next? 3, 5, 9, 17, 33, ___",
+      "options": ["49", "57", "65", "66"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the differences. 5-3=2, 9-5=4, 17-9=8, 33-17=16.\nStep 2: The differences are 2, 4, 8, 16 — doubling each time. Next difference is 32.\nStep 3: 33 + 32 = 65.\nThe answer is 65.\nCommon mistake: Choosing 49 (adding 16 again instead of 32)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q02",
+      "question": "What number comes next? 1, 4, 10, 22, 46, ___",
+      "options": ["70", "82", "92", "94"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 4=1x2+2, 10=4x2+2, 22=10x2+2, 46=22x2+2.\nStep 2: Each number is doubled then 2 is added.\nStep 3: 46 x 2 + 2 = 94.\nThe answer is 94.\nCommon mistake: Choosing 92 (doubling without adding 2)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q03",
+      "question": "What number comes next? 2, 5, 11, 20, 32, ___",
+      "options": ["44", "45", "47", "50"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the first differences. 5-2=3, 11-5=6, 20-11=9, 32-20=12.\nStep 2: Find the second differences. 6-3=3, 9-6=3, 12-9=3. Constant second difference of 3.\nStep 3: Next first difference = 12+3 = 15. Next term = 32+15 = 47.\nThe answer is 47.\nCommon mistake: Choosing 44 (adding 12 again instead of 15)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q04",
+      "question": "What number comes next? 1, 3, 4, 7, 11, 18, ___",
+      "options": ["25", "27", "29", "36"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check if each number is the sum of the two before it. 1+3=4, 3+4=7, 4+7=11, 7+11=18.\nStep 2: This is a Fibonacci-like pattern (each term = sum of previous two).\nStep 3: 11 + 18 = 29.\nThe answer is 29.\nCommon mistake: Choosing 25 (adding 7 to 18 instead of 11+18)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q05",
+      "question": "What number comes next? 2, 3, 5, 7, 11, 13, ___",
+      "options": ["14", "15", "17", "19"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Recognise the pattern: 2, 3, 5, 7, 11, 13 are all prime numbers.\nStep 2: The next prime number after 13 is 17 (14=2x7, 15=3x5, 16=2x8, 17 is prime).\nStep 3: The answer is 17.\nThe answer is 17.\nCommon mistake: Choosing 15 (just adding 2, but 15 is not prime since 15=3x5)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q06",
+      "question": "What number comes next? 1, 1, 2, 3, 5, 8, 13, 21, ___",
+      "options": ["26", "29", "32", "34"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: This is the Fibonacci sequence. Each number = sum of the two before it.\nStep 2: 13 + 21 = 34.\nStep 3: The answer is 34.\nThe answer is 34.\nCommon mistake: Choosing 29 (adding 8 to 21 instead of 13+21)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q07",
+      "question": "A triangle pointing UP is reflected across a vertical line (left-right mirror), then rotated 90 degrees clockwise. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Triangle points up. Reflecting across a vertical line: a symmetric triangle pointing up still points up (no change for a symmetric shape).\nStep 2: Rotate 90 degrees clockwise: up becomes right.\nStep 3: The triangle now points right.\nThe answer is Right.\nCommon mistake: Choosing Left (rotating anticlockwise instead of clockwise)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q08",
+      "question": "The letter 'F' is reflected horizontally, then rotated 180 degrees. What does it look like?",
+      "options": ["F (same)", "A backwards F", "An upside-down F", "An upside-down backwards F"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Start with F. Reflect horizontally (left-right): the arms of F flip from right to left, giving a backwards F.\nStep 2: Rotate 180 degrees: the backwards F flips upside down. The arms now go from left, and the whole thing is upside down.\nStep 3: A horizontal reflection followed by 180-degree rotation is equivalent to a vertical reflection. So the result is an upside-down F (arms still on the right, but the shape is flipped top-to-bottom).\nThe answer is An upside-down F.\nCommon mistake: Choosing A backwards F (only doing one of the two transformations)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q09",
+      "question": "A square has a dot in its top-left corner. The square is reflected across its horizontal middle line, then reflected across its vertical middle line. Where is the dot now?",
+      "options": ["Top-left", "Top-right", "Bottom-left", "Bottom-right"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Dot starts at top-left.\nStep 2: Reflect across horizontal middle: top becomes bottom. Dot moves to bottom-left.\nStep 3: Reflect across vertical middle: left becomes right. Dot moves to bottom-right.\nThe answer is Bottom-right.\nCommon mistake: Choosing Top-right (only accounting for one reflection)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q10",
+      "question": "A paper is folded in half from left to right, then in half from top to bottom. A right-angle triangle is cut from the corner where the two folds meet. When unfolded, what shape appears in the centre?",
+      "options": ["A triangle", "A square", "A diamond (rhombus)", "A circle"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: After two folds, the fold-meeting corner is the centre of the original paper, and there are 4 layers.\nStep 2: Cutting a right-angle triangle from this corner cuts through all 4 layers.\nStep 3: The 4 symmetric triangle cuts combine to form a diamond (rhombus) shape when unfolded.\nThe answer is A diamond (rhombus).\nCommon mistake: Choosing A square (only true if the triangle cut was isosceles at exactly 45 degrees on both sides)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q11",
+      "question": "A cube has a star on the top face and a circle on the front face. The cube is rolled forward once (the front face goes to the bottom). What is now on the top face?",
+      "options": ["The star", "The circle", "The face that was on the back", "The face that was on the bottom"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Rolling forward: the front goes to the bottom, the bottom goes to the back, the back goes to the top, and the top goes to the front.\nStep 2: The star was on top. After rolling, the star moves to the front.\nStep 3: The back face moves to the top. So the top now shows whatever was on the back.\nThe answer is The face that was on the back.\nCommon mistake: Choosing The star (the star moves to the front, not staying on top)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q12",
+      "question": "An arrow points UP-RIGHT (at a 45-degree angle). It is rotated 90 degrees clockwise, then reflected across a horizontal line. Which direction does it now point?",
+      "options": ["Up-left", "Up-right", "Down-left", "Down-right"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Arrow starts pointing up-right (45 degrees).\nStep 2: Rotate 90 degrees clockwise: up-right becomes down-right.\nStep 3: Reflect across horizontal line: down-right becomes up-right.\nThe answer is Up-right.\nCommon mistake: Choosing Down-left (reversing both transformations incorrectly)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q13",
+      "question": "Canvas is to painter as stage is to ___",
+      "options": ["Audience", "Actor", "Curtain", "Director"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A canvas is the surface where a painter performs their work.\nStep 2: We need who performs their work on a stage.\nStep 3: An actor performs on a stage.\nThe answer is Actor.\nCommon mistake: Choosing Director (a director oversees the performance but does not perform on stage)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q14",
+      "question": "Archipelago is to islands as constellation is to ___",
+      "options": ["Sky", "Stars", "Planets", "Galaxy"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: An archipelago is a group of islands.\nStep 2: We need what a constellation is a group of.\nStep 3: A constellation is a group of stars.\nThe answer is Stars.\nCommon mistake: Choosing Galaxy (a galaxy is a much larger structure, not the same as a constellation)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q15",
+      "question": "Dehydration is to water as starvation is to ___",
+      "options": ["Hunger", "Food", "Energy", "Death"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Dehydration is caused by a lack of water.\nStep 2: We need what starvation is caused by a lack of.\nStep 3: Starvation is caused by a lack of food.\nThe answer is Food.\nCommon mistake: Choosing Hunger (hunger is a feeling, not what is lacking)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q16",
+      "question": "Obsolete is to modern as ancient is to ___",
+      "options": ["Old", "Historic", "Recent", "Antique"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Obsolete is the opposite of modern (outdated vs current).\nStep 2: We need the opposite of ancient.\nStep 3: The opposite of ancient is recent.\nThe answer is Recent.\nCommon mistake: Choosing Historic (related to ancient but not its opposite)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q17",
+      "question": "Anaesthesia is to pain as camouflage is to ___",
+      "options": ["Colour", "Visibility", "Hunting", "Danger"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Anaesthesia eliminates or hides pain.\nStep 2: We need what camouflage eliminates or hides.\nStep 3: Camouflage hides visibility (makes something hard to see).\nThe answer is Visibility.\nCommon mistake: Choosing Danger (camouflage may reduce danger, but its direct function is to reduce visibility)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q18",
+      "question": "Erosion is to cliff as inflation is to ___",
+      "options": ["Money", "Prices", "Purchasing power", "Economy"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Erosion gradually wears away a cliff (reduces it).\nStep 2: We need what inflation gradually wears away (reduces).\nStep 3: Inflation gradually reduces purchasing power (the value of money decreases).\nThe answer is Purchasing power.\nCommon mistake: Choosing Money (inflation does not destroy money itself; it reduces what money can buy)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q19",
+      "question": "In a 3x3 grid, Row 1: circle, square, triangle. Row 2: triangle, circle, square. Row 3: square, triangle, ___. Each shape appears once per row and column. What goes in the blank?",
+      "options": ["Circle", "Square", "Triangle", "Diamond"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 has square and triangle. It needs circle.\nStep 2: Column 3 has triangle and square. It needs circle.\nStep 3: The blank is circle.\nThe answer is Circle.\nCommon mistake: Choosing Triangle (already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q20",
+      "question": "In a 3x3 grid, each cell contains a shape and a colour. Row 1: red star, blue moon, green sun. Row 2: green moon, red sun, blue star. Row 3: blue sun, green star, ___. Each colour and shape appears once per row and column. What goes in the blank?",
+      "options": ["Red moon", "Red star", "Green moon", "Blue moon"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 colours: blue, green. Needs red.\nStep 2: Row 3 shapes: sun, star. Needs moon.\nStep 3: The blank is red moon.\nThe answer is Red moon.\nCommon mistake: Choosing Blue moon (blue is already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q21",
+      "question": "In a 3x3 grid, each cell has a number of dots (1, 2, or 3), a colour (red, blue, green), and a shape (circle, square, triangle). Row 1: 1 red circle, 2 blue squares, 3 green triangles. Row 2: 3 blue circles, 1 green squares, 2 red triangles. Row 3: 2 green circles, 3 red squares, ___. What goes in the blank?",
+      "options": ["1 blue triangle", "2 blue triangle", "3 blue triangle", "1 red triangle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 dot counts: 2, 3. Needs 1.\nStep 2: Row 3 colours: green, red. Needs blue.\nStep 3: Row 3 shapes: circles, squares. Needs triangle.\nStep 4: The blank is 1 blue triangle.\nThe answer is 1 blue triangle.\nCommon mistake: Choosing 3 blue triangle (wrong dot count)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q22",
+      "question": "In a 3x3 grid, Row 1: 8, 3, 4. Row 2: 1, 5, 9. Row 3: 6, 7, ___. Each row, column, and diagonal adds to 15. What goes in the blank?",
+      "options": ["2", "3", "5", "8"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 must add to 15. So far: 6 + 7 = 13.\nStep 2: 15 - 13 = 2.\nStep 3: Check column 3: 4 + 9 + 2 = 15. Correct. Check diagonal: 8 + 5 + 2 = 15. Correct.\nThe answer is 2.\nCommon mistake: Choosing 3 (miscalculating 15 - 13)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q23",
+      "question": "In a 4x4 grid, each row and column contains the numbers 1-4 exactly once. Row 1: 1, 2, 3, 4. Row 2: 3, 4, 1, 2. Row 3: 2, 1, 4, 3. Row 4: 4, 3, ___, 1. What goes in the blank?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 4 has 4, 3, and 1. It needs 2.\nStep 2: Column 3 has 3, 1, 4. It needs 2.\nStep 3: Both confirm the answer is 2.\nThe answer is 2.\nCommon mistake: Choosing 1 (already in row 4)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q24",
+      "question": "In a 3x3 grid, each cell has two attributes: pattern (solid/striped/dotted) and direction (up/right/down). Row 1: solid-up, striped-right, dotted-down. Row 2: dotted-right, solid-down, striped-up. Row 3: striped-down, dotted-up, ___. What goes in the blank?",
+      "options": ["Solid-right", "Solid-up", "Dotted-right", "Striped-right"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 patterns: striped, dotted. Needs solid.\nStep 2: Row 3 directions: down, up. Needs right.\nStep 3: The blank is solid-right.\nThe answer is Solid-right.\nCommon mistake: Choosing Solid-up (up is already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q25",
+      "question": "If all A are B, and all B are C, what can we say about A and C?",
+      "options": ["All A are C", "All C are A", "Some A are C", "No A are C"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: All A are B means A is a subset of B.\nStep 2: All B are C means B is a subset of C.\nStep 3: If A is inside B and B is inside C, then A is inside C. All A are C.\nThe answer is All A are C.\nCommon mistake: Choosing All C are A (reversing the relationship)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q26",
+      "question": "If it is raining, Tom carries an umbrella. Tom is not carrying an umbrella. What can we conclude?",
+      "options": ["It is raining", "It is not raining", "Tom forgot his umbrella", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Rule: if raining, then umbrella.\nStep 2: Contrapositive: if no umbrella, then not raining.\nStep 3: Tom has no umbrella, so it is not raining.\nThe answer is It is not raining.\nCommon mistake: Choosing Cannot tell (not applying the contrapositive correctly)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q27",
+      "question": "All roses are flowers. All flowers need water. All things that need water can wilt. Can roses wilt?",
+      "options": ["Yes", "No", "Only some roses", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: All roses are flowers -> roses need water (since all flowers need water).\nStep 2: Roses need water -> roses can wilt (since all things that need water can wilt).\nStep 3: Following the chain: roses -> flowers -> need water -> can wilt.\nThe answer is Yes.\nCommon mistake: Choosing Only some roses (the logic applies to all roses, not just some)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q28",
+      "question": "In a group of 30 students, 18 study French, 14 study Spanish, and 6 study both. How many study neither language?",
+      "options": ["2", "4", "6", "8"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Students studying at least one language = 18 + 14 - 6 = 26.\nStep 2: Students studying neither = 30 - 26 = 4.\nStep 3: 4 students study neither language.\nThe answer is 4.\nCommon mistake: Choosing 2 (not subtracting the overlap before finding the complement)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q29",
+      "question": "Statement 1: All cats are animals. Statement 2: Some animals are pets. Statement 3: No pets are wild. Which conclusion must be true?",
+      "options": ["All cats are pets", "Some cats are wild", "No cats are wild", "Some animals are not wild"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Some animals are pets (Statement 2). No pets are wild (Statement 3).\nStep 2: Therefore some animals (the ones that are pets) are not wild.\nStep 3: We cannot conclude all cats are pets (only some animals are pets). We cannot conclude no cats are wild (cats might not be among the pets). But we can conclude some animals are not wild.\nThe answer is Some animals are not wild.\nCommon mistake: Choosing All cats are pets (not all animals are pets, so not all cats need to be pets)."
+    },
+    {
+      "id": "sel-y5-thinking-t4-q30",
+      "question": "Four friends — Amy, Ben, Cara, and Dan — each own a different pet: cat, dog, fish, and hamster. Ben owns the dog. Amy does not own the cat or the fish. Cara owns the fish. What pet does Dan own?",
+      "options": ["Cat", "Dog", "Fish", "Hamster"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ben owns the dog. Cara owns the fish. These are determined.\nStep 2: Remaining pets for Amy and Dan: cat and hamster.\nStep 3: Amy does not own the cat. So Amy owns the hamster.\nStep 4: That leaves the cat for Dan.\nThe answer is Cat.\nCommon mistake: Choosing Hamster (assigning it to Dan instead of Amy, forgetting that Amy cannot own the cat)."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 4
+  },
+  "prompt": {
+    "id": "oc-y3-writing-t4",
+    "type": "narrative",
+    "text": "Write a story about a child who discovers something amazing hidden in the Australian bush. It could be a secret waterfall, an unusual creature, or something no one has ever seen before. Describe what happens when the child finds it.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 150-200 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a vivid and original discovery in the bush. The details about the setting and the discovery are creative, specific, and show the writer's imagination. The child's reaction to the discovery feels genuine and adds depth to the story.",
+      "satisfactory": "The story includes a recognisable discovery in the bush. Some imaginative details are present but the discovery may be predictable or lack the specific details that make it feel unique and real.",
+      "developing": "The story has limited connection to the bush setting or the discovery is vague and underdeveloped. Few details are provided about what was found or why it matters."
+    },
+    "structure": {
+      "excellent": "The story has a strong beginning that establishes the bush setting, a well-developed middle where the discovery unfolds with building suspense or excitement, and a satisfying ending. Paragraphs are used to organise the story.",
+      "satisfactory": "The story has a recognisable beginning, middle, and end. The discovery is present but may be introduced too quickly or the ending may feel rushed. Some attempt at paragraphing is evident.",
+      "developing": "The story lacks clear structure or organisation. Events may be jumbled or important parts of the story are missing. No paragraphing is used."
+    },
+    "language": {
+      "excellent": "Uses rich sensory language to describe the bush setting and the discovery. Vocabulary is varied and interesting, with some figurative language such as similes. Sentences vary in length and structure to create mood and pace.",
+      "satisfactory": "Uses appropriate vocabulary to describe the setting and events. Some descriptive language is present but could be more varied. Sentences are mostly similar in length and structure.",
+      "developing": "Uses basic or repetitive vocabulary with little descriptive language. Sentences follow the same simple pattern throughout. The bush setting is not described in enough detail."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate for most words including Year 3 level vocabulary. Punctuation including full stops, commas, and speech marks is used correctly. Capital letters are used appropriately for sentence beginnings and proper nouns.",
+      "satisfactory": "Most common words are spelt correctly with some errors on more challenging words. Basic punctuation is mostly correct. Some errors with speech marks or commas but these do not prevent understanding.",
+      "developing": "Frequent spelling errors including on common words. Basic punctuation is often missing or incorrect. Errors make the writing difficult to follow in places."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The summer holidays had barely begun when Aiden and his nan set off on a bushwalk through the Blue Mountains. The air smelt like eucalyptus and the cicadas buzzed so loud it sounded like a thousand tiny engines.\n\nAiden wandered off the track to follow a bright blue butterfly. It led him through a curtain of ferns and down a rocky slope. At the bottom, he stopped and stared. Hidden between the sandstone cliffs was a waterfall he had never seen on any map. The water tumbled down like a silver ribbon into a pool so clear he could see every pebble on the bottom.\n\nBut that wasn't the most amazing part. Behind the waterfall, carved into the rock, were ancient handprints painted in red and yellow ochre. Aiden's heart beat fast. He knew these were Aboriginal rock paintings, maybe hundreds of years old.\n\nHe ran back to tell his nan. Together they sat by the pool and she told him stories about the Darug people who had cared for this land long before anyone else. Aiden decided he would never tell anyone the exact spot. Some discoveries, he thought, were meant to stay secret.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 3. The bush setting is richly described with sensory details — the smell of eucalyptus, the sound of cicadas compared to 'tiny engines,' and the waterfall described as 'a silver ribbon.' The discovery of Aboriginal rock art adds cultural depth and the child's respectful decision to keep the location secret shows maturity and thoughtfulness. The story is well-paragraphed with a clear narrative arc, and the vocabulary is varied and ambitious for a Year 3 student. The inclusion of the grandmother adds warmth and a meaningful connection to the land."
+    },
+    {
+      "level": "satisfactory",
+      "text": "On the weekend I went bushwalking with my family near our town. We walked for a long time on the path. I was getting tired and bored.\n\nThen I saw something shiny in the creek. I went closer and looked in the water. There was a rock that was sparkling like a diamond. I picked it up and it was really heavy.\n\nI showed my dad and he said it might be a special kind of crystal. We took it home and looked it up on the computer. It was a quartz crystal and it was very old.\n\nI was so excited about finding it. I brought it to school for show and tell. Everyone thought it was really cool. Now I keep it on my shelf in my room. I want to go back and find more.",
+      "annotations": "This response meets the satisfactory standard for Year 3. It follows the prompt and has a clear sequence of events from the bushwalk to showing the crystal at school. The discovery of the quartz crystal is a good idea. However, the bush setting could be described in more detail — we learn very little about what the bush looks or sounds like. The language is functional but relies on simple sentence structures and basic vocabulary. The simile 'sparkling like a diamond' is a good attempt at figurative language. The story would benefit from more sensory description and varied sentence beginnings."
+    }
+  ]
+}

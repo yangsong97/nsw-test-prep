@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-maths-t4-q01",
+      "question": "What is 234 + 158?",
+      "options": ["382", "392", "402", "412"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 4 + 8 = 12. Write 2, carry 1.\nStep 2: Tens: 3 + 5 + 1 = 9.\nStep 3: Hundreds: 2 + 1 = 3.\nStep 4: 234 + 158 = 392.\nCommon mistake: Choosing 382 (forgetting to carry from ones) or 402 (carrying error)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q02",
+      "question": "What fraction of this group is shaded if 2 out of 6 equal parts are shaded?",
+      "options": ["1/2", "1/3", "2/6", "4/6"],
+      "answer": 2,
+      "topic": "fractions-basic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2 parts shaded out of 6 total = 2/6.\nStep 2: While 2/6 simplifies to 1/3, the direct answer is 2/6.\nCommon mistake: Choosing 1/2 (incorrect simplification) or 4/6 (counting unshaded parts)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q03",
+      "question": "A bag of apples weighs 2 kilograms. How many grams is that?",
+      "options": ["20 g", "200 g", "2000 g", "20000 g"],
+      "answer": 2,
+      "topic": "measurement-mass-volume",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1 kilogram = 1000 grams.\nStep 2: 2 kilograms = 2 × 1000 = 2000 grams.\nCommon mistake: Choosing 200 g (multiplying by 100) or 20 g (multiplying by 10)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q04",
+      "question": "How many faces does a cube have?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 1,
+      "topic": "shapes-properties",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cube is a 3D shape with flat square faces.\nStep 2: It has 6 faces: top, bottom, front, back, left, right.\nCommon mistake: Choosing 4 (counting only visible faces) or 8 (confusing faces with vertices)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q05",
+      "question": "What is the next number in this pattern? 5, 10, 15, 20, ___",
+      "options": ["22", "24", "25", "30"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 5 each time.\nStep 2: 20 + 5 = 25.\nCommon mistake: Choosing 30 (adding 10) or 22 (adding 2)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q06",
+      "question": "How many minutes are in 1 hour?",
+      "options": ["30", "45", "60", "100"],
+      "answer": 2,
+      "topic": "time-elapsed",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1 hour = 60 minutes.\nStep 2: This is a standard time conversion.\nCommon mistake: Choosing 100 (thinking metric) or 30 (confusing with half an hour)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q07",
+      "question": "A bar graph shows the number of books read: Week 1 = 4, Week 2 = 7, Week 3 = 5. How many books were read in total?",
+      "options": ["12", "14", "16", "18"],
+      "answer": 2,
+      "topic": "data-bar-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total = 4 + 7 + 5.\nStep 2: 4 + 7 = 11. Then 11 + 5 = 16.\nCommon mistake: Choosing 12 (forgetting one week) or 14 (addition error)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q08",
+      "question": "What is 500 − 237?",
+      "options": ["237", "263", "273", "337"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 500 − 237. Use borrowing.\nStep 2: 500 − 200 = 300. 300 − 37 = 263.\nStep 3: Or: 500 − 237 = 263.\nCommon mistake: Choosing 273 (borrowing error) or 337 (subtracting only 200 then forgetting the rest)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q09",
+      "question": "What fraction of a pizza is left if you eat 3 out of 8 equal slices?",
+      "options": ["3/8", "5/8", "3/5", "8/3"],
+      "answer": 1,
+      "topic": "fractions-basic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total slices = 8. Eaten = 3.\nStep 2: Left = 8 − 3 = 5 slices.\nStep 3: Fraction left = 5/8.\nCommon mistake: Choosing 3/8 (fraction eaten, not left) or 3/5 (incorrect denominator)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q10",
+      "question": "A cone has how many flat faces?",
+      "options": ["0", "1", "2", "3"],
+      "answer": 1,
+      "topic": "shapes-properties",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cone has a circular flat base.\nStep 2: It also has a curved surface but that is not a flat face.\nStep 3: A cone has 1 flat face.\nCommon mistake: Choosing 0 (forgetting the base) or 2 (counting the curved surface)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q11",
+      "question": "What is 6 × 7?",
+      "options": ["36", "42", "48", "54"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 6 × 7 = 42.\nStep 2: Can verify: 6 × 7 = 6 × 5 + 6 × 2 = 30 + 12 = 42.\nCommon mistake: Choosing 36 (6 × 6) or 48 (6 × 8)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q12",
+      "question": "Which fraction is larger: 1/3 or 1/4?",
+      "options": ["1/3", "1/4", "They are equal", "Cannot tell"],
+      "answer": 0,
+      "topic": "fractions-basic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: When the numerator is the same, the fraction with the smaller denominator is larger.\nStep 2: 3 < 4, so 1/3 > 1/4.\nStep 3: Think of it as sharing: sharing among 3 gives bigger pieces than sharing among 4.\nCommon mistake: Choosing 1/4 (thinking bigger denominator means bigger fraction)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q13",
+      "question": "A jug holds 1 litre of water. How many millilitres is that?",
+      "options": ["10 mL", "100 mL", "500 mL", "1000 mL"],
+      "answer": 3,
+      "topic": "measurement-mass-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1 litre = 1000 millilitres.\nStep 2: This is a standard conversion.\nCommon mistake: Choosing 100 mL (confusing with centimetres in a metre) or 500 mL (half a litre)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q14",
+      "question": "What is the next number in the pattern? 2, 6, 18, 54, ___",
+      "options": ["60", "108", "162", "216"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 6 ÷ 2 = 3. 18 ÷ 6 = 3. 54 ÷ 18 = 3.\nStep 2: The pattern multiplies by 3 each time.\nStep 3: 54 × 3 = 162.\nCommon mistake: Choosing 108 (multiplying by 2) or 60 (adding 6)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q15",
+      "question": "If a movie starts at 2:15 pm and goes for 1 hour 45 minutes, what time does it end?",
+      "options": ["3:00 pm", "3:45 pm", "4:00 pm", "4:15 pm"],
+      "answer": 2,
+      "topic": "time-elapsed",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start: 2:15 pm. Add 1 hour → 3:15 pm.\nStep 2: Add 45 minutes → 3:15 + 45 = 4:00 pm.\nCommon mistake: Choosing 3:45 pm (forgetting to add the hour properly) or 4:15 pm (adding hours but not adjusting minutes)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q16",
+      "question": "What is 48 ÷ 6?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 48 ÷ 6 = 8.\nStep 2: Check: 6 × 8 = 48. Correct.\nCommon mistake: Choosing 7 (6 × 7 = 42) or 9 (6 × 9 = 54)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q17",
+      "question": "A rectangular prism has how many edges?",
+      "options": ["6", "8", "10", "12"],
+      "answer": 3,
+      "topic": "shapes-properties",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A rectangular prism has 12 edges.\nStep 2: 4 edges on top, 4 on bottom, 4 connecting top to bottom.\nCommon mistake: Choosing 8 (counting vertices) or 6 (counting faces)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q18",
+      "question": "A bar graph shows test scores: Amy 85, Ben 72, Cal 90, Dee 68. What is the difference between the highest and lowest scores?",
+      "options": ["18", "20", "22", "24"],
+      "answer": 2,
+      "topic": "data-bar-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Highest = Cal at 90. Lowest = Dee at 68.\nStep 2: Difference = 90 − 68 = 22.\nCommon mistake: Choosing 18 (85 − 68 + error) or 20 (rounding)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q19",
+      "question": "A watermelon weighs 3 kg 500 g. How many grams is that in total?",
+      "options": ["350 g", "3050 g", "3500 g", "35000 g"],
+      "answer": 2,
+      "topic": "measurement-mass-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 3 kg = 3000 g.\nStep 2: 3000 g + 500 g = 3500 g.\nCommon mistake: Choosing 3050 g (writing 3 and 500 incorrectly) or 350 g (missing a zero)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q20",
+      "question": "What is 7 × 8?",
+      "options": ["48", "54", "56", "63"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 7 × 8 = 56.\nStep 2: Can verify: 7 × 8 = 7 × 10 − 7 × 2 = 70 − 14 = 56.\nCommon mistake: Choosing 54 (confusing with 6 × 9) or 63 (7 × 9)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q21",
+      "question": "What is 467 + 385?",
+      "options": ["742", "842", "852", "862"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 7 + 5 = 12. Write 2, carry 1.\nStep 2: Tens: 6 + 8 + 1 = 15. Write 5, carry 1.\nStep 3: Hundreds: 4 + 3 + 1 = 8.\nStep 4: 467 + 385 = 852.\nCommon mistake: Choosing 842 (not carrying from tens) or 862 (carrying error)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q22",
+      "question": "Which of these fractions is equivalent to 2/4?",
+      "options": ["1/2", "2/3", "3/4", "4/8"],
+      "answer": 0,
+      "topic": "fractions-basic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Simplify 2/4: divide both by 2.\nStep 2: 2/4 = 1/2.\nStep 3: Check 4/8: 4/8 = 1/2 also, but 1/2 is the simplest form.\nCommon mistake: Choosing 2/3 (incorrect simplification) or 3/4 (wrong fraction entirely)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q23",
+      "question": "A bottle holds 750 mL. How many bottles are needed to fill a 3 litre container?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1,
+      "topic": "measurement-mass-volume",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3 litres = 3000 mL.\nStep 2: 3000 ÷ 750 = 4 bottles.\nStep 3: Check: 4 × 750 = 3000 mL. Correct.\nCommon mistake: Choosing 3 (dividing 3 by 1 litre) or 5 (estimation error)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q24",
+      "question": "A shape has 5 faces, 8 edges, and 5 vertices. What is it?",
+      "options": ["Cube", "Square pyramid", "Triangular prism", "Cylinder"],
+      "answer": 1,
+      "topic": "shapes-properties",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A cube has 6 faces, 12 edges, 8 vertices.\nStep 2: A triangular prism has 5 faces, 9 edges, 6 vertices.\nStep 3: A square pyramid has 5 faces, 8 edges, 5 vertices. This matches.\nCommon mistake: Choosing triangular prism (close but wrong edge/vertex count)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q25",
+      "question": "Find the missing number: 3, 7, 15, 31, ___",
+      "options": ["47", "55", "63", "72"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3 × 2 + 1 = 7. 7 × 2 + 1 = 15. 15 × 2 + 1 = 31.\nStep 2: Pattern: multiply by 2 then add 1.\nStep 3: 31 × 2 + 1 = 63.\nCommon mistake: Choosing 47 (adding 16) or 55 (adding 24)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q26",
+      "question": "A bus leaves at 8:40 am and arrives at 10:15 am. How long is the trip?",
+      "options": ["1 hour 15 minutes", "1 hour 25 minutes", "1 hour 35 minutes", "2 hours 15 minutes"],
+      "answer": 2,
+      "topic": "time-elapsed",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: From 8:40 to 9:40 = 1 hour.\nStep 2: From 9:40 to 10:15 = 35 minutes.\nStep 3: Total = 1 hour 35 minutes.\nCommon mistake: Choosing 1 hour 25 minutes (subtracting 40 − 15 = 25) or 1 hour 15 minutes (subtracting hours only)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q27",
+      "question": "A bar graph shows rainfall in mm: Jan 45, Feb 62, Mar 38, Apr 54. Which two months had a combined rainfall closest to 100 mm?",
+      "options": ["Jan and Feb", "Jan and Apr", "Mar and Feb", "Mar and Apr"],
+      "answer": 2,
+      "topic": "data-bar-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Jan+Feb = 45+62 = 107. Jan+Apr = 45+54 = 99. Mar+Feb = 38+62 = 100. Mar+Apr = 38+54 = 92.\nStep 2: Mar+Feb = 100, which is exactly 100.\nCommon mistake: Choosing Jan and Apr (99, very close but not exact)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q28",
+      "question": "What is 903 − 658?",
+      "options": ["235", "245", "255", "345"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 3 − 8. Borrow: 13 − 8 = 5.\nStep 2: Tens: 9 − 5 = 4 (after borrowing, it was 10 − 1 = 9).\nStep 3: Hundreds: 9 − 6 = 2 (after borrowing from tens: 8 − 6 = 2).\nStep 4: 903 − 658 = 245.\nCommon mistake: Choosing 255 (borrowing error) or 345 (not borrowing correctly)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q29",
+      "question": "Order these fractions from smallest to largest: 1/2, 1/4, 3/4. Which is in the middle?",
+      "options": ["1/4", "1/2", "3/4", "They are all equal"],
+      "answer": 1,
+      "topic": "fractions-basic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1/4 = 0.25. 1/2 = 0.50. 3/4 = 0.75.\nStep 2: Order: 1/4, 1/2, 3/4.\nStep 3: The middle fraction is 1/2.\nCommon mistake: Choosing 3/4 (confusing largest with middle) or 1/4 (smallest, not middle)."
+    },
+    {
+      "id": "oc-y3-maths-t4-q30",
+      "question": "What rule describes this pattern? 4, 12, 36, 108, ___",
+      "options": ["Add 8", "Add 24", "Multiply by 3", "Multiply by 4"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 12 ÷ 4 = 3. 36 ÷ 12 = 3. 108 ÷ 36 = 3.\nStep 2: Each term is multiplied by 3.\nStep 3: Next: 108 × 3 = 324.\nCommon mistake: Choosing 'Add 8' (only works for the first step: 4 + 8 = 12) or 'Multiply by 4' (4 × 4 = 16, not 12)."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Lighthouse Keeper's Daughter",
+    "text": "The lighthouse stood alone at the edge of the cliffs on the south coast of New South Wales, its white tower rising above the jagged rocks and crashing waves below. Inside, twelve-year-old Ava sat at the kitchen table, staring out the window at the grey sky. Rain streaked across the glass in long, silvery lines.\n\nAva's father was the lighthouse keeper. Every evening, he climbed the one hundred and forty-two steps to the top of the tower to check that the great light was working. Ava had counted those steps many times. She could climb them with her eyes closed.\n\n\"It's going to be a rough night,\" her father said, pulling on his heavy coat. \"The bureau has issued a storm warning for the coast.\"\n\nAva nodded. She was used to storms. They shook the windows and howled through the gaps in the old stone walls. But tonight felt different. The air had a strange heaviness to it, and the seabirds had disappeared from the cliffs hours ago. Her father always said that when the birds went quiet, something big was coming.\n\nAt nine o'clock, the storm hit. Wind screamed around the lighthouse, and waves exploded against the rocks with tremendous force. Ava pressed her face against the window and saw nothing but blackness and spray.\n\nThen the light went out.\n\n\"Dad!\" she called, but there was no answer. He had gone up to the tower twenty minutes ago.\n\nAva grabbed a torch and ran to the spiral staircase. The stone steps were cold under her bare feet. Round and round she climbed, her heart hammering. At the top, she found her father on the floor, holding his ankle.\n\n\"I slipped on the wet step,\" he said through gritted teeth. \"I think it's broken. The generator has failed — you need to switch to the backup.\"\n\nAva had never done it alone before. Her hands trembled as she opened the metal panel on the wall. She found the red switch her father had shown her during their practice drills. She took a deep breath and flicked it.\n\nFor a terrible moment, nothing happened. Then, with a low hum, the backup generator kicked in and the great light blazed back to life, sweeping its beam across the churning sea.\n\n\"Well done, Ava,\" her father whispered. \"There could be boats out there tonight. You may have just saved lives.\"\n\nAva sat beside her father, wrapping his ankle with a cloth from the first aid kit. Outside, the storm raged on, but the light kept turning, steady and strong. She realised that all those evenings watching her father, all those times climbing the steps, had prepared her for this moment.\n\nShe was no longer just the lighthouse keeper's daughter. Tonight, she was the lighthouse keeper.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y4-reading-t4-q01",
+      "question": "What is the central idea of this story?",
+      "options": [
+        "Storms on the coast of NSW are very dangerous",
+        "A girl rises to a challenge and proves she is capable in an emergency",
+        "Lighthouse keepers have a difficult and lonely job",
+        "Children should not climb stairs in the dark"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story follows Ava as she faces an emergency — the light goes out during a storm and her father is injured — and she successfully restores the light on her own. The final line confirms this: she becomes the lighthouse keeper.\n\nOption C is incorrect because although the story is set in a lighthouse, its focus is on Ava's bravery and capability, not on the difficulty of the job.\n\nCommon mistake: Students might choose A because there is a big storm, but the storm is the setting for the story, not the main idea. The main idea is about Ava's growth and courage."
+    },
+    {
+      "id": "oc-y4-reading-t4-q02",
+      "question": "How many steps are there to the top of the lighthouse?",
+      "options": [
+        "One hundred and twelve",
+        "One hundred and forty-two",
+        "One hundred and twenty",
+        "Two hundred and forty-two"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says Ava's father 'climbed the one hundred and forty-two steps to the top of the tower.'\n\nOption A is incorrect because one hundred and twelve is a different number — the text specifically says one hundred and forty-two.\n\nCommon mistake: Students might misread or misremember the exact number, but the text clearly states one hundred and forty-two."
+    },
+    {
+      "id": "oc-y4-reading-t4-q03",
+      "question": "What clue told Ava that this storm would be worse than usual?",
+      "options": [
+        "Her father wore a heavier coat than normal",
+        "The seabirds had disappeared from the cliffs",
+        "The radio played a warning song",
+        "The waves were already reaching the lighthouse door"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says 'the seabirds had disappeared from the cliffs hours ago' and that Ava's father 'always said that when the birds went quiet, something big was coming.'\n\nOption A is incorrect because although her father does put on a heavy coat, the story specifically links the disappearing birds to the sign of a bigger storm.\n\nCommon mistake: Students might choose A because her father mentions a storm warning, but the question asks what made Ava feel tonight was different, and the answer is the birds disappearing."
+    },
+    {
+      "id": "oc-y4-reading-t4-q04",
+      "question": "What does the word 'tremendous' mean as used in the passage?",
+      "options": [
+        "Gentle and quiet",
+        "Very great or powerful",
+        "Quick and sudden",
+        "Unusual and strange"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'waves exploded against the rocks with tremendous force.' In the context of a violent storm, 'tremendous' means very great or powerful.\n\nOption A is incorrect because it is the opposite of the meaning — gentle and quiet would not describe waves exploding against rocks.\n\nCommon mistake: Students might confuse 'tremendous' with 'trembling,' but tremendous means extremely great in size, force, or intensity."
+    },
+    {
+      "id": "oc-y4-reading-t4-q05",
+      "question": "Why did Ava's hands tremble when she opened the metal panel?",
+      "options": [
+        "Because the panel was very heavy",
+        "Because she was nervous about doing something she had never done alone before",
+        "Because her hands were wet from the rain",
+        "Because the electricity shocked her"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'Ava had never done it alone before. Her hands trembled.' The trembling comes from nerves and the pressure of the situation — her father is injured, the storm is raging, and she must act alone.\n\nOption C is incorrect because there is no mention of Ava's hands being wet — the trembling is emotional, not physical.\n\nCommon mistake: Students might choose a physical reason like C, but the text connects the trembling directly to the fact that she had 'never done it alone before,' showing it is caused by nervousness."
+    },
+    {
+      "id": "oc-y4-reading-t4-q06",
+      "question": "How does Ava's character develop throughout the story?",
+      "options": [
+        "She starts as someone who dislikes the lighthouse and learns to love it",
+        "She starts as an observer of her father's work and becomes someone who can do it herself",
+        "She starts as a frightened girl and becomes angry at the storm",
+        "She starts as a careless child and learns to be more careful"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because at the start, Ava watches her father and counts the steps. By the end, she climbs the tower, fixes the generator, and tends to her father's injury. The final line captures this growth: she is 'no longer just the lighthouse keeper's daughter' but 'the lighthouse keeper.'\n\nOption A is incorrect because there is no evidence Ava dislikes the lighthouse — she seems comfortable there from the beginning.\n\nCommon mistake: Students might choose C because Ava is clearly scared (her heart is hammering, her hands tremble), but she overcomes her fear rather than becoming angry. Her development is about growing into a capable person."
+    },
+    {
+      "id": "oc-y4-reading-t4-q07",
+      "question": "What caused the light in the lighthouse to go out?",
+      "options": [
+        "The wind blew out the flame",
+        "The generator failed during the storm",
+        "Ava's father turned it off by accident",
+        "A wave crashed through the tower window"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Ava's father says 'The generator has failed' when she finds him at the top of the tower.\n\nOption A is incorrect because lighthouses use electric lights powered by generators, not flames that can be blown out.\n\nCommon mistake: Students might assume the storm directly knocked out the light, but the specific cause given in the text is the generator failure."
+    },
+    {
+      "id": "oc-y4-reading-t4-q08",
+      "question": "Why does the author include the detail that Ava climbed the stairs with 'bare feet'?",
+      "options": [
+        "To show that Ava forgot to put her shoes on because she was in such a hurry",
+        "To describe the lighthouse's dress code",
+        "To explain why the stairs were slippery",
+        "To show that Ava does not like wearing shoes"
+      ],
+      "answer": 0,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is A because when Ava heard her father not responding and saw the light go out, she 'grabbed a torch and ran to the spiral staircase.' The bare feet detail shows she acted immediately without thinking about shoes — highlighting the urgency of the moment.\n\nOption C is incorrect because the stairs being slippery is connected to her father's accident, not to Ava's bare feet.\n\nCommon mistake: Students might choose C because her father slipped on a wet step, but the author includes the bare feet detail about Ava to emphasise how quickly she reacted, not to explain the slipperiness of the stairs."
+    },
+    {
+      "id": "oc-y4-reading-t4-q09",
+      "question": "How does the author build tension in the story?",
+      "options": [
+        "By describing a happy family meal at the start",
+        "By using short, dramatic sentences and describing the storm getting worse before the light goes out",
+        "By having many characters argue with each other",
+        "By including funny moments that make the reader relax"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the author uses techniques like short dramatic sentences ('Then the light went out'), descriptions of the worsening storm, and a moment of suspense ('For a terrible moment, nothing happened') to build tension throughout the story.\n\nOption A is incorrect because the story begins with grey skies and a storm warning, creating an uneasy mood from the start, not a happy one.\n\nCommon mistake: Students might not recognise tension-building techniques. The key is that the author layers warning signs (storm warning, birds disappearing, the storm arriving, the light failing, the father's injury) to create increasing suspense."
+    },
+    {
+      "id": "oc-y4-reading-t4-q10",
+      "question": "What is the deeper meaning of the last line: 'Tonight, she was the lighthouse keeper'?",
+      "options": [
+        "Ava has officially been given her father's job",
+        "Ava has proven she is capable and responsible enough to take on an important role",
+        "Ava's father will never work in the lighthouse again",
+        "Ava decides she wants to be a lighthouse keeper when she grows up"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the final line is not about a job title — it represents Ava's transformation. By restoring the light and caring for her father, she has shown she is capable, brave, and responsible. The author uses this line to capture the theme of growing up and rising to a challenge.\n\nOption A is incorrect because Ava is twelve years old and this is one night — she has not been officially given the job.\n\nCommon mistake: Students might take the line literally, thinking Ava has been hired as a lighthouse keeper. But the line is figurative — it means that in this moment, she proved she could handle the responsibility."
+    }
+  ]
+}

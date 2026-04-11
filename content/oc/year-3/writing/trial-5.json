@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 5
+  },
+  "prompt": {
+    "id": "oc-y3-writing-t5",
+    "type": "persuasive",
+    "text": "Your school is deciding whether students should be allowed to bring their pets to school for one special day each term. Write a letter to your principal explaining whether you think this is a good idea or a bad idea. Give reasons to support your opinion.",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 150-200 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The letter presents a clear opinion about pets at school with three or more well-developed reasons. Each reason is supported with specific examples or explanations that are convincing and relevant to school life.",
+      "satisfactory": "The letter states an opinion about pets at school with at least two reasons. Reasons are relevant but may lack specific examples or detailed explanation to make them fully convincing.",
+      "developing": "The opinion is unclear or only one vague reason is given. The reasons may not relate clearly to the topic of pets at school or may be underdeveloped."
+    },
+    "structure": {
+      "excellent": "The letter has a clear introduction stating the opinion, well-organised body paragraphs with one reason per paragraph, and a strong conclusion that restates the opinion. The letter format is used correctly with a greeting and sign-off.",
+      "satisfactory": "The letter has a recognisable introduction, body, and conclusion. Some attempt at paragraphing is made. The letter format is mostly followed with a greeting or sign-off.",
+      "developing": "The letter lacks clear organisation. Ideas are jumbled together without paragraphs. The letter format may not be used at all."
+    },
+    "language": {
+      "excellent": "Uses persuasive language effectively, including opinion words (I believe, surely, without a doubt) and connectives (firstly, furthermore, most importantly). Vocabulary is varied and appropriate for the audience of the principal.",
+      "satisfactory": "Uses some persuasive language such as 'I think' and basic connectives like 'also' and 'because.' Vocabulary is appropriate but could be more varied and formal for writing to the principal.",
+      "developing": "Uses very basic language with no persuasive techniques. The tone may be too informal for a letter to the principal. Little variety in vocabulary or sentence structure."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate for most words including Year 3 level vocabulary. Punctuation including full stops, commas, and apostrophes is used correctly. Capital letters are used appropriately.",
+      "satisfactory": "Most common words are spelt correctly. Basic punctuation is mostly correct. Some errors are present but do not prevent understanding.",
+      "developing": "Frequent spelling errors on common words. Basic punctuation is often missing. Errors make the writing difficult to follow."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "Dear Mrs Patterson,\n\nI am writing to share my opinion about the idea of having a special pet day at our school each term. I strongly believe this would be a wonderful idea and I would like to explain my reasons.\n\nFirstly, bringing pets to school would help students learn about responsibility. When we show our classmates how we care for our animals, we practise being responsible owners. This connects to what we learn in science about living things and their needs.\n\nSecondly, a pet day would make school even more enjoyable. Many students feel happier when they are around animals. I have read that spending time with pets can help people feel calm and less worried. This would be especially good on stressful days.\n\nFinally, pet day would help us learn about different types of animals. Not everyone has the same pet. Some students have dogs, some have birds, and some might even have lizards or guinea pigs. We would all learn something new from each other.\n\nOf course, we would need rules to keep everyone safe. Students with allergies could stay in a separate area, and all pets should be on leads or in cages.\n\nI hope you will consider this idea. I am sure it would make our school an even better place to learn.\n\nYours sincerely,\nEmma",
+      "annotations": "This response demonstrates excellent persuasive writing for Year 3. The letter is well-structured with a clear introduction, three distinct reasons each in their own paragraph, an acknowledgement of a potential concern (allergies), and a polite conclusion. Persuasive language is used effectively with phrases like 'I strongly believe' and connectives like 'firstly,' 'secondly,' and 'finally.' The tone is appropriately formal for a letter to the principal. Each reason is supported with a specific explanation, and the writer shows mature thinking by addressing a counter-argument about safety."
+    },
+    {
+      "level": "satisfactory",
+      "text": "Dear Principal,\n\nI think we should have a pet day at school because it would be really fun. I have a dog called Biscuit and I would love to bring him.\n\nOne reason is that pets make people happy. When I am sad my dog makes me feel better. Also lots of kids would like to see other peoples pets.\n\nAnother reason is we could learn about animals. We could learn what they eat and how to look after them.\n\nI think pet day is a good idea and we should do it.\n\nFrom,\nLiam",
+      "annotations": "This response meets the satisfactory standard for Year 3. It states a clear opinion and provides two reasons with some supporting detail. The letter format is followed with a greeting and sign-off. However, the persuasive language is quite basic, relying mainly on 'I think' and 'also.' The reasons could be developed further with more specific examples or explanations. The tone is slightly informal for a letter to the principal — phrases like 'really fun' could be replaced with more formal alternatives. An apostrophe is missing in 'peoples' and the writing would benefit from more varied sentence beginnings."
+    }
+  ]
+}

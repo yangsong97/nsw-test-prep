@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-maths-t5-q01",
+      "question": "What is 21 + 16?",
+      "options": ["35", "36", "37", "47"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 1 + 6 = 7.\nStep 2: Tens: 2 + 1 = 3.\nStep 3: 21 + 16 = 37.\nCommon mistake: Choosing 35 (miscounting ones) or 47 (adding an extra ten)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q02",
+      "question": "What number is 3 tens and 2 ones?",
+      "options": ["23", "32", "35", "302"],
+      "answer": 1,
+      "topic": "place-value",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3 tens = 30.\nStep 2: 2 ones = 2.\nStep 3: 30 + 2 = 32.\nCommon mistake: Choosing 23 (swapping tens and ones) or 302 (putting 3 and 02 together)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q03",
+      "question": "How many corners does a rectangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A rectangle has 4 straight sides.\nStep 2: Each pair of sides meets at a corner.\nStep 3: A rectangle has 4 corners.\nCommon mistake: Choosing 3 (confusing with triangle) or 2 (counting only two corners)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q04",
+      "question": "How long is 1 metre in centimetres?",
+      "options": ["10 cm", "50 cm", "100 cm", "1000 cm"],
+      "answer": 2,
+      "topic": "measurement-length",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1 metre = 100 centimetres.\nStep 2: This is a standard measurement conversion.\nCommon mistake: Choosing 10 cm (confusing cm with mm) or 1000 cm (confusing metres with kilometres)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q05",
+      "question": "Count by 5s: 25, 30, 35, ___. What comes next?",
+      "options": ["36", "38", "40", "45"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 5 each time.\nStep 2: 35 + 5 = 40.\nCommon mistake: Choosing 36 (adding 1) or 45 (adding 10)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q06",
+      "question": "What time is half past 7?",
+      "options": ["7:00", "7:15", "7:30", "7:50"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 'Half past' means 30 minutes after the hour.\nStep 2: Half past 7 = 7:30.\nCommon mistake: Choosing 7:15 (confusing with quarter past) or 7:00 (ignoring 'half past')."
+    },
+    {
+      "id": "oc-y2-maths-t5-q07",
+      "question": "A picture graph shows children's favourite animals. Dog has 5 pictures, cat has 3, bird has 2. Each picture equals 1 child. How many children chose dog or cat?",
+      "options": ["3", "5", "8", "10"],
+      "answer": 2,
+      "topic": "data-picture-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Dog = 5 children. Cat = 3 children.\nStep 2: Dog + Cat = 5 + 3 = 8.\nCommon mistake: Choosing 10 (adding all three animals) or 5 (only counting dog)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q08",
+      "question": "What is 45 − 12?",
+      "options": ["23", "33", "37", "57"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 5 − 2 = 3.\nStep 2: Tens: 4 − 1 = 3.\nStep 3: 45 − 12 = 33.\nCommon mistake: Choosing 23 (subtraction error in tens) or 57 (adding instead of subtracting)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q09",
+      "question": "Which number comes just before 60?",
+      "options": ["50", "58", "59", "61"],
+      "answer": 2,
+      "topic": "place-value",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The number just before 60 is one less: 60 − 1 = 59.\nCommon mistake: Choosing 50 (going back 10 instead of 1) or 61 (the number after 60)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q10",
+      "question": "Count by 2s: 14, 16, 18, ___. What comes next?",
+      "options": ["19", "20", "22", "28"],
+      "answer": 1,
+      "topic": "skip-counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 2 each time.\nStep 2: 18 + 2 = 20.\nCommon mistake: Choosing 19 (adding 1) or 22 (adding 4)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q11",
+      "question": "What is 64 − 37?",
+      "options": ["23", "27", "33", "37"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ones: 4 − 7. Cannot do, borrow from tens.\nStep 2: 14 − 7 = 7. Tens: 5 − 3 = 2.\nStep 3: 64 − 37 = 27.\nCommon mistake: Choosing 33 (doing 7 − 4 = 3 in ones) or 37 (subtraction error)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q12",
+      "question": "A book is 25 cm tall. A box is 48 cm tall. How much taller is the box?",
+      "options": ["13 cm", "23 cm", "33 cm", "73 cm"],
+      "answer": 1,
+      "topic": "measurement-length",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Difference: 48 − 25.\nStep 2: Ones: 8 − 5 = 3. Tens: 4 − 2 = 2.\nStep 3: 48 − 25 = 23 cm.\nCommon mistake: Choosing 73 cm (adding instead of subtracting) or 13 cm (subtraction error)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q13",
+      "question": "A shape has no straight sides and no corners. What is it?",
+      "options": ["Triangle", "Square", "Circle", "Rectangle"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Triangles have 3 sides. Squares have 4 sides. Rectangles have 4 sides.\nStep 2: Only a circle has no straight sides and no corners.\nCommon mistake: Not recognising that circles have a curved edge, not a straight side."
+    },
+    {
+      "id": "oc-y2-maths-t5-q14",
+      "question": "What number is 10 less than 74?",
+      "options": ["54", "63", "64", "73"],
+      "answer": 2,
+      "topic": "place-value",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 10 less means subtract 10.\nStep 2: 74 − 10 = 64.\nCommon mistake: Choosing 73 (subtracting 1 instead of 10) or 63 (subtracting 11)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q15",
+      "question": "Skip count by 10s: 23, 33, 43, ___. What comes next?",
+      "options": ["44", "50", "53", "63"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The pattern adds 10 each time.\nStep 2: 43 + 10 = 53.\nCommon mistake: Choosing 44 (adding 1) or 50 (rounding up)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q16",
+      "question": "Tom had 56 marbles. He lost 29. How many are left?",
+      "options": ["27", "33", "37", "85"],
+      "answer": 0,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 56 − 29.\nStep 2: Ones: 6 − 9. Cannot do, borrow. 16 − 9 = 7.\nStep 3: Tens: 4 − 2 = 2.\nStep 4: 56 − 29 = 27.\nCommon mistake: Choosing 37 (doing 9 − 6 = 3 in ones) or 85 (adding instead)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q17",
+      "question": "Which is the best unit to measure the length of a swimming pool?",
+      "options": ["Centimetres", "Metres", "Grams", "Litres"],
+      "answer": 1,
+      "topic": "measurement-length",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Grams measure mass. Litres measure capacity. These are not lengths.\nStep 2: Centimetres are for small objects. Metres are for larger objects.\nStep 3: A swimming pool is best measured in metres.\nCommon mistake: Choosing centimetres (too small a unit for a pool)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q18",
+      "question": "What time is quarter past 9?",
+      "options": ["9:00", "9:15", "9:30", "9:45"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 'Quarter past' means 15 minutes after the hour.\nStep 2: Quarter past 9 = 9:15.\nCommon mistake: Choosing 9:30 (confusing with half past) or 9:45 (confusing with quarter to)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q19",
+      "question": "In a picture graph, each heart stands for 2 votes. Sport has 7 hearts. How many votes did sport get?",
+      "options": ["7", "9", "12", "14"],
+      "answer": 3,
+      "topic": "data-picture-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each heart = 2 votes.\nStep 2: 7 hearts × 2 = 14 votes.\nCommon mistake: Choosing 7 (not multiplying by 2) or 9 (adding 2 instead of multiplying)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q20",
+      "question": "How many sides does a pentagon have?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 'Penta' means 5.\nStep 2: A pentagon has 5 sides.\nCommon mistake: Choosing 4 (confusing with square) or 6 (confusing with hexagon)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q21",
+      "question": "What is 78 + 46?",
+      "options": ["114", "124", "134", "224"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 8 + 6 = 14. Write 4, carry 1.\nStep 2: Tens: 7 + 4 + 1 = 12. Write 2, carry 1.\nStep 3: Hundreds: 1.\nStep 4: 78 + 46 = 124.\nCommon mistake: Choosing 114 (forgetting to carry from ones) or 134 (carrying error in tens)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q22",
+      "question": "Put these numbers in order from smallest to largest: 72, 27, 57, 75. Which is second smallest?",
+      "options": ["27", "57", "72", "75"],
+      "answer": 1,
+      "topic": "place-value",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Order: 27, 57, 72, 75.\nStep 2: The second smallest is 57.\nCommon mistake: Choosing 72 (third smallest) or 27 (smallest, not second smallest)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q23",
+      "question": "A rope is 90 cm long. It is cut into two pieces. One piece is 53 cm. How long is the other piece?",
+      "options": ["37 cm", "43 cm", "47 cm", "143 cm"],
+      "answer": 0,
+      "topic": "measurement-length",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 90 − 53.\nStep 2: Ones: 0 − 3. Borrow: 10 − 3 = 7. Tens: 8 − 5 = 3.\nStep 3: 90 − 53 = 37 cm.\nCommon mistake: Choosing 43 cm (subtraction error) or 143 cm (adding instead)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q24",
+      "question": "What is 81 − 45?",
+      "options": ["34", "36", "44", "46"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 1 − 5. Borrow: 11 − 5 = 6.\nStep 2: Tens: 7 − 4 = 3.\nStep 3: 81 − 45 = 36.\nCommon mistake: Choosing 44 (doing 5 − 1 in ones) or 46 (borrowing error)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q25",
+      "question": "What are the next two numbers? 4, 8, 12, 16, ___, ___",
+      "options": ["17, 18", "18, 20", "20, 24", "20, 22"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Pattern adds 4 each time.\nStep 2: 16 + 4 = 20. 20 + 4 = 24.\nCommon mistake: Choosing 20, 22 (switching to adding 2) or 18, 20 (adding 2 instead of 4)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q26",
+      "question": "School starts at 9:00 and the first lesson ends at 10:00. Recess is 30 minutes. What time does the second lesson start?",
+      "options": ["10:00", "10:15", "10:30", "11:00"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: First lesson ends at 10:00.\nStep 2: Recess is 30 minutes after 10:00.\nStep 3: 10:00 + 30 minutes = 10:30.\nCommon mistake: Choosing 10:00 (forgetting recess) or 11:00 (adding 1 hour)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q27",
+      "question": "A picture graph uses stars where each star = 2 children. Maths has 8 stars, Reading has 5 stars, Art has 4 stars. How many fewer children chose Art than Maths?",
+      "options": ["4", "6", "8", "12"],
+      "answer": 2,
+      "topic": "data-picture-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Maths: 8 × 2 = 16 children. Art: 4 × 2 = 8 children.\nStep 2: Difference: 16 − 8 = 8.\nCommon mistake: Choosing 4 (8 − 4 without multiplying by 2) or 6 (using reading instead)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q28",
+      "question": "I am a two-digit number. My tens digit is double my ones digit. My ones digit is 4. What number am I?",
+      "options": ["44", "48", "84", "88"],
+      "answer": 2,
+      "topic": "place-value",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones digit = 4.\nStep 2: Tens digit = double of 4 = 8.\nStep 3: The number is 84.\nCommon mistake: Choosing 48 (swapping tens and ones) or 44 (using same digit)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q29",
+      "question": "A shape has 4 sides. Two sides are long and two sides are short. All corners are square corners. What shape is it?",
+      "options": ["Square", "Triangle", "Rectangle", "Diamond"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4 sides with square corners means it is either a square or rectangle.\nStep 2: Two long sides and two short sides means not all sides are equal.\nStep 3: It must be a rectangle.\nCommon mistake: Choosing square (all sides would need to be equal) or diamond (no square corners)."
+    },
+    {
+      "id": "oc-y2-maths-t5-q30",
+      "question": "Lily had 45 beads. She bought 38 more, then gave 19 to her friend. How many beads does Lily have now?",
+      "options": ["26", "54", "64", "102"],
+      "answer": 2,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 45 + 38 = 83.\nStep 2: 83 − 19 = 64.\nCommon mistake: Choosing 26 (38 − 19 + something wrong) or 54 (subtraction error)."
+    }
+  ]
+}

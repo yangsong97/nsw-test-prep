@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y6-maths-t5-q01",
+      "question": "Orange juice and water are mixed in the ratio 2:5. If there are 350 mL total, how much orange juice is there?",
+      "options": ["50 mL", "70 mL", "100 mL", "140 mL"],
+      "answer": 2,
+      "topic": "ratios-proportions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total parts = 2 + 5 = 7.\nStep 2: Each part = 350 ÷ 7 = 50 mL.\nStep 3: Orange juice = 2 × 50 = 100 mL.\nCommon mistake: Choosing 140 mL (giving 2/5 of total instead of 2/7) or 70 mL (1/5 of total)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q02",
+      "question": "Solve for x: 5x − 3 = 22",
+      "options": ["3", "4", "5", "25"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 5x − 3 = 22.\nStep 2: 5x = 25.\nStep 3: x = 5.\nCommon mistake: Choosing 25 (not dividing by 5) or 3 (22 ÷ 5 ≈ 4.4, then rounding wrong)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q03",
+      "question": "What is the midpoint of the line segment from (2, 4) to (8, 10)?",
+      "options": ["(4, 6)", "(5, 7)", "(6, 8)", "(10, 14)"],
+      "answer": 1,
+      "topic": "geometry-coordinates",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Midpoint = ((x1+x2)/2, (y1+y2)/2).\nStep 2: ((2+8)/2, (4+10)/2) = (5, 7).\nCommon mistake: Choosing (10, 14) (adding without dividing) or (6, 8) (wrong calculation)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q04",
+      "question": "A coin is flipped 3 times. How many possible outcomes are there?",
+      "options": ["3", "6", "8", "9"],
+      "answer": 2,
+      "topic": "data-probability",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Each flip has 2 outcomes (H or T).\nStep 2: Total outcomes = 2 × 2 × 2 = 8.\nCommon mistake: Choosing 6 (3 × 2) or 3 (number of flips)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q05",
+      "question": "What is 3/4 − 1/3?",
+      "options": ["2/1", "2/12", "5/12", "7/12"],
+      "answer": 2,
+      "topic": "fractions-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Common denominator = 12.\nStep 2: 3/4 = 9/12. 1/3 = 4/12.\nStep 3: 9/12 − 4/12 = 5/12.\nCommon mistake: Choosing 2/1 (subtracting numerators and denominators: (3-1)/(4-3)) or 7/12 (adding instead)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q06",
+      "question": "A bike costs $450. Sales tax is 10%. What is the total cost?",
+      "options": ["$455", "$460", "$495", "$500"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Tax = 10% of $450 = $45.\nStep 2: Total = $450 + $45 = $495.\nCommon mistake: Choosing $500 (rounding) or $460 (adding $10 instead of 10%)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q07",
+      "question": "Is 51 a prime number?",
+      "options": ["Yes", "No, it is divisible by 3 and 17", "No, it is divisible by 7", "No, it is divisible by 9"],
+      "answer": 1,
+      "topic": "number-theory",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 51 ÷ 3 = 17.\nStep 2: 3 × 17 = 51. So 51 is not prime.\nCommon mistake: Choosing 'Yes' (51 is odd, not ending in 0 or 5, so it looks prime)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q08",
+      "question": "In a fruit basket, apples to oranges are in the ratio 4:3. If there are 28 apples, how many oranges are there?",
+      "options": ["9", "12", "18", "21"],
+      "answer": 3,
+      "topic": "ratios-proportions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Apples = 4 parts = 28. Each part = 7.\nStep 2: Oranges = 3 parts = 3 × 7 = 21.\nCommon mistake: Choosing 12 (28 ÷ 4 × 3 ÷ something) or 9 (28 ÷ 3 rounding)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q09",
+      "question": "Solve: x/3 = 12",
+      "options": ["4", "9", "15", "36"],
+      "answer": 3,
+      "topic": "algebra-equations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: x/3 = 12.\nStep 2: x = 12 × 3 = 36.\nCommon mistake: Choosing 4 (12 ÷ 3) or 15 (12 + 3)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q10",
+      "question": "Express 360 as a product of its prime factors.",
+      "options": ["2³ × 3² × 5", "2² × 3³ × 5", "2³ × 3 × 5²", "2 × 3² × 5²"],
+      "answer": 0,
+      "topic": "number-theory",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 360 ÷ 2 = 180. 180 ÷ 2 = 90. 90 ÷ 2 = 45. 45 ÷ 3 = 15. 15 ÷ 3 = 5.\nStep 2: 360 = 2³ × 3² × 5.\nCommon mistake: Choosing 2² × 3³ × 5 (swapping powers of 2 and 3)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q11",
+      "question": "A car travels 240 km in 3 hours. A truck travels 200 km in 4 hours. What is the ratio of the car's speed to the truck's speed?",
+      "options": ["3:2", "4:3", "5:3", "8:5"],
+      "answer": 3,
+      "topic": "ratios-proportions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Car speed = 240 ÷ 3 = 80 km/h.\nStep 2: Truck speed = 200 ÷ 4 = 50 km/h.\nStep 3: Ratio = 80:50 = 8:5.\nCommon mistake: Choosing 4:3 (using distances or times directly) or 3:2 (240:200 simplified incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q12",
+      "question": "Solve: 4(x + 2) = 3x + 15",
+      "options": ["5", "7", "9", "11"],
+      "answer": 1,
+      "topic": "algebra-equations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Expand: 4x + 8 = 3x + 15.\nStep 2: 4x − 3x = 15 − 8.\nStep 3: x = 7.\nCommon mistake: Choosing 5 (15 − 8 = 7, then subtracting 2) or 11 (adding 8 + 3)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q13",
+      "question": "A shape is translated 4 units right and 3 units down from (1, 5). What are the new coordinates?",
+      "options": ["(5, 2)", "(5, 8)", "(−3, 2)", "(−3, 8)"],
+      "answer": 0,
+      "topic": "geometry-coordinates",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Right 4 units: x = 1 + 4 = 5.\nStep 2: Down 3 units: y = 5 − 3 = 2.\nStep 3: New coordinates = (5, 2).\nCommon mistake: Choosing (5, 8) (adding 3 instead of subtracting) or (−3, 2) (subtracting 4 from x)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q14",
+      "question": "A bag has 5 red balls and 3 blue balls. Two balls are drawn without replacement. What is the probability both are red?",
+      "options": ["5/14", "10/28", "25/64", "5/16"],
+      "answer": 0,
+      "topic": "data-probability",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: P(1st red) = 5/8.\nStep 2: P(2nd red | 1st red) = 4/7.\nStep 3: P(both red) = 5/8 × 4/7 = 20/56 = 5/14.\nCommon mistake: Choosing 25/64 (5/8 × 5/8, with replacement) or 10/28 (same as 5/14 but choosing it as different)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q15",
+      "question": "What is 2/3 ÷ 4/5?",
+      "options": ["5/6", "8/15", "10/12", "6/20"],
+      "answer": 0,
+      "topic": "fractions-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 2/3 ÷ 4/5 = 2/3 × 5/4.\nStep 2: = 10/12 = 5/6.\nCommon mistake: Choosing 8/15 (multiplying without reciprocal) or 10/12 (not simplifying)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q16",
+      "question": "A laptop was $1,200. It is reduced by 15%, then a further 10% off the new price. What is the final price?",
+      "options": ["$900", "$918", "$960", "$1,020"],
+      "answer": 1,
+      "topic": "percentage-applications",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: After 15% off: $1,200 × 0.85 = $1,020.\nStep 2: After 10% off: $1,020 × 0.90 = $918.\nCommon mistake: Choosing $900 (taking 25% off at once: $1,200 × 0.75) or $960 (only applying one discount)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q17",
+      "question": "What is the HCF of 48 and 60?",
+      "options": ["6", "8", "12", "24"],
+      "answer": 2,
+      "topic": "number-theory",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 48 = 2⁴ × 3. 60 = 2² × 3 × 5.\nStep 2: HCF = 2² × 3 = 12.\nCommon mistake: Choosing 6 (common factor but not highest) or 24 (factor of 48 but not 60)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q18",
+      "question": "What is 2 1/3 + 1 3/4?",
+      "options": ["3 4/7", "3 7/12", "4 1/12", "4 7/12"],
+      "answer": 2,
+      "topic": "fractions-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert: 2 1/3 = 7/3. 1 3/4 = 7/4.\nStep 2: Common denominator = 12. 7/3 = 28/12. 7/4 = 21/12.\nStep 3: 28/12 + 21/12 = 49/12 = 4 1/12.\nCommon mistake: Choosing 3 7/12 (adding whole numbers and fractions separately but getting fraction wrong) or 4 7/12 (adding numerators wrong)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q19",
+      "question": "A quadrilateral has vertices at (0,0), (4,0), (4,3), and (0,3). What shape is it and what is its perimeter?",
+      "options": ["Rectangle, 12 units", "Rectangle, 14 units", "Square, 14 units", "Square, 12 units"],
+      "answer": 1,
+      "topic": "geometry-coordinates",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Length = 4 − 0 = 4. Width = 3 − 0 = 3.\nStep 2: Not a square (sides not equal). It is a rectangle.\nStep 3: Perimeter = 2(4 + 3) = 14 units.\nCommon mistake: Choosing 12 units (4 × 3, which is area) or Square, 14 units (not a square since 4 ≠ 3)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q20",
+      "question": "A number is divisible by both 6 and 8. What is the smallest such number greater than 0?",
+      "options": ["14", "24", "36", "48"],
+      "answer": 1,
+      "topic": "number-theory",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: LCM of 6 and 8. 6 = 2 × 3. 8 = 2³.\nStep 2: LCM = 2³ × 3 = 24.\nCommon mistake: Choosing 48 (6 × 8) or 36 (multiple of 6 but not 8)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q21",
+      "question": "A recipe serves 6 people and needs 400 g of pasta. How much pasta is needed for 15 people?",
+      "options": ["800 g", "900 g", "1000 g", "1200 g"],
+      "answer": 2,
+      "topic": "ratios-proportions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Pasta per person = 400 ÷ 6 = 200/3 g.\nStep 2: For 15 people: 200/3 × 15 = 1000 g.\nStep 3: Or: 15/6 = 2.5. 400 × 2.5 = 1000 g.\nCommon mistake: Choosing 900 g (400 × 15 ÷ 6 computed incorrectly) or 1200 g (400 × 3)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q22",
+      "question": "Solve: 2(3x − 1) + 4 = 5x + 9",
+      "options": ["3", "5", "7", "9"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Expand: 6x − 2 + 4 = 5x + 9.\nStep 2: Simplify: 6x + 2 = 5x + 9.\nStep 3: 6x − 5x = 9 − 2.\nStep 4: x = 7.\nCommon mistake: Choosing 5 (6x − 2 + 4 = 6x + 6, getting +6 wrong) or 9 (not subtracting 2 correctly)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q23",
+      "question": "Point A(1, 2) is rotated 90° clockwise about the origin. What are the new coordinates?",
+      "options": ["(2, −1)", "(−2, 1)", "(2, 1)", "(−1, −2)"],
+      "answer": 0,
+      "topic": "geometry-coordinates",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 90° clockwise rotation: (x, y) → (y, −x).\nStep 2: (1, 2) → (2, −1).\nCommon mistake: Choosing (−2, 1) (anticlockwise rotation) or (2, 1) (no negation)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q24",
+      "question": "Three coins are flipped. What is the probability of getting exactly two heads?",
+      "options": ["1/8", "2/8", "3/8", "4/8"],
+      "answer": 2,
+      "topic": "data-probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total outcomes = 2³ = 8.\nStep 2: Ways to get exactly 2 heads: HHT, HTH, THH = 3.\nStep 3: P = 3/8.\nCommon mistake: Choosing 2/8 (missing one arrangement) or 4/8 (including HHH)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q25",
+      "question": "What is 3 1/2 × 2 2/5?",
+      "options": ["6 1/10", "7 2/10", "8 2/5", "8 2/10"],
+      "answer": 2,
+      "topic": "fractions-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert: 3 1/2 = 7/2. 2 2/5 = 12/5.\nStep 2: 7/2 × 12/5 = 84/10 = 42/5 = 8 2/5.\nCommon mistake: Choosing 6 1/10 (multiplying whole numbers and fractions separately: 3×2=6, 1/2×2/5=2/10) or 8 2/10 (not simplifying)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q26",
+      "question": "An item costs $240 after a 20% discount. What was the original price?",
+      "options": ["$280", "$288", "$300", "$320"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: After 20% discount, price = 80% of original.\nStep 2: 0.80 × original = $240.\nStep 3: Original = $240 ÷ 0.80 = $300.\nCommon mistake: Choosing $288 ($240 × 1.20) or $280 ($240 + 40, computing 20% of $200 incorrectly)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q27",
+      "question": "How many factors does 72 have?",
+      "options": ["8", "10", "12", "14"],
+      "answer": 2,
+      "topic": "number-theory",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 72 = 2³ × 3².\nStep 2: Number of factors = (3+1)(2+1) = 12.\nStep 3: Factors: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72.\nCommon mistake: Choosing 10 (missing two factors) or 8 (not counting all pairs)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q28",
+      "question": "The sum of two consecutive odd numbers is 56. What is the larger number?",
+      "options": ["27", "28", "29", "31"],
+      "answer": 2,
+      "topic": "algebra-equations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Let the numbers be n and n+2.\nStep 2: n + (n+2) = 56. 2n + 2 = 56. 2n = 54. n = 27.\nStep 3: Larger = 27 + 2 = 29.\nCommon mistake: Choosing 27 (the smaller number) or 28 (56 ÷ 2, which is even)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q29",
+      "question": "A box contains 4 red, 6 blue, and 2 green balls. Two balls are drawn with replacement. What is the probability both are blue?",
+      "options": ["6/12", "1/4", "15/66", "36/144"],
+      "answer": 1,
+      "topic": "data-probability",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total balls = 12. P(blue) = 6/12 = 1/2.\nStep 2: With replacement, P(both blue) = 1/2 × 1/2 = 1/4.\nCommon mistake: Choosing 15/66 (without replacement: 6/12 × 5/11) or 36/144 (same as 1/4 but may choose it as different)."
+    },
+    {
+      "id": "selective-y6-maths-t5-q30",
+      "question": "A store buys an item for $50 and wants a 40% profit. During a sale, they offer 20% off the selling price. What is the sale price?",
+      "options": ["$50", "$54", "$56", "$60"],
+      "answer": 2,
+      "topic": "percentage-applications",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Selling price = $50 × 1.40 = $70.\nStep 2: Sale price = $70 × 0.80 = $56.\nCommon mistake: Choosing $60 (40% − 20% = 20%, so $50 × 1.20) or $50 (thinking discounts cancel profits)."
+    }
+  ]
+}

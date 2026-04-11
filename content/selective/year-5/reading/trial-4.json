@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Hidden World Beneath the Reef",
+    "text": "The Great Barrier Reef stretches for over 2,300 kilometres along the northeast coast of Australia, making it the largest coral reef system on Earth. Visible from space, it is often described as one of the natural wonders of the world. But beneath its turquoise waters lies a complex ecosystem that most visitors never truly see — a hidden world of intricate relationships, constant change, and remarkable survival strategies.\n\nCoral reefs are sometimes called the rainforests of the sea because, like tropical rainforests, they support an extraordinary diversity of life within a relatively small area. The Great Barrier Reef is home to more than 1,500 species of fish, 400 types of coral, 4,000 species of mollusc, and 240 species of birds. Yet coral reefs cover less than one per cent of the ocean floor. How do so many species thrive in such a limited space?\n\nThe answer begins with the coral itself. Coral may look like rock or plant, but it is actually made up of tiny animals called polyps. Each polyp is no bigger than a pinhead and has a soft body protected by a hard limestone skeleton. Millions of these polyps live together in colonies, and over hundreds and thousands of years, their skeletons build up to form the massive reef structures we see today.\n\nBut coral polyps cannot survive alone. Inside each polyp lives a microscopic algae called zooxanthellae. This algae uses sunlight to produce food through photosynthesis, and it shares this food with the coral. In return, the coral provides the algae with a safe home and the nutrients it needs to grow. This partnership, known as a symbiotic relationship, is the foundation of the entire reef ecosystem.\n\nThe reef operates like a carefully balanced city. Cleaner fish, such as cleaner wrasses, set up stations where larger fish queue to have parasites removed from their scales and gills. Clownfish live safely among the stinging tentacles of sea anemones — the anemone protects the clownfish from predators, while the clownfish defends the anemone from butterfly fish that would eat it. Even the parrotfish plays a critical role: it eats algae off the coral surface, preventing the algae from smothering the coral, and its digested coral skeletons are excreted as fine white sand — in fact, much of the white sand on tropical beaches was once inside a parrotfish.\n\nHowever, this finely balanced world is under serious threat. Rising ocean temperatures caused by climate change trigger a process called coral bleaching. When water temperatures rise even one or two degrees above normal, stressed corals expel their zooxanthellae. Without the colourful algae, the coral turns white — or bleaches. If temperatures remain high for too long, the coral cannot recover and eventually dies.\n\nMass bleaching events on the Great Barrier Reef have become more frequent and severe. Scientists recorded major bleaching events in 2016, 2017, 2020, and 2022. During the 2016 event alone, approximately 30 per cent of the coral on the reef died. The cumulative impact of these events has left large sections of the reef struggling to recover before the next wave of warm water arrives.\n\nDespite these challenges, there are reasons for cautious hope. Australian marine scientists are developing innovative techniques to help reefs recover, including coral gardening — growing fragments of heat-resistant coral in underwater nurseries and transplanting them onto damaged reefs. International efforts to reduce carbon emissions, if successful, could slow the pace of ocean warming and give reefs more time to adapt.\n\nThe Great Barrier Reef is not just a natural wonder — it is a living laboratory that teaches us about the interconnectedness of life. Protecting it requires understanding that every organism on the reef, from the smallest polyp to the largest whale, is part of a web of relationships that has been millions of years in the making.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y5-reading-t4-q01",
+      "question": "What is the main idea of this passage?",
+      "options": [
+        "The Great Barrier Reef is the largest reef in the world and can be seen from space",
+        "The Great Barrier Reef is a complex, interconnected ecosystem that is both remarkable and under serious threat",
+        "Coral bleaching has destroyed most of the Great Barrier Reef",
+        "Scientists are growing new coral to replace the reef"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers the reef's complexity (polyps, symbiotic relationships, interconnected species), its biodiversity, and the serious threats it faces (bleaching, climate change), while also mentioning conservation efforts. The main idea encompasses all of these themes.\n\nOption A is incorrect because while this fact is mentioned in the opening, it is just one detail, not the main idea of the entire passage.\n\nCommon mistake: Students might choose C because bleaching is discussed in detail, but the passage says the reef is 'under serious threat,' not that it has been mostly destroyed. The passage balances the reef's wonders with its challenges."
+    },
+    {
+      "id": "selective-y5-reading-t4-q02",
+      "question": "According to the passage, what are coral polyps?",
+      "options": [
+        "A type of underwater plant that grows on rocks",
+        "Tiny animals with soft bodies and hard limestone skeletons",
+        "Microscopic algae that live inside coral",
+        "Small fish that clean the reef"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'Coral may look like rock or plant, but it is actually made up of tiny animals called polyps. Each polyp is no bigger than a pinhead and has a soft body protected by a hard limestone skeleton.'\n\nOption C is incorrect because microscopic algae living inside coral are zooxanthellae, which is a different organism from the polyps themselves.\n\nCommon mistake: Students might confuse polyps with zooxanthellae since both are tiny and associated with coral. The key distinction is that polyps are animals that form the coral structure, while zooxanthellae are algae that live inside them."
+    },
+    {
+      "id": "selective-y5-reading-t4-q03",
+      "question": "What is the symbiotic relationship between coral polyps and zooxanthellae?",
+      "options": [
+        "The algae eats the coral and the coral tries to fight it off",
+        "The algae provides food through photosynthesis and the coral provides a safe home and nutrients",
+        "The coral feeds the algae with fish remains and the algae cleans the coral",
+        "The algae protects the coral from predators and the coral protects the algae from sunlight"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage explains that zooxanthellae 'uses sunlight to produce food through photosynthesis, and it shares this food with the coral. In return, the coral provides the algae with a safe home and the nutrients it needs to grow.'\n\nOption A is incorrect because the relationship is mutually beneficial (symbiotic), not harmful.\n\nCommon mistake: Students might choose C because it sounds like a fair exchange, but the passage specifically describes photosynthesis as the algae's contribution, not cleaning."
+    },
+    {
+      "id": "selective-y5-reading-t4-q04",
+      "question": "What does the word 'cumulative' mean as used in the passage?",
+      "options": [
+        "Sudden and unexpected",
+        "Increasing or building up over time through repeated events",
+        "Decreasing gradually until it disappears",
+        "Happening at random intervals"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'The cumulative impact of these events has left large sections of the reef struggling to recover before the next wave of warm water arrives.' The context — multiple bleaching events in 2016, 2017, 2020, and 2022 — shows the damage building up over time.\n\nOption A is incorrect because 'cumulative' specifically refers to a gradual build-up, not something sudden.\n\nCommon mistake: Students might confuse 'cumulative' with 'culminating.' Cumulative means the total effect of many events added together, not a single dramatic event."
+    },
+    {
+      "id": "selective-y5-reading-t4-q05",
+      "question": "Why does the author compare coral reefs to rainforests?",
+      "options": [
+        "Because both have tall trees and dense vegetation",
+        "Because both support an extraordinary diversity of life in a relatively small area",
+        "Because both are found in tropical regions of Australia",
+        "Because both are being cut down and destroyed"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'Coral reefs are sometimes called the rainforests of the sea because, like tropical rainforests, they support an extraordinary diversity of life within a relatively small area.'\n\nOption C is incorrect because while both can be found in tropical regions, the comparison is specifically about biodiversity, not location.\n\nCommon mistake: Students might choose C because it seems logical, but the passage explicitly states the comparison is about the diversity of life, not geographic location."
+    },
+    {
+      "id": "selective-y5-reading-t4-q06",
+      "question": "How does the parrotfish contribute to the reef ecosystem?",
+      "options": [
+        "It protects clownfish from predators",
+        "It eats algae off coral surfaces and produces sand from digested coral skeletons",
+        "It removes parasites from larger fish",
+        "It builds new coral structures with its saliva"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage states the parrotfish 'eats algae off the coral surface, preventing the algae from smothering the coral, and its digested coral skeletons are excreted as fine white sand.'\n\nOption C is incorrect because removing parasites is the role of cleaner wrasses, not parrotfish.\n\nCommon mistake: Students might confuse the roles of different reef animals. The passage describes specific roles: cleaner wrasses remove parasites, clownfish protect anemones, and parrotfish eat algae and produce sand."
+    },
+    {
+      "id": "selective-y5-reading-t4-q07",
+      "question": "What causes coral bleaching?",
+      "options": [
+        "Pollution from boats and tourists",
+        "Rising ocean temperatures that cause coral to expel their zooxanthellae",
+        "Too many parrotfish eating the coral",
+        "A lack of sunlight reaching the ocean floor"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that 'Rising ocean temperatures caused by climate change trigger a process called coral bleaching. When water temperatures rise even one or two degrees above normal, stressed corals expel their zooxanthellae.'\n\nOption A is incorrect because while pollution is mentioned as a general threat to platypuses — sorry, to the reef — the passage specifically identifies rising temperatures as the cause of bleaching.\n\nCommon mistake: Students might choose A because pollution seems like a logical cause of environmental damage, but the passage clearly identifies temperature rise as the specific trigger for coral bleaching."
+    },
+    {
+      "id": "selective-y5-reading-t4-q08",
+      "question": "The passage states that coral reefs cover less than one per cent of the ocean floor yet support vast biodiversity. What is the author's purpose in including this statistic?",
+      "options": [
+        "To suggest that coral reefs are not very important",
+        "To emphasise how remarkably productive and important these small areas are",
+        "To argue that more of the ocean should be turned into reef",
+        "To show that scientists do not know much about the ocean"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because by contrasting the tiny area (less than one per cent) with the enormous biodiversity they support, the author highlights how remarkably efficient and vital coral reefs are as ecosystems.\n\nOption A is incorrect because the statistic is meant to impress the reader with how much life such a small area supports, not to diminish the reef's importance.\n\nCommon mistake: Students might misinterpret 'less than one per cent' as meaning reefs are insignificant, but the author uses this contrast to show the opposite — that reefs are extraordinarily productive given their small size."
+    },
+    {
+      "id": "selective-y5-reading-t4-q09",
+      "question": "How is this passage structured?",
+      "options": [
+        "It tells a story about one scientist's journey to discover the reef",
+        "It presents the reef's wonders and interconnections, then discusses threats and conservation efforts",
+        "It argues for and against protecting the reef",
+        "It compares the Great Barrier Reef to other reefs around the world"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage begins by introducing the reef and its complexity, explains how it works (polyps, symbiosis, species interactions), then shifts to threats (bleaching, climate change), and finally discusses conservation efforts and a hopeful conclusion.\n\nOption C is incorrect because the passage does not argue against protecting the reef — it consistently presents protection as important.\n\nCommon mistake: Students might choose D because the passage mentions the reef is the largest in the world, which implies comparison, but the passage does not actually compare it to specific other reefs."
+    },
+    {
+      "id": "selective-y5-reading-t4-q10",
+      "question": "What is the author's overall purpose in writing this passage?",
+      "options": [
+        "To entertain readers with an adventure story set on the Great Barrier Reef",
+        "To inform readers about the reef's complexity and inspire them to value its protection",
+        "To persuade readers to become marine biologists",
+        "To criticise the Australian government for not doing enough to save the reef"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage provides detailed scientific information about the reef while using language that conveys wonder and concern. The final paragraph explicitly states the reef 'teaches us about the interconnectedness of life' and that 'protecting it requires understanding,' showing the author wants to both inform and inspire action.\n\nOption D is incorrect because while the passage discusses threats, it does not criticise the government — it mentions conservation efforts in a positive light.\n\nCommon mistake: Students might choose D because the passage discusses serious threats, but the tone is informative and hopeful rather than critical. The author presents challenges alongside solutions."
+    }
+  ]
+}

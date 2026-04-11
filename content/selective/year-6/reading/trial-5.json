@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Cartographer's Apprentice",
+    "text": "In the autumn of 1814, in a narrow laneway behind George Street in the fledgling town of Sydney, a girl named Ratu crouched over a sheet of parchment, her quill tracing the contour of a river she had never seen.\n\nRatu was thirteen years old, the daughter of a freed convict turned carpenter and a Dharug woman who had taught her to read the land in a way that no European map could capture. Her mother showed her where the freshwater springs hid beneath sandstone ledges, where the lyrebirds nested in the gullies of the Blue Mountains, and which bark could be brewed into medicine when the coughing sickness came. Ratu carried two kinds of knowledge in her head — one drawn from the careful observations of her mother's people, and one drawn from the leather-bound atlases that lined the shelves of Mr Absalom Fleet, the colony's unofficial cartographer.\n\nMr Fleet was an elderly Englishman whose eyesight was failing. He had once mapped the harbours of Cape Town and the rivers of Bengal, but now his hands trembled and the fine lines required for cartography danced away from his control. He had hired Ratu after she had wandered into his shop one afternoon and corrected an error on a map pinned to the wall.\n\n\"The creek doesn't bend there,\" she had said, pointing to a blue line near Parramatta. \"It curves the other way and meets a larger stream before reaching the flats.\"\n\nMr Fleet had stared at her, astonished. \"And how would you know that?\"\n\n\"Because I've walked it,\" she said simply.\n\nFrom that day, Ratu spent her afternoons in Mr Fleet's workshop, learning to translate knowledge of the land into the precise language of maps. She learned to use a compass, to calculate scale, and to represent elevation with delicate hatch marks that made mountains rise from flat paper. In return, she taught Mr Fleet things his instruments could never measure: the Dharug names for places, the seasonal movements of animals, the locations of water sources that sustained life long before the First Fleet anchored in Sydney Cove.\n\nBut as the months passed, Ratu began to feel an unease she could not easily name. The maps she drew were beautiful — Mr Fleet said they were the finest he had seen in forty years of cartography. Yet something about the process troubled her. Each time she transferred her mother's knowledge onto parchment, it became fixed, bounded by the rigid geometry of grid lines and compass bearings. The living, breathing landscape her mother had taught her to read — a landscape of stories, seasons, and relationships — was flattened into something static and two-dimensional.\n\nOne evening, she raised this concern with her mother.\n\n\"The map says the river is here,\" Ratu said, unrolling a sheet of parchment on the kitchen table. \"But it doesn't say why the river matters, or that the fish run upstream when the wattle blooms, or that the sand at the bend holds ochre for ceremony.\"\n\nHer mother was quiet for a long time. Then she said, \"A map drawn by one kind of knowledge will always be incomplete. But perhaps there is space on that paper for both.\"\n\nRatu returned to the workshop the next day with a new idea. She began annotating her maps with symbols and notes that went beyond geography — marks indicating food sources, ceremonial grounds, seasonal changes, and Dharug place names alongside their English equivalents. Mr Fleet was sceptical at first, but as he studied the finished maps, his expression changed.\n\n\"This is extraordinary,\" he murmured, running his finger along the Murray River, where Ratu had marked the annual flooding patterns and the fishing camps that appeared each spring. \"This isn't just a map. It's a portrait of the land as it truly lives.\"\n\nWord of the annotated maps spread through the colony. Some officials dismissed them as cluttered and impractical. Others recognised their value — surveyors reported that Ratu's maps were more accurate and more useful than anything the colony had previously produced.\n\nRatu never became famous. Her name does not appear in the history books that line school library shelves. But in a dusty archive in Sydney, a handful of maps survive from that period — maps that carry two ways of seeing the world on a single sheet of parchment, drawn by a girl who understood that the land is more than lines on paper.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y6-reading-t5-q01",
+      "question": "What is the central theme of this story?",
+      "options": [
+        "The importance of learning to draw maps accurately",
+        "The value of combining different knowledge systems to create a more complete understanding",
+        "Why European maps were better than Indigenous knowledge of the land",
+        "The life story of a famous Australian cartographer"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story centres on Ratu bringing together two kinds of knowledge — her mother's Dharug understanding of the land and Mr Fleet's European cartographic skills — to create maps that are more complete than either system alone. The story demonstrates that combining perspectives creates richer understanding.\n\nOption C is incorrect because the story explicitly argues the opposite — that European maps were incomplete without Indigenous knowledge.\n\nCommon mistake: Students might choose A because map-making is the setting of the story, but the deeper theme is about how different ways of knowing can complement each other."
+    },
+    {
+      "id": "selective-y6-reading-t5-q02",
+      "question": "How did Ratu first come to work with Mr Fleet?",
+      "options": [
+        "Her father arranged the job for her",
+        "She wandered into his shop and corrected an error on one of his maps",
+        "Mr Fleet advertised for an apprentice in the newspaper",
+        "Her mother introduced her to Mr Fleet at a market"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says Mr Fleet 'had hired Ratu after she had wandered into his shop one afternoon and corrected an error on a map pinned to the wall.' She pointed out that a creek was drawn incorrectly.\n\nOption A is incorrect because Ratu's father is mentioned only as a freed convict turned carpenter, and he plays no role in her meeting Mr Fleet.\n\nCommon mistake: Students might assume an adult arranged the job, but the story makes clear that Ratu's own knowledge and initiative led to the opportunity."
+    },
+    {
+      "id": "selective-y6-reading-t5-q03",
+      "question": "What two kinds of knowledge did Ratu carry?",
+      "options": [
+        "Mathematics and music",
+        "Her mother's Dharug knowledge of the land and European cartographic knowledge from Mr Fleet",
+        "Cooking skills and sailing skills",
+        "English language skills and French language skills"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states Ratu 'carried two kinds of knowledge in her head — one drawn from the careful observations of her mother's people, and one drawn from the leather-bound atlases' of Mr Fleet.\n\nOption A is incorrect because mathematics and music are not the two knowledge systems described in the story.\n\nCommon mistake: Students might oversimplify the two knowledge systems. The Dharug knowledge includes ecology, seasons, and cultural information, while the European knowledge includes compass work, scale, and cartographic techniques."
+    },
+    {
+      "id": "selective-y6-reading-t5-q04",
+      "question": "What does the word 'fledgling' mean as used in the opening paragraph?",
+      "options": [
+        "Ancient and well-established",
+        "New, young, and still developing",
+        "Wealthy and prosperous",
+        "Dangerous and unstable"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story is set in 1814, when Sydney was still a relatively new colonial settlement. The word 'fledgling' means young and newly established, just as a fledgling bird has only recently learned to fly.\n\nOption A is incorrect because fledgling means the opposite of ancient — it describes something in its early stages of development.\n\nCommon mistake: Students might not know this word, but context clues help. The story is set in 1814, only 26 years after the First Fleet arrived, so Sydney was indeed a young, developing town."
+    },
+    {
+      "id": "selective-y6-reading-t5-q05",
+      "question": "Why did Ratu feel uneasy about the maps she was creating?",
+      "options": [
+        "Because Mr Fleet criticised her drawing skills",
+        "Because translating her mother's knowledge onto maps made it fixed and static, losing its living, relational quality",
+        "Because she was not being paid enough for her work",
+        "Because she was worried about making geographical errors"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says that when Ratu transferred her mother's knowledge onto parchment, 'it became fixed, bounded by the rigid geometry of grid lines.' She felt that 'the living, breathing landscape her mother had taught her to read — a landscape of stories, seasons, and relationships — was flattened into something static and two-dimensional.'\n\nOption A is incorrect because Mr Fleet actually praised her maps as the finest he had seen in forty years.\n\nCommon mistake: Students might choose D because map-making requires accuracy, but Ratu's unease is philosophical, not technical — she is troubled by how the format of mapping reduces rich, living knowledge."
+    },
+    {
+      "id": "selective-y6-reading-t5-q06",
+      "question": "How does the character of Mr Fleet develop through the story?",
+      "options": [
+        "He starts as a harsh employer and becomes kinder over time",
+        "He starts as sceptical of Ratu's annotated maps but comes to recognise their extraordinary value",
+        "He remains unchanged and dismissive throughout the story",
+        "He begins as Ratu's student and eventually becomes her teacher"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because when Ratu introduces her annotated maps, 'Mr Fleet was sceptical at first, but as he studied the finished maps, his expression changed' and he called them 'extraordinary.' He shifts from doubt to genuine admiration.\n\nOption A is incorrect because Mr Fleet is never described as harsh — he is initially astonished by Ratu's knowledge and hires her willingly.\n\nCommon mistake: Students might choose D because Ratu teaches Mr Fleet about Dharug knowledge, but the relationship is more mutual — they learn from each other. The key change in Mr Fleet is his shift from scepticism to appreciation of the annotated maps."
+    },
+    {
+      "id": "selective-y6-reading-t5-q07",
+      "question": "What was the effect of Ratu's conversation with her mother about the limitations of maps?",
+      "options": [
+        "Ratu decided to stop making maps entirely",
+        "Ratu began annotating her maps with symbols for food sources, ceremonies, seasonal changes, and Dharug place names",
+        "Ratu's mother forbade her from working with Mr Fleet",
+        "Ratu argued with her mother and refused to change her approach"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because after her mother said 'perhaps there is space on that paper for both,' Ratu 'returned to the workshop the next day with a new idea' and began adding annotations that went beyond geography — food sources, ceremonial grounds, seasonal changes, and Dharug place names.\n\nOption A is incorrect because Ratu did not stop making maps — she found a way to make them richer and more complete.\n\nCommon mistake: Students might think the conversation led to Ratu abandoning cartography, but instead it inspired her to innovate by combining both knowledge systems on one map."
+    },
+    {
+      "id": "selective-y6-reading-t5-q08",
+      "question": "The story mentions that some officials 'dismissed' Ratu's maps as 'cluttered and impractical.' What does this reveal about the attitudes of the time?",
+      "options": [
+        "That all colonial officials were kind and open-minded",
+        "That some people in positions of power did not value Indigenous knowledge and preferred familiar European methods",
+        "That Ratu's maps were genuinely poor quality",
+        "That the maps contained too many geographical errors to be useful"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the officials who dismissed the maps called them 'cluttered' — meaning they saw the additional Indigenous knowledge as unnecessary noise rather than valuable information. This reflects a colonial mindset that prioritised European systems over Indigenous ways of knowing.\n\nOption C is incorrect because other people, including surveyors, found the maps 'more accurate and more useful than anything the colony had previously produced,' contradicting the claim of poor quality.\n\nCommon mistake: Students might take the officials' criticism at face value and assume the maps were indeed cluttered. But the author contrasts the officials' dismissal with the surveyors' praise, showing that the maps were valuable but not appreciated by everyone."
+    },
+    {
+      "id": "selective-y6-reading-t5-q09",
+      "question": "How does the author use the final paragraph to reinforce the story's themes?",
+      "options": [
+        "By revealing that Ratu eventually became the colony's chief cartographer",
+        "By acknowledging that Ratu's contributions were overlooked by history, yet her surviving maps represent two ways of seeing the world",
+        "By describing how Ratu's maps were destroyed in a fire",
+        "By listing all the places Ratu mapped during her career"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the final paragraph says Ratu 'never became famous' and her 'name does not appear in the history books,' yet her maps survive in an archive — maps that 'carry two ways of seeing the world on a single sheet of parchment.' This reinforces the theme that valuable knowledge and contributions, especially from marginalised people, can be overlooked by mainstream history.\n\nOption A is incorrect because the passage explicitly states Ratu did not achieve historical recognition.\n\nCommon mistake: Students might expect a happy, triumphant ending, but the author deliberately uses the contrast between Ratu's obscurity and her maps' lasting significance to make a deeper point about whose stories get told."
+    },
+    {
+      "id": "selective-y6-reading-t5-q10",
+      "question": "What is the author's purpose in writing this story?",
+      "options": [
+        "To provide a factual account of map-making in colonial Sydney",
+        "To explore through historical fiction how combining Indigenous and European knowledge creates richer understanding, while reflecting on whose contributions are remembered",
+        "To argue that European colonisation had no negative effects on Indigenous Australians",
+        "To teach readers the technical skills of cartography"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story uses a fictional narrative set in historical Sydney to explore themes of knowledge integration, the value of Indigenous perspectives, and the way history overlooks certain contributions. The author uses Ratu's character to show that combining different ways of understanding produces something greater than either alone.\n\nOption A is incorrect because while the story is set in a real historical period, it is fiction — the author's purpose goes beyond factual reporting to explore deeper themes about knowledge, culture, and memory.\n\nCommon mistake: Students might choose A because the story includes historical details about colonial Sydney, but the author created a fictional character to explore thematic questions about whose knowledge matters and how we understand the land."
+    }
+  ]
+}

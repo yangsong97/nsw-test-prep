@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-maths-t5-q01",
+      "question": "What is 315 + 247?",
+      "options": ["552", "562", "572", "662"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 5 + 7 = 12. Write 2, carry 1.\nStep 2: Tens: 1 + 4 + 1 = 6.\nStep 3: Hundreds: 3 + 2 = 5.\nStep 4: 315 + 247 = 562.\nCommon mistake: Choosing 552 (forgetting to carry) or 572 (tens digit error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q02",
+      "question": "What is 1/4 of 20?",
+      "options": ["4", "5", "10", "15"],
+      "answer": 1,
+      "topic": "fractions-basic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1/4 of 20 means 20 ÷ 4.\nStep 2: 20 ÷ 4 = 5.\nCommon mistake: Choosing 4 (dividing by 5 instead) or 10 (finding 1/2 instead)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q03",
+      "question": "Which unit would you use to measure the weight of a dog?",
+      "options": ["Millilitres", "Centimetres", "Kilograms", "Metres"],
+      "answer": 2,
+      "topic": "measurement-mass-volume",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Millilitres measure volume. Centimetres and metres measure length.\nStep 2: Kilograms measure mass/weight.\nStep 3: A dog's weight is measured in kilograms.\nCommon mistake: Choosing centimetres (a length unit, not mass)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q04",
+      "question": "How many vertices does a triangular prism have?",
+      "options": ["3", "5", "6", "8"],
+      "answer": 2,
+      "topic": "shapes-properties",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A triangular prism has triangles at each end (3 vertices each).\nStep 2: Total vertices = 3 + 3 = 6.\nCommon mistake: Choosing 5 (confusing with square pyramid) or 8 (confusing with rectangular prism)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q05",
+      "question": "What is the next number? 3, 6, 9, 12, ___",
+      "options": ["13", "14", "15", "18"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 3 each time.\nStep 2: 12 + 3 = 15.\nCommon mistake: Choosing 13 (adding 1) or 18 (adding 6)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q06",
+      "question": "How many seconds are in 1 minute?",
+      "options": ["30", "60", "100", "120"],
+      "answer": 1,
+      "topic": "time-elapsed",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1 minute = 60 seconds.\nStep 2: This is a standard time conversion.\nCommon mistake: Choosing 100 (thinking metric/decimal) or 30 (half a minute)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q07",
+      "question": "A bar graph shows favourite colours: Red 8, Blue 12, Green 6, Yellow 4. Which colour is most popular?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "answer": 1,
+      "topic": "data-bar-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Compare: Red 8, Blue 12, Green 6, Yellow 4.\nStep 2: Blue has the highest value at 12.\nCommon mistake: Choosing Red (second highest) or confusing tallest bar with smallest."
+    },
+    {
+      "id": "oc-y3-maths-t5-q08",
+      "question": "What is 600 − 273?",
+      "options": ["273", "317", "327", "337"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 600 − 273.\nStep 2: 600 − 300 = 300. Then add back 27: 300 + 27 = 327.\nStep 3: Or use column subtraction with borrowing.\nCommon mistake: Choosing 337 (borrowing error) or 317 (tens digit error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q09",
+      "question": "What fraction is shaded if 3 out of 4 equal parts are shaded?",
+      "options": ["1/3", "1/4", "3/4", "4/3"],
+      "answer": 2,
+      "topic": "fractions-basic",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3 parts shaded out of 4 total parts.\nStep 2: Fraction = 3/4.\nCommon mistake: Choosing 1/4 (the unshaded portion) or 4/3 (flipping the fraction)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q10",
+      "question": "A cylinder has how many curved surfaces?",
+      "options": ["0", "1", "2", "3"],
+      "answer": 1,
+      "topic": "shapes-properties",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A cylinder has 2 flat circular faces (top and bottom).\nStep 2: It has 1 curved surface wrapping around the middle.\nCommon mistake: Choosing 2 (counting the flat faces) or 0 (not recognising curved surfaces)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q11",
+      "question": "What is 9 × 6?",
+      "options": ["45", "48", "54", "56"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 9 × 6 = 54.\nStep 2: Can verify: 10 × 6 − 1 × 6 = 60 − 6 = 54.\nCommon mistake: Choosing 56 (confusing with 7 × 8) or 48 (confusing with 8 × 6)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q12",
+      "question": "Which is greater: 2/3 or 3/4?",
+      "options": ["2/3", "3/4", "They are equal", "Cannot compare"],
+      "answer": 1,
+      "topic": "fractions-basic",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find common denominator: 12.\nStep 2: 2/3 = 8/12. 3/4 = 9/12.\nStep 3: 9/12 > 8/12, so 3/4 > 2/3.\nCommon mistake: Choosing 2/3 (comparing numerators only: 2 < 3 so thinking 2/3 is smaller, which is correct, but picking the wrong answer)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q13",
+      "question": "A bucket holds 5 litres. A cup holds 250 mL. How many cups fill the bucket?",
+      "options": ["10", "15", "20", "25"],
+      "answer": 2,
+      "topic": "measurement-mass-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5 litres = 5000 mL.\nStep 2: 5000 ÷ 250 = 20 cups.\nCommon mistake: Choosing 10 (dividing 5000 by 500) or 25 (dividing 5000 by 200)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q14",
+      "question": "What comes next? 1, 4, 9, 16, ___",
+      "options": ["20", "21", "24", "25"],
+      "answer": 3,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: These are square numbers: 1², 2², 3², 4².\nStep 2: Next: 5² = 25.\nCommon mistake: Choosing 20 (adding 4) or 24 (adding 8)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q15",
+      "question": "A class starts at 1:45 pm and lasts 50 minutes. What time does it end?",
+      "options": ["2:25 pm", "2:35 pm", "2:45 pm", "2:95 pm"],
+      "answer": 1,
+      "topic": "time-elapsed",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start: 1:45 pm. Add 50 minutes.\nStep 2: 1:45 + 15 minutes = 2:00 pm. Then 50 − 15 = 35 minutes left.\nStep 3: 2:00 + 35 = 2:35 pm.\nCommon mistake: Choosing 2:95 pm (adding 45 + 50 = 95 without rolling over) or 2:25 pm (adding only 40 minutes)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q16",
+      "question": "What is 56 ÷ 8?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 56 ÷ 8 = 7.\nStep 2: Check: 8 × 7 = 56. Correct.\nCommon mistake: Choosing 8 (8 × 8 = 64) or 6 (8 × 6 = 48)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q17",
+      "question": "How many lines of symmetry does a square have?",
+      "options": ["1", "2", "4", "8"],
+      "answer": 2,
+      "topic": "shapes-properties",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A square has 4 lines of symmetry.\nStep 2: 2 through opposite sides (horizontal and vertical) and 2 through opposite corners (diagonals).\nCommon mistake: Choosing 2 (only counting horizontal/vertical) or 1 (only counting one line)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q18",
+      "question": "A bar graph shows how students travel to school: Walk 15, Bus 22, Car 18, Bike 5. How many more students take the bus than walk?",
+      "options": ["3", "5", "7", "10"],
+      "answer": 2,
+      "topic": "data-bar-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Bus = 22. Walk = 15.\nStep 2: Difference = 22 − 15 = 7.\nCommon mistake: Choosing 3 (18 − 15) or 5 (bike count, not the difference)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q19",
+      "question": "Three parcels weigh 1 kg 200 g, 800 g, and 2 kg. What is the total weight?",
+      "options": ["3 kg", "3 kg 200 g", "4 kg", "4 kg 200 g"],
+      "answer": 2,
+      "topic": "measurement-mass-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert: 1 kg 200 g = 1200 g. 800 g. 2 kg = 2000 g.\nStep 2: Total = 1200 + 800 + 2000 = 4000 g = 4 kg.\nCommon mistake: Choosing 3 kg (forgetting one parcel) or 4 kg 200 g (adding 200 g twice)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q20",
+      "question": "What is 8 × 9?",
+      "options": ["63", "72", "81", "89"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 8 × 9 = 72.\nStep 2: Can verify: 8 × 10 − 8 = 80 − 8 = 72.\nCommon mistake: Choosing 63 (7 × 9) or 81 (9 × 9)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q21",
+      "question": "What is 528 + 376?",
+      "options": ["894", "904", "914", "804"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 8 + 6 = 14. Write 4, carry 1.\nStep 2: Tens: 2 + 7 + 1 = 10. Write 0, carry 1.\nStep 3: Hundreds: 5 + 3 + 1 = 9.\nStep 4: 528 + 376 = 904.\nCommon mistake: Choosing 894 (not carrying from tens) or 914 (carrying error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q22",
+      "question": "3/5 of a class of 30 students are girls. How many girls are there?",
+      "options": ["10", "15", "18", "20"],
+      "answer": 2,
+      "topic": "fractions-basic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3/5 of 30 = 30 ÷ 5 × 3.\nStep 2: 30 ÷ 5 = 6. Then 6 × 3 = 18.\nCommon mistake: Choosing 15 (finding 1/2 instead) or 10 (finding 1/3)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q23",
+      "question": "A recipe needs 375 mL of milk. You have 1 litre. How much milk is left after making the recipe?",
+      "options": ["525 mL", "625 mL", "725 mL", "375 mL"],
+      "answer": 1,
+      "topic": "measurement-mass-volume",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1 litre = 1000 mL.\nStep 2: 1000 − 375 = 625 mL.\nCommon mistake: Choosing 725 mL (subtracting 275 instead) or 525 mL (subtraction error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q24",
+      "question": "A sphere has how many flat faces?",
+      "options": ["0", "1", "2", "6"],
+      "answer": 0,
+      "topic": "shapes-properties",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A sphere is perfectly round with no flat surfaces.\nStep 2: It has 0 flat faces.\nCommon mistake: Choosing 1 (confusing with hemisphere or thinking it sits on a flat surface)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q25",
+      "question": "What is the pattern rule? 2, 5, 11, 23, 47, ___",
+      "options": ["Add 24", "Multiply by 2 then add 1", "Multiply by 3 then subtract 1", "Add then double"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 2 × 2 + 1 = 5. 5 × 2 + 1 = 11. 11 × 2 + 1 = 23. 23 × 2 + 1 = 47.\nStep 2: Rule: multiply by 2 then add 1.\nStep 3: Next: 47 × 2 + 1 = 95.\nCommon mistake: Choosing 'Add 24' (only works for 23 to 47) or 'Multiply by 3 then subtract 1' (2 × 3 − 1 = 5 works, but 5 × 3 − 1 = 14, not 11)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q26",
+      "question": "A train departs at 9:25 am and the journey takes 2 hours 40 minutes. What time does it arrive?",
+      "options": ["11:55 am", "12:05 pm", "12:15 pm", "11:65 am"],
+      "answer": 1,
+      "topic": "time-elapsed",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 9:25 + 2 hours = 11:25 am.\nStep 2: 11:25 + 40 minutes = 12:05 pm.\nStep 3: 25 + 40 = 65 minutes = 1 hour 5 minutes, so 11:00 + 1:05 = 12:05 pm.\nCommon mistake: Choosing 11:65 am (not converting 65 minutes) or 11:55 am (adding only 30 minutes)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q27",
+      "question": "A bar graph shows how many goals each team scored over 4 games. Team A: 3, 5, 2, 6. Team B: 4, 4, 5, 3. Which team scored more goals overall and by how many?",
+      "options": ["Team A by 1", "Team A by 2", "Team B by 0", "They scored the same"],
+      "answer": 3,
+      "topic": "data-bar-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Team A total = 3 + 5 + 2 + 6 = 16.\nStep 2: Team B total = 4 + 4 + 5 + 3 = 16.\nStep 3: Both teams scored 16 goals. They are equal.\nCommon mistake: Choosing 'Team A by 1' (miscounting one game) or 'Team A by 2' (addition error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q28",
+      "question": "What is 712 − 485?",
+      "options": ["217", "227", "237", "327"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 2 − 5. Borrow: 12 − 5 = 7.\nStep 2: Tens: 0 − 8. Borrow: 10 − 8 = 2.\nStep 3: Hundreds: 6 − 4 = 2.\nStep 4: 712 − 485 = 227.\nCommon mistake: Choosing 237 (tens subtraction error) or 327 (hundreds digit error)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q29",
+      "question": "Place these fractions on a number line: 1/6, 1/2, 5/6. Which is closest to 1?",
+      "options": ["1/6", "1/2", "5/6", "They are all the same distance"],
+      "answer": 2,
+      "topic": "fractions-basic",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1/6 is close to 0. 1/2 is in the middle. 5/6 is close to 1.\nStep 2: Distance from 1: 1 − 5/6 = 1/6. 1 − 1/2 = 1/2. 1 − 1/6 = 5/6.\nStep 3: 5/6 is closest to 1.\nCommon mistake: Choosing 1/2 (thinking middle means closest to 1)."
+    },
+    {
+      "id": "oc-y3-maths-t5-q30",
+      "question": "Find the next two numbers: 100, 91, 82, 73, ___, ___",
+      "options": ["64, 55", "65, 56", "63, 54", "64, 56"],
+      "answer": 0,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 100 − 91 = 9. 91 − 82 = 9. 82 − 73 = 9.\nStep 2: Pattern subtracts 9 each time.\nStep 3: 73 − 9 = 64. 64 − 9 = 55.\nCommon mistake: Choosing 65, 56 (subtracting 8 then 9) or 63, 54 (subtracting 10)."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 4,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Science of Sleep: Why Your Brain Needs the Night Shift",
+    "text": "You spend roughly one-third of your life asleep. By the time you finish primary school, you will have slept for approximately four years. That might sound like a waste of time — hours that could have been spent reading, playing sport, or learning new skills. But scientists now understand that sleep is not wasted time at all. In fact, what happens inside your brain while you sleep may be just as important as what happens when you are awake.\n\nFor centuries, people assumed that the brain simply shut down during sleep, like a computer switching to standby mode. Modern neuroscience has revealed the opposite. During sleep, the brain is intensely active, cycling through distinct stages that each serve a different purpose.\n\nThe two main categories of sleep are non-rapid eye movement (NREM) sleep and rapid eye movement (REM) sleep. NREM sleep has three stages, progressing from light drowsiness to deep, restorative sleep. During deep NREM sleep, the brain consolidates declarative memories — the facts, dates, vocabulary, and concepts you learned during the day. It replays the neural patterns associated with new information, strengthening the connections between brain cells and effectively transferring knowledge from short-term to long-term storage. Studies have shown that students who get adequate deep sleep after studying perform significantly better on tests than those who stay up late cramming.\n\nREM sleep, which typically occurs in longer periods during the second half of the night, serves a different but equally vital function. During REM sleep, the brain processes emotional experiences, integrates new information with existing knowledge, and makes creative connections between seemingly unrelated ideas. This is also when most vivid dreaming occurs. Research by Professor Matthew Walker at the University of California, Berkeley, has demonstrated that REM sleep enhances creative problem-solving by up to 40 per cent compared to the same amount of time spent awake.\n\nBeyond memory and creativity, sleep performs a critical maintenance function for the brain. In 2013, researchers at the University of Rochester discovered the glymphatic system — a network of channels in the brain that opens up during sleep to flush out toxic waste products that accumulate during waking hours. One of these waste products is beta-amyloid, a protein strongly associated with Alzheimer's disease. The glymphatic system operates almost exclusively during sleep, which means that chronic sleep deprivation may allow harmful substances to build up in the brain over time.\n\nDespite this overwhelming evidence of sleep's importance, adolescents are sleeping less than ever. A 2022 Australian Institute of Health and Welfare report found that fewer than half of Australian teenagers get the recommended eight to ten hours of sleep per night. The primary culprits are screens — smartphones, tablets, and laptops emit blue light that suppresses the production of melatonin, the hormone that signals to the brain that it is time to sleep. Social media platforms, designed to maximise engagement, create a cycle of stimulation that makes it difficult for young people to disconnect and wind down.\n\nThe biological timing of sleep also works against adolescents. During puberty, the body's internal clock shifts later, meaning teenagers naturally feel alert later in the evening and struggle to wake early in the morning. This biological shift collides with school start times that typically require students to be in class by 8:30 or 9:00 a.m. Some schools in the United States and parts of Europe have experimented with later start times and reported improvements in student attendance, mood, and academic performance.\n\nWhat can young people do to protect their sleep? Sleep scientists recommend establishing a consistent bedtime routine, avoiding screens for at least 30 minutes before bed, keeping bedrooms cool and dark, and resisting the temptation to catch up on missed sleep during weekends, which can disrupt the body's natural rhythm. Exercise during the day also promotes better sleep quality, though intense exercise close to bedtime can have the opposite effect.\n\nSleep is not a luxury or a sign of laziness — it is a biological necessity that supports learning, emotional health, physical growth, and long-term brain function. Understanding and respecting your need for sleep is one of the most important things you can do for your future self.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "selective-y6-reading-t4-q01",
+      "question": "What is the central argument of this passage?",
+      "options": [
+        "Teenagers should not use screens before bed",
+        "Sleep is a biologically essential process that actively supports learning, creativity, and brain health",
+        "Schools should start later in the morning to help students sleep more",
+        "Most people sleep too much and waste productive hours"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage systematically explains the different functions of sleep — memory consolidation, creativity, brain maintenance — and argues that sleep is essential, not wasted time. The final paragraph reinforces this: 'Sleep is not a luxury or a sign of laziness — it is a biological necessity.'\n\nOption A is incorrect because screen use is discussed as one factor contributing to poor sleep, but it is not the central argument of the entire passage.\n\nCommon mistake: Students might choose A or C because these are specific recommendations mentioned in the passage, but they are supporting details, not the central argument."
+    },
+    {
+      "id": "selective-y6-reading-t4-q02",
+      "question": "What happens during deep NREM sleep according to the passage?",
+      "options": [
+        "The brain processes emotional experiences and creates dreams",
+        "The brain consolidates declarative memories by replaying neural patterns and strengthening connections",
+        "The glymphatic system flushes out toxic waste products",
+        "The body's internal clock shifts to a later time"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states that during deep NREM sleep, 'the brain consolidates declarative memories — the facts, dates, vocabulary, and concepts you learned during the day. It replays the neural patterns associated with new information, strengthening the connections between brain cells.'\n\nOption A is incorrect because processing emotional experiences and vivid dreaming are associated with REM sleep, not NREM sleep.\n\nCommon mistake: Students might confuse the functions of NREM and REM sleep. The passage clearly distinguishes them: NREM is for factual memory consolidation, REM is for emotional processing and creativity."
+    },
+    {
+      "id": "selective-y6-reading-t4-q03",
+      "question": "What percentage of Australian teenagers get the recommended amount of sleep?",
+      "options": [
+        "More than three-quarters",
+        "Fewer than half",
+        "Exactly half",
+        "About two-thirds"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'A 2022 Australian Institute of Health and Welfare report found that fewer than half of Australian teenagers get the recommended eight to ten hours of sleep per night.'\n\nOption C is incorrect because the passage says 'fewer than half,' not exactly half.\n\nCommon mistake: Students might skim past the specific statistic. The passage uses the phrase 'fewer than half' rather than a precise number."
+    },
+    {
+      "id": "selective-y6-reading-t4-q04",
+      "question": "What does the word 'consolidates' most likely mean as used in the passage?",
+      "options": [
+        "Deletes or removes permanently",
+        "Strengthens and combines into a more secure or stable form",
+        "Breaks apart into smaller pieces",
+        "Transfers from one person to another"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says the brain 'consolidates declarative memories' and then explains the process: 'replaying the neural patterns,' 'strengthening the connections,' and 'transferring knowledge from short-term to long-term storage.' All of these descriptions point to making memories more secure and stable.\n\nOption A is incorrect because consolidating memories is about preserving and strengthening them, not deleting them.\n\nCommon mistake: Students might not know this word in a scientific context, but the passage provides detailed explanations of what happens during consolidation, making the meaning clear from context."
+    },
+    {
+      "id": "selective-y6-reading-t4-q05",
+      "question": "Why does the author open the passage by calculating how much time a child spends sleeping?",
+      "options": [
+        "To bore the reader with statistics",
+        "To create a sense of surprise that hooks the reader by making sleep seem like a lot of time, then arguing it is well spent",
+        "To encourage readers to sleep less",
+        "To compare sleeping to other activities like sport"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the opening acknowledges that four years of sleep 'might sound like a waste of time' before pivoting to argue that sleep is essential. This hook technique captures the reader's attention by first presenting a surprising statistic and then challenging their assumption.\n\nOption C is incorrect because the entire passage argues the opposite — that sleep is vital and young people are not getting enough of it.\n\nCommon mistake: Students might misread the opening as suggesting sleep is wasteful, but the author immediately counters this idea with 'But scientists now understand that sleep is not wasted time at all.'"
+    },
+    {
+      "id": "selective-y6-reading-t4-q06",
+      "question": "How does the passage characterise the relationship between adolescent biology and school start times?",
+      "options": [
+        "They work together perfectly to help students succeed",
+        "They are in conflict — the biological shift towards later sleep collides with early school start times",
+        "School start times have been adjusted to match adolescent biology",
+        "Adolescent biology has no effect on when students feel tired"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that during puberty, 'the body's internal clock shifts later' and that 'this biological shift collides with school start times that typically require students to be in class by 8:30 or 9:00 a.m.' The word 'collides' indicates conflict.\n\nOption A is incorrect because the passage presents these as being in tension, not in harmony.\n\nCommon mistake: Students might overlook the significance of the word 'collides,' which is chosen deliberately to convey conflict between biological needs and institutional schedules."
+    },
+    {
+      "id": "selective-y6-reading-t4-q07",
+      "question": "According to the passage, what is one consequence of chronic sleep deprivation on brain health?",
+      "options": [
+        "It improves long-term memory storage",
+        "It may allow harmful waste products like beta-amyloid to accumulate in the brain",
+        "It causes the brain to produce more melatonin",
+        "It strengthens the glymphatic system over time"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage explains that the glymphatic system 'operates almost exclusively during sleep' to flush out toxic waste including beta-amyloid, and that 'chronic sleep deprivation may allow harmful substances to build up in the brain over time.'\n\nOption D is incorrect because the passage implies the opposite — without adequate sleep, the glymphatic system cannot do its job properly.\n\nCommon mistake: Students might confuse cause and effect here. Sleep deprivation does not strengthen the glymphatic system — it prevents it from functioning, leading to waste build-up."
+    },
+    {
+      "id": "selective-y6-reading-t4-q08",
+      "question": "The passage mentions Professor Matthew Walker's research. What is the author's purpose in citing this specific study?",
+      "options": [
+        "To suggest that only one scientist has studied sleep",
+        "To provide credible evidence that REM sleep enhances creativity, making the argument more convincing",
+        "To advertise the University of California's research programs",
+        "To show that sleep research is only conducted overseas"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because citing a specific researcher and university adds credibility to the claim that REM sleep enhances creative problem-solving by 40 per cent. Naming the source makes the argument more persuasive than simply stating a general claim.\n\nOption D is incorrect because the passage also mentions Australian research (AIHW report) and Rochester University research, showing sleep science is studied worldwide.\n\nCommon mistake: Students might not recognise why authors cite specific studies. The purpose is to provide evidence from authoritative sources, strengthening the argument with data rather than opinion."
+    },
+    {
+      "id": "selective-y6-reading-t4-q09",
+      "question": "How does the structure of the passage develop the author's argument?",
+      "options": [
+        "It presents arguments for and against sleep in equal measure",
+        "It progresses from explaining what sleep does, to identifying threats to sleep, to recommending solutions",
+        "It tells a chronological story of sleep research from ancient times to today",
+        "It compares sleep patterns across different countries and cultures"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage follows a clear structure: first it explains what sleep does (NREM memory consolidation, REM creativity, glymphatic waste removal), then it identifies why adolescents are not sleeping enough (screens, biological clock, school times), and finally it offers practical recommendations.\n\nOption A is incorrect because the passage does not argue against sleep — it consistently presents sleep as beneficial.\n\nCommon mistake: Students might choose C because the passage mentions historical assumptions about sleep, but this is only a brief opening point. The overall structure is problem-solution, not chronological history."
+    },
+    {
+      "id": "selective-y6-reading-t4-q10",
+      "question": "What is the author's primary purpose in writing this passage?",
+      "options": [
+        "To entertain readers with interesting facts about dreaming",
+        "To inform young readers about the science of sleep and persuade them to prioritise it",
+        "To criticise schools for starting too early",
+        "To argue that technology should be banned for teenagers"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage combines scientific explanation (informing) with a clear message that sleep matters (persuading). The final sentence — 'Understanding and respecting your need for sleep is one of the most important things you can do for your future self' — directly addresses young readers and urges them to act.\n\nOption C is incorrect because while school start times are discussed, they occupy only one paragraph and are not the main focus.\n\nCommon mistake: Students might choose C or D because these issues are mentioned, but they are supporting points within a broader argument about the importance of sleep. The author's primary purpose encompasses both informing and persuading."
+    }
+  ]
+}

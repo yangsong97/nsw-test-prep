@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "It's Time to Rethink School Uniforms",
+    "text": "Every weekday morning across Australia, millions of students put on the same shirts, the same shorts or skirts, and the same hats before heading to school. School uniforms have been a tradition in Australian education for well over a century, and most people accept them without question. But should they? It is time we had an honest conversation about whether school uniforms are truly beneficial, or whether they are an outdated practice that limits students' individuality and places unnecessary financial pressure on families.\n\nSupporters of school uniforms often argue that they create a sense of belonging and school pride. When everyone wears the same clothes, the thinking goes, students feel part of a team. There is some truth to this. Uniforms can help new students feel less anxious on their first day, and they give schools a recognisable identity. However, genuine school spirit comes from shared experiences, good teaching, and strong friendships — not from matching outfits. A student who feels disconnected from their school community will not suddenly feel included because they are wearing the same polo shirt as everyone else.\n\nAnother common argument is that uniforms reduce bullying related to clothing. The idea is that if everyone dresses the same, students cannot be teased for wearing unfashionable or inexpensive clothes. While this sounds logical, research tells a more complicated story. A 2019 study by researchers at the University of Macquarie found that students in schools with uniforms reported similar rates of bullying to those in schools without them. This is because bullying is rarely just about clothes — it is about power dynamics, social groups, and individual differences that a uniform cannot erase.\n\nPerhaps the strongest argument against compulsory uniforms is the financial burden they place on families. A full school uniform — including summer and winter sets, sports uniforms, hats, and school shoes — can cost between $300 and $600 per child per year. For families with multiple children, this expense adds up quickly. Unlike regular clothes that children can wear anywhere, school uniforms have no use outside of school hours. When children outgrow their uniforms — which happens frequently — parents must purchase entirely new sets. Some families are forced to choose between buying the correct uniform and paying other household bills.\n\nCritics of this argument point out that without uniforms, families would face pressure to buy trendy, expensive clothing for their children to wear to school. But this comparison is misleading. Families already buy casual clothes for weekends and holidays. Without uniforms, the same wardrobe could serve for both school and home, actually reducing the total amount families spend on children's clothing.\n\nFinally, there is the question of self-expression. Adolescence is a critical period for identity development. Psychologists have long recognised that the way young people choose to present themselves — including through their clothing — is an important part of developing a sense of self. Requiring students to dress identically sends a subtle message that conformity is more valued than individuality. In an era when we claim to celebrate diversity and encourage creative thinking, this message seems contradictory.\n\nThis is not to suggest that schools should have no dress standards at all. Reasonable guidelines — such as requiring closed-toe shoes for safety, or banning clothing with offensive imagery — are sensible and widely supported. The issue is not whether schools should have any rules about dress, but whether a rigid, compulsory uniform is the best approach.\n\nAustralian schools pride themselves on preparing students for a complex, changing world. Part of that preparation should include allowing students to make choices, express themselves, and learn to navigate differences — skills that a one-size-fits-all uniform policy does little to develop. It is time for schools to move beyond tradition and consider whether uniforms truly serve the interests of the students who wear them.",
+    "type": "persuasive"
+  },
+  "questions": [
+    {
+      "id": "selective-y5-reading-t5-q01",
+      "question": "What is the main argument of this passage?",
+      "options": [
+        "School uniforms should be made cheaper for families",
+        "Compulsory school uniforms are an outdated practice that should be reconsidered",
+        "All schools should immediately abolish uniforms",
+        "School uniforms are beneficial and should continue"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the author argues that uniforms limit individuality, place financial pressure on families, and do not achieve the benefits they claim to. The passage calls for an 'honest conversation' about whether uniforms 'truly serve the interests of the students.'\n\nOption C is incorrect because the author does not call for immediate abolition — they suggest schools should 'move beyond tradition and consider' whether uniforms are the best approach, which is a more measured position.\n\nCommon mistake: Students might choose C because the author is clearly against compulsory uniforms, but the passage recommends rethinking the practice, not immediately abolishing it."
+    },
+    {
+      "id": "selective-y5-reading-t5-q02",
+      "question": "According to the passage, how much can a full school uniform cost per child per year?",
+      "options": [
+        "Between $100 and $200",
+        "Between $300 and $600",
+        "Between $500 and $1,000",
+        "More than $1,000"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage states 'A full school uniform — including summer and winter sets, sports uniforms, hats, and school shoes — can cost between $300 and $600 per child per year.'\n\nOption C is incorrect because $500 to $1,000 is higher than the range given in the passage.\n\nCommon mistake: Students might misremember the figures. The passage gives a specific range that should be read carefully."
+    },
+    {
+      "id": "selective-y5-reading-t5-q03",
+      "question": "What did the 2019 study at the University of Macquarie find about bullying and uniforms?",
+      "options": [
+        "Schools with uniforms had significantly less bullying",
+        "Students in schools with uniforms reported similar rates of bullying to those without",
+        "Schools without uniforms had more clothing-related bullying",
+        "Uniforms completely eliminated bullying in all schools studied"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage says the study 'found that students in schools with uniforms reported similar rates of bullying to those in schools without them.'\n\nOption A is incorrect because the study found similar rates, meaning uniforms did not significantly reduce bullying.\n\nCommon mistake: Students might assume that because uniforms are meant to reduce bullying, the study must have supported this, but the passage presents evidence that contradicts this common assumption."
+    },
+    {
+      "id": "selective-y5-reading-t5-q04",
+      "question": "What does the word 'contradictory' mean as used in the passage?",
+      "options": [
+        "Supporting and agreeing with something",
+        "Saying or doing something that conflicts with another thing you say or believe",
+        "Repeating the same message multiple times",
+        "Being uncertain about a decision"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the author says that requiring identical dress while claiming to 'celebrate diversity and encourage creative thinking' is contradictory — the action (enforcing conformity) conflicts with the stated belief (valuing diversity).\n\nOption A is incorrect because contradictory means the opposite — it is about conflict, not agreement.\n\nCommon mistake: Students might confuse 'contradictory' with 'contrary.' While similar, contradictory specifically means holding two positions that cannot both be true at the same time."
+    },
+    {
+      "id": "selective-y5-reading-t5-q05",
+      "question": "The author acknowledges that uniforms can help new students feel less anxious. Why does the author include this point?",
+      "options": [
+        "To show that the author supports uniforms after all",
+        "To strengthen the argument by acknowledging a valid opposing point before countering it",
+        "To confuse the reader about the author's position",
+        "To suggest that new students should always wear uniforms"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because this is a persuasive technique called concession and rebuttal. The author acknowledges a reasonable opposing point ('There is some truth to this') and then argues that the benefit is limited ('genuine school spirit comes from shared experiences, good teaching, and strong friendships — not from matching outfits'). This makes the argument more credible.\n\nOption A is incorrect because the author immediately follows the concession with a counterargument, maintaining their overall position against compulsory uniforms.\n\nCommon mistake: Students might think acknowledging the other side weakens the author's argument, but in persuasive writing, it actually strengthens credibility by showing the author has considered multiple viewpoints."
+    },
+    {
+      "id": "selective-y5-reading-t5-q06",
+      "question": "How does the author characterise the argument that uniforms save families money on trendy clothing?",
+      "options": [
+        "As completely true and well-supported",
+        "As misleading because families already buy casual clothes separately",
+        "As the strongest argument in favour of uniforms",
+        "As an argument that has never been properly tested"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the author directly calls this comparison 'misleading' and explains that families already buy casual clothes for weekends and holidays, so without uniforms the same wardrobe could serve both purposes.\n\nOption A is incorrect because the author explicitly labels this argument as misleading.\n\nCommon mistake: Students might find the pro-uniform argument logical on its own, but the question asks how the author characterises it, and the author clearly calls it misleading."
+    },
+    {
+      "id": "selective-y5-reading-t5-q07",
+      "question": "According to the passage, what is the effect of outgrowing school uniforms on families?",
+      "options": [
+        "Children get to choose new uniform styles",
+        "Parents must purchase entirely new sets, adding to the financial burden",
+        "Schools provide replacement uniforms for free",
+        "Families can sell old uniforms for a profit"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage states 'When children outgrow their uniforms — which happens frequently — parents must purchase entirely new sets' and that some families are 'forced to choose between buying the correct uniform and paying other household bills.'\n\nOption C is incorrect because the passage does not mention schools providing free replacements.\n\nCommon mistake: Students might assume schools help with uniform costs, but the passage presents the cost as a burden families bear alone."
+    },
+    {
+      "id": "selective-y5-reading-t5-q08",
+      "question": "Why does the author mention that psychologists recognise clothing as important for identity development?",
+      "options": [
+        "To show that psychologists support school uniforms",
+        "To provide expert support for the argument that uniforms limit important self-expression",
+        "To suggest all students should study psychology",
+        "To argue that fashion is the most important part of school"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because by referencing psychologists, the author appeals to expert authority to strengthen the argument that restricting clothing choices through uniforms interferes with an important developmental process — identity formation.\n\nOption A is incorrect because the psychologists' findings about identity development actually support the anti-uniform argument, not the pro-uniform one.\n\nCommon mistake: Students might not recognise this as an appeal to authority. The author uses expert opinion to make the self-expression argument more convincing than personal opinion alone."
+    },
+    {
+      "id": "selective-y5-reading-t5-q09",
+      "question": "How does the second-to-last paragraph contribute to the overall argument?",
+      "options": [
+        "It completely changes the author's position to supporting uniforms",
+        "It shows the author is reasonable by supporting some dress guidelines while still opposing compulsory uniforms",
+        "It introduces a new topic unrelated to uniforms",
+        "It summarises all the arguments made earlier in the passage"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the paragraph clarifies that the author is not against all dress rules — they support reasonable guidelines like safety requirements. This nuanced position makes the argument more persuasive by showing the author is balanced and practical, not extreme.\n\nOption A is incorrect because the author maintains their position against compulsory uniforms while accepting reasonable dress standards — this is a refinement, not a reversal.\n\nCommon mistake: Students might think this paragraph weakens the argument because it concedes some rules are needed, but it actually strengthens the author's credibility by showing a balanced, realistic position."
+    },
+    {
+      "id": "selective-y5-reading-t5-q10",
+      "question": "What is the author's purpose in writing this passage?",
+      "options": [
+        "To inform readers about the history of school uniforms in Australia",
+        "To persuade readers that compulsory school uniforms should be reconsidered",
+        "To entertain readers with stories about school life",
+        "To describe the different types of school uniforms available"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage uses persuasive techniques throughout — presenting evidence against uniforms, countering pro-uniform arguments, citing research, and appealing to values like diversity and self-expression. The opening and closing paragraphs both call for reconsidering the uniform tradition.\n\nOption A is incorrect because while some historical context is provided (uniforms have been used for over a century), the passage is primarily argumentative, not informational.\n\nCommon mistake: Students might choose A because some facts are included, but facts in a persuasive text serve to support an argument. The overall purpose is persuasion, not neutral information sharing."
+    }
+  ]
+}

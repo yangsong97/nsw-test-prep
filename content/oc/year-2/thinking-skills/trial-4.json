@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-thinking-t4-q01",
+      "question": "What number comes next? 2, 4, 6, 8, ___",
+      "options": ["9", "10", "11", "12"],
+      "answer": 1,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 4-2=2, 6-4=2, 8-6=2.\nStep 2: Each number goes up by 2.\nStep 3: 8 + 2 = 10.\nThe answer is 10.\nCommon mistake: Choosing 9 (adding 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q02",
+      "question": "What number comes next? 5, 10, 15, 20, ___",
+      "options": ["22", "24", "25", "30"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 10-5=5, 15-10=5, 20-15=5.\nStep 2: Each number goes up by 5.\nStep 3: 20 + 5 = 25.\nThe answer is 25.\nCommon mistake: Choosing 24 (adding 4 instead of 5)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q03",
+      "question": "What number comes next? 3, 6, 9, 12, ___",
+      "options": ["13", "14", "15", "16"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the rule. 6-3=3, 9-6=3, 12-9=3.\nStep 2: Each number goes up by 3.\nStep 3: 12 + 3 = 15.\nThe answer is 15.\nCommon mistake: Choosing 13 (adding 1 instead of 3)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q04",
+      "question": "What number comes next? 1, 2, 4, 7, ___",
+      "options": ["9", "10", "11", "12"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find how much each number goes up. 2-1=1, 4-2=2, 7-4=3.\nStep 2: The jumps are 1, 2, 3. The next jump is 4.\nStep 3: 7 + 4 = 11.\nThe answer is 11.\nCommon mistake: Choosing 10 (adding 3 again instead of 4)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q05",
+      "question": "What number comes next? 20, 18, 16, 14, ___",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 18-20=-2, 16-18=-2, 14-16=-2.\nStep 2: Each number goes down by 2.\nStep 3: 14 - 2 = 12.\nThe answer is 12.\nCommon mistake: Choosing 13 (subtracting 1 instead of 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q06",
+      "question": "What number comes next? 1, 2, 4, 8, ___",
+      "options": ["10", "12", "14", "16"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 2=1x2, 4=2x2, 8=4x2.\nStep 2: Each number is doubled (multiplied by 2).\nStep 3: 8 x 2 = 16.\nThe answer is 16.\nCommon mistake: Choosing 12 (adding 4 instead of doubling)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q07",
+      "question": "An arrow is pointing UP. It is turned a quarter-turn clockwise. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The arrow starts pointing up.\nStep 2: A quarter-turn clockwise means turning right like a clock hand.\nStep 3: Up turns to Right.\nThe answer is Right.\nCommon mistake: Choosing Left (turning anticlockwise instead of clockwise)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q08",
+      "question": "You look at the letter 'b' in a mirror. What does it look like?",
+      "options": ["b", "d", "p", "q"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A mirror flips things left to right.\nStep 2: The letter 'b' faces right. When flipped left-to-right, it faces left.\nStep 3: A letter that looks like 'b' facing left is 'd'.\nThe answer is d.\nCommon mistake: Choosing p (flipping upside down instead of left-right)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q09",
+      "question": "An arrow is pointing RIGHT. It is turned a quarter-turn clockwise. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The arrow starts pointing right.\nStep 2: A quarter-turn clockwise from right goes down.\nStep 3: The arrow now points down.\nThe answer is Down.\nCommon mistake: Choosing Up (turning anticlockwise instead of clockwise)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q10",
+      "question": "A square piece of paper is folded in half from left to right. A triangle is cut from the top-right corner. When unfolded, where will the cut-outs be?",
+      "options": ["Top-right corner only", "Top-left and top-right corners", "Bottom-right corner only", "All four corners"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The paper is folded left to right, so the left side lies on top of the right side.\nStep 2: A triangle is cut from the top-right corner. This cuts through both layers.\nStep 3: When unfolded, there is a cut at the top-right and top-left corners.\nThe answer is Top-left and top-right corners.\nCommon mistake: Choosing top-right only (forgetting the fold creates two layers)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q11",
+      "question": "A triangle is pointing UP. It is given two quarter-turns clockwise. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The triangle starts pointing up.\nStep 2: One quarter-turn clockwise: up turns to right.\nStep 3: Another quarter-turn clockwise: right turns to down.\nThe answer is Down.\nCommon mistake: Choosing Right (only doing one turn instead of two)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q12",
+      "question": "You look at the letter 'L' in a mirror placed to the right. What does it look like?",
+      "options": ["An L shape going left-down", "An L shape going right-down", "A backwards L going left-down", "A backwards J shape"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The letter L has a vertical line going down and a horizontal line going right at the bottom.\nStep 2: A mirror on the right flips left and right.\nStep 3: The horizontal line now goes left instead of right, making a backwards L.\nThe answer is A backwards L going left-down.\nCommon mistake: Choosing 'An L shape going right-down' (not flipping the horizontal direction)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q13",
+      "question": "Hot is to cold as big is to ___",
+      "options": ["Huge", "Tall", "Small", "Wide"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Hot and cold are opposites.\nStep 2: We need the opposite of big.\nStep 3: The opposite of big is small.\nThe answer is Small.\nCommon mistake: Choosing Huge (which means the same as big, not the opposite)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q14",
+      "question": "Fish is to water as bird is to ___",
+      "options": ["Sky", "Nest", "Feathers", "Eggs"],
+      "answer": 0,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A fish lives in water (where it moves around).\nStep 2: We need where a bird moves around.\nStep 3: A bird flies in the sky.\nThe answer is Sky.\nCommon mistake: Choosing Nest (that is where a bird sleeps, not where it moves)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q15",
+      "question": "Ear is to hear as eye is to ___",
+      "options": ["Cry", "Blink", "See", "Glasses"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: An ear is used to hear.\nStep 2: We need what an eye is used for.\nStep 3: An eye is used to see.\nThe answer is See.\nCommon mistake: Choosing Blink (something an eye does, but not its main purpose)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q16",
+      "question": "Dog is to puppy as cat is to ___",
+      "options": ["Cub", "Kitten", "Kitty", "Calf"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A puppy is a baby dog.\nStep 2: We need the name for a baby cat.\nStep 3: A baby cat is called a kitten.\nThe answer is Kitten.\nCommon mistake: Choosing Cub (that is a baby bear, not a baby cat)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q17",
+      "question": "Glove is to hand as sock is to ___",
+      "options": ["Shoe", "Leg", "Foot", "Toe"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A glove is worn on a hand.\nStep 2: We need what a sock is worn on.\nStep 3: A sock is worn on a foot.\nThe answer is Foot.\nCommon mistake: Choosing Shoe (a shoe goes over a sock, but a sock is worn directly on the foot)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q18",
+      "question": "Pen is to write as scissors are to ___",
+      "options": ["Paper", "Sharp", "Cut", "Draw"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A pen is used to write.\nStep 2: We need what scissors are used to do.\nStep 3: Scissors are used to cut.\nThe answer is Cut.\nCommon mistake: Choosing Paper (scissors cut paper, but the analogy is about the action, not the object)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q19",
+      "question": "Look at this 2x2 grid. Row 1: circle, square. Row 2: triangle, ___. Each row has a round shape and a shape with straight sides. What goes in the blank?",
+      "options": ["Circle", "Rectangle", "Triangle", "Oval"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 1 has a circle (round) and a square (straight sides).\nStep 2: Row 2 has a triangle (straight sides) already. It needs a shape to complete the row.\nStep 3: The pattern is one round shape and one straight-sided shape per row. Triangle has straight sides, so we need a straight-sided shape in the other spot. But wait: re-reading the pattern, each row has one round and one straight. Triangle is straight, so we need a round or another straight? Re-checking: Row 1 = circle (round), square (straight). Row 2 = triangle (straight), ??? The blank needs to follow the column pattern too. Column 1: circle, triangle. Column 2: square, ???. Square is a 4-sided shape, so a rectangle (also 4-sided) fits.\nThe answer is Rectangle.\nCommon mistake: Choosing Circle (following the row pattern of round+straight but ignoring the column pattern)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q20",
+      "question": "Look at this 2x2 grid. Row 1: red star, blue star. Row 2: red heart, ___. What colour and shape goes in the blank?",
+      "options": ["Red star", "Blue heart", "Blue star", "Red heart"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Column 1 is red: red star, red heart.\nStep 2: Column 2 is blue: blue star, ???.\nStep 3: Row 2 uses hearts: red heart, ???. It must be blue heart.\nThe answer is Blue heart.\nCommon mistake: Choosing Blue star (using the wrong shape from row 1)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q21",
+      "question": "Look at this 2x2 grid. Row 1: big circle, small circle. Row 2: big square, ___. What goes in the blank?",
+      "options": ["Big circle", "Small square", "Big square", "Small circle"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 1 goes from big to small: big circle, small circle.\nStep 2: Row 2 should also go from big to small: big square, ???.\nStep 3: The blank needs to be a small square.\nThe answer is Small square.\nCommon mistake: Choosing Small circle (using the shape from row 1 instead of row 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q22",
+      "question": "Look at this 2x2 grid. Row 1: 1 dot, 2 dots. Row 2: 3 dots, ___. The numbers increase left-to-right and top-to-bottom. What goes in the blank?",
+      "options": ["3 dots", "4 dots", "5 dots", "6 dots"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Reading left-to-right, top-to-bottom: 1, 2, 3, ???.\nStep 2: The numbers go up by 1 each time.\nStep 3: 3 + 1 = 4.\nThe answer is 4 dots.\nCommon mistake: Choosing 5 dots (adding 2 instead of 1)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q23",
+      "question": "Look at this 2x2 grid. Row 1: white triangle pointing up, black triangle pointing up. Row 2: white triangle pointing down, ___. What goes in the blank?",
+      "options": ["White triangle pointing up", "Black triangle pointing up", "White triangle pointing down", "Black triangle pointing down"],
+      "answer": 3,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Column 1 is white, column 2 is black.\nStep 2: Row 1 points up, row 2 points down.\nStep 3: The blank is in column 2 (black) and row 2 (pointing down) = black triangle pointing down.\nThe answer is Black triangle pointing down.\nCommon mistake: Choosing Black triangle pointing up (getting the direction wrong)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q24",
+      "question": "Look at this 2x2 grid. Row 1: one small red circle, two small red circles. Row 2: one small blue circle, ___. What goes in the blank?",
+      "options": ["One small red circle", "Two small blue circles", "Two small red circles", "One big blue circle"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Column 1 has one circle, column 2 has two circles.\nStep 2: Row 1 is red, row 2 is blue.\nStep 3: The blank is in column 2 (two circles) and row 2 (blue) = two small blue circles.\nThe answer is Two small blue circles.\nCommon mistake: Choosing Two small red circles (keeping the colour from row 1 instead of row 2)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q25",
+      "question": "If it is raining, Sam takes an umbrella. It is raining today. What does Sam take?",
+      "options": ["A hat", "An umbrella", "A coat", "Sunglasses"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The rule says: if raining, then Sam takes an umbrella.\nStep 2: It is raining today.\nStep 3: So Sam takes an umbrella.\nThe answer is An umbrella.\nCommon mistake: Choosing A coat (a reasonable thing to take in rain, but the rule specifically says umbrella)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q26",
+      "question": "All apples are fruits. Is it true that all apples are fruits?",
+      "options": ["Yes, always true", "No, never true", "Sometimes true", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: We are told that all apples are fruits.\nStep 2: The question asks if all apples are fruits.\nStep 3: This is exactly what we were told, so it is always true.\nThe answer is Yes, always true.\nCommon mistake: Choosing Sometimes true (overthinking a simple statement)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q27",
+      "question": "Tom is taller than Sue. Sue is taller than Ben. Who is the shortest?",
+      "options": ["Tom", "Sue", "Ben", "Cannot tell"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Tom is taller than Sue. So Tom > Sue.\nStep 2: Sue is taller than Ben. So Sue > Ben.\nStep 3: From tallest to shortest: Tom, Sue, Ben. Ben is the shortest.\nThe answer is Ben.\nCommon mistake: Choosing Sue (confusing who is taller and who is shorter)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q28",
+      "question": "If a shape is a square, it has 4 sides. This shape has 3 sides. Is it a square?",
+      "options": ["Yes", "No", "Maybe", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: All squares have 4 sides.\nStep 2: This shape has 3 sides.\nStep 3: Since squares must have 4 sides and this has 3, it is not a square.\nThe answer is No.\nCommon mistake: Choosing Maybe (being unsure, but having 3 sides definitely means it is not a square)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q29",
+      "question": "Amy has more stickers than Ben. Ben has more stickers than Cara. Cara has more stickers than Dan. Who has the most stickers?",
+      "options": ["Amy", "Ben", "Cara", "Dan"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Amy > Ben > Cara > Dan.\nStep 2: Amy is at the top of the chain.\nStep 3: Amy has the most stickers.\nThe answer is Amy.\nCommon mistake: Choosing Ben (because Ben is mentioned first in the comparisons with Cara and Dan)."
+    },
+    {
+      "id": "oc-y2-thinking-t4-q30",
+      "question": "All birds have feathers. Penguins are birds. Do penguins have feathers?",
+      "options": ["Yes", "No", "Only some penguins", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: All birds have feathers.\nStep 2: Penguins are birds.\nStep 3: Since all birds have feathers and penguins are birds, penguins must have feathers.\nThe answer is Yes.\nCommon mistake: Choosing Only some penguins (real-world doubt, but the logic says ALL birds have feathers, so all penguins do too)."
+    }
+  ]
+}

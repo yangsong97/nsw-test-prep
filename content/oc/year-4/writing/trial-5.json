@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 5
+  },
+  "prompt": {
+    "id": "oc-y4-writing-t5",
+    "type": "narrative",
+    "text": "Write a story about a student who accidentally travels back in time during a school excursion. Where and when do they end up? What challenges do they face, and how do they get back to the present?",
+    "timeLimit": 20,
+    "wordGuide": "Aim for 200-300 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a creative and well-imagined time travel scenario with specific historical details about the time period visited. The challenges faced are believable within the story's logic, and the method of returning to the present is inventive. The character's reactions and emotions add depth.",
+      "satisfactory": "The story includes a recognisable time travel scenario with some details about the past. The challenges and return journey are present but may lack originality or specific detail. The character's experience could be more fully developed.",
+      "developing": "The time travel concept is present but underdeveloped. Few details are given about the historical setting or the challenges. The story may end abruptly without explaining how the character returns."
+    },
+    "structure": {
+      "excellent": "The story has a strong opening that establishes the excursion setting, a well-paced middle that builds tension as the character navigates the past, and a satisfying resolution. Paragraphs are used effectively to organise different stages of the adventure.",
+      "satisfactory": "The story has a recognisable beginning, middle, and end. The time travel transition is included but the pacing may be uneven, with some parts rushed and others drawn out. Paragraphs are used but may not always be effective.",
+      "developing": "The story lacks clear structure. The transition to the past may be confusing, or the story may spend too long on one part and rush through others. Little or no paragraphing."
+    },
+    "language": {
+      "excellent": "Uses vivid descriptive language to contrast the present and past settings. Vocabulary is varied and includes some historical or period-appropriate details. Sentences vary in length and type, with dialogue and internal thoughts used to develop character.",
+      "satisfactory": "Uses appropriate vocabulary with some descriptive language. The contrast between present and past is evident but could be sharper. Sentences are mostly similar in length. Some dialogue may be present.",
+      "developing": "Uses basic vocabulary with little descriptive language. The historical setting is not described clearly. Sentences follow a repetitive pattern."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including more challenging vocabulary. Punctuation is correct including speech marks, commas, and apostrophes. Tense is maintained consistently throughout the story. Paragraphing is effective.",
+      "satisfactory": "Most words are spelt correctly. Basic punctuation is mostly accurate. There may be some inconsistency with tense. Paragraphing is attempted.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. Tense shifts are frequent and confusing. No paragraphing."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The Year 4 excursion to the Australian Museum was supposed to be ordinary. Zara and her class were looking at the First Fleet exhibition when she noticed a strange golden compass in a glass case. It was spinning wildly.\n\nWithout thinking, Zara reached over the rope barrier and touched the glass. The room blurred and spun like a washing machine. When everything stopped, she was standing on a dusty dirt road. Horse-drawn carts rattled past and women in long dresses carried baskets on their arms.\n\n\"Where am I?\" Zara whispered. A newspaper blew against her leg. She picked it up and her eyes went wide. The Sydney Morning Herald, 12th January 1850.\n\nZara's heart hammered in her chest. She was in colonial Sydney, over 170 years in the past! She looked down at her bright purple school uniform and runners. People were already staring at her strangely.\n\nShe needed to find that compass. Zara remembered that the museum building had been around since the 1800s. She ran through the unfamiliar streets, dodging horses and puddles, until she spotted the sandstone building. Inside, a curator in a top hat was polishing objects. There, on his desk, sat the golden compass.\n\n\"Excuse me, sir,\" Zara said, trying to sound polite. \"May I please look at that compass? It belongs to my... my grandfather.\"\n\nThe man frowned but handed it to her. The moment her fingers touched it, the world spun again. When it stopped, she was back in the museum, her teacher calling her name.\n\n\"Zara! Stop daydreaming and stay with the group!\"\n\nZara smiled and slipped the compass back into the case. Some adventures were best kept secret.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 4. The time travel mechanism (the golden compass) is creative and the historical setting of colonial Sydney in 1850 is brought to life with specific sensory details — horse-drawn carts, women in long dresses, and the sandstone museum building. The story builds tension effectively as Zara realises she is in the past and must find her way back. The contrast between her modern school uniform and the colonial setting adds humour and authenticity. Dialogue is used well, and the ending is satisfying with a clever return to the teacher's perspective. The vocabulary is ambitious and the story maintains consistent past tense throughout."
+    },
+    {
+      "level": "satisfactory",
+      "text": "On our school excursion to the museum, I touched a weird old clock and suddenly everything went dark. When I opened my eyes I was in a different place. There were no cars or buildings, just trees and a river.\n\nI walked around and found some people in old fashioned clothes. They told me it was 1900 and I was near a farm. I was really scared because I didn't know how to get back.\n\nI looked for the clock everywhere but I couldn't find it. Then an old man showed me a pocket watch that looked similar. He said it was magical and could take people through time.\n\nI held the pocket watch and wished really hard to go back to my own time. It started glowing and spinning. Then I was back in the museum with my class.\n\nNo one noticed I was gone. I was so relieved to be back. I never touched anything in a museum again after that.",
+      "annotations": "This response meets the satisfactory standard for Year 4. It follows the prompt and includes the key elements of time travel, historical setting, challenges, and return. The story has a clear beginning, middle, and end. However, the historical setting of 1900 is not described with enough specific detail to make it feel authentic — the description is quite vague. The method of return (wishing on a pocket watch) is somewhat convenient and could be more creative. The language is functional but lacks the vivid description and varied vocabulary expected at the higher level. The story would benefit from more sensory detail, dialogue, and emotional depth."
+    }
+  ]
+}

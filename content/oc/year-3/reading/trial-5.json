@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Flying Machine",
+    "text": "Oscar had always dreamed of flying. Not in an aeroplane — that was too ordinary. He wanted to build his own flying machine.\n\nEvery afternoon after school, Oscar went to the garage and worked on his invention. He used old bicycle wheels, cardboard boxes, sticky tape, and wire coat hangers. His dog, Biscuit, sat nearby and watched with his head tilted to one side.\n\n\"What are you building?\" asked his neighbour, Priya, peering over the fence one Tuesday.\n\n\"A flying machine,\" Oscar replied proudly. \"It will have wings that flap and a propeller on the front.\"\n\nPriya raised her eyebrows. \"Can I help?\"\n\nOscar hesitated. He had always worked alone. But Priya was good at building things — she had won first place in the school science fair last year. \"Okay,\" he said. \"But I'm the pilot.\"\n\nPriya grinned and climbed over the fence. She looked at Oscar's machine carefully. \"The wings are good,\" she said, \"but they need to be longer so they can catch more air. And the propeller should be lighter.\"\n\nOscar frowned. He did not like being told what to change. But deep down, he knew Priya had a point. Together, they spent the next two weeks rebuilding the machine. Priya brought a fan motor from her dad's shed, and Oscar found some thin fabric for the wings.\n\nOn Saturday morning, they wheeled the machine to the top of the hill at Centennial Park. A small crowd of kids from their street gathered to watch.\n\n\"Ready?\" Priya asked.\n\n\"Ready,\" said Oscar, climbing into the seat.\n\nPriya switched on the motor. The propeller whirred. Oscar pedalled hard, and the machine rolled down the hill, bumping and rattling. The wings flapped wildly. For three glorious seconds, the front wheels lifted off the ground.\n\nThen it crashed into a bush.\n\nOscar climbed out with leaves in his hair and a huge smile on his face. \"Did you see that? It actually flew!\"\n\nThe crowd cheered. Priya laughed and helped him pull the machine out of the bush.\n\n\"Next time,\" she said, \"we add a steering system.\"\n\nOscar nodded. \"Next time.\"",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y3-reading-t5-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "A boy who wins a science fair at school",
+        "A boy who builds a flying machine with help from his neighbour",
+        "A girl who is better at building things than a boy",
+        "A dog who watches his owner work in the garage"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the whole story is about Oscar building a flying machine and eventually accepting help from Priya to improve it and test it.\n\nOption C is incorrect because although Priya helps improve the design, the story is about working together, not about one person being better than another.\n\nCommon mistake: Students might choose C because Priya suggests changes, but the story focuses on how Oscar and Priya work together as a team."
+    },
+    {
+      "id": "oc-y3-reading-t5-q02",
+      "question": "What materials did Oscar use to build his flying machine?",
+      "options": [
+        "Metal sheets, engines, and glass",
+        "Old bicycle wheels, cardboard boxes, sticky tape, and wire coat hangers",
+        "Wood, nails, and paint",
+        "Plastic bottles, string, and rubber bands"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says 'He used old bicycle wheels, cardboard boxes, sticky tape, and wire coat hangers.'\n\nOption A is incorrect because metal sheets, engines, and glass are not mentioned in the story.\n\nCommon mistake: Students might guess materials that seem logical for a flying machine, but the answer must match what the text says."
+    },
+    {
+      "id": "oc-y3-reading-t5-q03",
+      "question": "What changes did Priya suggest to improve the machine?",
+      "options": [
+        "Paint it a brighter colour and add a flag",
+        "Make the wings longer and the propeller lighter",
+        "Use a bigger motor and stronger wheels",
+        "Add a seat belt and a helmet"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because Priya said 'the wings need to be longer so they can catch more air. And the propeller should be lighter.'\n\nOption C is incorrect because Priya did not suggest a bigger motor or stronger wheels.\n\nCommon mistake: Students might confuse Priya's suggestions with other details like the fan motor she brought later, but her specific suggestions were about wing length and propeller weight."
+    },
+    {
+      "id": "oc-y3-reading-t5-q04",
+      "question": "What does the word 'hesitated' mean in this story?",
+      "options": [
+        "Shouted loudly with excitement",
+        "Paused because he was unsure about something",
+        "Ran away quickly",
+        "Agreed straight away without thinking"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because when Priya asked to help, 'Oscar hesitated. He had always worked alone.' The next sentence explains his uncertainty — he was used to working by himself. Hesitated means he paused before deciding.\n\nOption D is incorrect because it is the opposite of what happened — Oscar did not agree straight away.\n\nCommon mistake: Students might not know the word 'hesitated' but can work it out from the context. The sentence that follows explains Oscar had always worked alone, which is why he paused."
+    },
+    {
+      "id": "oc-y3-reading-t5-q05",
+      "question": "Why did Oscar eventually agree to let Priya help?",
+      "options": [
+        "Because his mum told him to share",
+        "Because he knew Priya was good at building things",
+        "Because Biscuit liked Priya",
+        "Because he wanted to win the science fair"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'Priya was good at building things — she had won first place in the school science fair last year.' Oscar agreed because he recognised her skill.\n\nOption D is incorrect because there is no mention of Oscar wanting to win a science fair — his goal was to build a flying machine.\n\nCommon mistake: Students might choose A because parents often tell children to share, but the story does not mention Oscar's mum. The reason is Oscar's own recognition of Priya's ability."
+    },
+    {
+      "id": "oc-y3-reading-t5-q06",
+      "question": "How does Oscar change from the beginning to the end of the story?",
+      "options": [
+        "He goes from loving flying to hating it",
+        "He goes from wanting to work alone to being happy to work with a partner",
+        "He goes from being mean to Priya to apologising",
+        "He goes from being lazy to being hardworking"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because at the start, Oscar 'had always worked alone' and hesitated when Priya offered help. By the end, they are a team, and Oscar agrees with Priya's plan for next time. He has learned to value working together.\n\nOption C is incorrect because Oscar is never mean to Priya — he is just unsure at first.\n\nCommon mistake: Students might think Oscar's frown when Priya suggests changes means he is mean, but it actually shows he found it hard to accept feedback. By the end, he embraces teamwork."
+    },
+    {
+      "id": "oc-y3-reading-t5-q07",
+      "question": "What was the result of Oscar and Priya working together?",
+      "options": [
+        "The machine broke before they could test it",
+        "The machine lifted off the ground for a few seconds",
+        "The machine flew perfectly over the park",
+        "The machine did not move at all"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'For three glorious seconds, the front wheels lifted off the ground.' The machine briefly flew before crashing into a bush.\n\nOption C is incorrect because the machine did not fly perfectly — it only lifted briefly and then crashed.\n\nCommon mistake: Students might choose C because the crowd cheered and Oscar was happy, but the text clearly says it only flew for three seconds before crashing."
+    },
+    {
+      "id": "oc-y3-reading-t5-q08",
+      "question": "Why did Oscar smile after the crash even though the machine was damaged?",
+      "options": [
+        "Because he thought the crash was funny",
+        "Because the machine had actually lifted off the ground, which was a success",
+        "Because he wanted to make Priya feel better",
+        "Because he was glad it was over"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Oscar said 'Did you see that? It actually flew!' with a 'huge smile.' Even though it crashed, the fact that it lifted off the ground meant his dream of building a flying machine had partly come true.\n\nOption A is incorrect because Oscar was not laughing at the crash — he was celebrating the achievement of the machine leaving the ground.\n\nCommon mistake: Students might think crashing is a failure, but Oscar saw the three seconds of flight as a success. This shows that even small achievements can be exciting."
+    },
+    {
+      "id": "oc-y3-reading-t5-q09",
+      "question": "Why does the author end the story with the word 'Next time'?",
+      "options": [
+        "To show that Oscar is giving up on flying",
+        "To suggest that Oscar and Priya will keep working together to improve the machine",
+        "To tell the reader the story will have a sequel",
+        "To show that Priya is taking over the project"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Priya says 'Next time, we add a steering system' and Oscar agrees. This ending shows they plan to continue improving the machine as a team, and their adventure is not over.\n\nOption C is incorrect because 'Next time' is part of the characters' conversation, not a promise from the author about another book.\n\nCommon mistake: Students might think 'Next time' means there will be another story, but it is a narrative technique that leaves the reader imagining what comes next for the characters."
+    },
+    {
+      "id": "oc-y3-reading-t5-q10",
+      "question": "What is the main message the author is sharing in this story?",
+      "options": [
+        "Flying machines are dangerous and should not be built by children",
+        "Working with others and accepting help can lead to better results",
+        "You should never change your plans once you have started",
+        "Science fairs are the best way to learn about building things"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Oscar achieves more by accepting Priya's help than he could alone. Together, they improve the design and the machine actually lifts off. The story shows that teamwork and accepting others' ideas leads to better outcomes.\n\nOption C is incorrect because the story shows the opposite — Oscar's willingness to change his plans based on Priya's suggestions led to a better result.\n\nCommon mistake: Students might choose A because the machine crashes, but the tone of the story is positive. The crash is treated as a small setback, not a warning about danger."
+    }
+  ]
+}

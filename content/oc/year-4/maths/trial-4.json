@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-maths-t4-q01",
+      "question": "What is 456 + 389?",
+      "options": ["835", "845", "855", "865"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 6 + 9 = 15. Write 5, carry 1.\nStep 2: Tens: 5 + 8 + 1 = 14. Write 4, carry 1.\nStep 3: Hundreds: 4 + 3 + 1 = 8.\nStep 4: 456 + 389 = 845.\nCommon mistake: Choosing 835 (not carrying from ones) or 855 (carrying error in tens)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q02",
+      "question": "What is 0.7 as a fraction?",
+      "options": ["1/7", "7/100", "7/10", "70/10"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.7 means 7 tenths.\nStep 2: 7 tenths = 7/10.\nCommon mistake: Choosing 1/7 (confusing the digit with the denominator) or 7/100 (confusing tenths with hundredths)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q03",
+      "question": "Which fraction is equivalent to 3/6?",
+      "options": ["1/2", "1/3", "2/3", "3/12"],
+      "answer": 0,
+      "topic": "equivalent-fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Simplify 3/6 by dividing numerator and denominator by 3.\nStep 2: 3 ÷ 3 = 1, 6 ÷ 3 = 2.\nStep 3: 3/6 = 1/2.\nCommon mistake: Choosing 1/3 (dividing only the numerator) or 2/3 (incorrect simplification)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q04",
+      "question": "A square has sides of 9 cm. What is its perimeter?",
+      "options": ["18 cm", "27 cm", "36 cm", "81 cm"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Perimeter of a square = 4 × side length.\nStep 2: 4 × 9 = 36 cm.\nCommon mistake: Choosing 81 cm (finding area: 9 × 9) or 18 cm (2 × 9, only two sides)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q05",
+      "question": "An angle that is less than 90° is called:",
+      "options": ["Right angle", "Acute angle", "Obtuse angle", "Reflex angle"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Right angle = exactly 90°. Obtuse = between 90° and 180°. Reflex = greater than 180°.\nStep 2: An angle less than 90° is acute.\nCommon mistake: Choosing obtuse (between 90° and 180°) or right angle (exactly 90°)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q06",
+      "question": "What is the next number in the pattern? 7, 14, 21, 28, ___",
+      "options": ["32", "33", "35", "42"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Pattern adds 7 each time (multiples of 7).\nStep 2: 28 + 7 = 35.\nCommon mistake: Choosing 42 (adding 14) or 32 (adding 4)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q07",
+      "question": "A bar graph shows goals scored: Team A = 12, Team B = 8, Team C = 15, Team D = 10. How many goals in total?",
+      "options": ["35", "40", "45", "50"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Total = 12 + 8 + 15 + 10.\nStep 2: 12 + 8 = 20. 15 + 10 = 25. 20 + 25 = 45.\nCommon mistake: Choosing 40 (forgetting one team) or 35 (addition error)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q08",
+      "question": "What is 7000 − 3456?",
+      "options": ["3444", "3544", "3554", "4544"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 7000 − 3456.\nStep 2: 7000 − 3000 = 4000. 4000 − 456 = 3544.\nCommon mistake: Choosing 3444 (subtraction error in ones) or 4544 (subtracting 2456 instead)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q09",
+      "question": "Which decimal is the same as 3/10?",
+      "options": ["0.03", "0.3", "3.0", "3.10"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 3/10 = 3 tenths = 0.3.\nCommon mistake: Choosing 0.03 (3 hundredths, not tenths) or 3.0 (whole number 3)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q10",
+      "question": "A rectangle is 12 cm long and 5 cm wide. What is its area?",
+      "options": ["17 cm²", "34 cm²", "60 cm²", "120 cm²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area = length × width.\nStep 2: 12 × 5 = 60 cm².\nCommon mistake: Choosing 34 cm² (finding perimeter: 2 × (12 + 5)) or 17 cm² (just adding length + width)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q11",
+      "question": "What is 36 × 24?",
+      "options": ["744", "824", "864", "964"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 36 × 20 = 720.\nStep 2: 36 × 4 = 144.\nStep 3: 720 + 144 = 864.\nCommon mistake: Choosing 744 (36 × 20 = 720, then 36 × 4 = 24 error) or 824 (addition error)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q12",
+      "question": "Put these decimals in order from smallest to largest: 0.8, 0.35, 0.6. Which is the smallest?",
+      "options": ["0.8", "0.35", "0.6", "They are equal"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Convert to hundredths: 0.8 = 0.80, 0.35, 0.6 = 0.60.\nStep 2: Order: 0.35, 0.60, 0.80.\nStep 3: Smallest is 0.35.\nCommon mistake: Choosing 0.6 (thinking fewer decimal places means smaller) or 0.8 (confusing largest with smallest)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q13",
+      "question": "Which pair of fractions are equivalent? ",
+      "options": ["1/3 and 2/5", "2/4 and 3/6", "1/2 and 2/3", "3/4 and 4/5"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 2/4 = 1/2 (divide by 2). 3/6 = 1/2 (divide by 3).\nStep 2: Both equal 1/2, so they are equivalent.\nStep 3: Check others: 1/3 ≠ 2/5, 1/2 ≠ 2/3, 3/4 ≠ 4/5.\nCommon mistake: Choosing 1/2 and 2/3 (thinking doubling numerator means equivalent)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q14",
+      "question": "A garden is 15 m long and 8 m wide. What is the perimeter of the garden?",
+      "options": ["23 m", "46 m", "120 m", "130 m"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: 2 × (15 + 8) = 2 × 23 = 46 m.\nCommon mistake: Choosing 23 m (adding only once) or 120 m (finding area instead)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q15",
+      "question": "What type of angle is 135°?",
+      "options": ["Acute", "Right", "Obtuse", "Reflex"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Acute: 0°–90°. Right: exactly 90°. Obtuse: 90°–180°. Reflex: 180°–360°.\nStep 2: 135° is between 90° and 180°, so it is obtuse.\nCommon mistake: Choosing reflex (must be over 180°) or right (exactly 90°)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q16",
+      "question": "Find the missing number: 3, 9, 27, 81, ___",
+      "options": ["162", "189", "243", "324"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 9 ÷ 3 = 3. 27 ÷ 9 = 3. 81 ÷ 27 = 3.\nStep 2: Pattern: multiply by 3.\nStep 3: 81 × 3 = 243.\nCommon mistake: Choosing 162 (multiplying by 2) or 324 (multiplying by 4)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q17",
+      "question": "A pie chart shows that 1/4 of 60 students chose maths as their favourite subject. How many students chose maths?",
+      "options": ["10", "12", "15", "20"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1/4 of 60 = 60 ÷ 4 = 15.\nCommon mistake: Choosing 12 (dividing by 5) or 20 (dividing by 3)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q18",
+      "question": "What is 0.25 + 0.6?",
+      "options": ["0.31", "0.85", "0.86", "0.91"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Align decimals: 0.25 + 0.60.\nStep 2: Hundredths: 5 + 0 = 5.\nStep 3: Tenths: 2 + 6 = 8.\nStep 4: 0.25 + 0.60 = 0.85.\nCommon mistake: Choosing 0.31 (adding 25 + 6 = 31 without aligning) or 0.86 (hundredths error)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q19",
+      "question": "How many right angles are in a rectangle?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 3,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A rectangle has 4 corners.\nStep 2: Each corner is a right angle (90°).\nStep 3: A rectangle has 4 right angles.\nCommon mistake: Choosing 2 (counting only two visible corners) or 1."
+    },
+    {
+      "id": "oc-y4-maths-t4-q20",
+      "question": "What is 672 ÷ 8?",
+      "options": ["82", "84", "86", "88"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 8 × 80 = 640. 672 − 640 = 32. 32 ÷ 8 = 4.\nStep 2: 80 + 4 = 84.\nStep 3: Check: 84 × 8 = 672. Correct.\nCommon mistake: Choosing 82 (8 × 82 = 656) or 86 (8 × 86 = 688)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q21",
+      "question": "What is 2847 + 3965?",
+      "options": ["6712", "6802", "6812", "6912"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 7 + 5 = 12. Write 2, carry 1.\nStep 2: Tens: 4 + 6 + 1 = 11. Write 1, carry 1.\nStep 3: Hundreds: 8 + 9 + 1 = 18. Write 8, carry 1.\nStep 4: Thousands: 2 + 3 + 1 = 6.\nStep 5: 2847 + 3965 = 6812.\nCommon mistake: Choosing 6712 (not carrying from tens) or 6912 (carrying error in hundreds)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q22",
+      "question": "Which is larger: 0.45 or 0.5?",
+      "options": ["0.45", "0.5", "They are equal", "Cannot tell"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Convert to same decimal places: 0.45 and 0.50.\nStep 2: 50 hundredths > 45 hundredths.\nStep 3: 0.5 > 0.45.\nCommon mistake: Choosing 0.45 (thinking 45 > 5 because it has more digits)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q23",
+      "question": "Write 4/6 in simplest form.",
+      "options": ["1/3", "2/3", "2/6", "4/3"],
+      "answer": 1,
+      "topic": "equivalent-fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the GCF of 4 and 6. GCF = 2.\nStep 2: 4 ÷ 2 = 2, 6 ÷ 2 = 3.\nStep 3: 4/6 in simplest form = 2/3.\nCommon mistake: Choosing 1/3 (dividing by 4 and 2 separately) or 2/6 (only simplifying the numerator)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q24",
+      "question": "A rectangular playground is 45 m long and 30 m wide. What is its area?",
+      "options": ["75 m²", "150 m²", "1350 m²", "1500 m²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Area = length × width = 45 × 30.\nStep 2: 45 × 30 = 1350 m².\nCommon mistake: Choosing 150 m² (perimeter: 2 × (45 + 30) = 150) or 75 m² (just adding 45 + 30)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q25",
+      "question": "The angles in a triangle add up to 180°. If two angles are 65° and 55°, what is the third angle?",
+      "options": ["50°", "55°", "60°", "70°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum of two angles: 65° + 55° = 120°.\nStep 2: Third angle = 180° − 120° = 60°.\nCommon mistake: Choosing 70° (subtracting from 190°) or 50° (subtracting from 170°)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q26",
+      "question": "What are the next two numbers? 1000, 900, 810, 730, ___, ___",
+      "options": ["650, 570", "660, 600", "660, 590", "650, 580"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 1000 − 900 = 100. 900 − 810 = 90. 810 − 730 = 80.\nStep 2: The amount subtracted decreases by 10 each time.\nStep 3: 730 − 70 = 660. 660 − 70... Wait: pattern of subtraction: 100, 90, 80, 70.\nStep 4: 730 − 70 = 660. 660 − 60... Actually: 100, 90, 80, so next is 70, then 60.\nStep 5: 730 − 70 = 660. 660 − 70 = 590.\nCommon mistake: Choosing 650, 570 (subtracting 80 each time) or 660, 600 (subtracting 60)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q27",
+      "question": "A line graph shows temperature readings: 6am = 12°C, 9am = 18°C, 12pm = 24°C, 3pm = 22°C. When was the temperature highest?",
+      "options": ["6 am", "9 am", "12 pm", "3 pm"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Compare: 12°C, 18°C, 24°C, 22°C.\nStep 2: The highest temperature is 24°C at 12 pm.\nCommon mistake: Choosing 3 pm (the last reading, but not the highest)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q28",
+      "question": "What is 5.32 − 2.78?",
+      "options": ["2.46", "2.54", "2.64", "3.54"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Hundredths: 2 − 8. Borrow: 12 − 8 = 4.\nStep 2: Tenths: 2 − 7. Borrow: 12 − 7 = 5.\nStep 3: Ones: 4 − 2 = 2.\nStep 4: 5.32 − 2.78 = 2.54.\nCommon mistake: Choosing 2.64 (borrowing error) or 3.54 (ones digit error)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q29",
+      "question": "A kite has two pairs of equal adjacent sides. If the angles at the top and bottom are 60° and 100°, and the two side angles are equal, what is each side angle?",
+      "options": ["90°", "100°", "110°", "120°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum of angles in a quadrilateral = 360°.\nStep 2: Top + Bottom = 60° + 100° = 160°.\nStep 3: Remaining = 360° − 160° = 200°.\nStep 4: Each side angle = 200° ÷ 2 = 100°.\nCommon mistake: Choosing 110° (dividing 220° by 2) or 90° (assuming right angles)."
+    },
+    {
+      "id": "oc-y4-maths-t4-q30",
+      "question": "What is 45 × 32?",
+      "options": ["1340", "1380", "1440", "1540"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 45 × 30 = 1350.\nStep 2: 45 × 2 = 90.\nStep 3: 1350 + 90 = 1440.\nCommon mistake: Choosing 1340 (45 × 30 = 1350 then subtracting instead) or 1540 (multiplication error)."
+    }
+  ]
+}

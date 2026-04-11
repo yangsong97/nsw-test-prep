@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 4
+  },
+  "prompt": {
+    "id": "selective-y6-writing-t4",
+    "type": "persuasive",
+    "text": "Many schools around Australia are considering banning mobile phones during school hours. Some people believe phones are a harmful distraction, while others argue they are valuable learning tools. Write a persuasive text arguing whether schools should or should not ban mobile phones. Support your argument with strong reasons, evidence, and examples.",
+    "timeLimit": 30,
+    "wordGuide": "Aim for 300-400 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The text presents a sophisticated and well-reasoned argument about mobile phone bans with at least three compelling reasons, each supported by specific evidence, real-world examples, or logical reasoning. The writer demonstrates a nuanced understanding of the issue and skilfully addresses counter-arguments, conceding valid points before refuting them.",
+      "satisfactory": "The text presents a clear argument with at least two supported reasons. Evidence is present but may be general rather than specific. Counter-arguments may be briefly mentioned but are not fully addressed or refuted.",
+      "developing": "The argument is weak or unclear, with only one reason or reasons that are not well supported. The text may present both sides without taking a clear position, or may rely on personal anecdotes without broader reasoning."
+    },
+    "structure": {
+      "excellent": "The text has a compelling and sophisticated introduction that contextualises the issue and clearly states the thesis. Body paragraphs are well-organised with topic sentences, supporting evidence, and concluding statements. A counter-argument is strategically placed and effectively refuted. The conclusion synthesises the arguments and ends with a memorable statement or call to action.",
+      "satisfactory": "The text has a clear introduction, body, and conclusion. Paragraphs mostly contain a single argument. The conclusion summarises the main points. Organisation is logical but may lack sophistication in transitions.",
+      "developing": "The text lacks clear organisation. Arguments are not separated into paragraphs or are presented in a confused order. The introduction or conclusion may be missing or underdeveloped."
+    },
+    "language": {
+      "excellent": "Uses a sophisticated range of persuasive devices including rhetorical questions, tricolon, emotive and authoritative language, concession and rebuttal, and inclusive pronouns. Vocabulary is precise, mature, and topic-specific (digital literacy, cyberbullying, academic performance). Sentence structure is varied for rhetorical effect.",
+      "satisfactory": "Uses some persuasive devices such as opinion statements, rhetorical questions, and basic connectives. Vocabulary is appropriate but could be more precise and powerful. Sentence structure has some variety.",
+      "developing": "Uses basic language with minimal persuasive techniques. Vocabulary is limited and may be too informal. Sentence structure is repetitive."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including sophisticated and topic-specific vocabulary. Punctuation is varied and used for rhetorical effect, including semicolons, colons, dashes, and question marks. Paragraphing is consistent and enhances the argument's flow.",
+      "satisfactory": "Most words are spelt correctly. Punctuation is mostly accurate with some errors in complex sentences. Paragraphing is present.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. Paragraphing is inconsistent or absent."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "In classrooms across Australia, a silent battle is being waged — not between students and teachers, but between education and the glowing screen in every pocket. As schools grapple with declining attention spans and rising cyberbullying, the question of whether to ban mobile phones has never been more urgent. I strongly argue that mobile phones should be banned during school hours, as the evidence overwhelmingly shows they do more harm than good in educational settings.\n\nThe most compelling reason to ban phones is their devastating impact on concentration and learning. A 2019 study by the London School of Economics found that schools which banned mobile phones saw a significant improvement in test scores, particularly among lower-achieving students. This is hardly surprising. When a phone buzzes in a student's pocket, their attention fractures — and research shows it takes an average of twenty-three minutes to fully refocus after a distraction. In a forty-minute lesson, even one notification can derail half the learning.\n\nFurthermore, mobile phones fuel cyberbullying and social comparison, which are poisoning the wellbeing of young Australians. During school hours, phones give bullies an invisible weapon — cruel messages, embarrassing photos, and exclusion from group chats can happen right under a teacher's nose. A phone-free school day would provide students with a genuine safe space, free from the relentless pressure of social media.\n\nAdditionally, banning phones encourages face-to-face interaction and genuine social connection. Watch any school playground where phones are permitted and you will see clusters of students staring at screens instead of talking, playing, or collaborating. These interpersonal skills are essential for life beyond school, and they cannot be developed through a screen.\n\nOpponents argue that phones are valuable educational tools and that banning them is outdated thinking. While it is true that technology has a place in modern education, schools already provide supervised devices — laptops, tablets, and desktop computers — that serve this purpose without the distractions of personal phones. A school-issued tablet does not have Instagram, Snapchat, or a hundred notification-pinging apps competing for a student's attention.\n\nIn conclusion, mobile phones in schools are not tools — they are obstacles. They shatter concentration, enable bullying, and erode the social fabric of school communities. If we are serious about giving Australian students the best possible education, we must have the courage to switch off the distractions and switch on the learning. Our classrooms deserve nothing less.",
+      "annotations": "This response demonstrates excellent persuasive writing for Year 6. The introduction is sophisticated, using imagery ('a silent battle') and a dash for dramatic effect before clearly stating the thesis. Three strong arguments are presented with specific evidence, including a cited study from the London School of Economics and a statistic about refocusing time. The counter-argument is handled masterfully — the writer concedes that technology has educational value before distinguishing between school-provided devices and personal phones. Persuasive devices are varied and effective: rhetorical commands ('Watch any school playground'), tricolon ('shatter concentration, enable bullying, and erode the social fabric'), emotive language ('devastating impact,' 'poisoning the wellbeing'), and a powerful closing line. The vocabulary is mature and topic-specific throughout."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I think schools should ban mobile phones during school hours. There are several reasons why I believe this.\n\nFirstly, mobile phones are very distracting. When students have their phones they are always checking them for messages and notifications. This means they are not paying attention in class and they miss important information from the teacher.\n\nSecondly, phones can cause bullying. Students can send mean messages or take photos of other students without permission. This makes school an unsafe place for some children.\n\nThirdly, students should be talking to each other at recess and lunch instead of looking at their phones. It is important for young people to develop social skills and learn how to communicate face to face.\n\nSome people say phones are good for learning because you can look things up on the internet. However schools already have computers that students can use for research.\n\nIn conclusion, I think mobile phones should be banned at school because they distract students, cause bullying, and stop students from socialising properly. Schools should focus on learning not screens.",
+      "annotations": "This response meets the satisfactory standard for Year 6. It presents a clear position with three reasons and briefly addresses a counter-argument. The structure is logical with separate paragraphs for each point. However, the arguments lack the specific evidence and examples that would make them more convincing — for instance, the claim about phones being distracting could be supported with research or a concrete scenario. The persuasive language is functional but basic, relying heavily on 'I think' and 'I believe.' The vocabulary is appropriate but lacks the sophistication expected at Year 6 level. The counter-argument is acknowledged but dismissed in a single sentence without nuanced discussion. A comma is missing before 'not screens' in the final sentence."
+    }
+  ]
+}

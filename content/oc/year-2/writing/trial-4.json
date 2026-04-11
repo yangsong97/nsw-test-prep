@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 4
+  },
+  "prompt": {
+    "id": "oc-y2-writing-t4",
+    "type": "narrative",
+    "text": "Write a story about a child who finds a baby animal that is lost and needs help. What kind of animal is it? How does the child help the animal find its way home?",
+    "timeLimit": 15,
+    "wordGuide": "Aim for 100-150 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a creative and engaging scenario about helping a lost animal. The child's actions show thoughtful problem-solving, and the details about the animal and its home are imaginative and specific.",
+      "satisfactory": "The story responds to the prompt with a recognisable scenario about finding and helping a lost animal. Some details about the animal or the journey home are present but may be predictable or brief.",
+      "developing": "The story has limited connection to the prompt or provides very few details about the animal or how it is helped. Ideas may be unclear or the story may end abruptly without resolution."
+    },
+    "structure": {
+      "excellent": "The story has a clear beginning where the animal is found, a middle showing the journey or effort to help, and a satisfying ending where the animal is reunited or safe. Events follow a logical order.",
+      "satisfactory": "The story has a recognisable beginning, middle, and end, though transitions may be rushed. The sequence of events mostly makes sense but some steps in helping the animal may be skipped.",
+      "developing": "The story lacks a clear structure. Events may be out of order or the story may be missing important parts such as how the animal was found or what happened at the end."
+    },
+    "language": {
+      "excellent": "Uses interesting and varied vocabulary to describe the animal and the setting. Sentences vary in length and type. Descriptive words help the reader picture the animal and the child's feelings.",
+      "satisfactory": "Uses mostly simple but appropriate vocabulary. Sentences are mostly similar in structure. Some descriptive words are used but the animal and setting could be described in more detail.",
+      "developing": "Uses very basic or repetitive vocabulary. Sentences are short and follow the same pattern. Little or no descriptive language about the animal or setting."
+    },
+    "mechanics": {
+      "excellent": "Most words are spelt correctly, including common Year 2 words. Capital letters and full stops are used correctly in nearly all sentences. Writing is neat and legible.",
+      "satisfactory": "Common words are mostly spelt correctly with some errors on harder words. Capital letters and full stops are used in most sentences. Writing is generally readable.",
+      "developing": "Frequent spelling errors on common words. Capital letters and full stops are often missing or misplaced. Writing may be difficult to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "On Saturday morning, Lily was walking to the park when she heard a tiny sound. Cheep cheep cheep! She looked under a bush and found a baby kookaburra sitting on the ground. It had soft brown feathers and big round eyes. It looked scared.\n\n\"Don't worry, little one,\" Lily whispered. She could see that the baby bird could not fly yet. She looked up and spotted a big nest high in the gum tree above the bush.\n\nLily ran home and got her dad. He brought a ladder and Lily gently picked up the baby kookaburra with a soft towel. Her dad climbed the ladder and carefully placed the little bird back in the nest.\n\nStraight away, the mother kookaburra flew down and started feeding her baby. Lily smiled so big her cheeks hurt. She felt proud that she had helped the little bird get home safe.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 2. The story has a clear three-part structure: discovering the lost kookaburra, getting help from Dad, and the satisfying reunion. The vocabulary is varied with descriptive phrases like 'soft brown feathers and big round eyes' and 'smiled so big her cheeks hurt.' The use of onomatopoeia ('Cheep cheep cheep!') adds interest and the Australian setting with the kookaburra and gum tree feels natural. The child's emotional response is well conveyed, showing both empathy and pride."
+    },
+    {
+      "level": "satisfactory",
+      "text": "I was at the beach and I found a baby turtle. It was very small and it was going the wrong way. It was going to the road not the water.\n\nI picked it up carefully and I walked to the water. I put it down on the sand near the waves. The baby turtle started to walk to the water. It went in the water and swam away.\n\nI was happy I helped the turtle. My mum said I did a good thing. I hope the turtle is ok now.",
+      "annotations": "This response meets the satisfactory standard for Year 2. It follows the prompt and has a clear beginning, middle, and end. The idea of helping a turtle reach the ocean is appropriate and shows understanding of the topic. However, the language is quite simple and repetitive, with many sentences starting with 'I' or 'It.' The description could be improved with more sensory detail — for example, what did the turtle look like or feel like? The ending is functional but could express the child's feelings more vividly."
+    }
+  ]
+}

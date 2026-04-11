@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Secret Cove",
+    "text": "Mika and her older brother Jaylen spent every school holiday at their grandmother's house near the coast in Wollongong. Gran's house sat on a hill, and from the kitchen window, they could see the ocean sparkling in the distance.\n\nOne morning, Gran packed them a bag of ham sandwiches and fruit and said, \"Follow the sandy path behind the house. It goes through the bush and ends at a place I used to visit when I was your age.\"\n\nMika and Jaylen walked along the winding path. Tall eucalyptus trees grew on both sides, and they could hear kookaburras laughing in the branches above. The air smelled like salt and leaves.\n\nAfter about twenty minutes, the path opened up to a small, hidden beach tucked between two tall rocks. The sand was golden and untouched. Gentle waves rolled in and made a soft whooshing sound.\n\n\"This must be it!\" Jaylen said, dropping the bag and running towards the water.\n\nMika stood still for a moment, taking it all in. There was a rock pool near the edge, filled with tiny fish, sea snails, and even a bright orange starfish. She knelt down carefully and watched the creatures move about.\n\n\"Jaylen, come look!\" she called.\n\nThey spent the whole morning exploring. Jaylen found a piece of sea glass that was smooth and pale green. Mika collected shells in different shapes and sizes. They ate their lunch sitting on a flat rock while seagulls circled above.\n\nAs the afternoon sun began to dip, they packed up and walked back along the path. Gran was waiting on the porch with cups of hot chocolate.\n\n\"Did you find it?\" she asked with a knowing smile.\n\n\"It was amazing, Gran!\" Mika said. \"Can we go again tomorrow?\"\n\nGran laughed. \"That cove has been our family's secret for a long time. It will be there whenever you need it.\"\n\nThat night, Mika placed her shells on the windowsill and fell asleep listening to the distant sound of the waves.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y3-reading-t4-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "How to find rock pools at the beach",
+        "Two children who discover a special hidden beach during the holidays",
+        "A grandmother who lives near the ocean",
+        "Why kookaburras laugh in the trees"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story follows Mika and Jaylen as they walk along a path and find a hidden cove that their grandmother used to visit. This discovery is the central event of the story.\n\nOption C is incorrect because although Gran lives near the coast, the story is about the children's adventure, not about Gran's house.\n\nCommon mistake: Students might choose C because Gran tells them about the place, but the main idea is the children's experience of discovering and exploring the secret cove."
+    },
+    {
+      "id": "oc-y3-reading-t4-q02",
+      "question": "What did Gran pack for Mika and Jaylen?",
+      "options": [
+        "Cheese rolls and juice",
+        "Ham sandwiches and fruit",
+        "Hot chocolate and biscuits",
+        "Fish and chips"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says 'Gran packed them a bag of ham sandwiches and fruit.'\n\nOption C is incorrect because hot chocolate is mentioned later when they return home, not as part of the lunch.\n\nCommon mistake: Students might confuse the hot chocolate at the end of the story with the packed lunch, but they are two different parts of the day."
+    },
+    {
+      "id": "oc-y3-reading-t4-q03",
+      "question": "What creatures did Mika find in the rock pool?",
+      "options": [
+        "Crabs, jellyfish, and seahorses",
+        "Tiny fish, sea snails, and a starfish",
+        "Dolphins, turtles, and seals",
+        "Frogs, tadpoles, and yabbies"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says the rock pool was 'filled with tiny fish, sea snails, and even a bright orange starfish.'\n\nOption A is incorrect because crabs, jellyfish, and seahorses are not mentioned in the story.\n\nCommon mistake: Students might guess common sea creatures, but the answer must come from what is stated in the text."
+    },
+    {
+      "id": "oc-y3-reading-t4-q04",
+      "question": "What does the word 'untouched' mean in this story?",
+      "options": [
+        "Very hot and dry",
+        "Not disturbed or walked on by anyone",
+        "Covered in seaweed",
+        "Washed away by the waves"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story describes the sand as 'golden and untouched,' meaning no one had walked on it or disturbed it. This tells us the beach is hidden and not visited by other people.\n\nOption D is incorrect because 'untouched' means the opposite of being washed away — it means the sand was still perfect and undisturbed.\n\nCommon mistake: Students might not know the word 'untouched' but can use clues like the beach being hidden and described as a secret to work out that it means no one else had been there."
+    },
+    {
+      "id": "oc-y3-reading-t4-q05",
+      "question": "Why did Gran have a 'knowing smile' when the children returned?",
+      "options": [
+        "Because she thought the children looked funny",
+        "Because she already knew the cove was special and expected they would love it",
+        "Because she wanted more hot chocolate",
+        "Because she was glad the walk was over"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Gran used to visit the cove herself when she was young. She sent them there on purpose, knowing they would enjoy it. A 'knowing smile' means she already knew the answer to her own question.\n\nOption A is incorrect because there is nothing funny about the children — Gran is smiling because she knows the secret of the cove.\n\nCommon mistake: Students might not understand the phrase 'knowing smile.' It means Gran smiled because she already knew something — in this case, how wonderful the cove is."
+    },
+    {
+      "id": "oc-y3-reading-t4-q06",
+      "question": "How are Mika and Jaylen different in the way they explore the beach?",
+      "options": [
+        "Mika is scared of the water but Jaylen is not",
+        "Jaylen runs to the water while Mika stops to observe the rock pool carefully",
+        "Jaylen wants to go home but Mika wants to stay",
+        "Mika plays in the waves while Jaylen looks for shells"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says Jaylen dropped the bag and ran towards the water, while Mika 'stood still for a moment, taking it all in' and then carefully watched creatures in the rock pool.\n\nOption A is incorrect because there is no evidence Mika is scared of the water — she simply chooses to explore the rock pool first.\n\nCommon mistake: Students might think Mika is frightened because she does not run to the water, but she is being observant and curious, not afraid."
+    },
+    {
+      "id": "oc-y3-reading-t4-q07",
+      "question": "What caused Mika to call out to Jaylen?",
+      "options": [
+        "She wanted him to bring her lunch",
+        "She was scared of something in the water",
+        "She found interesting creatures in the rock pool and wanted to share",
+        "She needed help climbing the rocks"
+      ],
+      "answer": 2,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because right after describing the rock pool with tiny fish, sea snails, and a starfish, the story says Mika called 'Jaylen, come look!' She was excited about what she found and wanted to share it.\n\nOption B is incorrect because Mika knelt down carefully and watched the creatures — she was fascinated, not scared.\n\nCommon mistake: Students might think something frightening caused Mika to call out, but her tone is excited, not afraid."
+    },
+    {
+      "id": "oc-y3-reading-t4-q08",
+      "question": "Why do you think Mika placed her shells on the windowsill?",
+      "options": [
+        "Because Gran told her to put them there",
+        "Because she wanted to remember the special day at the cove",
+        "Because she had nowhere else to put them",
+        "Because she wanted to sell them later"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Mika collected the shells during a wonderful day at the secret cove. Placing them on the windowsill where she can see them suggests she wants to keep the memory of that special day close.\n\nOption A is incorrect because Gran does not tell Mika what to do with the shells.\n\nCommon mistake: Students might choose C thinking it is a practical answer, but the story has an emotional tone — Mika keeps the shells as a reminder of the adventure."
+    },
+    {
+      "id": "oc-y3-reading-t4-q09",
+      "question": "How is the story organised?",
+      "options": [
+        "It compares two different beaches",
+        "It follows the order of events during one day, from morning to night",
+        "It lists reasons why the beach is fun",
+        "It starts at the end and then goes back to the beginning"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story follows a clear timeline: morning (Gran packs lunch), walking along the path, arriving at the cove, spending the morning exploring, eating lunch, the afternoon sun dipping, walking home, evening (hot chocolate, placing shells on windowsill, falling asleep).\n\nOption D is incorrect because the story does not start at the end — it follows events in the order they happened.\n\nCommon mistake: Students might choose C because the story describes fun activities at the beach, but it is structured as a chronological narrative (events in time order), not as a list."
+    },
+    {
+      "id": "oc-y3-reading-t4-q10",
+      "question": "What message is the author trying to share in this story?",
+      "options": [
+        "Children should always listen to their grandparents",
+        "Nature holds special places that families can share across generations",
+        "Swimming at the beach is the best holiday activity",
+        "It is dangerous to explore places without adults"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because Gran visited the cove as a child, and now she shares it with Mika and Jaylen. She says it has been 'our family's secret for a long time,' showing the cove connects different generations. The story celebrates nature and family traditions.\n\nOption A is incorrect because although the children do follow Gran's suggestion, the deeper message is about the special places in nature that families share, not simply about obedience.\n\nCommon mistake: Students might choose A because Gran tells them where to go, but the story's message goes deeper — it is about the magic of special places in nature being passed down through a family."
+    }
+  ]
+}

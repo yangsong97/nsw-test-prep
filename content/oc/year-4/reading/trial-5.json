@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Remarkable Platypus",
+    "text": "When European scientists first saw a platypus specimen in 1799, they thought it was a joke. The animal had the bill of a duck, the tail of a beaver, and the fur of an otter. Some scientists even tried to find the stitches where they believed someone had sewn the parts together. But the platypus was very real, and it remains one of the most unusual animals on Earth.\n\nThe platypus is found only in eastern Australia, from the tropical rainforests of Queensland to the cold mountain streams of Tasmania. It is a monotreme, which means it is a mammal that lays eggs. There are only five species of monotreme in the world — the platypus and four species of echidna — and all of them are found in Australia or New Guinea.\n\nPlatypuses spend most of their time in freshwater rivers, streams, and lakes. They are excellent swimmers, using their webbed front feet to paddle and their flat tails to steer. When they dive underwater, special folds of skin cover their eyes and ears to keep the water out. But if they cannot see or hear, how do they find food?\n\nThe answer lies in their remarkable bill. A platypus bill is soft and flexible, not hard like a bird's beak. It is covered in thousands of special sensors called electroreceptors. These sensors can detect the tiny electrical signals produced by the muscles of small animals like shrimp, insect larvae, and worms. When a platypus sweeps its bill from side to side along the riverbed, it is scanning for these electrical signals, almost like a metal detector sweeping across a beach.\n\nPlatypuses are also one of the few venomous mammals. Male platypuses have a sharp spur on each of their hind legs that can deliver a painful sting. The venom is not deadly to humans, but people who have been stung describe the pain as extremely intense and long-lasting.\n\nDespite being well-known symbols of Australia, platypuses face growing threats. Habitat loss, pollution of waterways, and changing rainfall patterns due to climate change are all making it harder for platypuses to survive. Dams and weirs block their movement along rivers, and fishing nets and yabby traps can trap and drown them.\n\nConservation groups across Australia are working to protect platypus habitats. Scientists are also studying platypus populations using environmental DNA, or eDNA. By testing water samples from rivers, they can detect traces of platypus DNA without ever seeing or disturbing the animals. This clever technique helps researchers understand where platypuses live and how their numbers are changing.\n\nThe platypus is a reminder that nature is full of surprises. An animal that seemed impossible to European scientists over two hundred years ago is still teaching us new things today.",
+    "type": "non-fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y4-reading-t5-q01",
+      "question": "What is this passage mainly about?",
+      "options": [
+        "Why European scientists did not believe in the platypus",
+        "The unique features, behaviour, and conservation of the platypus",
+        "How to find platypuses in Australian rivers",
+        "A comparison between platypuses and echidnas"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage covers many aspects of the platypus: its unusual features, how it swims and finds food, its venom, threats it faces, and conservation efforts. It provides a broad overview of the animal.\n\nOption A is incorrect because the European scientists' reaction is only mentioned in the first paragraph as an introduction, not as the main topic.\n\nCommon mistake: Students might choose A because it is an interesting detail at the start, but the passage goes on to cover much more about the platypus beyond the historical reaction."
+    },
+    {
+      "id": "oc-y4-reading-t5-q02",
+      "question": "What is a monotreme?",
+      "options": [
+        "An animal that lives only in water",
+        "A mammal that lays eggs",
+        "A type of Australian reptile",
+        "A bird that cannot fly"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage says 'It is a monotreme, which means it is a mammal that lays eggs.'\n\nOption A is incorrect because although platypuses spend a lot of time in water, the definition of monotreme is about laying eggs, not about living in water.\n\nCommon mistake: Students might confuse features of the platypus (living in water) with the definition of monotreme. The passage gives a clear definition: a mammal that lays eggs."
+    },
+    {
+      "id": "oc-y4-reading-t5-q03",
+      "question": "How does a platypus find food underwater when it cannot see or hear?",
+      "options": [
+        "It uses its strong sense of smell",
+        "It uses electroreceptors in its bill to detect electrical signals from prey",
+        "It follows other platypuses to food sources",
+        "It waits for food to drift into its mouth"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the passage explains that the platypus bill 'is covered in thousands of special sensors called electroreceptors' that 'can detect the tiny electrical signals produced by the muscles of small animals.'\n\nOption A is incorrect because the passage does not mention smell — it specifically describes electroreceptors as the method for finding food.\n\nCommon mistake: Students might guess that smell is important because many animals use it, but the passage clearly states that electroreceptors in the bill are how platypuses locate prey."
+    },
+    {
+      "id": "oc-y4-reading-t5-q04",
+      "question": "What does the word 'specimen' mean in the first paragraph?",
+      "options": [
+        "A drawing or painting of an animal",
+        "A sample or example of an animal used for scientific study",
+        "A type of Australian museum",
+        "A stuffed toy shaped like an animal"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage says 'European scientists first saw a platypus specimen,' meaning they examined a sample of the animal for scientific purposes. They even looked for stitches, which means they were examining a physical example of the animal.\n\nOption A is incorrect because a specimen is a real physical sample, not a drawing.\n\nCommon mistake: Students might not know the word 'specimen' but can use context clues — the scientists were looking at it closely enough to search for stitches, so it must have been a real physical sample."
+    },
+    {
+      "id": "oc-y4-reading-t5-q05",
+      "question": "Why does the author compare the platypus bill to a metal detector?",
+      "options": [
+        "Because both are made of metal",
+        "To help the reader understand how the bill scans for electrical signals in a similar sweeping motion",
+        "Because metal detectors are used to find platypuses",
+        "To show that platypuses are attracted to metal objects"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the author writes that the platypus sweeps its bill from side to side 'almost like a metal detector sweeping across a beach.' This comparison (simile) helps the reader picture how the bill works by connecting it to something familiar.\n\nOption A is incorrect because the comparison is about how both scan an area in a sweeping motion, not about the material they are made from.\n\nCommon mistake: Students might take the comparison literally, but it is a simile used to explain a complex process in a way that is easy to understand."
+    },
+    {
+      "id": "oc-y4-reading-t5-q06",
+      "question": "Based on the passage, what makes the platypus different from most other mammals?",
+      "options": [
+        "It can swim and hold its breath underwater",
+        "It lays eggs and the males have venomous spurs",
+        "It has fur and feeds its young milk",
+        "It lives in both fresh water and salt water"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage identifies two features that set the platypus apart from typical mammals: it lays eggs (monotreme) and male platypuses have venomous spurs. These are described as rare among mammals.\n\nOption C is incorrect because having fur and feeding young milk are typical mammal traits, not what makes the platypus unusual.\n\nCommon mistake: Students might choose C because these are true facts about the platypus, but the question asks what makes it different from most mammals, and fur and milk are common to all mammals."
+    },
+    {
+      "id": "oc-y4-reading-t5-q07",
+      "question": "What are some threats to platypus survival mentioned in the passage?",
+      "options": [
+        "Predators like foxes, cats, and eagles",
+        "Habitat loss, pollution, climate change, dams, and fishing nets",
+        "Diseases spread by other animals",
+        "Too many tourists visiting their habitats"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the passage lists 'habitat loss, pollution of waterways, and changing rainfall patterns due to climate change' as well as 'dams and weirs' and 'fishing nets and yabby traps.'\n\nOption A is incorrect because the passage does not mention predators like foxes, cats, or eagles.\n\nCommon mistake: Students might choose A because they know foxes and cats are threats to Australian wildlife generally, but the answer must come from what is stated in this passage."
+    },
+    {
+      "id": "oc-y4-reading-t5-q08",
+      "question": "Why do scientists use eDNA to study platypuses instead of observing them directly?",
+      "options": [
+        "Because platypuses are too dangerous to approach",
+        "Because eDNA allows them to detect platypuses in a river without seeing or disturbing them",
+        "Because platypuses are extinct in most rivers",
+        "Because eDNA is cheaper than using cameras"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage says scientists test water samples to 'detect traces of platypus DNA without ever seeing or disturbing the animals.' This method is useful because platypuses are shy, hard to spot, and active at night.\n\nOption A is incorrect because although male platypuses have venom, the passage does not suggest this is why scientists avoid direct observation.\n\nCommon mistake: Students might think the venom makes platypuses too dangerous to study, but the real advantage of eDNA described in the passage is that it avoids the need to see or disturb the animals."
+    },
+    {
+      "id": "oc-y4-reading-t5-q09",
+      "question": "How is this passage organised?",
+      "options": [
+        "It presents a problem and then argues for one solution",
+        "It introduces the platypus and then covers its features, threats, and conservation in a logical order",
+        "It compares the platypus to several other Australian animals",
+        "It tells the story of one platypus from birth to adulthood"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage starts with an interesting introduction (scientists' disbelief), then describes the platypus's habitat, physical features, feeding method, venom, threats, and conservation efforts in a logical sequence.\n\nOption C is incorrect because the passage only briefly mentions echidnas — it does not compare the platypus to several other animals.\n\nCommon mistake: Students might choose A because the passage does mention threats and conservation, but the overall structure covers many topics about the platypus, not just a single problem and solution."
+    },
+    {
+      "id": "oc-y4-reading-t5-q10",
+      "question": "What is the author's purpose in writing this passage?",
+      "options": [
+        "To persuade readers to donate money to platypus conservation",
+        "To inform readers about the platypus and inspire appreciation for this unique animal",
+        "To entertain readers with a funny story about European scientists",
+        "To argue that the platypus should be Australia's national animal"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the passage provides factual information about the platypus's features, behaviour, threats, and conservation. The final paragraph describes the platypus as 'a reminder that nature is full of surprises,' aiming to inspire appreciation and wonder.\n\nOption A is incorrect because although conservation is mentioned, the passage does not ask readers to donate money or take specific action — it is informative rather than persuasive.\n\nCommon mistake: Students might choose A because the passage mentions conservation groups, but the author's main purpose is to inform and inspire wonder, not to directly persuade the reader to take action."
+    }
+  ]
+}

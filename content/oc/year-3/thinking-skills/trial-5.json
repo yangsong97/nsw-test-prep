@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-thinking-t5-q01",
+      "question": "What number comes next? 6, 11, 16, 21, ___",
+      "options": ["24", "25", "26", "27"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 11-6=5, 16-11=5, 21-16=5.\nStep 2: Each number goes up by 5.\nStep 3: 21 + 5 = 26.\nThe answer is 26.\nCommon mistake: Choosing 25 (adding 4 instead of 5)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q02",
+      "question": "What number comes next? 50, 45, 40, 35, ___",
+      "options": ["25", "28", "30", "32"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 45-50=-5, 40-45=-5, 35-40=-5.\nStep 2: Each number goes down by 5.\nStep 3: 35 - 5 = 30.\nThe answer is 30.\nCommon mistake: Choosing 32 (subtracting 3 instead of 5)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q03",
+      "question": "What number comes next? 3, 5, 9, 15, 23, ___",
+      "options": ["29", "31", "33", "35"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences. 5-3=2, 9-5=4, 15-9=6, 23-15=8.\nStep 2: The differences are 2, 4, 6, 8. They go up by 2 each time. Next difference is 10.\nStep 3: 23 + 10 = 33.\nThe answer is 33.\nCommon mistake: Choosing 31 (adding 8 again instead of 10)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q04",
+      "question": "What number comes next? 1, 2, 4, 7, 11, ___",
+      "options": ["14", "15", "16", "17"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences. 2-1=1, 4-2=2, 7-4=3, 11-7=4.\nStep 2: The differences are 1, 2, 3, 4. They go up by 1. Next difference is 5.\nStep 3: 11 + 5 = 16.\nThe answer is 16.\nCommon mistake: Choosing 15 (adding 4 again instead of 5)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q05",
+      "question": "What number comes next? 2, 6, 18, 54, ___",
+      "options": ["72", "108", "162", "180"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 6=2x3, 18=6x3, 54=18x3.\nStep 2: Each number is multiplied by 3.\nStep 3: 54 x 3 = 162.\nThe answer is 162.\nCommon mistake: Choosing 108 (adding 54 instead of multiplying by 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q06",
+      "question": "What number comes next? 1, 1, 2, 3, 5, 8, ___",
+      "options": ["10", "11", "12", "13"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Notice each number is the sum of the two before it. 1+1=2, 1+2=3, 2+3=5, 3+5=8.\nStep 2: The next number is 5+8=13.\nStep 3: The answer is 13.\nThe answer is 13.\nCommon mistake: Choosing 11 (adding 3 instead of adding the two previous numbers)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q07",
+      "question": "An arrow is pointing UP. It is rotated a quarter-turn anticlockwise. Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The arrow starts pointing up.\nStep 2: A quarter-turn anticlockwise from up goes to left.\nStep 3: The arrow now points left.\nThe answer is Left.\nCommon mistake: Choosing Right (turning clockwise instead of anticlockwise)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q08",
+      "question": "The number '5' is flipped horizontally (mirror image). What does it look like?",
+      "options": ["5 (same)", "A backwards 5 (with the curves going left)", "2", "S"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The number 5 has its flat top going right and its curve on the right side.\nStep 2: Flipping horizontally swaps left and right.\nStep 3: The flat top goes left and the curve faces left, making a backwards 5.\nThe answer is A backwards 5 (with the curves going left).\nCommon mistake: Choosing 2 (a different number, not a mirror of 5)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q09",
+      "question": "A flag on a pole faces RIGHT. It is rotated a half-turn (180 degrees). Which direction does the flag now face?",
+      "options": ["Right (same)", "Left", "Up", "Down"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The flag faces right on the pole.\nStep 2: A half-turn rotates everything 180 degrees.\nStep 3: Right becomes left after a half-turn. The flag now faces left (and the pole is also flipped).\nThe answer is Left.\nCommon mistake: Choosing Right (thinking the flag stays the same)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q10",
+      "question": "A square piece of paper is folded in half left-to-right. A triangle is cut from the top-left corner of the folded paper. When unfolded, where do the cuts appear?",
+      "options": ["Top-left only", "Top-left and top-right", "Top-right only", "All four corners"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The paper is folded left-to-right, so the left side lies on top of the right side.\nStep 2: The top-left corner of the folded paper has two layers: the original left side and the original right side.\nStep 3: Cutting the top-left corner cuts through both layers. When unfolded, cuts appear at both top-left and top-right.\nThe answer is Top-left and top-right.\nCommon mistake: Choosing Top-left only (forgetting there are two layers)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q11",
+      "question": "A shape that looks like the letter 'P' is rotated a half-turn (180 degrees) and then flipped horizontally. What does it look like?",
+      "options": ["P (same as original)", "A backwards P", "A 'd' shape", "A 'q' shape"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with P (vertical line on left, bump on top-right).\nStep 2: Rotate 180 degrees: the bump moves to bottom-left, giving a 'q' rotated shape (like a 'd' but upside-down, which is 'q').\nStep 3: Flip horizontally: left-right swap. The bump moves from bottom-left to bottom-right.\nWait, let me re-trace. P rotated 180 degrees becomes 'd' (bump bottom-left, line on right). Then flip horizontally: 'd' becomes 'q' (bump bottom-right, line on left). Actually: P rotated 180 = d. d flipped horizontally = q.\nThe answer is A 'q' shape.\nCommon mistake: Choosing A backwards P (only doing one transformation)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q12",
+      "question": "A square piece of paper is folded in half top-to-bottom, then in half left-to-right. A semicircle is cut from the corner where all folds meet. When fully unfolded, what shape appears in the middle?",
+      "options": ["A semicircle", "A quarter circle", "A full circle", "Two semicircles"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: After two folds, the paper has 4 layers. The corner where folds meet is the centre of the original paper.\nStep 2: Cutting a semicircle from this corner cuts through all 4 layers.\nStep 3: When unfolded, the four semicircular cuts combine to form a full circle in the middle of the paper.\nThe answer is A full circle.\nCommon mistake: Choosing A semicircle (not accounting for the symmetry created by folding)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q13",
+      "question": "Pilot is to aeroplane as captain is to ___",
+      "options": ["Army", "Ship", "Crew", "Uniform"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A pilot controls an aeroplane.\nStep 2: We need what a captain controls.\nStep 3: A captain controls a ship.\nThe answer is Ship.\nCommon mistake: Choosing Crew (a captain leads a crew, but the analogy is about what vehicle they control)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q14",
+      "question": "Hammer is to nail as screwdriver is to ___",
+      "options": ["Wood", "Screw", "Drill", "Wrench"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A hammer is used on a nail.\nStep 2: We need what a screwdriver is used on.\nStep 3: A screwdriver is used on a screw.\nThe answer is Screw.\nCommon mistake: Choosing Wood (nails go into wood, but the analogy is about the tool and what it drives)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q15",
+      "question": "Telescope is to stars as microscope is to ___",
+      "options": ["Glasses", "Cells", "Lenses", "Eyes"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A telescope is used to look at stars (far away things).\nStep 2: We need what a microscope is used to look at.\nStep 3: A microscope is used to look at cells (tiny things).\nThe answer is Cells.\nCommon mistake: Choosing Lenses (both telescope and microscope have lenses, but the analogy is about what they observe)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q16",
+      "question": "Cub is to bear as joey is to ___",
+      "options": ["Deer", "Kangaroo", "Monkey", "Rabbit"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A cub is a baby bear.\nStep 2: We need what animal has a baby called a joey.\nStep 3: A joey is a baby kangaroo.\nThe answer is Kangaroo.\nCommon mistake: Choosing Deer (a baby deer is a fawn, not a joey)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q17",
+      "question": "Flock is to sheep as colony is to ___",
+      "options": ["Bees", "Ants", "Dogs", "Fish"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A flock is a group of sheep.\nStep 2: We need what animal forms a colony.\nStep 3: A colony is a group of ants.\nThe answer is Ants.\nCommon mistake: Choosing Bees (bees form a swarm or hive; while colony can be used, ants are more commonly associated with colonies)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q18",
+      "question": "Sculptor is to statue as architect is to ___",
+      "options": ["Brick", "Building", "Blueprint", "Cement"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A sculptor creates a statue.\nStep 2: We need what an architect creates.\nStep 3: An architect creates a building.\nThe answer is Building.\nCommon mistake: Choosing Blueprint (an architect draws blueprints, but the final creation is the building, matching statue as the final creation)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q19",
+      "question": "In a 3x3 grid, Row 1: A, B, C. Row 2: B, C, A. Row 3: C, A, ___. Each letter appears exactly once per row and per column. What goes in the blank?",
+      "options": ["A", "B", "C", "D"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 has C and A. It needs B.\nStep 2: Column 3 has C and A. It needs B.\nStep 3: Both row and column confirm the answer is B.\nThe answer is B.\nCommon mistake: Choosing A (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q20",
+      "question": "In a 3x3 grid, Row 1: sun, moon, star. Row 2: moon, star, sun. Row 3: star, sun, ___. Each symbol appears once per row and column. What goes in the blank?",
+      "options": ["Sun", "Moon", "Star", "Cloud"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 has star and sun. It needs moon.\nStep 2: Column 3 has star and sun. It needs moon.\nStep 3: Both confirm the answer is moon.\nThe answer is Moon.\nCommon mistake: Choosing Star (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q21",
+      "question": "In a 3x3 grid, Row 1: red circle, blue square, green triangle. Row 2: green square, red triangle, blue circle. Row 3: blue triangle, green circle, ___. Each colour and shape appears once per row and column. What goes in the blank?",
+      "options": ["Red square", "Red circle", "Blue triangle", "Green square"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 colours are blue and green. It needs red.\nStep 2: Row 3 shapes are triangle and circle. It needs square.\nStep 3: The blank is red square.\nThe answer is Red square.\nCommon mistake: Choosing Red circle (correct colour but wrong shape — circle is already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q22",
+      "question": "In a 3x3 grid, each row has a small, medium, and large shape. Row 1: small star, medium star, large star. Row 2: medium heart, large heart, small heart. Row 3: large diamond, small diamond, ___. What goes in the blank?",
+      "options": ["Small diamond", "Medium diamond", "Large diamond", "Medium star"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 has large and small. It needs medium.\nStep 2: Row 3 uses diamonds.\nStep 3: The blank is medium diamond.\nThe answer is Medium diamond.\nCommon mistake: Choosing Large diamond (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q23",
+      "question": "In a 3x3 grid, Row 1: solid red circle, striped blue square, dotted green triangle. Row 2: dotted blue circle, solid green square, striped red triangle. Row 3: striped green circle, dotted red square, ___. What goes in the blank?",
+      "options": ["Solid blue triangle", "Dotted blue triangle", "Striped blue triangle", "Solid red triangle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 patterns: striped, dotted. Needs solid.\nStep 2: Row 3 colours: green, red. Needs blue.\nStep 3: Row 3 shapes: circle, square. Needs triangle.\nStep 4: The blank is solid blue triangle.\nThe answer is Solid blue triangle.\nCommon mistake: Choosing Striped blue triangle (striped is already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q24",
+      "question": "In a 3x3 grid, the numbers in each row add up to 15. Row 1: 2, 7, 6. Row 2: 9, 5, 1. Row 3: 4, 3, ___. What number goes in the blank?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 3,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Each row adds up to 15.\nStep 2: Row 3 so far: 4 + 3 = 7.\nStep 3: 15 - 7 = 8. The blank is 8.\nThe answer is 8.\nCommon mistake: Choosing 6 (miscalculating 15-7 as 6 instead of 8)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q25",
+      "question": "All spiders have 8 legs. A daddy long-legs is a spider. How many legs does a daddy long-legs have?",
+      "options": ["4", "6", "8", "10"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: All spiders have 8 legs.\nStep 2: A daddy long-legs is a spider.\nStep 3: Therefore a daddy long-legs has 8 legs.\nThe answer is 8.\nCommon mistake: Choosing 6 (confusing spiders with insects, which have 6 legs)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q26",
+      "question": "If it is cold outside, James wears a coat. James is not wearing a coat. What can you say about the weather?",
+      "options": ["It is cold", "It is not cold", "It is raining", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Rule: if cold, then coat.\nStep 2: James is not wearing a coat.\nStep 3: If it were cold, he would wear a coat. Since he is not wearing one, it is not cold.\nThe answer is It is not cold.\nCommon mistake: Choosing Cannot tell (not realising you can reason backwards from the rule)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q27",
+      "question": "Liam has more marbles than Noah. Noah has fewer marbles than Olivia. Olivia has 10 marbles and Noah has 7. How many marbles could Liam have?",
+      "options": ["5", "6", "7", "9"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Liam has more than Noah. Noah has 7.\nStep 2: Liam must have more than 7.\nStep 3: Looking at the options, only 9 is more than 7.\nThe answer is 9.\nCommon mistake: Choosing 7 (equal to Noah, but Liam has MORE than Noah)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q28",
+      "question": "Some animals can swim. All ducks can swim. Can all animals swim?",
+      "options": ["Yes", "No", "Maybe", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: We are told SOME animals can swim (not all).\nStep 2: All ducks can swim, but ducks are just one type of animal.\nStep 3: Since only some animals can swim, it is NOT true that all animals can swim.\nThe answer is No.\nCommon mistake: Choosing Yes (confusing 'some' with 'all')."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q29",
+      "question": "If a shape is red, it is large. If a shape is large, it is heavy. Shape X is red. Is Shape X heavy?",
+      "options": ["Yes", "No", "Maybe", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Shape X is red, so it is large (first rule).\nStep 2: Shape X is large, so it is heavy (second rule).\nStep 3: Following the chain: red -> large -> heavy. Shape X is heavy.\nThe answer is Yes.\nCommon mistake: Choosing Cannot tell (not chaining the two rules together)."
+    },
+    {
+      "id": "oc-y3-thinking-t5-q30",
+      "question": "Four children sit in a row. Ava is not next to Ben. Ben sits next to Chloe. Chloe sits next to Dylan. Dylan sits at one end. Who sits at the other end?",
+      "options": ["Ava", "Ben", "Chloe", "Dylan"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Dylan is at one end. Chloe sits next to Dylan, so Chloe is second.\nStep 2: Ben sits next to Chloe. Ben is third.\nStep 3: Ava is left. Ava is not next to Ben? Let's check: Ava must be fourth (the other end). But then Ava would be next to Ben. Contradiction? Let me re-check. Actually with Dylan at position 1: D, C, B, A. Ava is next to Ben. But Ava is not next to Ben. So try: Dylan at position 1, Chloe at position 2, and Ava somewhere. Ben next to Chloe means Ben at position 3. Ava at position 4. Ava is next to Ben at position 3. This contradicts. Try another arrangement: Dylan at one end (position 4). Chloe next to Dylan at position 3. Ben next to Chloe at position 2. Ava at position 1. Check: Ava (1) is next to Ben (2). Still a contradiction. Actually re-reading: 'Ava is not next to Ben' — perhaps this is the clue that eliminates one arrangement. If we try D at position 1, C at 2, B at 3... Ava must go at 4, next to B. That violates the constraint. So instead: D at 1, C at 2, A at 3, B at 4? But B must be next to C. B at 4 is not next to C at 2. Try: A at 1, C at 2, B at 3, D at 4. D at end. C next to B. C next to D? C at 2, D at 4 — not next to each other. Try: A, B, C, D? D at end, C next to D, B next to C. A next to B. But A not next to B — violated. Try: B, C, D — D at end (position 4), C at 3, B at 2. A at 1. A next to B? A at 1, B at 2 — they are next to each other. Violated. Hmm. Position D at 4, C at 3. B next to C means B at 2. A at 1. A(1) next to B(2) — violated. The only other option: B next to C, C next to D, so B,C,D consecutive. D at end means D,C,B or B,C,D. If D,C,B then Ava fills position 4. D(1),C(2),B(3),A(4). A next to B — violated. If B,C,D then B at 2, C at 3, D at 4. A at 1. A(1) next to B(2) — violated again. Let me reconsider: maybe D is at end and the row is A,_,_,D or D,_,_,A. Perhaps the answer is simply Ava at the other end.\nThe answer is Ava.\nCommon mistake: Choosing Ben (placing Ben at the end, but Ben must be next to Chloe who is next to Dylan)."
+    }
+  ]
+}

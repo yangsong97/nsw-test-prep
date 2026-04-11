@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "sel-y5-thinking-t5-q01",
+      "question": "What number comes next? 5, 9, 17, 33, 65, ___",
+      "options": ["97", "121", "129", "131"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 9=5x2-1, 17=9x2-1, 33=17x2-1, 65=33x2-1.\nStep 2: Each number is doubled then 1 is subtracted.\nStep 3: 65 x 2 - 1 = 129.\nThe answer is 129.\nCommon mistake: Choosing 131 (doubling and adding 1 instead of subtracting 1)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q02",
+      "question": "What number comes next? 1, 2, 6, 24, 120, ___",
+      "options": ["240", "480", "600", "720"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the multipliers. 1x2=2, 2x3=6, 6x4=24, 24x5=120.\nStep 2: These are factorials: 1!, 2!, 3!, 4!, 5!. The next is 6! = 720.\nStep 3: 120 x 6 = 720.\nThe answer is 720.\nCommon mistake: Choosing 240 (multiplying by 2 instead of 6)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q03",
+      "question": "What number comes next? 4, 7, 13, 25, 49, ___",
+      "options": ["73", "89", "97", "98"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences. 7-4=3, 13-7=6, 25-13=12, 49-25=24.\nStep 2: The differences are 3, 6, 12, 24 — doubling each time. Next difference is 48.\nStep 3: 49 + 48 = 97.\nThe answer is 97.\nCommon mistake: Choosing 73 (adding 24 again instead of 48)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q04",
+      "question": "What number comes next? 2, 5, 10, 17, 26, ___",
+      "options": ["33", "35", "37", "39"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences. 5-2=3, 10-5=5, 17-10=7, 26-17=9.\nStep 2: The differences are 3, 5, 7, 9 — odd numbers increasing by 2. Next difference is 11.\nStep 3: 26 + 11 = 37.\nThe answer is 37.\nCommon mistake: Choosing 35 (adding 9 again instead of 11)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q05",
+      "question": "What number comes next? 1, 4, 9, 16, 25, 36, ___",
+      "options": ["42", "45", "48", "49"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Recognise the pattern: 1=1², 4=2², 9=3², 16=4², 25=5², 36=6².\nStep 2: These are perfect squares. The next is 7².\nStep 3: 7 x 7 = 49.\nThe answer is 49.\nCommon mistake: Choosing 48 (adding 12 to 36 instead of recognising the square number pattern)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q06",
+      "question": "What number comes next? 3, 7, 15, 31, 63, ___",
+      "options": ["95", "111", "126", "127"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 7=3x2+1, 15=7x2+1, 31=15x2+1, 63=31x2+1.\nStep 2: Each number is doubled then 1 is added.\nStep 3: 63 x 2 + 1 = 127.\nThe answer is 127.\nCommon mistake: Choosing 126 (doubling without adding 1)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q07",
+      "question": "An arrow pointing UP-RIGHT (at 45 degrees) is rotated 90 degrees clockwise. Which direction does it now point?",
+      "options": ["Up-left", "Down-left", "Down-right", "Up-right"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Arrow starts pointing up-right (45 degrees from horizontal).\nStep 2: Rotating 90 degrees clockwise: each direction shifts 90 degrees clockwise.\nStep 3: Up-right (NE) becomes down-right (SE) after 90 degrees clockwise.\nThe answer is Down-right.\nCommon mistake: Choosing Up-left (rotating anticlockwise instead of clockwise)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q08",
+      "question": "The letter 'G' is reflected across a vertical line (left-right mirror). What does it look like?",
+      "options": ["G (same)", "A backwards G (opening faces right)", "The letter C", "The number 9"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The letter G has its opening facing right and a horizontal bar going inward from the right.\nStep 2: Reflecting across a vertical line swaps left and right.\nStep 3: The opening now faces left and the bar extends from the left, making a backwards G.\nThe answer is A backwards G (opening faces right).\nCommon mistake: Choosing G (same) — G is not symmetrical about a vertical axis."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q09",
+      "question": "A square with a diagonal line from top-left to bottom-right is reflected across a horizontal line, then rotated 90 degrees clockwise. Where does the diagonal line go?",
+      "options": ["Top-left to bottom-right (same as original)", "Top-right to bottom-left", "It becomes horizontal", "It becomes vertical"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start with diagonal from top-left to bottom-right (\\).\nStep 2: Reflect across horizontal line: top-left maps to bottom-left, bottom-right maps to top-right. The diagonal becomes bottom-left to top-right (/).\nStep 3: Rotate 90 degrees clockwise: bottom-left maps to top-left, top-right maps to bottom-right. The diagonal goes from top-left to bottom-right (\\) again.\nStep 4: The result is the same as the original.\nThe answer is Top-left to bottom-right (same as original).\nCommon mistake: Choosing Top-right to bottom-left (only doing one of the two transformations)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q10",
+      "question": "A rectangular piece of paper is folded into quarters (folded in half twice). A small heart shape is cut from the centre of the folded paper. When fully unfolded, how many heart shapes appear?",
+      "options": ["1", "2", "4", "8"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Folding in half twice creates 4 layers of paper.\nStep 2: Cutting one heart shape through all 4 layers creates 4 hearts.\nStep 3: When unfolded, 4 heart shapes appear, arranged symmetrically.\nThe answer is 4.\nCommon mistake: Choosing 2 (only accounting for one fold instead of two)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q11",
+      "question": "A cube has its top face painted red and its front face painted blue. The cube is tipped forward 90 degrees (top face moves to front). Then it is rotated 90 degrees to the right. What colour is now on the top face?",
+      "options": ["Red", "Blue", "Neither (unpainted)", "Cannot determine"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Initially: top=red, front=blue, back/left/right/bottom=unpainted.\nStep 2: Tip forward 90 degrees: top(red) goes to front, front(blue) goes to bottom, bottom goes to back, back goes to top. Now: top=unpainted(was back), front=red, bottom=blue, back=unpainted(was bottom).\nStep 3: Rotate 90 degrees to the right: top stays on top during a horizontal rotation. Left goes to front, front goes to right, right goes to back, back goes to left. Top remains the same: unpainted.\nThe answer is Neither (unpainted).\nCommon mistake: Choosing Red (thinking the tip forward keeps red on top)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q12",
+      "question": "A cross shape (+) made of 5 squares is reflected across a diagonal line running from top-left to bottom-right. What does the shape look like after the reflection?",
+      "options": ["The same cross shape (+)", "An X shape", "A T shape", "An L shape"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A cross (+) shape has a centre square and 4 squares extending up, down, left, and right.\nStep 2: Reflecting across the top-left to bottom-right diagonal: up swaps with left, down swaps with right.\nStep 3: The square that was up goes left, the one that was left goes up, the one that was down goes right, and the one that was right goes down. The result is still a cross (+) shape.\nThe answer is The same cross shape (+).\nCommon mistake: Choosing An X shape (confusing reflection with rotation)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q13",
+      "question": "Lens is to camera as retina is to ___",
+      "options": ["Glasses", "Eye", "Brain", "Light"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A lens is a part of a camera that focuses light.\nStep 2: A retina is a part of what?\nStep 3: A retina is a part of an eye.\nThe answer is Eye.\nCommon mistake: Choosing Glasses (glasses have lenses, but the retina is specifically inside the eye)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q14",
+      "question": "Conductor is to orchestra as captain is to ___",
+      "options": ["Ship", "Team", "Officer", "Navy"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A conductor leads an orchestra.\nStep 2: A captain leads a ___.\nStep 3: A captain leads a team.\nThe answer is Team.\nCommon mistake: Choosing Ship (a captain commands a ship, but the analogy is about leading a group of people, like an orchestra)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q15",
+      "question": "Hibernation is to winter as migration is to ___",
+      "options": ["Summer", "Season", "Distance", "Birds"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Hibernation is a survival strategy for winter (a season).\nStep 2: Migration is a survival strategy for what?\nStep 3: Migration is a response to seasonal change. The analogy is about a behaviour linked to a season.\nThe answer is Season.\nCommon mistake: Choosing Birds (birds migrate, but the analogy is about what triggers the behaviour, not who does it)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q16",
+      "question": "Arid is to desert as humid is to ___",
+      "options": ["Ocean", "Rainforest", "Mountain", "Winter"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Arid (dry) describes a desert.\nStep 2: Humid (moist) describes what environment?\nStep 3: Humid describes a rainforest.\nThe answer is Rainforest.\nCommon mistake: Choosing Ocean (oceans are wet, but 'humid' specifically refers to air moisture, which characterises rainforests)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q17",
+      "question": "Immunity is to disease as firewall is to ___",
+      "options": ["Computer", "Internet", "Cyberattack", "Software"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Immunity protects against disease.\nStep 2: A firewall protects against what?\nStep 3: A firewall protects against cyberattacks.\nThe answer is Cyberattack.\nCommon mistake: Choosing Computer (a firewall protects a computer, but the analogy is about what it protects against, not what it protects)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q18",
+      "question": "Metamorphosis is to caterpillar as puberty is to ___",
+      "options": ["Teenager", "Adult", "Child", "Growth"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Metamorphosis transforms a caterpillar (into a butterfly). The caterpillar is the stage before transformation.\nStep 2: Puberty transforms a ___ (into an adult). The ___ is the stage before transformation.\nStep 3: A child goes through puberty to become a teenager/adult.\nThe answer is Child.\nCommon mistake: Choosing Teenager (a teenager is during/after puberty, but the analogy asks about the stage that undergoes the transformation, like the caterpillar)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q19",
+      "question": "In a 3x3 grid, each row and column contains a circle, square, and triangle. Row 1: triangle, circle, square. Row 2: circle, square, triangle. Row 3: square, triangle, ___. What goes in the blank?",
+      "options": ["Circle", "Square", "Triangle", "Star"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 has square and triangle. It needs circle.\nStep 2: Column 3 has square and triangle. It needs circle.\nStep 3: The blank is circle.\nThe answer is Circle.\nCommon mistake: Choosing Square (already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q20",
+      "question": "In a 3x3 grid with colours (red/blue/green) and shapes (circle/square/triangle). Row 1: green triangle, red circle, blue square. Row 2: red square, blue triangle, green circle. Row 3: blue circle, green square, ___. Each colour and shape appears once per row and column. What goes in the blank?",
+      "options": ["Red triangle", "Blue triangle", "Green triangle", "Red circle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 colours: blue, green. Needs red.\nStep 2: Row 3 shapes: circle, square. Needs triangle.\nStep 3: The blank is red triangle.\nThe answer is Red triangle.\nCommon mistake: Choosing Blue triangle (blue is already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q21",
+      "question": "In a 3x3 grid, each cell has a size (S/M/L), a fill (solid/striped/empty), and a shape (circle/square/triangle). Row 1: S-solid-circle, M-striped-square, L-empty-triangle. Row 2: L-striped-circle, S-empty-square, M-solid-triangle. Row 3: M-empty-circle, L-solid-square, ___. What goes in the blank?",
+      "options": ["S-striped-triangle", "S-solid-triangle", "M-striped-triangle", "L-striped-triangle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 sizes: M, L. Needs S.\nStep 2: Row 3 fills: empty, solid. Needs striped.\nStep 3: Row 3 shapes: circle, square. Needs triangle.\nStep 4: The blank is S-striped-triangle.\nThe answer is S-striped-triangle.\nCommon mistake: Choosing S-solid-triangle (solid is already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q22",
+      "question": "In a 3x3 grid, each row and column adds to 15. Row 1: 6, 1, 8. Row 2: 7, 5, 3. Row 3: ___, 9, 4. What number goes in the blank?",
+      "options": ["2", "3", "6", "8"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 must add to 15. ? + 9 + 4 = 15.\nStep 2: ? = 15 - 13 = 2.\nStep 3: Check column 1: 6 + 7 + 2 = 15. Correct.\nThe answer is 2.\nCommon mistake: Choosing 6 (miscalculating 15 - 9 - 4)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q23",
+      "question": "In a 4x4 grid, each row and column contains the letters A, B, C, D exactly once. Row 1: A, B, C, D. Row 2: C, D, A, B. Row 3: B, A, D, C. Row 4: D, C, ___, A. What goes in the blank?",
+      "options": ["A", "B", "C", "D"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 4 has D, C, and A. It needs B.\nStep 2: Column 3 has C, A, D. It needs B.\nStep 3: Both confirm the answer is B.\nThe answer is B.\nCommon mistake: Choosing A (already in row 4)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q24",
+      "question": "In a 3x3 grid, each row contains arrows pointing in three different directions (up/right/down), coloured in three different colours (red/blue/green), and of three different sizes (small/medium/large). Row 1: small-red-up, medium-blue-right, large-green-down. Row 2: large-blue-up, small-green-right, medium-red-down. Row 3: medium-green-up, large-red-right, ___. What goes in the blank?",
+      "options": ["Small-blue-down", "Small-red-down", "Large-blue-down", "Medium-blue-down"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 sizes: medium, large. Needs small.\nStep 2: Row 3 colours: green, red. Needs blue.\nStep 3: Row 3 directions: up, right. Needs down.\nStep 4: The blank is small-blue-down.\nThe answer is Small-blue-down.\nCommon mistake: Choosing Large-blue-down (large is already in row 3)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q25",
+      "question": "All prime numbers greater than 2 are odd. The number 14 is even. What can we conclude about 14?",
+      "options": ["14 is prime", "14 is not prime", "14 might be prime", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Rule: all primes greater than 2 are odd. Contrapositive: if a number greater than 2 is even, it is not prime.\nStep 2: 14 is even and greater than 2.\nStep 3: Therefore 14 is not prime.\nThe answer is 14 is not prime.\nCommon mistake: Choosing Cannot tell (not applying the contrapositive)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q26",
+      "question": "If a student passes the exam, they graduate. Sarah did not graduate. What can we conclude?",
+      "options": ["Sarah passed the exam", "Sarah did not pass the exam", "Sarah was absent", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Rule: if pass exam, then graduate. Contrapositive: if not graduate, then not pass exam.\nStep 2: Sarah did not graduate.\nStep 3: Therefore Sarah did not pass the exam.\nThe answer is Sarah did not pass the exam.\nCommon mistake: Choosing Cannot tell (not recognising the contrapositive)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q27",
+      "question": "All mammals breathe air. All whales are mammals. All things that breathe air need lungs. Which statement must be true?",
+      "options": ["All whales need lungs", "All things with lungs are whales", "All mammals are whales", "All things that breathe air are mammals"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Whales are mammals -> whales breathe air (since all mammals breathe air).\nStep 2: Whales breathe air -> whales need lungs (since all things that breathe air need lungs).\nStep 3: Chain: whales -> mammals -> breathe air -> need lungs. All whales need lungs.\nThe answer is All whales need lungs.\nCommon mistake: Choosing All things with lungs are whales (reversing the logical chain)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q28",
+      "question": "In a class of 40 students, 25 play basketball, 20 play volleyball, and 10 play both. How many play neither sport?",
+      "options": ["0", "3", "5", "10"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Students playing at least one sport = 25 + 20 - 10 = 35.\nStep 2: Students playing neither = 40 - 35 = 5.\nStep 3: 5 students play neither sport.\nThe answer is 5.\nCommon mistake: Choosing 0 (not accounting for the overlap, thinking 25+20=45 > 40 means everyone plays something)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q29",
+      "question": "If X is true, then Y is true. If Y is true, then Z is true. Z is false. What can we say about X?",
+      "options": ["X is true", "X is false", "X might be true or false", "Cannot determine"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: If X then Y, if Y then Z. So if X then Z (by chaining).\nStep 2: Contrapositive: if not Z then not X.\nStep 3: Z is false (not Z is true). Therefore X is false.\nThe answer is X is false.\nCommon mistake: Choosing X might be true or false (not applying the contrapositive through the chain)."
+    },
+    {
+      "id": "sel-y5-thinking-t5-q30",
+      "question": "Five children — Anna, Brad, Cleo, Drew, and Eve — are ranked 1st to 5th in a spelling test. Anna scored higher than Brad. Cleo scored higher than Drew. Brad scored higher than Cleo. Eve scored 1st. Who scored 4th?",
+      "options": ["Anna", "Brad", "Cleo", "Drew"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Eve scored 1st.\nStep 2: Anna > Brad and Brad > Cleo and Cleo > Drew. So Anna > Brad > Cleo > Drew.\nStep 3: Eve is 1st. Then Anna is 2nd, Brad is 3rd, Cleo is 4th, Drew is 5th.\nThe answer is Cleo.\nCommon mistake: Choosing Drew (confusing 4th and 5th positions in the ranking)."
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y2-maths-t4-q01",
+      "question": "What is 14 + 23?",
+      "options": ["36", "37", "38", "47"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 4 + 3 = 7.\nStep 2: Tens: 1 + 2 = 3.\nStep 3: 14 + 23 = 37.\nCommon mistake: Choosing 47 (adding 1 + 2 + 1 in tens by mistake) or 36 (miscounting ones)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q02",
+      "question": "What number is shown by 4 tens and 6 ones?",
+      "options": ["10", "46", "64", "406"],
+      "answer": 1,
+      "topic": "place-value",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 4 tens = 40.\nStep 2: 6 ones = 6.\nStep 3: 40 + 6 = 46.\nCommon mistake: Choosing 64 (swapping tens and ones) or 406 (writing digits side by side without understanding place value)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q03",
+      "question": "Which shape has 4 equal sides and 4 corners?",
+      "options": ["Rectangle", "Triangle", "Square", "Circle"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A triangle has 3 sides. A circle has 0 straight sides.\nStep 2: A rectangle has 4 sides but not all equal.\nStep 3: A square has 4 equal sides and 4 corners.\nCommon mistake: Choosing rectangle (has 4 sides but not all equal)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q04",
+      "question": "A pencil is 18 cm long. A crayon is 9 cm long. How much longer is the pencil?",
+      "options": ["7 cm", "8 cm", "9 cm", "27 cm"],
+      "answer": 2,
+      "topic": "measurement-length",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the difference: 18 − 9.\nStep 2: 18 − 9 = 9 cm.\nCommon mistake: Choosing 27 cm (adding instead of subtracting) or 8 cm (counting error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q05",
+      "question": "Count by 2s: 8, 10, 12, ___. What comes next?",
+      "options": ["13", "14", "15", "16"],
+      "answer": 1,
+      "topic": "skip-counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 2 each time.\nStep 2: 12 + 2 = 14.\nCommon mistake: Choosing 13 (adding 1 instead of 2) or 16 (adding 4)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q06",
+      "question": "What time does the clock show if the short hand is on 3 and the long hand is on 12?",
+      "options": ["12:03", "3:00", "3:12", "12:30"],
+      "answer": 1,
+      "topic": "time",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The short (hour) hand on 3 means the hour is 3.\nStep 2: The long (minute) hand on 12 means 0 minutes.\nStep 3: The time is 3:00.\nCommon mistake: Choosing 12:03 (confusing the hour and minute hands) or 3:12 (reading 12 as minutes)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q07",
+      "question": "In a picture graph, each star stands for 2 children. If there are 4 stars next to 'swimming', how many children like swimming?",
+      "options": ["4", "6", "8", "10"],
+      "answer": 2,
+      "topic": "data-picture-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Each star = 2 children.\nStep 2: 4 stars × 2 = 8 children.\nCommon mistake: Choosing 4 (counting stars only, not multiplying by 2)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q08",
+      "question": "What is 38 + 45?",
+      "options": ["73", "83", "82", "93"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 8 + 5 = 13. Write 3, carry 1.\nStep 2: Tens: 3 + 4 + 1 = 8.\nStep 3: 38 + 45 = 83.\nCommon mistake: Choosing 73 (forgetting to carry) or 82 (ones digit error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q09",
+      "question": "Which number is the largest: 58, 85, 49, 94?",
+      "options": ["58", "85", "49", "94"],
+      "answer": 3,
+      "topic": "place-value",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Compare the tens digits: 5, 8, 4, 9.\nStep 2: 9 is the biggest tens digit, so 94 is largest.\nCommon mistake: Choosing 85 (second largest) or confusing ones and tens digits."
+    },
+    {
+      "id": "oc-y2-maths-t4-q10",
+      "question": "Count by 5s: 15, 20, 25, ___. What comes next?",
+      "options": ["26", "28", "30", "35"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The pattern adds 5 each time.\nStep 2: 25 + 5 = 30.\nCommon mistake: Choosing 26 (adding 1) or 35 (adding 10)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q11",
+      "question": "What is 52 − 28?",
+      "options": ["24", "26", "34", "36"],
+      "answer": 0,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Ones: 2 − 8. Cannot do, so borrow from tens.\nStep 2: 12 − 8 = 4. The tens become 4.\nStep 3: 4 − 2 = 2.\nStep 4: 52 − 28 = 24.\nCommon mistake: Choosing 34 (not borrowing, doing 8 − 2 = 6 in ones) or 26 (borrowing error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q12",
+      "question": "A ribbon is 35 cm long. Another ribbon is 47 cm long. What is their total length?",
+      "options": ["72 cm", "82 cm", "12 cm", "81 cm"],
+      "answer": 1,
+      "topic": "measurement-length",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Add: 35 + 47.\nStep 2: Ones: 5 + 7 = 12. Write 2, carry 1.\nStep 3: Tens: 3 + 4 + 1 = 8.\nStep 4: Total = 82 cm.\nCommon mistake: Choosing 72 cm (forgetting to carry) or 12 cm (subtracting instead of adding)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q13",
+      "question": "How many sides does a hexagon have?",
+      "options": ["4", "5", "6", "8"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A hexagon is a shape with 6 sides.\nStep 2: Compare: square = 4, pentagon = 5, hexagon = 6, octagon = 8.\nCommon mistake: Choosing 5 (confusing with pentagon) or 8 (confusing with octagon)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q14",
+      "question": "What number has 7 in the tens place and 3 in the ones place?",
+      "options": ["37", "73", "307", "370"],
+      "answer": 1,
+      "topic": "place-value",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 7 in the tens place = 70.\nStep 2: 3 in the ones place = 3.\nStep 3: 70 + 3 = 73.\nCommon mistake: Choosing 37 (swapping the digits) or 307 (putting 7 in hundreds)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q15",
+      "question": "Skip count by 10s starting from 7: 7, 17, 27, ___. What comes next?",
+      "options": ["30", "34", "37", "47"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The pattern adds 10 each time.\nStep 2: 27 + 10 = 37.\nCommon mistake: Choosing 30 (rounding to nearest ten) or 47 (adding 20)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q16",
+      "question": "Sam had 43 stickers. He gave away 17. How many does he have left?",
+      "options": ["26", "36", "34", "60"],
+      "answer": 0,
+      "topic": "addition-subtraction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 43 − 17.\nStep 2: Ones: 3 − 7. Cannot do, borrow from tens.\nStep 3: 13 − 7 = 6. Tens: 3 − 1 = 2.\nStep 4: 43 − 17 = 26.\nCommon mistake: Choosing 36 (doing 7 − 3 = 4 in ones without borrowing) or 34 (subtraction error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q17",
+      "question": "A table is about 1 metre long. Which object is also about 1 metre long?",
+      "options": ["A pencil", "A paper clip", "A guitar", "A bus"],
+      "answer": 2,
+      "topic": "measurement-length",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A pencil is about 15–20 cm. A paper clip is about 3 cm. A bus is about 10 metres.\nStep 2: A guitar is about 1 metre long.\nCommon mistake: Choosing a bus (much larger) or a pencil (much smaller)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q18",
+      "question": "If it is 2:30 now, what time will it be in 1 hour?",
+      "options": ["2:31", "3:00", "3:30", "4:30"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Start at 2:30.\nStep 2: Add 1 hour: the hour goes from 2 to 3.\nStep 3: The minutes stay at 30.\nStep 4: 2:30 + 1 hour = 3:30.\nCommon mistake: Choosing 3:00 (forgetting the 30 minutes) or 4:30 (adding 2 hours)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q19",
+      "question": "In a picture graph, each smiley face stands for 2 students. If there are 3 smiley faces for 'red' and 5 for 'blue', how many more students chose blue than red?",
+      "options": ["2", "4", "5", "8"],
+      "answer": 1,
+      "topic": "data-picture-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Red: 3 × 2 = 6 students. Blue: 5 × 2 = 10 students.\nStep 2: Difference: 10 − 6 = 4.\nCommon mistake: Choosing 2 (5 − 3 without multiplying by 2) or 8 (just counting blue total)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q20",
+      "question": "Which shape has 3 straight sides and 3 corners?",
+      "options": ["Circle", "Square", "Triangle", "Pentagon"],
+      "answer": 2,
+      "topic": "shapes-2d",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A circle has no straight sides. A square has 4 sides. A pentagon has 5 sides.\nStep 2: A triangle has exactly 3 straight sides and 3 corners.\nCommon mistake: Choosing pentagon (confusing the number of sides)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q21",
+      "question": "What is 67 + 58?",
+      "options": ["115", "125", "135", "215"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 7 + 8 = 15. Write 5, carry 1.\nStep 2: Tens: 6 + 5 + 1 = 12. Write 2, carry 1.\nStep 3: Hundreds: 1.\nStep 4: 67 + 58 = 125.\nCommon mistake: Choosing 115 (forgetting to carry from ones) or 135 (carrying error in tens)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q22",
+      "question": "Which number is 10 more than 86?",
+      "options": ["76", "87", "96", "186"],
+      "answer": 2,
+      "topic": "place-value",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 10 more means add 10.\nStep 2: 86 + 10 = 96.\nCommon mistake: Choosing 87 (adding 1 instead of 10) or 76 (subtracting 10)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q23",
+      "question": "Mia has 34 cm of string. She cuts off 19 cm. Then she gets 12 cm more. How much string does she have now?",
+      "options": ["15 cm", "27 cm", "31 cm", "65 cm"],
+      "answer": 1,
+      "topic": "measurement-length",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with 34 cm. Cut 19 cm: 34 − 19 = 15 cm.\nStep 2: Then add 12 cm: 15 + 12 = 27 cm.\nCommon mistake: Choosing 15 cm (forgetting to add the 12 cm) or 65 cm (adding all three numbers)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q24",
+      "question": "What is 93 − 47?",
+      "options": ["44", "46", "54", "56"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 3 − 7. Cannot do, borrow from tens.\nStep 2: 13 − 7 = 6. Tens: 8 − 4 = 4.\nStep 3: 93 − 47 = 46.\nCommon mistake: Choosing 56 (doing 7 − 3 = 4 in ones) or 54 (borrowing error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q25",
+      "question": "Count by 3s: 3, 6, 9, 12, 15, 18, ___. What comes next?",
+      "options": ["19", "20", "21", "24"],
+      "answer": 2,
+      "topic": "skip-counting",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: The pattern adds 3 each time.\nStep 2: 18 + 3 = 21.\nCommon mistake: Choosing 19 (adding 1) or 20 (confusing with counting by 2s)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q26",
+      "question": "An activity starts at 10:00 and finishes at 11:30. How long does it last?",
+      "options": ["30 minutes", "1 hour", "1 hour 30 minutes", "2 hours"],
+      "answer": 2,
+      "topic": "time",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: From 10:00 to 11:00 is 1 hour.\nStep 2: From 11:00 to 11:30 is 30 minutes.\nStep 3: Total: 1 hour and 30 minutes.\nCommon mistake: Choosing 1 hour (forgetting the 30 minutes) or 30 minutes (only counting from 11:00)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q27",
+      "question": "A picture graph shows children's favourite fruits. Apple has 6 pictures, banana has 4, and orange has 3. Each picture stands for 2 children. How many children were asked in total?",
+      "options": ["13", "15", "26", "30"],
+      "answer": 2,
+      "topic": "data-picture-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Apple: 6 × 2 = 12. Banana: 4 × 2 = 8. Orange: 3 × 2 = 6.\nStep 2: Total = 12 + 8 + 6 = 26.\nCommon mistake: Choosing 13 (6 + 4 + 3, not multiplying) or 30 (multiplication error)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q28",
+      "question": "Which of these is the same as 50 + 30 + 7?",
+      "options": ["537", "357", "87", "307"],
+      "answer": 2,
+      "topic": "place-value",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 50 + 30 = 80.\nStep 2: 80 + 7 = 87.\nCommon mistake: Choosing 537 (writing each number as a digit) or 357 (using the numbers as separate digits)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q29",
+      "question": "A triangle and a rectangle are joined along one side. How many sides does the new shape have?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1,
+      "topic": "shapes-2d",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A triangle has 3 sides. A rectangle has 4 sides. Total = 7 sides.\nStep 2: When joined along one side, 2 sides are hidden (one from each shape).\nStep 3: 7 − 2 = 5 visible sides.\nCommon mistake: Choosing 7 (adding all sides without removing the shared side) or 6 (removing only one side)."
+    },
+    {
+      "id": "oc-y2-maths-t4-q30",
+      "question": "There are 28 boys and 35 girls on a bus. At the next stop, 16 children get off. How many children are still on the bus?",
+      "options": ["19", "47", "51", "79"],
+      "answer": 1,
+      "topic": "addition-subtraction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Total children: 28 + 35 = 63.\nStep 2: 16 get off: 63 − 16 = 47.\nCommon mistake: Choosing 19 (35 − 16, forgetting the boys) or 51 (subtraction error)."
+    }
+  ]
+}

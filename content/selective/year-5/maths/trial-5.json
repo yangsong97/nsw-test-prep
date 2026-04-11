@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "selective-y5-maths-t5-q01",
+      "question": "What is 23,456 + 18,765?",
+      "options": ["41,211", "42,221", "42,211", "42,321"],
+      "answer": 1,
+      "topic": "operations-large-numbers",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 6 + 5 = 11. Write 1, carry 1.\nStep 2: Tens: 5 + 6 + 1 = 12. Write 2, carry 1.\nStep 3: Hundreds: 4 + 7 + 1 = 12. Write 2, carry 1.\nStep 4: Thousands: 3 + 8 + 1 = 12. Write 2, carry 1.\nStep 5: Ten-thousands: 2 + 1 + 1 = 4.\nStep 6: 23,456 + 18,765 = 42,221.\nCommon mistake: Choosing 42,211 (tens digit error) or 41,211 (not carrying from thousands)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q02",
+      "question": "What is 1/5 as a percentage?",
+      "options": ["5%", "15%", "20%", "25%"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 1/5 = 1 ÷ 5 = 0.2.\nStep 2: 0.2 × 100 = 20%.\nCommon mistake: Choosing 5% (using 1 and 5 as digits) or 25% (confusing with 1/4)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q03",
+      "question": "A cube has edges of 5 cm. What is its volume?",
+      "options": ["25 cm³", "75 cm³", "125 cm³", "150 cm³"],
+      "answer": 2,
+      "topic": "area-volume",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Volume of a cube = side³.\nStep 2: 5³ = 5 × 5 × 5 = 125 cm³.\nCommon mistake: Choosing 25 cm³ (5 × 5, only area) or 75 cm³ (5 × 5 × 3)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q04",
+      "question": "What type of triangle has all angles less than 90°?",
+      "options": ["Right triangle", "Obtuse triangle", "Acute triangle", "Equilateral triangle"],
+      "answer": 2,
+      "topic": "angles-triangles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Right triangle has one 90° angle. Obtuse has one angle greater than 90°.\nStep 2: An acute triangle has all angles less than 90°.\nStep 3: While equilateral triangles are also acute, the specific term is acute triangle.\nCommon mistake: Choosing right triangle (has a 90° angle, not all less than 90°)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q05",
+      "question": "If n − 9 = 14, what is n?",
+      "options": ["5", "14", "23", "126"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: n − 9 = 14.\nStep 2: n = 14 + 9 = 23.\nCommon mistake: Choosing 5 (14 − 9) or 126 (14 × 9)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q06",
+      "question": "Find the median of: 12, 15, 9, 20, 11.",
+      "options": ["9", "11", "12", "15"],
+      "answer": 2,
+      "topic": "data-mean-median",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Arrange in order: 9, 11, 12, 15, 20.\nStep 2: The middle value (3rd of 5) is 12.\nCommon mistake: Choosing 15 (picking from unordered list) or 11 (second value, not middle)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q07",
+      "question": "What is 15 − 3 × 4?",
+      "options": ["3", "48", "12", "27"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Multiplication first: 3 × 4 = 12.\nStep 2: Then subtraction: 15 − 12 = 3.\nCommon mistake: Choosing 48 (15 − 3 = 12, then 12 × 4) or 12 (just the multiplication result)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q08",
+      "question": "What is 80,000 − 45,678?",
+      "options": ["34,322", "34,422", "35,322", "44,322"],
+      "answer": 0,
+      "topic": "operations-large-numbers",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 80,000 − 45,678.\nStep 2: 80,000 − 46,000 = 34,000. Then add back 322: 34,322.\nCommon mistake: Choosing 35,322 (tens column error) or 34,422 (hundreds error)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q09",
+      "question": "What is 0.75 as a fraction in simplest form?",
+      "options": ["7/5", "3/4", "75/10", "15/20"],
+      "answer": 1,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.75 = 75/100.\nStep 2: Simplify: 75 ÷ 25 = 3, 100 ÷ 25 = 4.\nStep 3: 0.75 = 3/4.\nCommon mistake: Choosing 15/20 (partially simplified) or 7/5 (misreading digits)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q10",
+      "question": "The angles in a quadrilateral add up to how many degrees?",
+      "options": ["180°", "270°", "360°", "540°"],
+      "answer": 2,
+      "topic": "angles-triangles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A quadrilateral can be divided into 2 triangles.\nStep 2: 2 × 180° = 360°.\nCommon mistake: Choosing 180° (sum for a triangle) or 540° (sum for a pentagon)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q11",
+      "question": "What is 578 × 46?",
+      "options": ["25,588", "26,488", "26,588", "27,588"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 578 × 40 = 23,120.\nStep 2: 578 × 6 = 3,468.\nStep 3: 23,120 + 3,468 = 26,588.\nCommon mistake: Choosing 26,488 (578 × 6 = 3,368 error) or 25,588 (578 × 40 error)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q12",
+      "question": "Convert 5/8 to a decimal.",
+      "options": ["0.58", "0.625", "0.65", "0.8"],
+      "answer": 1,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5/8 = 5 ÷ 8.\nStep 2: 5.000 ÷ 8 = 0.625.\nCommon mistake: Choosing 0.58 (writing digits side by side) or 0.65 (incorrect division)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q13",
+      "question": "A rectangular prism has dimensions 8 cm, 6 cm, and 5 cm. What is its surface area?",
+      "options": ["148 cm²", "188 cm²", "236 cm²", "240 cm²"],
+      "answer": 2,
+      "topic": "area-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Surface area = 2(lw + lh + wh).\nStep 2: lw = 8 × 6 = 48. lh = 8 × 5 = 40. wh = 6 × 5 = 30.\nStep 3: 2(48 + 40 + 30) = 2 × 118 = 236 cm².\nCommon mistake: Choosing 240 cm³ (volume, not surface area) or 188 cm² (forgetting to multiply by 2 on one face)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q14",
+      "question": "In a right triangle, one angle is 90° and another is 35°. What is the third angle?",
+      "options": ["35°", "45°", "55°", "65°"],
+      "answer": 2,
+      "topic": "angles-triangles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Sum of angles = 180°.\nStep 2: 90° + 35° = 125°.\nStep 3: Third angle = 180° − 125° = 55°.\nCommon mistake: Choosing 35° (same as given angle) or 45° (thinking right triangle means 45-45-90)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q15",
+      "question": "Solve: 5n − 8 = 27. What is n?",
+      "options": ["3", "5", "7", "9"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 5n − 8 = 27.\nStep 2: 5n = 27 + 8 = 35.\nStep 3: n = 35 ÷ 5 = 7.\nCommon mistake: Choosing 5 (27 ÷ 5 without adding 8) or 3 (27 − 8 = 19, 19 ÷ 5 ≈ 3)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q16",
+      "question": "The heights (cm) of 7 students are: 142, 155, 148, 160, 138, 155, 152. What is the mode?",
+      "options": ["138", "148", "152", "155"],
+      "answer": 3,
+      "topic": "data-mean-median",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The mode is the most frequent value.\nStep 2: 155 appears twice; all others appear once.\nStep 3: Mode = 155.\nCommon mistake: Choosing 148 (confusing with median) or 152 (middle of the list)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q17",
+      "question": "What is 36 ÷ 6 + 2 × 5?",
+      "options": ["16", "20", "36", "40"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Division and multiplication first (left to right).\nStep 2: 36 ÷ 6 = 6. 2 × 5 = 10.\nStep 3: 6 + 10 = 16.\nCommon mistake: Choosing 40 ((36 ÷ 6 + 2) × 5 = 8 × 5) or 36 (ignoring order of operations)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q18",
+      "question": "What is 24,500 ÷ 35?",
+      "options": ["600", "650", "700", "750"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 35 × 700 = 24,500.\nStep 2: Check: 35 × 7 = 245. 245 × 100 = 24,500. Correct.\nCommon mistake: Choosing 650 (35 × 650 = 22,750) or 750 (35 × 750 = 26,250)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q19",
+      "question": "What percentage of 200 is 36?",
+      "options": ["14%", "16%", "18%", "20%"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Percentage = (36 ÷ 200) × 100.\nStep 2: 36 ÷ 200 = 0.18.\nStep 3: 0.18 × 100 = 18%.\nCommon mistake: Choosing 16% (36 ÷ 225 error) or 20% (rounding up)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q20",
+      "question": "A triangle has a base of 14 cm and a height of 9 cm. What is its area?",
+      "options": ["23 cm²", "63 cm²", "126 cm²", "46 cm²"],
+      "answer": 1,
+      "topic": "area-volume",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Area of triangle = 1/2 × base × height.\nStep 2: 1/2 × 14 × 9 = 63 cm².\nCommon mistake: Choosing 126 cm² (base × height without dividing by 2) or 23 cm² (14 + 9)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q21",
+      "question": "A factory produces 3,750 widgets per day. It operates 6 days a week. How many widgets in 8 weeks?",
+      "options": ["30,000", "150,000", "180,000", "210,000"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Widgets per week = 3,750 × 6 = 22,500.\nStep 2: Widgets in 8 weeks = 22,500 × 8 = 180,000.\nCommon mistake: Choosing 150,000 (using 5 days) or 210,000 (using 7 days)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q22",
+      "question": "A shirt normally costs $80. It is on sale for 35% off. What is the sale price?",
+      "options": ["$28", "$45", "$52", "$55"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Discount = 35% of $80 = 0.35 × 80 = $28.\nStep 2: Sale price = $80 − $28 = $52.\nCommon mistake: Choosing $28 (the discount amount, not the sale price) or $45 (subtracting 35 directly)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q23",
+      "question": "A container is 30 cm long, 20 cm wide, and 15 cm tall. It is filled to 2/3 of its height with water. What is the volume of water?",
+      "options": ["3,000 cm³", "6,000 cm³", "9,000 cm³", "10,000 cm³"],
+      "answer": 1,
+      "topic": "area-volume",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Full volume = 30 × 20 × 15 = 9,000 cm³.\nStep 2: Water height = 2/3 × 15 = 10 cm.\nStep 3: Water volume = 30 × 20 × 10 = 6,000 cm³.\nCommon mistake: Choosing 9,000 cm³ (full volume) or 3,000 cm³ (1/3 of volume)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q24",
+      "question": "An exterior angle of a triangle is 130°. The two non-adjacent interior angles are equal. What is each?",
+      "options": ["50°", "55°", "60°", "65°"],
+      "answer": 3,
+      "topic": "angles-triangles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: An exterior angle equals the sum of the two non-adjacent interior angles.\nStep 2: 130° = x + x = 2x.\nStep 3: x = 65°.\nCommon mistake: Choosing 50° (180° − 130° = 50°, which is the adjacent interior angle) or 55° (rounding error)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q25",
+      "question": "If 4(2n − 1) = 28, what is n?",
+      "options": ["3", "3.5", "4", "7"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 4(2n − 1) = 28.\nStep 2: 2n − 1 = 7.\nStep 3: 2n = 8.\nStep 4: n = 4.\nCommon mistake: Choosing 7 (28 ÷ 4 without further solving) or 3.5 (7 ÷ 2 without adding 1)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q26",
+      "question": "Eight students scored: 65, 72, 88, 54, 79, 91, 68, 83. What is the range?",
+      "options": ["27", "32", "37", "42"],
+      "answer": 2,
+      "topic": "data-mean-median",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Maximum = 91. Minimum = 54.\nStep 2: Range = 91 − 54 = 37.\nCommon mistake: Choosing 27 (88 − 61 or similar error) or 32 (subtracting wrong values)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q27",
+      "question": "What is 100 − 4 × (3 + 2)²?",
+      "options": ["0", "20", "400", "2400"],
+      "answer": 0,
+      "topic": "order-of-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Brackets: 3 + 2 = 5.\nStep 2: Exponent: 5² = 25.\nStep 3: Multiplication: 4 × 25 = 100.\nStep 4: Subtraction: 100 − 100 = 0.\nCommon mistake: Choosing 400 (squaring before adding in brackets: 4 × (9 + 4) etc.) or 2400 ((100 − 4) × 25)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q28",
+      "question": "What is 156,000 ÷ 240?",
+      "options": ["550", "600", "650", "750"],
+      "answer": 2,
+      "topic": "operations-large-numbers",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Simplify: 156,000 ÷ 240 = 15,600 ÷ 24.\nStep 2: 24 × 650 = 15,600.\nStep 3: Check: 24 × 600 = 14,400. 15,600 − 14,400 = 1,200. 1,200 ÷ 24 = 50. 600 + 50 = 650.\nCommon mistake: Choosing 600 (24 × 600 = 14,400, not 15,600) or 750 (estimation error)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q29",
+      "question": "3/4 of a number is 45. What is the number?",
+      "options": ["30", "45", "60", "75"],
+      "answer": 2,
+      "topic": "fractions-decimals-percent",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 3/4 × n = 45.\nStep 2: n = 45 ÷ 3/4 = 45 × 4/3 = 60.\nCommon mistake: Choosing 30 (45 × 2/3) or 75 (45 + 30 error)."
+    },
+    {
+      "id": "selective-y5-maths-t5-q30",
+      "question": "A number pattern starts: 2, 6, 12, 20, 30, ___. What is the next number?",
+      "options": ["36", "40", "42", "44"],
+      "answer": 2,
+      "topic": "algebraic-thinking",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Differences: 6−2=4, 12−6=6, 20−12=8, 30−20=10.\nStep 2: The differences increase by 2 each time: 4, 6, 8, 10, 12.\nStep 3: Next: 30 + 12 = 42.\nCommon mistake: Choosing 40 (adding 10 again) or 44 (adding 14)."
+    }
+  ]
+}

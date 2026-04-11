@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-3",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y3-thinking-t4-q01",
+      "question": "What number comes next? 7, 10, 13, 16, ___",
+      "options": ["17", "18", "19", "20"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 10-7=3, 13-10=3, 16-13=3.\nStep 2: Each number goes up by 3.\nStep 3: 16 + 3 = 19.\nThe answer is 19.\nCommon mistake: Choosing 18 (adding 2 instead of 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q02",
+      "question": "What number comes next? 2, 5, 8, 11, ___",
+      "options": ["12", "13", "14", "15"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 5-2=3, 8-5=3, 11-8=3.\nStep 2: Each number goes up by 3.\nStep 3: 11 + 3 = 14.\nThe answer is 14.\nCommon mistake: Choosing 13 (adding 2 instead of 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q03",
+      "question": "What number comes next? 1, 4, 9, 16, ___",
+      "options": ["20", "22", "24", "25"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Recognise the pattern. 1=1x1, 4=2x2, 9=3x3, 16=4x4.\nStep 2: These are square numbers. The next is 5x5.\nStep 3: 5 x 5 = 25.\nThe answer is 25.\nCommon mistake: Choosing 24 (adding 8, following differences 3,5,7 but miscounting the next difference as 8 instead of 9)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q04",
+      "question": "What number comes next? 2, 6, 12, 20, ___",
+      "options": ["26", "28", "30", "32"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Find the differences. 6-2=4, 12-6=6, 20-12=8.\nStep 2: The differences are 4, 6, 8. They go up by 2 each time. Next difference is 10.\nStep 3: 20 + 10 = 30.\nThe answer is 30.\nCommon mistake: Choosing 28 (adding 8 again instead of 10)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q05",
+      "question": "What number comes next? 3, 4, 6, 9, 13, ___",
+      "options": ["16", "17", "18", "19"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences. 4-3=1, 6-4=2, 9-6=3, 13-9=4.\nStep 2: The differences are 1, 2, 3, 4. They go up by 1 each time. Next difference is 5.\nStep 3: 13 + 5 = 18.\nThe answer is 18.\nCommon mistake: Choosing 17 (adding 4 again instead of 5)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q06",
+      "question": "What number comes next? 2, 3, 5, 9, 17, ___",
+      "options": ["25", "29", "33", "34"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the differences. 3-2=1, 5-3=2, 9-5=4, 17-9=8.\nStep 2: The differences are 1, 2, 4, 8. They double each time. Next difference is 16.\nStep 3: 17 + 16 = 33.\nThe answer is 33.\nCommon mistake: Choosing 25 (adding 8 again instead of 16)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q07",
+      "question": "A triangle is pointing UP. It is rotated a half-turn (180 degrees). Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The triangle starts pointing up.\nStep 2: A half-turn (180 degrees) flips it completely around.\nStep 3: Up becomes down after a half-turn.\nThe answer is Down.\nCommon mistake: Choosing Left or Right (confusing half-turn with quarter-turn)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q08",
+      "question": "An arrow is pointing RIGHT. It is rotated a half-turn (180 degrees). Which direction does it now point?",
+      "options": ["Up", "Down", "Left", "Right"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The arrow starts pointing right.\nStep 2: A half-turn (180 degrees) flips it completely around.\nStep 3: Right becomes left after a half-turn.\nThe answer is Left.\nCommon mistake: Choosing Down (confusing a half-turn with a quarter-turn clockwise)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q09",
+      "question": "A shape looks like the letter 'F'. If you flip it horizontally (like a mirror image), what does it look like?",
+      "options": ["F (same)", "A backwards F (with the arms going left)", "An upside-down F", "The letter L"],
+      "answer": 1,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The letter F has a vertical line on the left and two horizontal arms going right.\nStep 2: Flipping horizontally swaps left and right.\nStep 3: The vertical line moves to the right and the arms go left, making a backwards F.\nThe answer is A backwards F (with the arms going left).\nCommon mistake: Choosing F (same) — thinking the flip doesn't change it."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q10",
+      "question": "A square piece of paper is folded in half diagonally (corner to corner). A small circle is cut from the middle of the folded edge. When unfolded, how many circle holes appear?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The paper is folded diagonally, making a triangle.\nStep 2: The cut is made on the folded edge itself.\nStep 3: When the cut is on the fold, it creates one hole that spans the fold line, not two separate holes.\nThe answer is 1.\nCommon mistake: Choosing 2 (expecting two holes, but a cut on the fold produces one hole)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q11",
+      "question": "A shape looks like the letter 'L'. It is first rotated a quarter-turn clockwise, then flipped horizontally. What does it look like?",
+      "options": ["An upside-down L", "A backwards L (like the letter J)", "The letter L (same as original)", "A shape like the number 7"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Start with L (vertical line going down, horizontal line going right at the bottom).\nStep 2: Rotate quarter-turn clockwise: the vertical becomes horizontal, the bottom-right arm becomes a downward arm. It looks like an upside-down L rotated, resembling a backwards L.\nStep 3: Flip horizontally: this mirrors it left-to-right, bringing it back to the original L shape.\nThe answer is The letter L (same as original).\nCommon mistake: Choosing A backwards L (only doing one transformation instead of both)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q12",
+      "question": "A square piece of paper is folded in half left-to-right, then folded in half top-to-bottom. A corner is cut from the bottom-right. When fully unfolded, how many corner cuts appear?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 3,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: First fold (left-to-right) creates 2 layers.\nStep 2: Second fold (top-to-bottom) creates 4 layers.\nStep 3: Cutting one corner goes through all 4 layers. When unfolded, 4 corner cuts appear.\nThe answer is 4.\nCommon mistake: Choosing 2 (only accounting for one fold instead of two)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q13",
+      "question": "Teacher is to school as doctor is to ___",
+      "options": ["Medicine", "Patient", "Hospital", "Nurse"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A teacher works at a school.\nStep 2: We need where a doctor works.\nStep 3: A doctor works at a hospital.\nThe answer is Hospital.\nCommon mistake: Choosing Medicine (related to doctors, but it is not a workplace)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q14",
+      "question": "Lion is to pride as wolf is to ___",
+      "options": ["Den", "Pack", "Herd", "Flock"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A group of lions is called a pride.\nStep 2: We need the group name for wolves.\nStep 3: A group of wolves is called a pack.\nThe answer is Pack.\nCommon mistake: Choosing Herd (that is for cattle or sheep, not wolves)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q15",
+      "question": "Petal is to flower as leaf is to ___",
+      "options": ["Branch", "Tree", "Root", "Seed"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A petal is part of a flower.\nStep 2: We need what a leaf is part of.\nStep 3: A leaf is part of a tree.\nThe answer is Tree.\nCommon mistake: Choosing Branch (a leaf grows on a branch, but a branch is also part of a tree; the best parallel to flower is tree)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q16",
+      "question": "Chapter is to book as verse is to ___",
+      "options": ["Poem", "Word", "Line", "Story"],
+      "answer": 0,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A chapter is a section of a book.\nStep 2: We need what a verse is a section of.\nStep 3: A verse is a section of a poem (or song).\nThe answer is Poem.\nCommon mistake: Choosing Line (a line is part of a verse, not the other way around)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q17",
+      "question": "Shoal is to fish as swarm is to ___",
+      "options": ["Birds", "Bees", "Dogs", "Horses"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A shoal is a group of fish.\nStep 2: We need what animal forms a swarm.\nStep 3: A swarm is a group of bees (or insects).\nThe answer is Bees.\nCommon mistake: Choosing Birds (a group of birds is a flock, not a swarm)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q18",
+      "question": "Composer is to symphony as author is to ___",
+      "options": ["Pen", "Library", "Novel", "Reading"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A composer creates a symphony.\nStep 2: We need what an author creates.\nStep 3: An author creates a novel (or book).\nThe answer is Novel.\nCommon mistake: Choosing Library (where books are stored, not what an author creates)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q19",
+      "question": "In a 3x3 grid, Row 1: circle, square, triangle. Row 2: square, triangle, circle. Row 3: triangle, circle, ___. Each shape appears exactly once per row and once per column. What goes in the blank?",
+      "options": ["Circle", "Square", "Triangle", "Diamond"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 already has triangle and circle. It needs a square.\nStep 2: Check column 3: triangle, circle, ???. It needs a square.\nStep 3: Both the row and column need a square.\nThe answer is Square.\nCommon mistake: Choosing Triangle (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q20",
+      "question": "In a 3x3 grid, Row 1: red, blue, green. Row 2: blue, green, red. Row 3: green, red, ___. Each colour appears once per row and once per column. What goes in the blank?",
+      "options": ["Red", "Blue", "Green", "Yellow"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 already has green and red. It needs blue.\nStep 2: Check column 3: green, red, ???. It needs blue.\nStep 3: Both the row and column confirm the answer is blue.\nThe answer is Blue.\nCommon mistake: Choosing Green (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q21",
+      "question": "In a 3x3 grid, Row 1: 1 star, 2 stars, 3 stars. Row 2: 2 stars, 3 stars, 1 star. Row 3: 3 stars, 1 star, ___. Each number appears once per row and column. What goes in the blank?",
+      "options": ["1 star", "2 stars", "3 stars", "4 stars"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 has 3 stars and 1 star. It needs 2 stars.\nStep 2: Column 3 has 3 stars and 1 star. It also needs 2 stars.\nStep 3: The blank is 2 stars.\nThe answer is 2 stars.\nCommon mistake: Choosing 3 stars (already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q22",
+      "question": "In a 3x3 grid, Row 1: small circle, medium circle, large circle. Row 2: small square, medium square, large square. Row 3: small triangle, medium triangle, ___. What goes in the blank?",
+      "options": ["Small triangle", "Medium triangle", "Large triangle", "Large circle"],
+      "answer": 2,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Each row uses a different shape: circles, squares, triangles.\nStep 2: Each column increases in size: small, medium, large.\nStep 3: Row 3, column 3 needs a large triangle.\nThe answer is Large triangle.\nCommon mistake: Choosing Large circle (using the shape from row 1 instead of row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q23",
+      "question": "In a 3x3 grid, Row 1: red circle, blue square, green triangle. Row 2: blue triangle, green circle, red square. Row 3: green square, red triangle, ___. Each colour and each shape appears exactly once per row and per column. What goes in the blank?",
+      "options": ["Red circle", "Blue circle", "Green circle", "Blue square"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 has green and red. It needs blue.\nStep 2: Row 3 has square and triangle. It needs circle.\nStep 3: Column 3 has triangle and square. It needs circle. Column 3 has green and red. It needs blue.\nStep 4: The blank is blue circle.\nThe answer is Blue circle.\nCommon mistake: Choosing Green circle (green is already used in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q24",
+      "question": "In a 3x3 grid, Row 1: striped star, dotted star, plain star. Row 2: plain heart, striped heart, dotted heart. Row 3: dotted diamond, plain diamond, ___. Each pattern appears once per row and column. What goes in the blank?",
+      "options": ["Striped diamond", "Dotted diamond", "Plain diamond", "Striped star"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 has dotted and plain. It needs striped.\nStep 2: Row 3 uses diamonds. So it needs a striped diamond.\nStep 3: Check column 3: plain star, dotted heart, ???. Patterns used are plain and dotted. It needs striped. Confirmed.\nThe answer is Striped diamond.\nCommon mistake: Choosing Plain diamond (plain is already in row 3)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q25",
+      "question": "All birds have feathers. Robins are birds. Do robins have feathers?",
+      "options": ["Yes", "No", "Only some robins", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: All birds have feathers.\nStep 2: Robins are birds.\nStep 3: Since all birds have feathers and robins are birds, robins must have feathers.\nThe answer is Yes.\nCommon mistake: Choosing Cannot tell (overthinking a straightforward deduction)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q26",
+      "question": "If you eat breakfast, you will not be hungry. Sam ate breakfast. Is Sam hungry?",
+      "options": ["Yes", "No", "Maybe", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: The rule says: if you eat breakfast, you will not be hungry.\nStep 2: Sam ate breakfast.\nStep 3: So Sam is not hungry.\nThe answer is No.\nCommon mistake: Choosing Maybe (ignoring the definite rule given)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q27",
+      "question": "Amy is faster than Ben. Ben is faster than Cara. Cara is faster than Dan. Who would finish a race last?",
+      "options": ["Amy", "Ben", "Cara", "Dan"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Speed order fastest to slowest: Amy, Ben, Cara, Dan.\nStep 2: The slowest person finishes last.\nStep 3: Dan is the slowest, so Dan finishes last.\nThe answer is Dan.\nCommon mistake: Choosing Cara (picking the second-slowest instead of the slowest)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q28",
+      "question": "All fish live in water. A whale lives in water. Is a whale a fish?",
+      "options": ["Yes", "No", "Maybe", "Cannot tell from the information given"],
+      "answer": 3,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: All fish live in water. This means if something is a fish, it lives in water.\nStep 2: A whale lives in water. But we only know fish live in water; other things might also live in water.\nStep 3: Living in water does not automatically make something a fish. We cannot tell.\nThe answer is Cannot tell from the information given.\nCommon mistake: Choosing Yes (assuming that only fish live in water, which was not stated)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q29",
+      "question": "If it is Monday, the library is open. If the library is open, Tom visits. It is Monday. What does Tom do?",
+      "options": ["Tom stays home", "Tom visits the library", "Tom goes to school", "Cannot tell"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: It is Monday, so the library is open (first rule).\nStep 2: The library is open, so Tom visits (second rule).\nStep 3: Following the chain: Monday -> library open -> Tom visits.\nThe answer is Tom visits the library.\nCommon mistake: Choosing Cannot tell (not following the chain of reasoning through both rules)."
+    },
+    {
+      "id": "oc-y3-thinking-t4-q30",
+      "question": "Three children, Ella, Finn, and Grace, each have a different pet: a cat, a dog, and a rabbit. Ella does not have the dog. Grace has the rabbit. What pet does Ella have?",
+      "options": ["Cat", "Dog", "Rabbit", "Cannot tell"],
+      "answer": 0,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Grace has the rabbit.\nStep 2: Ella does not have the dog. Since Grace has the rabbit, the remaining pets for Ella and Finn are cat and dog.\nStep 3: Ella does not have the dog, so Ella has the cat. Finn has the dog.\nThe answer is Cat.\nCommon mistake: Choosing Cannot tell (not using elimination properly)."
+    }
+  ]
+}

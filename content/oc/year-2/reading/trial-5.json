@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "The Rainbow Lorikeets' Picnic",
+    "text": "Every morning, a family of rainbow lorikeets flew to the park near Lily's house. There was a mum, a dad, and three baby lorikeets. They had bright feathers of green, blue, red, and yellow.\n\nLily loved to watch them from her window. She would eat her toast and count the lorikeets sitting in the old fig tree. They were always noisy and chatty.\n\nOne Saturday, Lily had an idea. She asked her mum if they could have a picnic in the park. Mum said yes and packed sandwiches, apples, and a bottle of water.\n\nThey spread a blue blanket under the fig tree. Lily sat very still and waited. Soon, the lorikeets flew down. They landed on the branches above her head.\n\n\"Look, Mum! They are so close!\" Lily whispered.\n\nThe baby lorikeets were funny. One hung upside down from a branch. Another pecked at a fig. The third one flapped its wings and almost fell off.\n\nLily laughed quietly so she would not scare them. She drew a picture of the birds in her notebook. She used her green and red pencils to colour their feathers.\n\nAfter lunch, something special happened. One of the baby lorikeets flew down and landed on the edge of the blanket. It tilted its head and looked right at Lily.\n\n\"Hello, little one,\" Lily said softly.\n\nThe lorikeet chirped once, then flew back to its family. Lily smiled the biggest smile.\n\n\"Can we come back next Saturday?\" she asked.\n\n\"Of course,\" said Mum. \"I think the lorikeets would like that too.\"",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y2-reading-t5-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "How to draw pictures of birds",
+        "A girl who enjoys watching lorikeets at the park",
+        "Why lorikeets are colourful",
+        "A family who eats lunch outside every day"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the whole story is about Lily watching the lorikeets from her window and then having a picnic in the park to get closer to them.\n\nOption A is incorrect because Lily draws one picture, but the story is not about how to draw birds.\n\nCommon mistake: Students might choose D because a picnic happens, but Lily and her mum only go to the park on one Saturday, not every day."
+    },
+    {
+      "id": "oc-y2-reading-t5-q02",
+      "question": "How many baby lorikeets are in the family?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says 'There was a mum, a dad, and three baby lorikeets.'\n\nOption A is incorrect because the story clearly states three, not two.\n\nCommon mistake: Students might confuse the total number of lorikeets (five) with the number of babies (three)."
+    },
+    {
+      "id": "oc-y2-reading-t5-q03",
+      "question": "What did Mum pack for the picnic?",
+      "options": [
+        "Cake, juice, and biscuits",
+        "Sandwiches, apples, and a bottle of water",
+        "Toast, bananas, and milk",
+        "Chips, grapes, and lemonade"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says 'Mum said yes and packed sandwiches, apples, and a bottle of water.'\n\nOption C is incorrect because toast is mentioned earlier when Lily eats breakfast, not at the picnic.\n\nCommon mistake: Students might mix up the toast from breakfast with the picnic food, but the story lists the picnic items separately."
+    },
+    {
+      "id": "oc-y2-reading-t5-q04",
+      "question": "What does the word 'tilted' most likely mean?",
+      "options": [
+        "Shook quickly up and down",
+        "Turned or leaned to one side",
+        "Hid behind something",
+        "Closed its eyes tightly"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says the lorikeet 'tilted its head and looked right at Lily.' When a bird tilts its head, it leans it to one side, usually to get a better look at something.\n\nOption A is incorrect because shaking quickly would be a very different movement from the gentle, curious action described.\n\nCommon mistake: Students who do not know the word 'tilted' might guess, but the clue is that the bird was looking at Lily curiously, which birds do by turning their heads to one side."
+    },
+    {
+      "id": "oc-y2-reading-t5-q05",
+      "question": "Why did Lily laugh quietly instead of loudly?",
+      "options": [
+        "Because her mum told her to be quiet",
+        "Because she did not want to scare the lorikeets away",
+        "Because she was too tired to laugh loudly",
+        "Because laughing loudly is rude"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'Lily laughed quietly so she would not scare them.' The word 'so' tells us the reason: she wanted the birds to stay close.\n\nOption A is incorrect because Mum did not tell Lily to be quiet — Lily chose to be quiet on her own.\n\nCommon mistake: Students might choose A because parents often tell children to be quiet, but the story gives the reason directly — she did not want to scare the birds."
+    },
+    {
+      "id": "oc-y2-reading-t5-q06",
+      "question": "What kind of person is Lily?",
+      "options": [
+        "She is loud and does not care about animals",
+        "She is patient and loves nature",
+        "She is shy and does not like going outside",
+        "She is bossy and wants everything her way"
+      ],
+      "answer": 1,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because Lily sits very still, whispers, laughs quietly, and draws pictures of the birds. These actions show she is patient and cares about the lorikeets.\n\nOption C is incorrect because Lily asks to go to the park and clearly enjoys being outside.\n\nCommon mistake: Students might think Lily is shy because she is quiet, but she is quiet on purpose to not scare the birds, which shows patience, not shyness."
+    },
+    {
+      "id": "oc-y2-reading-t5-q07",
+      "question": "What caused the special moment at the end of the story?",
+      "options": [
+        "Lily fed the lorikeet some bread",
+        "A baby lorikeet flew down and landed near Lily",
+        "All five lorikeets sat on Lily's blanket",
+        "Lily caught one of the baby birds"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'something special happened. One of the baby lorikeets flew down and landed on the edge of the blanket.' This was the special moment.\n\nOption A is incorrect because Lily did not feed the lorikeet — it just came close on its own.\n\nCommon mistake: Students might think Lily did something to attract the bird, but the story shows the lorikeet came to her on its own, which is what made it special."
+    },
+    {
+      "id": "oc-y2-reading-t5-q08",
+      "question": "Why does the author describe the lorikeets as 'noisy and chatty'?",
+      "options": [
+        "To show that the lorikeets are angry",
+        "To help the reader imagine what the lorikeets sound like",
+        "To explain that lorikeets can talk like people",
+        "To show that Lily does not like the noise"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because authors use describing words to help readers picture the scene. The words 'noisy and chatty' help the reader imagine the sounds the lorikeets make in the tree.\n\nOption C is incorrect because 'chatty' does not mean the birds talk like humans — it means they make lots of sounds, like they are chatting with each other.\n\nCommon mistake: Students might take 'chatty' literally and think the birds can talk, but in this story it is used to describe the sounds birds make to each other."
+    },
+    {
+      "id": "oc-y2-reading-t5-q09",
+      "question": "The story is told in the order that things happen. What happens right AFTER Lily draws a picture?",
+      "options": [
+        "The lorikeets fly to the fig tree",
+        "A baby lorikeet lands on the blanket",
+        "Mum packs the picnic",
+        "Lily eats her toast"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because after Lily draws the birds in her notebook, the story says 'After lunch, something special happened. One of the baby lorikeets flew down and landed on the edge of the blanket.'\n\nOption A is incorrect because the lorikeets flying to the tree happens before Lily draws her picture.\n\nCommon mistake: Students might choose A because they remember the lorikeets in the tree, but that happened earlier. The story follows a time order, and the special moment with the baby lorikeet comes after the drawing."
+    },
+    {
+      "id": "oc-y2-reading-t5-q10",
+      "question": "Why did the author write this story?",
+      "options": [
+        "To teach readers facts about rainbow lorikeets",
+        "To show that being patient and gentle with nature can be rewarding",
+        "To explain why people should have picnics in parks",
+        "To warn readers that birds can be dangerous"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story shows that Lily's patience and gentleness — sitting still, whispering, laughing quietly — are rewarded when a baby lorikeet comes close to her. The message is about respecting nature.\n\nOption A is incorrect because the story is fiction, not an information text. It does not give facts about where lorikeets live or what they eat.\n\nCommon mistake: Students might choose A because they learn a little about lorikeets from the story, but the author's main purpose is to tell an enjoyable story about connecting with nature through patience."
+    }
+  ]
+}

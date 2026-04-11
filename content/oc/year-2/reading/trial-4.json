@@ -1,0 +1,156 @@
+{
+  "testMeta": {
+    "subject": "reading",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 4,
+    "questionCount": 10
+  },
+  "passage": {
+    "title": "Bella the Bush Possum",
+    "text": "Bella was a little brushtail possum who lived in a big gum tree in the backyard of a house in Sydney. Every night, when the moon came out, Bella would climb down from her hollow and look for food.\n\nShe liked to eat flowers and fruit. Her favourite treat was the juicy mangoes that grew on the tree next door. Sometimes she would find bread left out on the back step.\n\nOne night, Bella heard a strange noise. It was a tiny cry coming from the bushes below. She climbed down slowly and found a baby possum all alone. It was shaking and scared.\n\n\"Where is your mum?\" Bella asked softly.\n\nThe baby possum just blinked its big round eyes and said nothing.\n\nBella knew she had to help. She carried the baby on her back, just like mother possums do. She climbed up to her warm hollow in the gum tree.\n\nBella shared her food and kept the baby warm all night. In the morning, they heard a loud call from across the fence. It was the baby's mother, looking everywhere for her little one.\n\nBella carefully carried the baby down the tree and across the yard. The mother possum was so happy. She nuzzled the baby and looked at Bella with kind eyes.\n\nFrom that night on, the two possum families were the best of friends. They would share mangoes under the stars and play in the branches together.",
+    "type": "fiction"
+  },
+  "questions": [
+    {
+      "id": "oc-y2-reading-t4-q01",
+      "question": "What is this story mainly about?",
+      "options": [
+        "How possums find food at night",
+        "A possum who helps a lost baby possum",
+        "Why possums live in gum trees",
+        "A family who feeds possums bread"
+      ],
+      "answer": 1,
+      "topic": "main-idea",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story is about Bella finding a lost baby possum, caring for it, and returning it to its mother. This is the main event of the whole story.\n\nOption A is incorrect because although the story mentions Bella looking for food, that is only a small detail at the start, not the main idea.\n\nCommon mistake: Students might choose A because the beginning talks about food, but the main part of the story is about helping the baby possum."
+    },
+    {
+      "id": "oc-y2-reading-t4-q02",
+      "question": "Where does Bella live?",
+      "options": [
+        "In a nest on the ground",
+        "In a hollow in a gum tree",
+        "Under the back step of a house",
+        "In a bush near the fence"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says Bella 'lived in a big gum tree' and mentions 'her hollow in the gum tree.'\n\nOption C is incorrect because the back step is where bread is sometimes left, not where Bella lives.\n\nCommon mistake: Students might choose D because the baby possum was found in the bushes, but that is where the baby was, not where Bella lives."
+    },
+    {
+      "id": "oc-y2-reading-t4-q03",
+      "question": "What does Bella find in the bushes?",
+      "options": [
+        "A piece of fruit",
+        "A scared baby possum",
+        "A bird with a broken wing",
+        "Some old bread"
+      ],
+      "answer": 1,
+      "topic": "literal-comprehension",
+      "difficulty": "easy",
+      "workedSolution": "The correct answer is B because the story says Bella 'found a baby possum all alone. It was shaking and scared.'\n\nOption A is incorrect because although Bella eats fruit, she does not find fruit in the bushes in this part of the story.\n\nCommon mistake: Students might confuse earlier details about food with what Bella finds in the bushes, but the story clearly says it was a baby possum."
+    },
+    {
+      "id": "oc-y2-reading-t4-q04",
+      "question": "What does the word 'nuzzled' most likely mean?",
+      "options": [
+        "Pushed away roughly",
+        "Gently rubbed noses or touched softly",
+        "Made a loud sound",
+        "Ran away quickly"
+      ],
+      "answer": 1,
+      "topic": "vocabulary",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the mother possum 'nuzzled the baby' after being reunited. This happens in a happy moment, so nuzzled must mean a gentle, loving action like softly rubbing noses.\n\nOption A is incorrect because the mother was happy to find her baby, so she would not push it away roughly.\n\nCommon mistake: Students who do not know the word 'nuzzled' might guess, but the clue is that the mother was happy and showing love to her baby."
+    },
+    {
+      "id": "oc-y2-reading-t4-q05",
+      "question": "Why did Bella carry the baby possum on her back?",
+      "options": [
+        "Because baby possums cannot walk",
+        "Because she wanted to take it home and keep it",
+        "Because that is how mother possums carry their babies and she wanted to help",
+        "Because it was raining and the baby needed to stay dry"
+      ],
+      "answer": 2,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because the story says Bella 'carried the baby on her back, just like mother possums do.' She was helping the baby get to safety by using the same method mother possums use.\n\nOption B is incorrect because Bella did not keep the baby — she returned it to its mother the next morning.\n\nCommon mistake: Students might choose B because Bella took the baby to her hollow, but she only kept it safe until the mother was found."
+    },
+    {
+      "id": "oc-y2-reading-t4-q06",
+      "question": "How do you think the mother possum felt when she found her baby?",
+      "options": [
+        "Angry at Bella for taking her baby",
+        "Very happy and thankful",
+        "Tired from searching",
+        "Sad because the baby was hurt"
+      ],
+      "answer": 1,
+      "topic": "inference",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is B because the story says 'The mother possum was so happy. She nuzzled the baby and looked at Bella with kind eyes.' The words 'so happy' and 'kind eyes' show gratitude.\n\nOption A is incorrect because the mother looked at Bella with 'kind eyes,' which shows she was grateful, not angry.\n\nCommon mistake: Students might think the mother would be angry because Bella had her baby, but the story clearly shows the mother was happy and kind."
+    },
+    {
+      "id": "oc-y2-reading-t4-q07",
+      "question": "What kind of character is Bella?",
+      "options": [
+        "She is selfish and does not share",
+        "She is brave and scared of nothing",
+        "She is kind and caring",
+        "She is funny and likes to play tricks"
+      ],
+      "answer": 2,
+      "topic": "character-analysis",
+      "difficulty": "medium",
+      "workedSolution": "The correct answer is C because Bella helps the lost baby possum, shares her food, keeps it warm, and returns it to its mother. All of these actions show she is kind and caring.\n\nOption B is incorrect because although Bella does a brave thing, the story focuses more on her kindness than on bravery.\n\nCommon mistake: Students might choose B because helping a lost baby could seem brave, but the story emphasises Bella's caring nature — sharing food, keeping the baby warm."
+    },
+    {
+      "id": "oc-y2-reading-t4-q08",
+      "question": "What happened because Bella helped the baby possum?",
+      "options": [
+        "Bella moved to a new tree",
+        "The two possum families became best friends",
+        "The baby possum stayed with Bella forever",
+        "The people in the house gave them more bread"
+      ],
+      "answer": 1,
+      "topic": "cause-effect",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story ends by saying 'the two possum families were the best of friends. They would share mangoes under the stars and play in the branches together.' This friendship happened because Bella helped the baby.\n\nOption C is incorrect because the baby went back to its own mother.\n\nCommon mistake: Students might choose C because Bella cared for the baby, but the story clearly states the baby was returned to its mother and the families became friends."
+    },
+    {
+      "id": "oc-y2-reading-t4-q09",
+      "question": "The story says Bella 'climbed down slowly' to the bushes. Why did she move slowly?",
+      "options": [
+        "Because she was tired from eating too much",
+        "Because it was dark and she was being careful about the strange noise",
+        "Because the tree was very tall",
+        "Because she did not want to go outside"
+      ],
+      "answer": 1,
+      "topic": "text-structure",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the story says Bella heard 'a strange noise' and then 'climbed down slowly.' The word 'slowly' shows she was being cautious because she did not know what was making the noise.\n\nOption A is incorrect because there is no mention of Bella being tired or eating too much at this point.\n\nCommon mistake: Students might choose C because the tree is described as big, but the reason for moving slowly is connected to the strange noise she heard, not the height of the tree."
+    },
+    {
+      "id": "oc-y2-reading-t4-q10",
+      "question": "Why did the author write this story?",
+      "options": [
+        "To teach us facts about brushtail possums",
+        "To show that helping others can lead to wonderful friendships",
+        "To explain why possums come out at night",
+        "To warn people not to leave food outside"
+      ],
+      "answer": 1,
+      "topic": "authors-purpose",
+      "difficulty": "hard",
+      "workedSolution": "The correct answer is B because the whole story shows Bella helping a baby possum in need, and as a result, the two families become best friends. The message is that kindness and helping others leads to good things.\n\nOption A is incorrect because although some facts about possums are included (like eating fruit and being nocturnal), the story is fiction with a message about friendship, not an information text.\n\nCommon mistake: Students might choose A because they learn some things about possums, but the main purpose is to tell a story about the value of helping others."
+    }
+  ]
+}

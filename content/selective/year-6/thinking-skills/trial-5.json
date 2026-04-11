@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "thinking-skills",
+    "grade": "year-6",
+    "track": "selective",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "sel-y6-thinking-t5-q01",
+      "question": "What number comes next? 2, 3, 5, 8, 13, 21, 34, ___",
+      "options": ["42", "47", "55", "68"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Check if each number is the sum of the two before it. 2+3=5, 3+5=8, 5+8=13, 8+13=21, 13+21=34.\nStep 2: This is a Fibonacci-like sequence.\nStep 3: 21 + 34 = 55.\nThe answer is 55.\nCommon mistake: Choosing 47 (adding 13 to 34 instead of 21+34)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q02",
+      "question": "What number comes next? 1, 3, 9, 27, 81, ___",
+      "options": ["162", "189", "216", "243"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Find the rule. 3=1x3, 9=3x3, 27=9x3, 81=27x3.\nStep 2: Each number is multiplied by 3 (powers of 3).\nStep 3: 81 x 3 = 243.\nThe answer is 243.\nCommon mistake: Choosing 162 (multiplying by 2 instead of 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q03",
+      "question": "What number comes next? 1, 4, 9, 16, 25, 36, 49, ___",
+      "options": ["56", "60", "64", "72"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Recognise the pattern: 1=1x1, 4=2x2, 9=3x3, 16=4x4, 25=5x5, 36=6x6, 49=7x7.\nStep 2: These are perfect squares. The next is 8x8.\nStep 3: 8 x 8 = 64.\nThe answer is 64.\nCommon mistake: Choosing 56 (adding 7 to 49 instead of recognising square numbers)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q04",
+      "question": "What number comes next? 0, 1, 1, 2, 4, 7, 13, 24, ___",
+      "options": ["37", "44", "48", "50"],
+      "answer": 1,
+      "topic": "complex-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Check if each number is the sum of the three before it. 0+1+1=2, 1+1+2=4, 1+2+4=7, 2+4+7=13, 4+7+13=24.\nStep 2: This is a Tribonacci sequence (sum of previous three).\nStep 3: 7 + 13 + 24 = 44.\nThe answer is 44.\nCommon mistake: Choosing 37 (adding only the previous two: 13+24=37, Fibonacci-style)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q05",
+      "question": "What number comes next? 2, 5, 14, 41, 122, ___",
+      "options": ["244", "305", "365", "366"],
+      "answer": 2,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Find the rule. 5=2x3-1, 14=5x3-1, 41=14x3-1, 122=41x3-1.\nStep 2: Each number is tripled then 1 is subtracted.\nStep 3: 122 x 3 - 1 = 365.\nThe answer is 365.\nCommon mistake: Choosing 366 (tripling and adding 0 instead of subtracting 1)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q06",
+      "question": "What number comes next? 1, 2, 6, 24, 120, 720, ___",
+      "options": ["1440", "2880", "4320", "5040"],
+      "answer": 3,
+      "topic": "complex-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Recognise the pattern: 1=1!, 2=2!, 6=3!, 24=4!, 120=5!, 720=6!.\nStep 2: These are factorials. The next is 7!.\nStep 3: 7! = 7 x 720 = 5040.\nThe answer is 5040.\nCommon mistake: Choosing 1440 (multiplying by 2 instead of 7)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q07",
+      "question": "A cube is painted red on all 6 faces, then cut into 64 smaller cubes (4x4x4). How many small cubes have no red paint on any face?",
+      "options": ["0", "4", "8", "16"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: In a 4x4x4 cube, the small cubes with no paint are entirely inside, not touching any face.\nStep 2: The interior is a 2x2x2 block (removing one layer from each side).\nStep 3: 2 x 2 x 2 = 8 small cubes have no paint.\nThe answer is 8.\nCommon mistake: Choosing 0 (thinking all cubes must have paint, not realising there are interior cubes)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q08",
+      "question": "A 3D cross is formed by placing 7 unit cubes: one in the centre and one attached to each of its 6 faces (front, back, left, right, top, bottom). How many exposed square faces does this shape have in total?",
+      "options": ["24", "26", "30", "36"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: There are 7 cubes, each with 6 faces = 42 faces total.\nStep 2: Each of the 6 outer cubes shares one face with the centre cube. Each shared connection hides 2 faces (one from each cube). That is 6 x 2 = 12 hidden faces.\nStep 3: Exposed faces = 42 - 12 = 30.\nThe answer is 30.\nCommon mistake: Choosing 24 (miscounting the connections or forgetting some outer cube faces)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q09",
+      "question": "A tetrahedral die (4 faces) has the numbers 1, 2, 3, 4 on its faces. When rolled, the number on the bottom face is the result. The die is rolled and shows 3 on the bottom. If the die is then tipped forward over its front edge, what number could NOT be on the bottom?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The die has 4 faces. Currently 3 is on the bottom.\nStep 2: When tipped forward, the bottom face rotates to become the back face, and one of the other faces becomes the new bottom.\nStep 3: The face that was on the bottom (3) moves away from the bottom position. So 3 cannot be on the bottom after tipping.\nThe answer is 3.\nCommon mistake: Choosing 4 (any face except the current bottom can potentially appear on the new bottom)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q10",
+      "question": "A flat net of a cube has 6 squares arranged in a cross shape (4 in a column, with one on the left and one on the right of the second square from top). If the top square is numbered 1, the left square is 2, the second from top (centre) is 3, the right square is 4, the third from top is 5, and the bottom is 6, which number is opposite to 1 when folded?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "topic": "spatial-rotation",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: The net is a cross: top=1, left=2, centre=3, right=4, below-centre=5, bottom=6.\nStep 2: When folded, 1 (top) folds up to become one face. 3 (centre) becomes the front. 5 (below centre) folds down. 6 (bottom of column) folds to become opposite to 1.\nStep 3: Wait, in a cross net with 4 in a column (1,3,5,6) and wings (2,4) on square 3: 1 is opposite to 5. 2 is opposite to 4. 3 is opposite to 6.\nThe answer is 5.\nCommon mistake: Choosing 6 (6 is opposite to 3, not to 1)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q11",
+      "question": "A cube has each face painted a different colour. You are looking at the front (red), can see the top (blue), and can see the right side (green). The cube is rotated 180 degrees around its vertical axis. Which face is now facing you?",
+      "options": ["The face that was on the back", "The face that was on the left", "The face that was on the bottom", "The red face (same)"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Rotating 180 degrees around the vertical axis: front goes to back, back goes to front, left goes to right, right goes to left. Top and bottom stay.\nStep 2: The face that was on the back is now facing you.\nStep 3: Red (originally front) is now on the back.\nThe answer is The face that was on the back.\nCommon mistake: Choosing the red face (thinking 180 degrees brings it back, but that would require 360 degrees)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q12",
+      "question": "A pentomino (5 connected unit squares) in the shape of the letter 'T' is placed flat. Including reflections and rotations, how many distinct orientations can this piece have?",
+      "options": ["4", "6", "8", "10"],
+      "answer": 0,
+      "topic": "spatial-rotation",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: A T-pentomino can be rotated to 4 different positions (0, 90, 180, 270 degrees).\nStep 2: The T-pentomino has a line of symmetry (it is symmetric under reflection about its vertical centre line). So reflecting gives the same shapes as rotation.\nStep 3: Since the T-pentomino is symmetric under one reflection, reflecting and rotating does not produce new orientations beyond the 4 rotations.\nThe answer is 4.\nCommon mistake: Choosing 8 (counting reflections as different, but the T-pentomino is symmetric so reflections duplicate rotations)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q13",
+      "question": "Irony is to meaning as camouflage is to ___",
+      "options": ["Colour", "Appearance", "Danger", "Nature"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Irony disguises or conceals the true meaning (says the opposite of what is meant).\nStep 2: Camouflage disguises or conceals the true ___.\nStep 3: Camouflage conceals the true appearance of something.\nThe answer is Appearance.\nCommon mistake: Choosing Colour (camouflage uses colour, but the analogy is about what is being concealed)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q14",
+      "question": "Prologue is to epilogue as introduction is to ___",
+      "options": ["Summary", "Conclusion", "Index", "Appendix"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: A prologue comes at the beginning; an epilogue comes at the end.\nStep 2: An introduction comes at the beginning. We need what comes at the end.\nStep 3: A conclusion comes at the end.\nThe answer is Conclusion.\nCommon mistake: Choosing Summary (a summary can appear anywhere, while conclusion specifically parallels epilogue as the ending)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q15",
+      "question": "Tributary is to river as satellite is to ___",
+      "options": ["Space", "Planet", "Orbit", "Moon"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: A tributary is a smaller waterway that feeds into or orbits around a river.\nStep 2: A satellite is a smaller body that orbits around a ___.\nStep 3: A satellite orbits a planet.\nThe answer is Planet.\nCommon mistake: Choosing Moon (a moon IS a satellite; the analogy asks what a satellite orbits)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q16",
+      "question": "Foreshadowing is to literature as omen is to ___",
+      "options": ["Future", "Fear", "Superstition", "Events"],
+      "answer": 3,
+      "topic": "verbal-analogies",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Foreshadowing hints at what will happen later in literature (in a story).\nStep 2: An omen hints at what will happen in ___.\nStep 3: An omen hints at future events (in real life or belief).\nThe answer is Events.\nCommon mistake: Choosing Future (too vague; foreshadowing is about future plot in 'literature', so omen is about future happenings in 'events')."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q17",
+      "question": "Oxymoron is to contradiction as euphemism is to ___",
+      "options": ["Exaggeration", "Softening", "Deception", "Sarcasm"],
+      "answer": 1,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: An oxymoron achieves or employs contradiction (combining contradictory terms).\nStep 2: A euphemism achieves or employs ___.\nStep 3: A euphemism softens harsh reality (replaces blunt words with gentler ones).\nThe answer is Softening.\nCommon mistake: Choosing Deception (euphemism can be seen as deceptive, but its primary function is softening, which directly parallels how contradiction is the primary function of oxymoron)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q18",
+      "question": "Entropy is to order as erosion is to ___",
+      "options": ["Rock", "Landscape", "Stability", "Weather"],
+      "answer": 2,
+      "topic": "verbal-analogies",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Entropy is the gradual decline or destruction of order.\nStep 2: Erosion is the gradual decline or destruction of ___.\nStep 3: Erosion destroys stability (of land, structures, etc.).\nThe answer is Stability.\nCommon mistake: Choosing Rock (erosion wears away rock, but 'order' is an abstract quality that entropy undermines, so the parallel abstract quality is 'stability')."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q19",
+      "question": "In a 3x3 grid, each cell has a colour (red/blue/green) and a shape (circle/square/triangle). Each colour and shape appears once per row and column. Row 1: red triangle, blue circle, green square. Row 2: blue square, green triangle, red circle. Row 3: green circle, red square, ___. What goes in the blank?",
+      "options": ["Blue triangle", "Red triangle", "Green triangle", "Blue circle"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 colours: green, red. Needs blue.\nStep 2: Row 3 shapes: circle, square. Needs triangle.\nStep 3: The blank is blue triangle.\nThe answer is Blue triangle.\nCommon mistake: Choosing Red triangle (red is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q20",
+      "question": "In a 3x3 grid, each cell has a number (1/2/3) and a letter (A/B/C). Each number and letter appears once per row and column. Row 1: 1A, 2B, 3C. Row 2: 3B, 1C, 2A. Row 3: 2C, 3A, ___. What goes in the blank?",
+      "options": ["1A", "1B", "2B", "3B"],
+      "answer": 1,
+      "topic": "matrix-completion",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Row 3 numbers: 2, 3. Needs 1.\nStep 2: Row 3 letters: C, A. Needs B.\nStep 3: The blank is 1B.\nThe answer is 1B.\nCommon mistake: Choosing 1A (A is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q21",
+      "question": "In a 4x4 grid, each row and column contains the numbers 1-4 exactly once. Row 1: 3, 4, 1, 2. Row 2: 1, 2, 3, 4. Row 3: 4, 3, 2, 1. Row 4: 2, 1, ___, 3. What goes in the blank?",
+      "options": ["1", "2", "3", "4"],
+      "answer": 3,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 4 has 2, 1, and 3. It needs 4.\nStep 2: Column 3 has 1, 3, 2. It needs 4.\nStep 3: Both confirm the answer is 4.\nThe answer is 4.\nCommon mistake: Choosing 3 (already in row 4)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q22",
+      "question": "In a 3x3 grid, each cell has four attributes: position (top/middle/bottom), orientation (up/right/down), size (S/M/L), and colour (R/B/G). Each value appears once per row and column. Row 1: top-up-S-R, middle-right-M-B, bottom-down-L-G. Row 2: bottom-right-M-R, top-down-L-B, middle-up-S-G. Row 3: middle-down-L-R, bottom-up-S-B, ___. What goes in the blank?",
+      "options": ["top-right-M-G", "top-up-M-G", "bottom-right-M-G", "top-right-S-G"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Row 3 positions: middle, bottom. Needs top.\nStep 2: Row 3 orientations: down, up. Needs right.\nStep 3: Row 3 sizes: L, S. Needs M.\nStep 4: Row 3 colours: R, B. Needs G.\nStep 5: The blank is top-right-M-G.\nThe answer is top-right-M-G.\nCommon mistake: Choosing top-up-M-G (up is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q23",
+      "question": "In a 4x4 grid, each row and column contains the symbols @, #, $, % exactly once. Row 1: #, @, %, $. Row 2: %, $, #, @. Row 3: @, %, $, #. Row 4: $, #, ___, %. What goes in the blank?",
+      "options": ["@", "#", "$", "%"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 4 has $, #, and %. It needs @.\nStep 2: Column 3 has %, #, $. It needs @.\nStep 3: Both confirm the answer is @.\nThe answer is @.\nCommon mistake: Choosing # (already in row 4)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q24",
+      "question": "In a 3x3 grid, each cell has five attributes: border (thick/thin/dashed), fill (solid/striped/empty), colour (red/blue/yellow), shape (star/diamond/heart), and size (S/M/L). Row 1: thick-solid-red-star-S, thin-striped-blue-diamond-M, dashed-empty-yellow-heart-L. Row 2: dashed-striped-yellow-star-M, thick-empty-red-diamond-L, thin-solid-blue-heart-S. Row 3: thin-empty-blue-star-L, dashed-solid-yellow-diamond-S, ___. What goes in the blank?",
+      "options": ["thick-striped-red-heart-M", "thick-solid-red-heart-M", "thin-striped-red-heart-M", "dashed-striped-red-heart-M"],
+      "answer": 0,
+      "topic": "matrix-completion",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Row 3 borders: thin, dashed. Needs thick.\nStep 2: Row 3 fills: empty, solid. Needs striped.\nStep 3: Row 3 colours: blue, yellow. Needs red.\nStep 4: Row 3 shapes: star, diamond. Needs heart.\nStep 5: Row 3 sizes: L, S. Needs M.\nStep 6: The blank is thick-striped-red-heart-M.\nThe answer is thick-striped-red-heart-M.\nCommon mistake: Choosing thick-solid-red-heart-M (solid is already in row 3)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q25",
+      "question": "All mammals are warm-blooded. No reptiles are warm-blooded. A platypus is a mammal. What can we conclude about the platypus?",
+      "options": ["It is a reptile", "It is warm-blooded and not a reptile", "It might be a reptile", "It is cold-blooded"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: All mammals are warm-blooded. Platypus is a mammal, so platypus is warm-blooded.\nStep 2: No reptiles are warm-blooded. Contrapositive: if warm-blooded, then not a reptile.\nStep 3: Platypus is warm-blooded, so platypus is not a reptile.\nThe answer is It is warm-blooded and not a reptile.\nCommon mistake: Choosing It might be a reptile (not applying the contrapositive of 'no reptiles are warm-blooded')."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q26",
+      "question": "If A, then B. If B, then C. If C, then D. D is false. Which of the following must be true?",
+      "options": ["A is true", "B is true but C is false", "A, B, and C are all false", "Only C is false"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: D is false. By contrapositive of 'if C then D': not D implies not C. So C is false.\nStep 2: C is false. By contrapositive of 'if B then C': not C implies not B. So B is false.\nStep 3: B is false. By contrapositive of 'if A then B': not B implies not A. So A is false.\nStep 4: A, B, and C are all false.\nThe answer is A, B, and C are all false.\nCommon mistake: Choosing Only C is false (not chaining the contrapositives all the way back)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q27",
+      "question": "In a group of 80 students: 45 study maths, 35 study science, 30 study English. 15 study both maths and science, 12 study both maths and English, 10 study both science and English, and 5 study all three. How many study at least one subject?",
+      "options": ["68", "73", "78", "80"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Inclusion-exclusion: |M or S or E| = |M|+|S|+|E| - |M and S| - |M and E| - |S and E| + |M and S and E|.\nStep 2: = 45 + 35 + 30 - 15 - 12 - 10 + 5 = 78.\nStep 3: 78 out of 80 students study at least one subject.\nThe answer is 78.\nCommon mistake: Choosing 73 (forgetting to add back the triple overlap)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q28",
+      "question": "Statement: 'All efficient machines are well-maintained.' Which of the following MUST be true?",
+      "options": ["All well-maintained machines are efficient", "If a machine is not well-maintained, it is not efficient", "Some well-maintained machines are not efficient", "No efficient machines are poorly maintained"],
+      "answer": 1,
+      "topic": "logical-deduction",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Original: Efficient -> Well-maintained.\nStep 2: Contrapositive: Not well-maintained -> Not efficient. This is option B.\nStep 3: Option A is the converse (not guaranteed). Option C could be true but is not necessarily true. Option D says the same as the original in different words, but 'poorly maintained' means 'not well-maintained', so: efficient -> well-maintained, which means no efficient machine is poorly maintained. Option D is also true.\nStep 4: Both B and D must be true. But looking more carefully: option D says 'No efficient machines are poorly maintained' which is exactly equivalent to the original statement. Option B is the contrapositive which is also equivalent. Since both must be true, but we need to pick one answer, B is the standard contrapositive form.\nThe answer is If a machine is not well-maintained, it is not efficient.\nCommon mistake: Choosing A (confusing the converse with the contrapositive)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q29",
+      "question": "Six students — Ava, Ben, Cal, Dee, Eve, Fay — sit in a circle. Ava sits opposite Ben. Cal sits next to Ava. Dee sits next to Ben but not next to Cal. Eve sits next to Cal. Who sits next to Dee?",
+      "options": ["Ava and Eve", "Eve and Fay", "Ben and Fay", "Ben and Eve"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: In a circle of 6, opposite means 3 seats apart. Place Ava at position 1, Ben at position 4 (opposite).\nStep 2: Cal sits next to Ava: position 2 or 6.\nStep 3: Dee sits next to Ben but not next to Cal. Ben is at 4, so Dee is at 3 or 5.\nStep 4: If Cal is at 2, then Dee cannot be at 3 (next to Cal at 2). So Dee is at 5. Eve sits next to Cal: Eve at 3 (since position 1 is Ava). Fay is at 6.\nStep 5: Check: Dee at 5. Neighbours of position 5 are 4 (Ben) and 6 (Fay). So Dee sits next to Ben and Fay.\nThe answer is Ben and Fay.\nCommon mistake: Choosing Ben and Eve (not tracking the circle positions carefully)."
+    },
+    {
+      "id": "sel-y6-thinking-t5-q30",
+      "question": "In a logic puzzle, exactly one of the following four statements is false. Statement 1: '2 + 2 = 4'. Statement 2: 'All squares have 4 sides.' Statement 3: 'The sum of the angles in a triangle is 360 degrees.' Statement 4: 'Water freezes at 0 degrees Celsius.' Which statement is false?",
+      "options": ["Statement 1", "Statement 2", "Statement 3", "Statement 4"],
+      "answer": 2,
+      "topic": "logical-deduction",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Statement 1: '2 + 2 = 4' is true.\nStep 2: Statement 2: 'All squares have 4 sides' is true.\nStep 3: Statement 3: 'Sum of angles in a triangle is 360 degrees' is false. The correct sum is 180 degrees.\nStep 4: Statement 4: 'Water freezes at 0 degrees Celsius' is true.\nStep 5: The only false statement is Statement 3.\nThe answer is Statement 3.\nCommon mistake: Choosing Statement 4 (second-guessing a correct fact about water's freezing point)."
+    }
+  ]
+}

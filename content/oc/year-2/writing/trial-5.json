@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-2",
+    "track": "oc",
+    "trial": 5
+  },
+  "prompt": {
+    "id": "oc-y2-writing-t5",
+    "type": "narrative",
+    "text": "Write a story about a day at school when something funny and unexpected happens during lunchtime. What happens? How do you and your friends react?",
+    "timeLimit": 15,
+    "wordGuide": "Aim for 100-150 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a creative and humorous scenario set during school lunchtime. The unexpected event is original and entertaining, and the characters' reactions add to the fun. Details make the reader feel like they are there.",
+      "satisfactory": "The story responds to the prompt with a recognisable funny event at lunchtime. Some humour is present but the event may be predictable or the reactions could be more detailed.",
+      "developing": "The story has limited connection to the prompt or the funny event is unclear. The scenario may lack humour or the reactions of the characters are not described."
+    },
+    "structure": {
+      "excellent": "The story has a clear beginning that sets the lunchtime scene, a middle where the unexpected event happens, and a satisfying ending that wraps up what happened. Events follow a logical and entertaining sequence.",
+      "satisfactory": "The story has a recognisable beginning, middle, and end, though transitions may be abrupt. The sequence mostly makes sense but the funny event may not be fully developed.",
+      "developing": "The story lacks a clear structure. It may start in the middle of the action or end suddenly without telling the reader what happened next."
+    },
+    "language": {
+      "excellent": "Uses lively and varied vocabulary that adds to the humour of the story. Sentences vary in length, and dialogue or exclamations bring the characters to life. Descriptive words help the reader picture the scene.",
+      "satisfactory": "Uses mostly simple but appropriate vocabulary. Sentences are mostly similar in length. Some attempts at humorous language but description of the funny event could be stronger.",
+      "developing": "Uses very basic or repetitive vocabulary. Sentences are short and follow the same pattern. The writing does not convey humour or excitement effectively."
+    },
+    "mechanics": {
+      "excellent": "Most words are spelt correctly, including common Year 2 words. Capital letters and full stops are used correctly in nearly all sentences. Speech marks are attempted if dialogue is used.",
+      "satisfactory": "Common words are mostly spelt correctly with some errors on harder words. Capital letters and full stops are used in most sentences. Writing is generally readable.",
+      "developing": "Frequent spelling errors on common words. Capital letters and full stops are often missing or misplaced. Writing may be difficult to read."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "It was a normal Tuesday lunchtime until something very funny happened. My friend Jake opened his lunchbox and a huge green frog jumped right out!\n\n\"Aaah!\" Jake screamed and dropped his sandwich. The frog landed on the table and started hopping everywhere. It jumped into Priya's yoghurt and splashed it all over her face.\n\n\"Gross!\" Priya yelled, but then she started laughing. Everyone at our table was laughing so hard. The frog hopped off the table and Mr Collins the teacher had to chase it across the playground.\n\nWe found out later that Jake's big brother had put the frog in his lunchbox as a prank. Jake said he was going to get him back tomorrow. We all couldn't stop talking about the lunchbox frog for the rest of the day.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 2. The story has a well-structured sequence of events with a clear setup, climax (the frog causing chaos), and resolution (discovering the prank). The vocabulary is lively with words like 'splashed' and 'screamed,' and the dialogue brings the characters to life. The use of exclamation marks and short sentences builds excitement effectively. The ending ties everything together naturally and the reveal about the brother's prank adds a satisfying twist that is age-appropriate and genuinely funny."
+    },
+    {
+      "level": "satisfactory",
+      "text": "At lunch time something funny happened. My friend dropped her lunch on the ground and a bird came and took her sandwich. She was very surprised.\n\nThe bird flew up to the roof with the sandwich. We all looked up at it. My friend was sad because she had no lunch now. But then our teacher gave her some food from the canteen.\n\nIt was funny because the bird was so fast. We all laughed about it. It was the funniest thing that happened at school.",
+      "annotations": "This response meets the satisfactory standard for Year 2. It addresses the prompt and has a recognisable beginning, middle, and end. The idea of a bird stealing a sandwich is relatable. However, the language is quite simple and the humour could be developed further — for example, describing how the bird swooped down or what the friend's face looked like. The sentences follow a similar pattern and the story would benefit from dialogue or more varied sentence openings. The ending tells us it was funny rather than showing us why."
+    }
+  ]
+}

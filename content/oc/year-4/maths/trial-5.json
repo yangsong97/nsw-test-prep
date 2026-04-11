@@ -1,0 +1,281 @@
+{
+  "testMeta": {
+    "subject": "maths",
+    "grade": "year-4",
+    "track": "oc",
+    "trial": 5,
+    "questionCount": 30
+  },
+  "questions": [
+    {
+      "id": "oc-y4-maths-t5-q01",
+      "question": "What is 523 + 268?",
+      "options": ["781", "791", "801", "891"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Ones: 3 + 8 = 11. Write 1, carry 1.\nStep 2: Tens: 2 + 6 + 1 = 9.\nStep 3: Hundreds: 5 + 2 = 7.\nStep 4: 523 + 268 = 791.\nCommon mistake: Choosing 781 (forgetting to carry) or 801 (tens digit error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q02",
+      "question": "What is 0.25 as a fraction in simplest form?",
+      "options": ["25/10", "1/4", "2/5", "1/25"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 0.25 = 25/100.\nStep 2: Simplify: 25 ÷ 25 = 1, 100 ÷ 25 = 4.\nStep 3: 0.25 = 1/4.\nCommon mistake: Choosing 2/5 (incorrect simplification) or 1/25 (using 25 as denominator)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q03",
+      "question": "Which fraction is NOT equivalent to 1/2?",
+      "options": ["2/4", "3/6", "4/9", "5/10"],
+      "answer": 2,
+      "topic": "equivalent-fractions",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 2/4 = 1/2. 3/6 = 1/2. 5/10 = 1/2.\nStep 2: 4/9 cannot be simplified to 1/2.\nCommon mistake: Choosing 3/6 (thinking it doesn't simplify to 1/2)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q04",
+      "question": "A rectangle has a length of 10 cm and a width of 6 cm. What is its perimeter?",
+      "options": ["16 cm", "32 cm", "60 cm", "64 cm"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width).\nStep 2: 2 × (10 + 6) = 2 × 16 = 32 cm.\nCommon mistake: Choosing 16 cm (adding once only) or 60 cm (finding area)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q05",
+      "question": "An angle that measures exactly 180° is called a:",
+      "options": ["Right angle", "Obtuse angle", "Straight angle", "Reflex angle"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Right = 90°. Obtuse = between 90° and 180°. Reflex = greater than 180°.\nStep 2: 180° is a straight angle (a straight line).\nCommon mistake: Choosing obtuse (must be less than 180°) or reflex (must be more than 180°)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q06",
+      "question": "What is the rule for this pattern? 2, 6, 18, 54, ___",
+      "options": ["Add 4", "Add 12", "Multiply by 3", "Multiply by 4"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 6 ÷ 2 = 3. 18 ÷ 6 = 3. 54 ÷ 18 = 3.\nStep 2: Each number is multiplied by 3.\nCommon mistake: Choosing 'Add 4' (only 2 + 4 = 6 works) or 'Multiply by 4' (2 × 4 = 8, not 6)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q07",
+      "question": "A table shows exam results: English 78, Maths 85, Science 72, History 80. What is the range of the scores?",
+      "options": ["7", "10", "13", "15"],
+      "answer": 2,
+      "topic": "data-graphs",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Highest = 85 (Maths). Lowest = 72 (Science).\nStep 2: Range = 85 − 72 = 13.\nCommon mistake: Choosing 7 (85 − 78) or 10 (80 − 70, rounding)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q08",
+      "question": "What is 900 − 467?",
+      "options": ["433", "443", "533", "543"],
+      "answer": 0,
+      "topic": "multi-digit-operations",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: 900 − 467.\nStep 2: 900 − 500 = 400. Then add back 33: 400 + 33 = 433.\nCommon mistake: Choosing 443 (borrowing error) or 533 (subtracting 367 instead)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q09",
+      "question": "What is 1.5 + 0.8?",
+      "options": ["1.3", "1.13", "2.3", "2.13"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Tenths: 5 + 8 = 13. Write 3, carry 1.\nStep 2: Ones: 1 + 0 + 1 = 2.\nStep 3: 1.5 + 0.8 = 2.3.\nCommon mistake: Choosing 1.13 (not carrying) or 2.13 (place value error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q10",
+      "question": "A square has an area of 49 cm². What is the length of one side?",
+      "options": ["6 cm", "7 cm", "8 cm", "12.25 cm"],
+      "answer": 1,
+      "topic": "area-perimeter",
+      "difficulty": "easy",
+      "workedSolution": "Step 1: Area of a square = side × side.\nStep 2: side × side = 49.\nStep 3: 7 × 7 = 49, so side = 7 cm.\nCommon mistake: Choosing 12.25 cm (49 ÷ 4) or 6 cm (guessing)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q11",
+      "question": "What is 48 × 35?",
+      "options": ["1580", "1680", "1780", "1880"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 48 × 30 = 1440.\nStep 2: 48 × 5 = 240.\nStep 3: 1440 + 240 = 1680.\nCommon mistake: Choosing 1580 (48 × 5 = 200 error) or 1780 (48 × 30 error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q12",
+      "question": "Round 3.67 to one decimal place.",
+      "options": ["3.6", "3.7", "4.0", "3.60"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Look at the hundredths digit: 7.\nStep 2: 7 ≥ 5, so round up the tenths.\nStep 3: 3.67 rounds to 3.7.\nCommon mistake: Choosing 3.6 (rounding down instead of up) or 4.0 (rounding to whole number)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q13",
+      "question": "How many eighths make a whole?",
+      "options": ["4", "6", "8", "16"],
+      "answer": 2,
+      "topic": "equivalent-fractions",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 1 whole = 8/8.\nStep 2: So 8 eighths make a whole.\nCommon mistake: Choosing 4 (confusing with quarters) or 16 (doubling)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q14",
+      "question": "A field is 50 m long and 25 m wide. What is its area in square metres?",
+      "options": ["75 m²", "150 m²", "1250 m²", "1500 m²"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Area = length × width = 50 × 25.\nStep 2: 50 × 25 = 1250 m².\nCommon mistake: Choosing 150 m² (perimeter: 2 × 75) or 75 m² (50 + 25)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q15",
+      "question": "What is the size of each angle in an equilateral triangle?",
+      "options": ["45°", "60°", "90°", "120°"],
+      "answer": 1,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: An equilateral triangle has 3 equal angles.\nStep 2: Sum of angles in a triangle = 180°.\nStep 3: Each angle = 180° ÷ 3 = 60°.\nCommon mistake: Choosing 90° (confusing with right angle) or 45° (half of 90°)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q16",
+      "question": "What is the 10th term of the sequence: 4, 7, 10, 13, ...?",
+      "options": ["28", "31", "34", "37"],
+      "answer": 1,
+      "topic": "number-patterns",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Common difference = 3.\nStep 2: Term n = 4 + (n − 1) × 3.\nStep 3: Term 10 = 4 + 9 × 3 = 4 + 27 = 31.\nCommon mistake: Choosing 34 (adding 3 × 10 = 30) or 28 (miscounting terms)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q17",
+      "question": "A dot plot shows the number of siblings students have: 0 siblings (5 students), 1 sibling (8), 2 siblings (6), 3 siblings (1). What is the most common number of siblings?",
+      "options": ["0", "1", "2", "3"],
+      "answer": 1,
+      "topic": "data-graphs",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 0 siblings: 5, 1 sibling: 8, 2 siblings: 6, 3 siblings: 1.\nStep 2: The highest count is 8 students with 1 sibling.\nStep 3: The mode (most common) is 1 sibling.\nCommon mistake: Choosing 3 (the largest number of siblings, not the most common)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q18",
+      "question": "What is 4.2 − 1.85?",
+      "options": ["2.25", "2.35", "2.45", "3.35"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Rewrite as 4.20 − 1.85.\nStep 2: Hundredths: 0 − 5. Borrow: 10 − 5 = 5.\nStep 3: Tenths: 1 − 8. Borrow: 11 − 8 = 3.\nStep 4: Ones: 3 − 1 = 2.\nStep 5: 4.20 − 1.85 = 2.35.\nCommon mistake: Choosing 2.45 (borrowing error) or 2.25 (tenths subtraction error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q19",
+      "question": "An angle measures 250°. What type of angle is it?",
+      "options": ["Acute", "Obtuse", "Straight", "Reflex"],
+      "answer": 3,
+      "topic": "angles",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: Acute: 0°–90°. Obtuse: 90°–180°. Straight: 180°. Reflex: 180°–360°.\nStep 2: 250° is between 180° and 360°, so it is reflex.\nCommon mistake: Choosing obtuse (must be less than 180°)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q20",
+      "question": "What is 756 ÷ 9?",
+      "options": ["82", "84", "86", "88"],
+      "answer": 1,
+      "topic": "multi-digit-operations",
+      "difficulty": "medium",
+      "workedSolution": "Step 1: 9 × 80 = 720. 756 − 720 = 36. 36 ÷ 9 = 4.\nStep 2: 80 + 4 = 84.\nStep 3: Check: 84 × 9 = 756. Correct.\nCommon mistake: Choosing 82 (9 × 82 = 738) or 86 (9 × 86 = 774)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q21",
+      "question": "What is 3654 + 4789?",
+      "options": ["8343", "8433", "8443", "8543"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Ones: 4 + 9 = 13. Write 3, carry 1.\nStep 2: Tens: 5 + 8 + 1 = 14. Write 4, carry 1.\nStep 3: Hundreds: 6 + 7 + 1 = 14. Write 4, carry 1.\nStep 4: Thousands: 3 + 4 + 1 = 8.\nStep 5: 3654 + 4789 = 8443.\nCommon mistake: Choosing 8343 (not carrying from tens) or 8433 (hundreds digit error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q22",
+      "question": "What is 3.06 + 2.94?",
+      "options": ["5.00", "5.10", "6.00", "5.90"],
+      "answer": 2,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Hundredths: 6 + 4 = 10. Write 0, carry 1.\nStep 2: Tenths: 0 + 9 + 1 = 10. Write 0, carry 1.\nStep 3: Ones: 3 + 2 + 1 = 6.\nStep 4: 3.06 + 2.94 = 6.00.\nCommon mistake: Choosing 5.00 (not carrying from tenths) or 5.10 (carrying error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q23",
+      "question": "Sam ate 2/5 of a cake. What fraction is left?",
+      "options": ["1/5", "2/5", "3/5", "5/2"],
+      "answer": 2,
+      "topic": "equivalent-fractions",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Whole cake = 5/5.\nStep 2: Eaten = 2/5.\nStep 3: Left = 5/5 − 2/5 = 3/5.\nCommon mistake: Choosing 1/5 (subtracting numerator only) or 2/5 (the amount eaten, not left)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q24",
+      "question": "A path around a rectangular park is 400 m long. The park is 120 m long. How wide is the park?",
+      "options": ["40 m", "60 m", "80 m", "160 m"],
+      "answer": 2,
+      "topic": "area-perimeter",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Perimeter = 2 × (length + width). 400 = 2 × (120 + width).\nStep 2: 200 = 120 + width.\nStep 3: width = 200 − 120 = 80 m.\nCommon mistake: Choosing 160 m (400 − 120 × 2 = 160, forgetting to divide by 2) or 60 m (400 ÷ 2 − 120 done wrong)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q25",
+      "question": "Two angles on a straight line add up to 180°. One angle is 72°. What is the other?",
+      "options": ["98°", "102°", "108°", "118°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Angles on a straight line sum to 180°.\nStep 2: Other angle = 180° − 72° = 108°.\nCommon mistake: Choosing 98° (subtracting from 170°) or 118° (subtracting from 190°)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q26",
+      "question": "The pattern is: 5, 8, 14, 23, 35, ___. What comes next?",
+      "options": ["47", "48", "50", "53"],
+      "answer": 2,
+      "topic": "number-patterns",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Differences: 8−5=3, 14−8=6, 23−14=9, 35−23=12.\nStep 2: The differences increase by 3 each time: 3, 6, 9, 12, 15.\nStep 3: Next: 35 + 15 = 50.\nCommon mistake: Choosing 47 (adding 12 again) or 53 (adding 18)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q27",
+      "question": "In a survey of 40 students, the data shows: Pizza 15, Pasta 10, Salad 8, Burger 7. What fraction of students chose pizza?",
+      "options": ["15/40", "3/8", "1/4", "15/25"],
+      "answer": 1,
+      "topic": "data-graphs",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Pizza = 15 out of 40 students.\nStep 2: 15/40 = 3/8 (divide both by 5).\nCommon mistake: Choosing 1/4 (10/40, wrong category) or 15/25 (wrong total)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q28",
+      "question": "What is 8.1 − 3.47?",
+      "options": ["4.53", "4.63", "4.73", "5.63"],
+      "answer": 1,
+      "topic": "decimals",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Rewrite as 8.10 − 3.47.\nStep 2: Hundredths: 0 − 7. Borrow: 10 − 7 = 3.\nStep 3: Tenths: 0 − 4. Borrow: 10 − 4 = 6.\nStep 4: Ones: 7 − 3 = 4.\nStep 5: 8.10 − 3.47 = 4.63.\nCommon mistake: Choosing 4.73 (borrowing error) or 5.63 (ones digit error)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q29",
+      "question": "The angles around a point add up to 360°. If three angles meeting at a point are 90°, 120°, and 85°, what is the fourth angle?",
+      "options": ["55°", "60°", "65°", "75°"],
+      "answer": 2,
+      "topic": "angles",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: Sum of three angles: 90° + 120° + 85° = 295°.\nStep 2: Fourth angle = 360° − 295° = 65°.\nCommon mistake: Choosing 75° (subtracting from 370°) or 55° (subtracting from 350°)."
+    },
+    {
+      "id": "oc-y4-maths-t5-q30",
+      "question": "What is 56 × 43?",
+      "options": ["2308", "2398", "2408", "2508"],
+      "answer": 2,
+      "topic": "multi-digit-operations",
+      "difficulty": "hard",
+      "workedSolution": "Step 1: 56 × 40 = 2240.\nStep 2: 56 × 3 = 168.\nStep 3: 2240 + 168 = 2408.\nCommon mistake: Choosing 2308 (56 × 40 = 2200 error) or 2398 (addition error)."
+    }
+  ]
+}

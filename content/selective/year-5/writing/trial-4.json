@@ -1,0 +1,49 @@
+{
+  "testMeta": {
+    "subject": "writing",
+    "grade": "year-5",
+    "track": "selective",
+    "trial": 4
+  },
+  "prompt": {
+    "id": "selective-y5-writing-t4",
+    "type": "narrative",
+    "text": "Write a story about a student who faces a difficult moral dilemma. Perhaps they witness a friend doing something wrong, or they must choose between doing what is easy and doing what is right. Explore the character's thoughts and feelings as they make their decision.",
+    "timeLimit": 25,
+    "wordGuide": "Aim for 250-350 words"
+  },
+  "rubric": {
+    "ideas": {
+      "excellent": "The story presents a compelling and realistic moral dilemma that is relevant to a student's life. The character's internal conflict is explored with depth and nuance, showing genuine understanding of the complexity of the situation. The decision and its consequences feel authentic and thought-provoking.",
+      "satisfactory": "The story presents a recognisable moral dilemma with some exploration of the character's thoughts and feelings. The internal conflict is present but may be resolved too quickly or simply. The situation is relevant but may lack complexity.",
+      "developing": "The moral dilemma is vague or underdeveloped. The character's thoughts and feelings are not explored, and the decision may seem arbitrary or unmotivated."
+    },
+    "structure": {
+      "excellent": "The story is well-paced with a clear exposition that establishes the situation, rising action that builds the tension of the dilemma, a climactic decision point, and a reflective resolution. Paragraphing is purposeful, with transitions that guide the reader through the character's journey.",
+      "satisfactory": "The story has a recognisable narrative structure with a beginning, middle, and end. The dilemma is introduced and resolved. Paragraphing is present but transitions between sections could be smoother.",
+      "developing": "The story lacks clear structure. The dilemma may be introduced too late or resolved too abruptly. Paragraphing is absent or ineffective."
+    },
+    "language": {
+      "excellent": "Uses sophisticated vocabulary to express complex emotions and internal thoughts. Figurative language such as metaphors and personification enriches the narrative. Sentence structure is varied, with short sentences for impact and longer sentences for reflection. Dialogue is used effectively to reveal character.",
+      "satisfactory": "Uses appropriate vocabulary with some attempts at expressing the character's emotions. Sentence structure has some variety. Dialogue may be present but does not always add depth to the characterisation.",
+      "developing": "Uses basic vocabulary that does not convey the emotional complexity of the dilemma. Sentences are repetitive in structure. Little or no dialogue or internal thought."
+    },
+    "mechanics": {
+      "excellent": "Spelling is accurate including sophisticated vocabulary. Punctuation is correct and varied, including commas, semicolons, ellipses, and speech marks. Tense and point of view are consistent throughout. Paragraphing enhances readability.",
+      "satisfactory": "Most words are spelt correctly. Basic punctuation is mostly accurate with some errors in more complex usage. Tense is mostly consistent with occasional slips. Paragraphing is present.",
+      "developing": "Frequent spelling errors. Punctuation is often missing or incorrect. Tense shifts are frequent. Paragraphing is absent or random."
+    }
+  },
+  "sampleResponses": [
+    {
+      "level": "excellent",
+      "text": "The maths test papers sat in a neat pile on Mrs Kapoor's desk, and Jaya's stomach churned like the ocean before a storm. In exactly three minutes, the bell would ring and Year 5 would file in for the hardest test of the term.\n\nJaya had stayed behind at lunch to finish her art project, and that was when she saw them — the test papers, completely unattended, answers printed on the last page. She hadn't meant to look, but her eyes had caught the first answer before she could stop herself. Question one: 347.\n\nNow she stood in the corridor, her heart thudding against her ribs. She could walk into that test and guarantee herself a perfect score. Her parents had been so disappointed with her last result. Her father's face flashed in her mind — the quiet sigh, the way he had said, \"I know you can do better, Jaya.\" Wouldn't a good mark make everyone happy?\n\nBut another voice pushed back, quieter but steady. You would know. Every time someone congratulated you, every time your parents smiled, you would know you didn't earn it.\n\nJaya closed her eyes and breathed. She thought about Priya, her best friend, who studied for hours every night and still struggled. It wouldn't be fair to Priya, or to anyone who had put in the work honestly.\n\nWhen the bell rang, Jaya walked into the classroom and sat down. She turned her test paper over and read question one. She didn't write 347. Instead, she worked through the problem step by step, her pencil scratching against the paper. She got it wrong — her answer was 328.\n\nBut when she handed in her paper, something warm settled in her chest. Not pride, exactly. Something better. The quiet knowledge that she could trust herself.\n\nThat evening, when her father asked how the test went, Jaya smiled. \"I think I did my best,\" she said. And she meant it.",
+      "annotations": "This response demonstrates excellent narrative writing for Year 5. The moral dilemma — whether to use accidentally glimpsed test answers — is realistic and deeply relatable for students. The internal conflict is explored with genuine emotional complexity, using techniques like the contrasting inner voices and the memory of the father's disappointment. The figurative language is effective ('stomach churned like the ocean before a storm') and the varied sentence structure creates pace and tension. The decision to get the answer wrong but feel right about it is a sophisticated narrative choice that avoids a simple happy ending. The story is well-paragraphed with purposeful transitions, and the final line delivers a powerful, understated conclusion."
+    },
+    {
+      "level": "satisfactory",
+      "text": "My friend Tom copied someone's homework and I saw him do it. He copied it from Sarah's book when she went to the bathroom. I didn't know what to do.\n\nI thought about telling the teacher but Tom is my best friend. If I told on him he would be really angry and might not want to be my friend anymore. But I also knew it was wrong to copy.\n\nAt recess I told Tom that I saw him copy the homework. He said it was no big deal and that everyone does it sometimes. I said I didn't think that was true and that he should do his own work.\n\nTom got upset and walked away. I felt bad but I also felt like I did the right thing. The next day Tom came up to me and said sorry. He said he would do his own homework from now on.\n\nI was glad I talked to him about it instead of just ignoring it. It was hard to do but I think being honest with your friends is important even when it's scary.",
+      "annotations": "This response meets the satisfactory standard for Year 5. It presents a clear moral dilemma about witnessing a friend copying homework, and the character does reflect on the difficulty of the situation. The resolution feels realistic. However, the internal conflict could be explored with more depth and emotional complexity — the character's feelings are stated ('I felt bad') rather than shown through imagery or physical sensations. The language is functional but lacks figurative language, varied sentence structure, or sophisticated vocabulary. The story reads more as a recount than a narrative, with limited use of literary techniques. Adding dialogue, sensory details, and a more nuanced exploration of the character's inner world would elevate this response."
+    }
+  ]
+}
